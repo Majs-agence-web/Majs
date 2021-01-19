@@ -725,7 +725,7 @@ section.lazy-placeholder:after {
   left: 50%;
   transform: translate(-50%) scaleX(-3) rotate(-12deg);
   filter: fliph;
-  animation: wave2 2s ease-in-out infinite;
+  animation: wave2 4s ease-in-out infinite;
 }
 @keyframes wave2 {
   from {
@@ -1403,7 +1403,7 @@ section.lazy-placeholder:after {
   left: 50%;
   transform: translate(-50%) scaleX(-3) rotate(-12deg);
   filter: fliph;
-  animation: wave2 2s ease-in-out infinite;
+  animation: wave2 4s ease-in-out infinite;
 }
 @keyframes wave2 {
   from {
