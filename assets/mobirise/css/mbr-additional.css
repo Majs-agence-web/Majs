@@ -4238,7 +4238,9 @@ section.lazy-placeholder:after {
 @media (max-width: 992px) {
   .cid-slvbIWGRx1 img {
     width: 100%;
-    margin-bottom: 2rem;
+    margin: auto;
+    padding-right: 0px;
+    float: none;
   }
 }
 .cid-smxKUwt1AU {
@@ -4270,6 +4272,8 @@ section.lazy-placeholder:after {
   .cid-smxKUwt1AU img {
     width: 100%;
     margin-bottom: 2rem;
+    float: none;
+    padding-left: 0px;
   }
 }
 .cid-smxSoq9vGp {
@@ -4301,6 +4305,8 @@ section.lazy-placeholder:after {
   .cid-smxSoq9vGp img {
     width: 100%;
     margin-bottom: 2rem;
+    padding-right: 0px;
+    float: none;
   }
 }
 .cid-smxWrX71Xx {
