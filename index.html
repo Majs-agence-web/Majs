@@ -170,7 +170,7 @@
                 </div> -->
                 <div class="container">
                     <div class="icon1"><img style=" display: block;margin: auto;
-  margin-right: auto;width:7em;" src="assets\images\image1.svg" alt=""></div>
+  margin-right: auto;width:7em;" src="file:///C:/Users/jemla/AppData/Local/Mobirise.com/Mobirise/projects/project-2021-01-13_092651/assets/images/dev-2.svg" alt=""></div>
       <div class="icon devIcon">
          <svg class="devElement1" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 512 512">    
             <path d="M0,15.845v420.259h164.332v30.049h-30.036v30.001h243.407v-30.001h-30.036v-30.049H512V15.845H0z M317.665,466.153
@@ -203,7 +203,7 @@
                 
   <div class="container">
        <div class="icon2"><img style=" display: block;margin: auto;
-  margin-right: auto;width:7em;" src="assets\images\image2.svg" alt=""></div>
+  margin-right: auto;width:7em;" src="file:///C:/Users/jemla/AppData/Local/Mobirise.com/Mobirise/projects/project-2021-01-13_092651/assets/images/design-2.svg" alt=""></div>
        <div class="icon designIcon ">
          <svg xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 512 512">    
             <path class="designElement1" d="m316 346c-5.519531 0-10 4.480469-10 10s4.480469 10 10 10 10-4.480469 10-10-4.480469-10-10-10zm0 0"></path>
@@ -246,7 +246,7 @@
                 
                    <div class="container">
                       <div class="icon3"><img style=" display: block;margin: auto;
-  margin-right: auto;width:7em;" src="assets\images\image3.svg" alt=""></div>
+  margin-right: auto;width:7em;" src="file:///C:/Users/jemla/AppData/Local/Mobirise.com/Mobirise/projects/project-2021-01-13_092651/assets/images/seo-2.svg" alt=""></div>
       <div class="icon refIcon ">
          <svg xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 512 512">    
             <path class="refElement1" d="m467 28.355h-422c-24.813 0-45 20.187-45 45v278.27c0 24.813 20.187 45 45 45h151.49v57.016h-22.587c-8.284 0-15 6.716-15 15s6.716 15 15 15h164.19c8.284 0 15-6.716 15-15s-6.716-15-15-15h-22.587v-57.016h151.49c24.813 0 45-20.187 45-45v-278.27c0-24.813-20.187-45-45-45zm-181.49 425.29h-59.012v-57.016h59.012v57.016zm196.49-102.02c0 8.271-6.729 15-15 15h-422c-8.271 0-15-6.729-15-15v-22.803h452v22.803zm0-52.803h-452v-225.47c0-8.271 6.729-15 15-15h422c8.271 0 15 6.729 15 15v225.47z"></path>
@@ -496,16 +496,23 @@
 	
 
 	
-
 	<div class="container">
 		
 		<div class="row row-content justify-content-center">
 			<div class="card p-3 col-12 col-md-6 col-lg-4">
 				<div class="card-wrapper">
-					<div class="card-img">
-						<img src="assets/images/image1-290x340.jpg" title="" alt="">
-					</div>
-					<div class="card-box" style="display:flex;flex-direction:column;justify-content:center;align-items:center;">                  
+
+					<div class="card-img">                        
+						<img id="myImg2" src="assets/images/image1-290x340.jpg" title="" alt="">
+                    </div>
+
+                    <div id="myModal3" class="modal">
+                        <span class="close3" style="padding-top: 2em; color: white;">&times;</span>
+                        <img class="modal-content" id="img03">
+                        <div id="caption"></div>
+                    </div>  
+                    
+					<div class="card-box" id="myBox3" style="display:flex;flex-direction:column;justify-content:center;align-items:center;">                  
 						    <h4 class="card-title mbr-fonts-style mbr-white mbr-bold display-5">Casa Benfica Tourcoing</h4>
                       
 							<h1 class="mbr-text mbr-fonts-style mbr-white card-text text-center display-7"><em>Site sur mesure</em></h1>
@@ -516,10 +523,21 @@
 
 			<div class="card p-3 col-12 col-md-6 col-lg-4">
 				<div class="card-wrapper">
-					<div class="card-img">
-						<img src="assets/images/image2-290x340.jpg" title="" alt="">
-					</div>
-					<div class="card-box" style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
+                    
+                    <div class="card-img">
+                        
+                 		<img id="myImg" src="assets/images/image2-290x340.jpg" title="" alt="">
+                    </div> 
+                                
+                    <div id="myModal" class="modal">
+                        <span class="close" style="padding-top: 2em; color: white;">&times;</span>
+                        <img class="modal-content" id="img01">
+                        <div id="caption"></div>
+                    </div>  
+                                      
+					
+                    
+					<div class="card-box" id="myBox" style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
 						<h4 class="card-title mbr-fonts-style mbr-white mbr-bold display-5">Hélène Pontière Avocat</h4>
 						
 							<h1 class="mbr-text mbr-fonts-style mbr-white card-text text-center display-7"><em>Site Vitrine</em></h1>
@@ -533,10 +551,16 @@
 				<div class="card-wrapper">
                     
 					<div class="card-img">
-						<img src="assets/images/image3-290x340.jpg" title="" alt="">
+						<img id="myImg2" src="assets/images/image3-290x340.jpg" title="" alt="">
 					</div>
                     
-					<div class="card-box" style="display:flex;flex-direction:column;justify-content:center;align-items:center;">                    
+                    <div id="myModal2" class="modal">
+                        <span class="close2" style="padding-top: 2em; color: white;">&times;</span>
+                        <img class="modal-content" id="img02">
+                        <div id="caption"></div>
+                    </div>  
+
+					<div class="card-box"  id="myBox2"  style="display:flex;flex-direction:column;justify-content:center;align-items:center;">                    
 						    <h4 class="card-title mbr-fonts-style mbr-white mbr-bold display-5">Galichet Rénov</h4>  
 							<h1 class="mbr-text mbr-fonts-style mbr-white card-text display-7"><em>Site OnePage</em></h1>
                      
@@ -549,6 +573,145 @@
 
 		</div>
 	</div>
+    <script>
+// Get the modal1
+        var modal = document.getElementById("myModal");
+
+// Get the image and insert it inside the modal 
+        var img = document.getElementById("myImg");
+        var box = document.getElementById("myBox");
+        var modalImg = document.getElementById("img01");     
+        box.onclick = function(){
+          modal.style.display = "block";
+          modalImg.src = "assets/images/helenePontiereApercu.png";          
+        }
+
+// Get the modal2
+        var modal2 = document.getElementById("myModal2");
+
+// Get the image and insert it inside the modal 
+        var img2 = document.getElementById("myImg2");
+        var box2 = document.getElementById("myBox2");
+        var modalImg2 = document.getElementById("img02");     
+        box2.onclick = function(){
+            modal2.style.display = "block";
+            modalImg2.src = "assets/images/galichetRenovApercu.png";          
+        }
+ 
+// Get the modal3
+        var modal3 = document.getElementById("myModal3");
+
+// Get the image and insert it inside the modal 
+        var img3 = document.getElementById("myImg3");
+        var box3 = document.getElementById("myBox3");
+        var modalImg3 = document.getElementById("img03");     
+        box3.onclick = function(){
+            modal3.style.display = "block";
+            modalImg3.src = "assets/images/casaBenficaApercu.png";          
+        }
+
+
+          // Get the <span> element that closes the modal
+            var span = document.getElementsByClassName("close")[0];        
+            var span2 = document.getElementsByClassName("close2")[0];  
+            var span3 = document.getElementsByClassName("close3")[0];        
+
+        // When the user clicks on <span> (x), close the modal
+        span.onclick = function() {         
+        modal.style.display = "none";
+        }
+        span2.onclick = function() {         
+        modal2.style.display = "none";
+        }
+        span3.onclick = function() {         
+        modal3.style.display = "none";
+        }
+    
+    
+        
+    </script>
+
+    <style>
+                    
+            /* The Modal (background) */
+            #myModal , #myModal2, #myModal3{
+            display: none; /* Hidden by default */
+            position: fixed; /* Stay in place */
+            z-index: 1; /* Sit on top */           
+            left: 0;
+            top: 0;
+            width: 100%; /* Full width */          
+            overflow: auto; /* Enable scroll if needed */
+            background-color: rgb(0,0,0); /* Fallback color */
+            background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+            }
+           
+            #myModal{   
+            padding-top: 9em; /* Location of the box */ 
+            }
+
+            #myModal2{   
+            padding-top: 10em; /* Location of the box */ 
+            }
+
+            #myModal3{   
+            padding-top: 9em; /* Location of the box */ 
+            }
+           
+           
+
+            /* Modal Content (image) */
+            .modal-content {
+            margin: auto;
+            display: block;
+            width: 50%;
+            max-width: auto;
+            height: auto;
+            }
+
+            /* Add Animation */
+            .modal-content,#caption {  
+            -webkit-animation-name: zoom;
+            -webkit-animation-duration: 0.6s;
+            animation-name: zoom;
+            animation-duration: 0.6s;
+            }
+
+            @-webkit-keyframes zoom {
+            from {-webkit-transform:scale(0)} 
+            to {-webkit-transform:scale(1)}
+            }
+
+            @keyframes zoom {
+            from {transform:scale(0)} 
+            to {transform:scale(1)}
+            }
+
+            /* The Close Button */
+            .close, .close2, .close3{
+            position: absolute;
+            top: 15px;
+            right: 35px;
+            color: #f1f1f1;
+            font-size: 40px;
+            font-weight: bold;
+            transition: 0.3s;
+            }
+
+            .close:hover,.close:focus,.close2:hover,.close2:focus,.close3:hover,.close3:focus  {
+            color: #bbb;
+            text-decoration: none;
+            cursor: pointer;
+            }
+
+            /* 100% Image Width on Smaller Screens */
+            @media only screen and (max-width: 700px){
+            .modal-content {
+                width: 100%;
+            }
+            }
+    </style>
+
 </section>
 
 <section class="carousel slide testimonials-slider cid-sluHe9NA0B mbr-parallax-background" id="testimonials-slider02-1b">
@@ -658,90 +821,6 @@
     </div>
 </section>
 
-<section class="cid-sluKeZq7pU" id="title02-1f">
-
-    
-
-    
-
-    <div class="container align-center">
-        <div class="row justify-content-md-start justify-content-md-center">
-            <div class="mbr-white col-sm-12 col-md-10 col-lg-7">
-                <h1 class="mbr-section-title mbr-regular align-center mbr-fonts-style display-1"><span style="color:#ecc979;">{&nbsp;</span>Les Actus de L'agence&nbsp;<span style="color:#ecc979;">}&nbsp;</span></h1>
-                
-                
-                
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="features2 cid-sluJGyKctu" id="features015-1e">
-
-    
-
-    
-
-    <div class="container">
-        
-
-        <div class="row justify-content-center">
-            <div class="card p-3 col-12 col-md-8 col-lg-4">
-                <div class="card-wrapper">
-                    <div class="card-img">
-                        <img src="assets/images/03.jpg" alt="">
-                    </div>
-                    <div class="card-box align-left">
-                        <h3 class="card-subtitle mbr-semibold align-left pb-2 mbr-fonts-style display-4">
-                            FEATURES</h3>
-                        <h4 class="card-title align-left pb-3 mbr-fonts-style display-5">Modern Technologies</h4>
-                        <p class="mbr-text align-left mbr-fonts-style display-4">Lorem ipsum dolor sit amet, conse ctetue
-                            adipiscing elit, sed diam nonum nibhie.</p>
-
-                        <div class="mbr-section-btn"><a class="btn btn-md btn-warning-outline display-4" href="#"><span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>EN SAVOIR PLUS</a></div>
-
-                    </div>
-                </div>
-            </div>
-
-            <div class="card p-3 col-12 cards col-md-8 col-lg-4">
-                <div class="card-wrapper cardcenter">
-                    <span class="link-ico ico2 mbr-iconfont mobi-mbri-link mobi-mbri" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255);"></span>
-                    <div class="align-left">
-                        <span class="link-ico mbr-iconfont mobi-mbri-link mobi-mbri" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255); font-size: 34px;"></span>
-
-                        <p class="text align-left pt-2 mbr-fonts-style display-5">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dui enim, pharetra at auctor
-                            vitae, mollis nec risus. Phasellus sagittis lectus at suscipit pulvinar.</p>
-
-                    </div>
-                </div>
-            </div>
-
-            <div class="card p-3 col-12 col-md-8 col-lg-4">
-                <div class="card-wrapper">
-                    <div class="card-img">
-                        <img src="assets/images/07.jpg" alt="">
-                    </div>
-                    <div class="card-box align-left">
-                        <h3 class="card-subtitle mbr-semibold align-left pb-2 mbr-fonts-style display-4">
-                            FEATURES</h3>
-                        <h4 class="card-title align-left pb-3 mbr-fonts-style display-5">
-                            Multifunctional
-                        </h4>
-                        <p class="mbr-text align-left mbr-fonts-style display-4">Lorem ipsum dolor sit amet, conse ctetue
-                            adipiscing elit, sed diam nonum nibhie.</p>
-
-                        <div class="mbr-section-btn"><a class="btn btn-md btn-info-outline display-4" href="#"><span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>EN SAVOIR PLUS</a></div>
-                    </div>
-                </div>
-            </div>
-
-
-        </div>
-    </div>
-</section>
-
 <section class="clients cid-slrFmM1Glh" id="clients01-r">
     
 
@@ -772,49 +851,29 @@
 
     <div class="container">
         <div class="carousel slide" data-ride="carousel" role="listbox">
-            <div class="carousel-inner" data-visible="1">
-                
-                
-                
-                
+            <div class="carousel-inner" data-visible="3">
                 
             <div class="carousel-item ">
                     <div class="media-container-row">
                         <div class="col-md-12">
                             <div class="wrap-img ">
+                                <img src="assets/images/logohelenepontiere-291x133.png" class="img-responsive clients-img" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="carousel-item ">
+                    <div class="media-container-row">
+                        <div class="col-md-12">
+                            <div class="wrap-img ">
+                                <img src="assets/images/logogalichetrenove-1316x735.png" class="img-responsive clients-img" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="carousel-item ">
+                    <div class="media-container-row">
+                        <div class="col-md-12">
+                            <div class="wrap-img ">
                                 <img src="assets/images/logocasa-240x165.png" class="img-responsive clients-img" alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div><div class="carousel-item ">
-                    <div class="media-container-row">
-                        <div class="col-md-12">
-                            <div class="wrap-img ">
-                                <img src="assets/images/logohelenepontiere-265x121.png" class="img-responsive clients-img" alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div><div class="carousel-item ">
-                    <div class="media-container-row">
-                        <div class="col-md-12">
-                            <div class="wrap-img ">
-                                <img src="assets/images/1.png" class="img-responsive clients-img">
-                            </div>
-                        </div>
-                    </div>
-                </div><div class="carousel-item ">
-                    <div class="media-container-row">
-                        <div class="col-md-12">
-                            <div class="wrap-img ">
-                                <img src="assets/images/1.png" class="img-responsive clients-img">
-                            </div>
-                        </div>
-                    </div>
-                </div><div class="carousel-item ">
-                    <div class="media-container-row">
-                        <div class="col-md-12">
-                            <div class="wrap-img ">
-                                <img src="assets/images/1.png" class="img-responsive clients-img">
                             </div>
                         </div>
                     </div>
