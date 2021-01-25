@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-01-13_0926",
-    "currentPage": "page8.html",
+    "currentPage": "Devis.html",
     "theme": {
       "name": "techm4",
       "title": "TechM4",
@@ -10852,7 +10852,7 @@
         }
       ]
     },
-    "page8.html": {
+    "Devis.html": {
       "settings": {
         "title": "Devis",
         "order": 8
