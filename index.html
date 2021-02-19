@@ -495,284 +495,231 @@
 
 	<div class="container">
 		
-		<div class="row row-content justify-content-center">
-			<div class="card p-3 col-12 col-md-6 col-lg-4">
-				<div class="card-wrapper">
-					<div class="card-img">
-						<img src="assets/images/image1-290x340.jpg" title="" alt="">
-					</div>
-					<div class="card-box" style="display:flex;flex-direction:column;justify-content:center;align-items:center;">                  
-						    <h4 class="card-title mbr-fonts-style mbr-white mbr-bold display-5">Casa Benfica Tourcoing</h4>
+        <div class="row row-content justify-content-center">
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+    
+                    <div class="card-img">                        
+                        <img id="myImg2" src="assets/images/image1-290x340.jpg" title="" alt="">
+                    </div>
+    
+                    <div id="myModal3" class="modal">
+                        <span class="close3" style="padding-top: 2em; color: white;">&times;</span>
+                        <img class="modal-content" id="img03">
+                        <div id="caption"></div>
+                    </div>  
+                    
+                    <div class="card-box" style="display:flex;flex-direction:column;justify-content:center;align-items:center;">                  
+                            <h4 class="card-title mbr-fonts-style mbr-white mbr-bold display-5">Casa Benfica Tourcoing</h4>
                       
-							<h1 class="mbr-text mbr-fonts-style mbr-white card-text text-center display-7"><em>Site sur mesure</em></h1>
-					
-                          <span id="myBox3" class="mbr-iconfont pt-1 mdi-image-loupe" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255); font-size: 50px;"></span>
-                        
-					</div>
-				</div>
-			</div>
-
-<!-- 			<div class="card p-3 col-12 col-md-6" mbr-if="cardsAmount > 1" mbr-class="{'col-lg-4': cardsAmount == '3'|| cardsAmount =='5'|| cardsAmount== '6'}">
-				<div class="card-wrapper">
+                            <h1 class="mbr-text mbr-fonts-style mbr-white card-text text-center display-7"><em>Site sur mesure</em></h1>
+                            
+                            <span mbr-icon id="myBox3" class="mbr-iconfont pt-1 mdi-image-loupe" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255); font-size: 50px;"></span>
+                    </div>
+                </div>
+            </div>
+    
+            <!-- <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
                     
                     <div class="card-img">
                         
-                 		<img id="myImg" src="assets/images/image2-290x340.jpg" title alt>
-					</div>     
-                    
-					<div class="card-box" style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
-						<h4 class="card-title mbr-fonts-style mbr-white mbr-bold" mbr-theme-style="display-5" mbr-if="showTitle" data-app-selector=".card-title">Hélène Pontière Avocat</h4>
-					
-							<h1 class="mbr-text mbr-fonts-style mbr-white card-text text-center" mbr-theme-style="display-7" data-app-selector=".card-text"><i>Site Vitrine</i></h1> 
-                        
-                        <span mbr-icon id="myBox" class="mbr-iconfont pt-1 mdi-image-loupe" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255); font-size: 50px;"></span>		
-					</div>
-				</div>
-			</div> -->
-            
-			<div class="card p-3 col-12 col-md-6 col-lg-4">
-				<div class="card-wrapper">
-                    
-					<div class="card-img">
-						<img src="assets/images/image3-290x340.jpg" title="" alt="">
-					</div>
-                    
-					<div class="card-box" style="display:flex;flex-direction:column;justify-content:center;align-items:center;">                    
-						    <h4 class="card-title mbr-fonts-style mbr-white mbr-bold display-5">Galichet Rénov</h4>  
-							<h1 class="mbr-text mbr-fonts-style mbr-white card-text display-7"><em>Site OnePage</em></h1>
-                        
-                         <span class="mbr-iconfont pt-1 mdi-image-loupe" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255); font-size: 50px;"></span>
-                     </div>                    
-				</div>
-			</div>
-		</div>
-        <div class="container">
-		
-            <div class="row row-content justify-content-center">
-                <div class="card p-3 col-12 col-md-6 col-lg-4">
-                    <div class="card-wrapper">
-        
-                        <div class="card-img">                        
-                            <img id="myImg2" src="assets/images/image1-290x340.jpg" title="" alt="">
-                        </div>
-        
-                        <div id="myModal3" class="modal">
-                            <span class="close3" style="padding-top: 2em; color: white;">&times;</span>
-                            <img class="modal-content" id="img03">
-                            <div id="caption"></div>
-                        </div>  
-                        
-                        <div class="card-box" style="display:flex;flex-direction:column;justify-content:center;align-items:center;">                  
-                                <h4 class="card-title mbr-fonts-style mbr-white mbr-bold display-5">Casa Benfica Tourcoing</h4>
-                          
-                                <h1 class="mbr-text mbr-fonts-style mbr-white card-text text-center display-7"><em>Site sur mesure</em></h1>
+                         <img id="myImg" src="assets/images/image2-290x340.jpg" title="" alt="">
+                    </div> 
                                 
-                                <span mbr-icon id="myBox3" class="mbr-iconfont pt-1 mdi-image-loupe" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255); font-size: 50px;"></span>
-                        </div>
+                    <div id="myModal" class="modal">
+                        <span class="close" style="padding-top: 2em; color: white;">&times;</span>
+                        <img class="modal-content" id="img01">
+                        <div id="caption"></div>
+                    </div>  
+                                      
+                    
+                    
+                    <div class="card-box"  style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
+                        <h4 class="card-title mbr-fonts-style mbr-white mbr-bold display-5">Hélène Pontière Avocat</h4>
+                        
+                            <h1 class="mbr-text mbr-fonts-style mbr-white card-text text-center display-7"><em>Site Vitrine</em></h1>
+                    
+                            <span mbr-icon id="myBox" class="mbr-iconfont pt-1 mdi-image-loupe" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255); font-size: 50px;"></span>
+    
                     </div>
                 </div>
-        
-                <!-- <div class="card p-3 col-12 col-md-6 col-lg-4">
-                    <div class="card-wrapper">
-                        
-                        <div class="card-img">
-                            
-                             <img id="myImg" src="assets/images/image2-290x340.jpg" title="" alt="">
-                        </div> 
-                                    
-                        <div id="myModal" class="modal">
-                            <span class="close" style="padding-top: 2em; color: white;">&times;</span>
-                            <img class="modal-content" id="img01">
-                            <div id="caption"></div>
-                        </div>  
-                                          
-                        
-                        
-                        <div class="card-box"  style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
-                            <h4 class="card-title mbr-fonts-style mbr-white mbr-bold display-5">Hélène Pontière Avocat</h4>
-                            
-                                <h1 class="mbr-text mbr-fonts-style mbr-white card-text text-center display-7"><em>Site Vitrine</em></h1>
-                        
-                                <span mbr-icon id="myBox" class="mbr-iconfont pt-1 mdi-image-loupe" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255); font-size: 50px;"></span>
-        
-                        </div>
-                    </div>
-                </div> -->
-                
-        
-                <div class="card p-3 col-12 col-md-6 col-lg-4">
-                    <div class="card-wrapper">
-                        
-                        <div class="card-img">
-                            <img id="myImg2" src="assets/images/image3-290x340.jpg" title="" alt="">
-                        </div>
-                        
-                        <div id="myModal2" class="modal">
-                            <span class="close2" style="padding-top: 2em; color: white;">&times;</span>
-                            <img class="modal-content" id="img02">
-                            <div id="caption"></div>
-                        </div>  
-        
-                        <div class="card-box"   style="display:flex;flex-direction:column;justify-content:center;align-items:center;">                    
-                                <h4 class="card-title mbr-fonts-style mbr-white mbr-bold display-5">Galichet Rénov</h4>  
-                                
-                                <h1 class="mbr-text mbr-fonts-style mbr-white card-text display-7"><em>Site OnePage</em></h1>
-                                
-                                <span mbr-icon id="myBox2" class="mbr-iconfont pt-1 mdi-image-loupe" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255); font-size: 50px;"></span>
-        
-                         
-                        </div>
-                        
-                    </div>
-                </div>
-        
+            </div> -->
             
-        
+    
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    
+                    <div class="card-img">
+                        <img id="myImg2" src="assets/images/image3-290x340.jpg" title="" alt="">
+                    </div>
+                    
+                    <div id="myModal2" class="modal">
+                        <span class="close2" style="padding-top: 2em; color: white;">&times;</span>
+                        <img class="modal-content" id="img02">
+                        <div id="caption"></div>
+                    </div>  
+    
+                    <div class="card-box"   style="display:flex;flex-direction:column;justify-content:center;align-items:center;">                    
+                            <h4 class="card-title mbr-fonts-style mbr-white mbr-bold display-5">Galichet Rénov</h4>  
+                            
+                            <h1 class="mbr-text mbr-fonts-style mbr-white card-text display-7"><em>Site OnePage</em></h1>
+                            
+                            <span mbr-icon id="myBox2" class="mbr-iconfont pt-1 mdi-image-loupe" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255); font-size: 50px;"></span>
+    
+                     
+                    </div>
+                    
+                </div>
             </div>
+    
+        
+    
         </div>
-        <script>
-        // // Get the modal1
-        //     var modal = document.getElementById("myModal");
+    </div>
+    <script>
+    // // Get the modal1
+    //     var modal = document.getElementById("myModal");
+    
+    // // Get the image and insert it inside the modal 
+    //     var img = document.getElementById("myImg");
+    //     var box = document.getElementById("myBox");
+    //     var modalImg = document.getElementById("img01");     
+    //     box.onclick = function(){
+    //       modal.style.display = "block";
+    //       modalImg.src = "assets/images/helenePontiereApercu.png";          
+    //     }
+    
+    // Get the modal2
+        var modal2 = document.getElementById("myModal2");
+    
+    // Get the image and insert it inside the modal 
+        var img2 = document.getElementById("myImg2");
+        var box2 = document.getElementById("myBox2");
+        var modalImg2 = document.getElementById("img02");     
+        box2.onclick = function(){
+            modal2.style.display = "block";
+            modalImg2.src = "assets/images/galichetRenovApercu.png";          
+        }
+    
+    // Get the modal3
+        var modal3 = document.getElementById("myModal3");
+    
+    // Get the image and insert it inside the modal 
+        var img3 = document.getElementById("myImg3");
+        var box3 = document.getElementById("myBox3");
+        var modalImg3 = document.getElementById("img03");     
+        box3.onclick = function(){
+            modal3.style.display = "block";
+            modalImg3.src = "assets/images/casaBenficaApercu.png";          
+        }
+    
+    
+          // Get the <span> element that closes the modal
+            // var span = document.getElementsByClassName("close")[0];        
+            var span2 = document.getElementsByClassName("close2")[0];  
+            var span3 = document.getElementsByClassName("close3")[0];        
+    
+        // When the user clicks on <span> (x), close the modal
+        // span.onclick = function() {         
+        // modal.style.display = "none";
+        // }
+        span2.onclick = function() {         
+        modal2.style.display = "none";
+        }
+        span3.onclick = function() {         
+        modal3.style.display = "none";
+        }
+    
+    
         
-        // // Get the image and insert it inside the modal 
-        //     var img = document.getElementById("myImg");
-        //     var box = document.getElementById("myBox");
-        //     var modalImg = document.getElementById("img01");     
-        //     box.onclick = function(){
-        //       modal.style.display = "block";
-        //       modalImg.src = "assets/images/helenePontiereApercu.png";          
-        //     }
-        
-        // Get the modal2
-            var modal2 = document.getElementById("myModal2");
-        
-        // Get the image and insert it inside the modal 
-            var img2 = document.getElementById("myImg2");
-            var box2 = document.getElementById("myBox2");
-            var modalImg2 = document.getElementById("img02");     
-            box2.onclick = function(){
-                modal2.style.display = "block";
-                modalImg2.src = "assets/images/galichetRenovApercu.png";          
+    </script>
+    
+    <style>
+                    
+            /* The Modal (background) */
+            #myModal , #myModal2, #myModal3{
+                display: none; /* Hidden by default */
+                position: fixed; /* Stay in place */
+                z-index: 1; /* Sit on top */           
+                left: 0;
+                top: 0;
+                width: 100%; /* Full width */          
+                overflow: auto; /* Enable scroll if needed */
+                background-color: rgb(0,0,0); /* Fallback color */
+                background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
             }
-        
-        // Get the modal3
-            var modal3 = document.getElementById("myModal3");
-        
-        // Get the image and insert it inside the modal 
-            var img3 = document.getElementById("myImg3");
-            var box3 = document.getElementById("myBox3");
-            var modalImg3 = document.getElementById("img03");     
-            box3.onclick = function(){
-                modal3.style.display = "block";
-                modalImg3.src = "assets/images/casaBenficaApercu.png";          
-            }
-        
-        
-              // Get the <span> element that closes the modal
-                // var span = document.getElementsByClassName("close")[0];        
-                var span2 = document.getElementsByClassName("close2")[0];  
-                var span3 = document.getElementsByClassName("close3")[0];        
-        
-            // When the user clicks on <span> (x), close the modal
-            // span.onclick = function() {         
-            // modal.style.display = "none";
-            // }
-            span2.onclick = function() {         
-            modal2.style.display = "none";
-            }
-            span3.onclick = function() {         
-            modal3.style.display = "none";
-            }
-        
-        
-            
-        </script>
-        
-        <style>
-                        
-                /* The Modal (background) */
-                #myModal , #myModal2, #myModal3{
-                    display: none; /* Hidden by default */
-                    position: fixed; /* Stay in place */
-                    z-index: 1; /* Sit on top */           
-                    left: 0;
-                    top: 0;
-                    width: 100%; /* Full width */          
-                    overflow: auto; /* Enable scroll if needed */
-                    background-color: rgb(0,0,0); /* Fallback color */
-                    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
-                }
-               
-               #myBox:hover, #myBox2:hover, #myBox3:hover{
-                    cursor: pointer;
-               }
-        
-                #myModal{   
-                    padding-top: 9em; /* Location of the box */ 
-                }
-        
-                #myModal2{   
-                padding-top: 10em; /* Location of the box */ 
-                }
-        
-                #myModal3{   
-                padding-top: 9em; /* Location of the box */ 
-                }
-               
-               
-        
-                /* Modal Content (image) */
-                .modal-content {
-                margin: auto;
-                display: block;
-                width: 50%;
-                max-width: auto;
-                height: auto;
-                }
-        
-                /* Add Animation */
-                /* .modal-content,#caption {  
-                -webkit-animation-name: zoom;
-                -webkit-animation-duration: 0.6s;
-                animation-name: zoom;
-                animation-duration: 0.6s;
-                } */
-        
-                @-webkit-keyframes zoom {
-                from {-webkit-transform:scale(0)} 
-                to {-webkit-transform:scale(1)}
-                }
-        
-                @keyframes zoom {
-                from {transform:scale(0)} 
-                to {transform:scale(1)}
-                }
-        
-                /* The Close Button */
-                .close, .close2, .close3{
-                position: absolute;
-                top: -1rem;
-                right: 35px;
-                color: #ffffff;
-                font-size: 40px;
-                font-weight: bold;
-                transition: 0.3s;
-                }
-        
-                .close:hover,.close:focus,.close2:hover,.close2:focus,.close3:hover,.close3:focus  {
-                color: #bbb;
-                text-decoration: none;
+           
+           #myBox:hover, #myBox2:hover, #myBox3:hover{
                 cursor: pointer;
-                }
-        
-                /* 100% Image Width on Smaller Screens */
-                @media only screen and (max-width: 700px){
-                .modal-content {
-                    width: 100%;
-                }
-                }
-        </style>
-          
+           }
+    
+            #myModal{   
+                padding-top: 9em; /* Location of the box */ 
+            }
+    
+            #myModal2{   
+            padding-top: 10em; /* Location of the box */ 
+            }
+    
+            #myModal3{   
+            padding-top: 9em; /* Location of the box */ 
+            }
+           
+           
+    
+            /* Modal Content (image) */
+            .modal-content {
+            margin: auto;
+            display: block;
+            width: 50%;
+            max-width: auto;
+            height: auto;
+            }
+    
+            /* Add Animation */
+            /* .modal-content,#caption {  
+            -webkit-animation-name: zoom;
+            -webkit-animation-duration: 0.6s;
+            animation-name: zoom;
+            animation-duration: 0.6s;
+            } */
+    
+            @-webkit-keyframes zoom {
+            from {-webkit-transform:scale(0)} 
+            to {-webkit-transform:scale(1)}
+            }
+    
+            @keyframes zoom {
+            from {transform:scale(0)} 
+            to {transform:scale(1)}
+            }
+    
+            /* The Close Button */
+            .close, .close2, .close3{
+            position: absolute;
+            top: -1rem;
+            right: 35px;
+            color: #ffffff;
+            font-size: 40px;
+            font-weight: bold;
+            transition: 0.3s;
+            }
+    
+            .close:hover,.close:focus,.close2:hover,.close2:focus,.close3:hover,.close3:focus  {
+            color: #bbb;
+            text-decoration: none;
+            cursor: pointer;
+            }
+    
+            /* 100% Image Width on Smaller Screens */
+            @media only screen and (max-width: 700px){
+            .modal-content {
+                width: 100%;
+            }
+            }
+    </style>
+     
 </section>
 
 <section class="carousel slide testimonials-slider cid-sluHe9NA0B mbr-parallax-background" id="testimonials-slider02-1b">
