@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-01-13_0926",
-    "currentPage": "Actualités.html",
+    "currentPage": "page11.html",
     "theme": {
       "name": "techm4",
       "title": "TechM4",
@@ -54,7 +54,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 222,
+    "uniqCompNum": 217,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/majs-favicon-128x108.png",
@@ -65,7 +65,9 @@
     "cookiesAlert": false,
     "gdpr": false,
     "publishChangesOnly": true,
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "Landing-Page.html": {
@@ -9400,19 +9402,6 @@
             "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)"
             },
-            ".item-img": {
-              "max-height": "13em",
-              "margin-bottom": "40px",
-              "overflow": "hidden !important",
-              "@media (max-width: 767px)": {
-                "width": "100%",
-                "margin-bottom": "20px"
-              }
-            },
-            ".img": {
-              "overflow": "hidden !important",
-              "position": "relative"
-            },
             ".item-wrapper": {
               "margin-bottom": "50px",
               "@media (max-width: 767px)": {
@@ -9420,7 +9409,7 @@
               }
             },
             ".btn": {
-              "border-radius": "5px !important",
+              "border-radius": "10px !important",
               "padding": "0.5em",
               "color": "#2e4b58 !important"
             },
@@ -9507,6 +9496,12 @@
                 "color": "@primaryColor !important"
               }
             },
+            ".item-img": {
+              "margin-bottom": "40px",
+              "@media (max-width: 767px)": {
+                "margin-bottom": "20px"
+              }
+            },
             "img, .item-img": {
               "width": "100%",
               "object-fit": "cover",
@@ -9546,14 +9541,11 @@
             },
             ".publish_date": {
               "color": "#ecc979"
-            },
-            ".mbr-section-subtitle": {
-              "text-align": "left"
             }
           },
           "_name": "features11",
           "_sourceTheme": "newsm4",
-          "_customHTML": "<section class=\"features11\" group=\"Features\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"6\">\n        <select title=\"Columns\" name=\"cardsWidth\">\n            <option value=\"12\">1</option>\n            <option value=\"6\">2</option>\n            <option value=\"4\" selected>3</option>\n            <option value=\"3\">4</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" name=\"autoSize\" title=\"Auto Size\">\n        <input type=\"range\" name=\"imageHeight\" title=\"Height\" min=\"1\" max=\"5\" step=\"1\" value=\"2\" condition=\"autoSize && !(showButtons==false && showTitle==false && showText==false)\">\n        <input type=\"checkbox\" title=\"Topic\" name=\"showTopic\">\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" name=\"showPost\" title=\"Posted\" checked>\n        <input type=\"checkbox\" title=\"Image\" name=\"showImage\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\" checked>\n        <input type=\"color\" name=\"lineColor\" title=\"Line\" value=\"#2e4b58\" condition=\"showText || showSubtitle\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Image\" value=\"../_images/background.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            \n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"color\" title=\"HoverTextColor\" name=\"secondaryColor\" value=\"#ecc979\">\n        <input type=\"color\" title=\"TextColor\" name=\"textColor\" value=\"#355665\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row\">\n            \n            <div class=\"item features-image сol-12 col-lg-{{cardsWidth}}\">\n                <div class=\"item-wrapper\" mbr-if=\"showTopic || showPost || showTitle\">\n                    <div class=\"card_topic\" mbr-if=\"showTopic\">\n                        <span mbr-text class=\"category_content  mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".category_content, .card_topic\"><b>Most Read</b></span>\n                        <span mbr-icon class=\"mbr-iconfont mobi-mbri-clock mobi-mbri\"></span>\n                        <span mbr-text class=\"category_estimate mbr-medium  mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".category_estimate, .card_topic\">6 min read</span>\n                    </div>\n                    <h5 class=\"mbr-section-title mbr-fonts-style mb-2\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title, .post_wrap\"><a href=\"#\" class=\"text-primary\"><b>Benefits of a perfect headline</b></a></h5>\n                    <div class=\"post_wrap text-primary\" mbr-if=\"showPost\">\n                        <div class=\"card_post\">\n                            <div class=\"image_post\">\n                               \n                                <img src=\"@PROJECT_PATH@/assets/images/5c3330-270x270.jpg\" alt data-slide-to=\"0\">\n                             \n                            </div>\n                            <div class=\"author_post\">\n                                <p class=\"author mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".author\">Auteur</p>\n                                <p class=\"name_author mb-0 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".name_author\"><b>Antoine Debroucker</b></p>\n                            </div>\n                            <div class=\"published_post\">\n                                <p class=\"publish_date mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".publish_date\">Publié le</p>\n                                <p class=\"date mb-0 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".date\"><b>Février 2021</b></p>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"item-img\" mbr-if=\"showImage\">\n                     \n                    <img src=\"@PROJECT_PATH@/assets/images/mbr-700x467.jpg\" alt title data-slide-to=\"0\">\n                      \n                </div>\n                <div class=\"item-content\" mbr-if=\"showText || showButtons || showSubtitle\">\n                    <h3 class=\"mbr-section-subtitle mbr-medium mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">Profession libérale, ne négligez pas votre visibilité en ligne</h3>\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                        Vous êtes avocat, architecte, médecin, huissier, expert-comptable, infirmière, etc. Et vous souhaitez donner de la visibilité en ligne à votre activité ?&nbsp;</p>\n                    <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-danger\" href=\"profession-libérale.html\" data-app-placeholder=\"Type Text\"><span class=\"mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn\"></span>En savoir +<br></a></div>\n                    \n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"features11\" group=\"Features\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"6\">\n        <select title=\"Columns\" name=\"cardsWidth\">\n            <option value=\"12\">1</option>\n            <option value=\"6\">2</option>\n            <option value=\"4\" selected>3</option>\n            <option value=\"3\">4</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" name=\"autoSize\" title=\"Auto Size\">\n        <input type=\"range\" name=\"imageHeight\" title=\"Height\" min=\"1\" max=\"5\" step=\"1\" value=\"2\" condition=\"autoSize && !(showButtons==false && showTitle==false && showText==false)\">\n        <input type=\"checkbox\" title=\"Topic\" name=\"showTopic\">\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" name=\"showPost\" title=\"Posted\" checked>\n        <input type=\"checkbox\" title=\"Image\" name=\"showImage\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\" checked>\n        <input type=\"color\" name=\"lineColor\" title=\"Line\" value=\"#2e4b58\" condition=\"showText || showSubtitle\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Image\" value=\"../_images/background.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            \n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"color\" title=\"HoverTextColor\" name=\"secondaryColor\" value=\"#ecc979\">\n        <input type=\"color\" title=\"TextColor\" name=\"textColor\" value=\"#355665\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row\">\n            \n            <div class=\"item features-image сol-12 col-lg-{{cardsWidth}}\">\n                <div class=\"item-wrapper\" mbr-if=\"showTopic || showPost || showTitle\">\n                    <div class=\"card_topic\" mbr-if=\"showTopic\">\n                        <span mbr-text class=\"category_content  mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".category_content, .card_topic\"><b>Most Read</b></span>\n                        <span mbr-icon class=\"mbr-iconfont mobi-mbri-clock mobi-mbri\"></span>\n                        <span mbr-text class=\"category_estimate mbr-medium  mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".category_estimate, .card_topic\">6 min read</span>\n                    </div>\n                    <h5 class=\"mbr-section-title mbr-fonts-style mb-2\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title, .post_wrap\"><a href=\"#\" class=\"text-primary\"><b>Benefits of a perfect headline</b></a></h5>\n                    <div class=\"post_wrap text-primary\" mbr-if=\"showPost\">\n                        <div class=\"card_post\">\n                            <div class=\"image_post\">\n                                <img src=\"@PROJECT_PATH@/assets/images/5c3330-270x270.jpg\" alt data-slide-to=\"0\">\n                            </div>\n                            <div class=\"author_post\">\n                                <p class=\"author mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".author\">Auteur</p>\n                                <p class=\"name_author mb-0 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".name_author\"><b>Antoine Debroucker</b></p>\n                            </div>\n                            <div class=\"published_post\">\n                                <p class=\"publish_date mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".publish_date\">Publié le</p>\n                                <p class=\"date mb-0 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".date\"><b>Janvier 2021</b></p>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"item-img\" mbr-if=\"showImage\">\n                    <img src=\"@PROJECT_PATH@/assets/images/mbr-700x467.jpg\" alt title data-slide-to=\"0\">\n                </div>\n                <div class=\"item-content\" mbr-if=\"showText || showButtons || showSubtitle\">\n                    <h3 class=\"mbr-section-subtitle mbr-medium mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">L'importance de la visibilité</h3>\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                        Vous êtes avocat, architecte, médecin, huissier, expert-comptable, infirmière, etc. Et vous souhaitez donner de la visibilité en ligne à votre activité ?&nbsp;</p>\n                    <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-danger\" href=\"page11.html\" data-app-placeholder=\"Type Text\"><span class=\"mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn\"></span>Lire la suite</a></div>\n                    \n                </div>\n            </div><div class=\"item features-image сol-12 col-lg-{{cardsWidth}}\">\n                <div class=\"item-wrapper\" mbr-if=\"showTopic || showPost || showTitle\">\n                    <div class=\"card_topic\" mbr-if=\"showTopic\">\n                        <span mbr-text class=\"category_content  mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".category_content, .card_topic\"><b>Most Read</b></span>\n                        <span mbr-icon class=\"mbr-iconfont mobi-mbri-clock mobi-mbri\"></span>\n                        <span mbr-text class=\"category_estimate mbr-medium  mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".category_estimate, .card_topic\">6 min read</span>\n                    </div>\n                    <h5 class=\"mbr-section-title mbr-fonts-style mb-2\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title, .post_wrap\"><a href=\"#\" class=\"text-primary\"><b>Benefits of a perfect headline</b></a></h5>\n                    <div class=\"post_wrap text-primary\" mbr-if=\"showPost\">\n                        <div class=\"card_post\">\n                            <div class=\"image_post\">\n                                <img src=\"../_images/face/face1.jpg\" alt data-slide-to=\"1\">\n                            </div>\n                            <div class=\"author_post\">\n                                <p class=\"author mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".author\">Author</p>\n                                <p class=\"name_author mb-0 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".name_author\"><b>Mobirise</b></p>\n                            </div>\n                            <div class=\"published_post\">\n                                <p class=\"publish_date mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".publish_date\">Published</p>\n                                <p class=\"date mb-0 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".date\"><b>August 27, 2025</b></p>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"item-img\" mbr-if=\"showImage\">\n                    <img src=\"../_images/news2.jpg\" alt title data-slide-to=\"1\">\n                </div>\n                <div class=\"item-content\" mbr-if=\"showText || showButtons || showSubtitle\">\n                    <h3 class=\"mbr-section-subtitle mbr-medium mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">Trending</h3>\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci cumque sunt suscipit magni ab amet, nulla a alias architecto et, commodi nemo ad optio iste fuga consequuntur temporibus repudiandae.</p>\n                    <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-danger\" href=\"#\" data-app-placeholder=\"Type Text\"><span class=\"mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn\"></span>Read More</a></div>\n                    \n                </div>\n            </div><div class=\"item features-image сol-12 col-lg-{{cardsWidth}}\">\n                <div class=\"item-wrapper\" mbr-if=\"showTopic || showPost || showTitle\">\n                    <div class=\"card_topic\" mbr-if=\"showTopic\">\n                        <span mbr-text class=\"category_content  mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".category_content, .card_topic\"><b>Most Read</b></span>\n                        <span mbr-icon class=\"mbr-iconfont mobi-mbri-clock mobi-mbri\"></span>\n                        <span mbr-text class=\"category_estimate mbr-medium  mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".category_estimate, .card_topic\">6 min read</span>\n                    </div>\n                    <h5 class=\"mbr-section-title mbr-fonts-style mb-2\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title, .post_wrap\"><a href=\"#\" class=\"text-primary\"><b>Benefits of a perfect headline</b></a></h5>\n                    <div class=\"post_wrap text-primary\" mbr-if=\"showPost\">\n                        <div class=\"card_post\">\n                            <div class=\"image_post\">\n                                <img src=\"../_images/face/face1.jpg\" alt data-slide-to=\"0\">\n                            </div>\n                            <div class=\"author_post\">\n                                <p class=\"author mb-0 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".author\">Author</p>\n                                <p class=\"name_author mb-0 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".name_author\"><b>Mobirise</b></p>\n                            </div>\n                            <div class=\"published_post\">\n                                <p class=\"publish_date mb-0 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".publish_date\">Published</p>\n                                <p class=\"date mb-0 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".date\"><b>August 27, 2025</b></p>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"item-img\" mbr-if=\"showImage\">\n                    <img src=\"../_images/news2.jpg\" alt title data-slide-to=\"0\">\n                </div>\n                <div class=\"item-content\" mbr-if=\"showText || showButtons || showSubtitle\">\n                    <h3 class=\"mbr-section-subtitle mbr-medium mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">Trending</h3>\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci cumque sunt suscipit magni ab amet, nulla a alias architecto et, commodi nemo ad optio iste fuga consequuntur temporibus repudiandae.</p>\n                    <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-danger\" href=\"#\" data-app-placeholder=\"Type Text\"><span class=\"mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn\"></span>Read More</a></div>\n                    \n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "sp5cTInzgS",
           "_anchor": "features11-5f",
           "_PHPplaceholders": [],
@@ -14463,9 +14455,9 @@
         }
       ]
     },
-    "profession-libérale.html": {
+    "page11.html": {
       "settings": {
-        "title": "Profession libérale",
+        "title": "Hello Wolrd",
         "order": 8
       },
       "components": [
@@ -14880,289 +14872,105 @@
           "_params": {}
         },
         {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = \"color\")": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = \"image\")": {
-              "background-image": "url(@bg-value)"
-            },
-            "@media (max-width: 991px)": {
-              ".media-container-row": {
-                "padding-bottom": "2rem"
-              }
-            },
-            ".strong": {
-              "font-weight": "lighter"
-            },
-            ".mbr-fonts-style": {
-              "font-weight": "none !important"
-            },
-            ".carousel-indicators": {
-              "margin": "0 auto",
-              "padding": "3rem 0",
-              "align-items": "center",
-              "position": "relative",
-              "li": {
-                "position": "relative",
-                "display": "block",
-                "text-indent": "0 !important",
-                "max-height": "60px !important",
-                "height": "60px !important",
-                "max-width": "25%",
-                "width": "60px !important",
-                "line-height": "60px !important",
-                "text-align": "center",
-                "border": "2px solid @lineColor",
-                "border-radius": "50%",
-                "color": "@lineColor",
-                "background": "#fff",
-                "&:not(:last-child)": {
-                  "margin-right": "240px",
-                  "@media (max-width: 991px)": {
-                    "&:not(:last-child)": {
-                      "margin-right": "150px"
-                    }
-                  },
-                  "@media (max-width: 767px)": {
-                    "&:not(:last-child)": {
-                      "margin-right": "30px"
-                    }
-                  }
-                },
-                "opacity": "1",
-                "&:not(:first-child)::before": {
-                  "content": "\"\"",
-                  "position": "absolute",
-                  "top": "50%",
-                  "right": "61px",
-                  "width": "244px",
-                  "height": "2px",
-                  "background-color": "@lineColor",
-                  "@media (max-width: 991px)": {
-                    "width": "153px"
-                  },
-                  "@media (max-width: 767px)": {
-                    "width": "34px",
-                    "right": "41px"
-                  }
-                },
-                "&::after": {
-                  "content": "\"\"",
-                  "position": "absolute",
-                  "top": "0",
-                  "left": "0",
-                  "font-weight": "none",
-                  "color": "@lineColor",
-                  "width": "100%",
-                  "height": "100%"
-                }
-              },
-              ".li1::after": {
-                "content": "\"1\""
-              },
-              ".li2::after": {
-                "content": "\"2\""
-              },
-              ".li3::after": {
-                "content": "\"3\""
-              },
-              ".li4::after": {
-                "content": "\"4\""
-              }
-            },
-            "li.active, li:active": {
-              "opacity": "1",
-              "border-color": "@activeColor",
-              "&:after": {
-                "color": "@activeColor"
-              },
-              "&:before": {
-                "background-color": "@activeColor !important"
-              }
-            },
-            "@media (max-width: 767px)": {
-              ".carousel-indicators li": {
-                "line-height": "40px !important",
-                "height": "40px !important",
-                "width": "40px !important"
-              },
-              ".carousel-control-next": {
-                "bottom": "auto",
-                "top": "95%",
-                "right": "1rem"
-              }
-            },
-            ".mbr-text": {
-              "margin-top": "1rem"
-            },
-            ".mbr-section-title": {
-              "margin-bottom": "1.5rem"
-            },
-            ".carousel-inner": {},
-            ".back": {
-              "position": "absolute",
-              "top": "0",
-              "right": "0",
-              "width": "60%",
-              "height": "~\"@{halfHeight}%\"",
-              "background-color": "@half",
-              "@media (max-width: 767px)": {
-                "width": "100%",
-                "height": "105% !important"
-              }
-            },
-            ".row-element, .image-element": {
-              "padding": "0"
-            },
-            ".image-element": {
-              "display": "flex",
-              "height": "550px",
-              "margin-right": "auto",
-              "align-items": "center",
-              "justify-content": "center",
-              "-webkit-justify-content": "center",
-              "margin-top": "3rem",
-              "img": {
-                "width": "100%",
-                "min-height": "100%",
-                "object-fit": "cover",
-                "object-position": "center center"
-              }
-            },
-            ".card-wrap": {
-              "background-color": "rgb(255, 255, 255)",
-              "padding": "3rem 2.5rem",
-              "margin-top": "6rem",
-              "margin-bottom": "2rem",
-              "@media (min-width: 992px)": {
-                "width": "~'calc(100% + 15rem)'",
-                "margin-left": "-17.5rem"
-              },
-              "@media (max-width: 767px)": {
-                "margin": "2rem auto 0 auto",
-                "padding": "1rem"
-              },
-              "@media (max-width: 992px)": {
-                "margin-top": "1rem"
-              }
-            },
-            ".carousel-item": {
-              "-webkit-justify-content": "center",
-              "justify-content": "center"
-            },
-            ".carousel-item.active, .carousel-item-next": {
-              "display": "flex"
-            },
-            ".carousel-control-next": {
-              "opacity": "1",
-              "width": "45px",
-              "height": "45px"
-            },
-            ".mbr-iconfont": {
-              "transition": "0.3s",
-              "display": "flex",
-              "justify-content": "center",
-              "align-items": "center"
-            },
-            ".mbri-arrow-next::before": {
-              "content": "\"\\f054\" !important"
-            },
-            ".carousel-controls": {
-              "a": {
-                "transition": "0.3s",
-                "border-radius": "50%",
-                "border": "2px solid @primaryColor",
-                "background-color": "@primaryColor",
-                "span": {
-                  "color": "#ffffff",
-                  "font-size": "1.1rem"
-                },
-                "&:hover": {
-                  "transform": "scale(1.05)"
-                }
-              }
-            },
-            "@media screen and (~'-ms-high-contrast: active'), (~'-ms-high-contrast: none')": {
-              ".image-element": {
-                "min-width": "50%"
-              },
-              ".media-container-row": {
-                "width": "100%"
-              }
-            },
-            "@media (min-width: 767px) and (max-width: 992px)": {
-              ".carousel-control-next": {
-                "bottom": "auto",
-                "top": "95%",
-                "right": "1.8rem"
-              }
-            },
-            "@media (min-width: 992px)": {
-              ".carousel-control-next": {
-                "bottom": "2.3rem",
-                "top": "95%",
-                "right": "1.8rem"
-              }
-            },
-            ".title-wrap": {
-              "display": "flex",
-              "justify-content": "flex-end"
-            },
-            ".icon-left": {
-              "margin-right": "0.1rem"
-            },
-            ".icon-right": {
-              "margin-left": "0.1rem"
-            },
-            "H1": {
-              "text-align": "left",
-              "color": "#ecc979"
-            },
-            ".mbr-section-text, .mbr-section-btn": {
-              "text-align": "left",
-              "color": "#2e4b58"
-            },
-            ".block-quote": {
-              "color": "#2e4b58",
-              "text-align": "left"
-            }
-          },
-          "_name": "slider1",
-          "_sourceTheme": "claimm4",
-          "_customHTML": "<section class=\"carousel slider1 slide testimonials-slider\" group=\"Sliders and Galleries\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\" plugins=\"BootstrapCarouselSwipe,mbr-testimonials-slider,font-awesome\" data-interval=\"false\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"range\" title=\"Padding Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\" inline>\n        <input type=\"range\" title=\"Padding Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\" inline>\n         <input type=\"range\" inline title=\"Half BG Height\" name=\"halfHeight\" min=\"20\" max=\"100\" step=\"5\" value=\"85\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Carousel Controls\" name=\"carouselControls\">\n        <header>Items</header>\n        <select title=\"Count\" name=\"testimonialsSlides\">\n            <option value=\"1\" selected>1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n          </select>\n        <input type=\"checkbox\" title=\"Autoplay\" name=\"showAutoplay\">\n        <input type=\"range\" inline title=\"Autoplay Interval (ms)\" name=\"interval\" min=\"1000\" max=\"8000\" step=\"1000\" value=\"5000\" condition=\"showAutoplay\">\n        <input type=\"color\" title=\"Half BG Color\" name=\"half\" value=\"#2e4b58\">\n        <input type=\"color\" title=\"Line Color\" value=\"#d4e7eb\" name=\"lineColor\" selected>\n         <input type=\"color\" title=\"Active Color\" value=\"#ecc979\" name=\"activeColor\" selected>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/bg_3.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://vimeo.com/171547423\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container text-center\">\n\n        <div class=\"carousel slide\" role=\"listbox\" data-pause=\"true\" data-keyboard=\"false\" data-ride=\"{{showAutoplay ? 'carousel' : 'false'}}\" data-interval=\"{{showAutoplay ? interval : 'false'}}\">\n                 <div class=\"media-container-row\">       \n<!--             <div class=\"carousel-indicators\">\n                        <li class=\"li1 active\" mbr-theme-style=\"display-4\" data-slide-to=\"0\"></li>\n                        <li class=\"li2\" mbr-theme-style=\"display-4\" data-slide-to=\"1\" mbr-if=\"testimonialsSlides > 1\"></li>\n                        <li class=\"li3\" mbr-theme-style=\"display-4\" data-slide-to=\"2\" mbr-if=\"testimonialsSlides > 2\"></li>\n                        <li class=\"li4\" mbr-theme-style=\"display-4\" data-slide-to=\"3\" mbr-if=\"testimonialsSlides > 3\"></li>\n            </div> -->\n            </div>\n            \n            <div mbr-list mbr-list-grow=\"testimonialsSlides\" class=\"carousel-inner\">\n                <div class=\"carousel-item\">\n                    <div class=\"back\"> </div>\n                    <div class=\"media-container-row\">\n                        \n                        <div class=\"col-lg-9 col-12 image-element align-self-stretch\">\n                                <img src=\"@PROJECT_PATH@/assets/images/mbr-1665x1106.jpg\" alt>\n                        </div>\n                        \n                        <div class=\"col-lg-5 col-12\">\n                        <div class=\"card-wrap\" mbr-if=\"showText || showTitle\">\n                    <h1 class=\"mbr-section-title align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\">Profession libérale ne négligez pas votre visibilité en ligne</h1>\n                    \n                            <p class=\"mbr-fonts-style block-quote\" data-app-selector=\".block-quote\" mbr-theme-style=\"display-7\">Avocats, médecins, notaires, huissier, expert-comptable, les internautes vous recherchent de la même manière.<br><br>Découvrez les solutions que nous pouvons vous proposer allant de l’achat de votre site à la location avec option d’achat.&nbsp;<br></p>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mb-0 mt-4  fade-in-up\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-info-outline\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">Learn more</a></div>\n                </div>\n            </div>\n      </div>\n                </div>\n              \n            </div>\n\n            <div class=\"carousel-controls\" mbr-if=\"carouselControls\">\n                <a class=\"carousel-control-next\" role=\"button\" data-slide=\"next\">\n                    <span aria-hidden=\"true\" class=\"mobi-mbri mobi-mbri-arrow-next icon-right fa fa-chevron-right mbr-iconfont sign\"></span>\n                    <span class=\"sr-only\">Next</span>\n                </a>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "sptrhyolYg",
-          "_anchor": "slider1-64",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
           "alias": "mobirise4-blocks/components",
           "_isSecondary": true,
           "typeCompatible": "type",
           "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, .ornament": {
-              "text-align": "left",
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "img": {
+              "width": "100%",
+              "height": "100%",
+              "transition": "5s",
+              "object-fit": "cover",
+              "margin": "auto",
+              "&:hover": {
+                "transform": "scale(1.1)"
+              }
+            },
+            ".img-col": {
+              "padding": "0",
+              "overflow": "hidden",
+              "text-align": "center",
+              "justify-content": "center",
+              "position": "relative"
+            },
+            "h2": {
+              "padding": "0",
+              "margin": "0"
+            },
+            ".title-wrap": {
+              "display": "flex",
+              "align-items": "center",
+              "justify-content": "center"
+            },
+            ".text-col": {
+              "max-width": "650px",
+              "margin": "auto",
+              "padding": "6rem 6rem"
+            },
+            ".mbr-section-btn": {
+              "position": "absolute",
+              "bottom": "0",
+              "& when not (@reverseContent)": {
+                "right": "0"
+              },
+              "& when (@reverseContent)": {
+                "left": "0"
+              },
+              ".btn": {
+                "margin": "0rem!important",
+                "min-width": "400px",
+                "justify-content": "space-between",
+                ".mbr-iconfont": {
+                  "order": "2"
+                }
+              }
+            },
+            ".number": {
+              "border-top": "2px solid currentColor",
+              "padding-top": "0.6rem",
+              "margin-right": "3rem",
+              "margin-bottom": "0",
+              "margin-top": "0.5rem"
+            },
+            "@media (max-width: 992px)": {
+              ".text-col": {
+                "padding": "4rem 4rem"
+              }
+            },
+            "@media (max-width: 767px)": {
+              ".btn": {
+                "min-width": "200px!important",
+                "padding": "0.6rem 0.8rem!important"
+              },
+              ".text-col": {
+                "padding": "2rem 1rem"
+              }
+            },
+            "H2": {
+              "color": "#333333"
+            },
+            ".mbr-text": {
               "color": "#2e4b58"
+            },
+            "H1": {
+              "color": "#ecc979"
             }
           },
-          "_name": "extContent15",
+          "_name": "extContent7",
           "_sourceTheme": "newsm4",
-          "_customHTML": "<section class=\"mbr-section extContent\" group=\"Additional Blocks\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Show Underline\" name=\"showUnderline\" checked>\n        <input type=\"color\" title=\"Underline Color\" name=\"underlineColor\" value=\"#355665\" condition=\"showUnderline\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-10 col-sm-12 text-section\">\n                <p class=\"mbr-fonts-style mbr-text align-center\" data-app-selector=\".mbr-text, .ornament\" mbr-theme-style=\"display-7\">\n                Si traditionnellement ces métiers sont soumis par l’interdiction de pratiquer la publicité, du fait de leurs actes de nature civile et non commerciale, les professions libérales réglementées ont cependant le droit de diffuser du contenu informatif ou pédagogique : blog, newsletter pour annoncer des actualités, site vitrine pour annoncer ses horaires d’ouverture ou bien encore prendre rendez-vous en ligne via un agenda connecté.&nbsp;<br><br>Depuis 2010, une recherche sur deux sur Internet concerne la santé. Pour un médecin en exercice libéral, Il est donc indispensable d’assurer une présence 24h/24 sur Internet qui permette de trouver les informations utiles et pertinentes sur l’essentiel sur votre activité.\n<br><br>Comment communiquer correctement quand je suis une profession libérale ?\n<br><br>Pour des raisons légales, les professions libérales sont contraintes à une réglementation concernant la réclame. Aussi, de manière générale, il leur est interdit de diffuser des contenus des publicitaires (slogans publicitaires incitants à la vente, offres promotionnelles, publicités comparatives, etc.) et ce sur tous les supports de communication (campagnes emailing, bannières publicitaires, flyers, spots radio, etc.).\n<br><br>Cette interdiction de publicité ne touche pas le droit d’informer et la réglementation tend peu à peu à s’assouplir pour ces métiers. <br><br>En effet, du fait des nouveaux usages du web, certaines professions libérales ont besoin de développer au moins un site vitrine d’une ou plusieurs pages qui peuvent alors :\n<br><br>•\tPrésenter votre activité et votre cabinet\n<br>•\tDiffuser des informations sur votre activité (votre spécialité : droit du travail, dermatologie)\n<br>•\tIndiquer vos coordonnées professionnelles\n<br>•\tProposer des conseils, des fiches pratiques, un agenda de prise de rendez-vous, etc.\n<br></p>\n               \n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "spss2SAbAb",
-          "_anchor": "extContent15-60",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
+          "_customHTML": "<section class=\"extСontent\" group=\"Additional Blocks\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Reverse Content\" name=\"reverseContent\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background1.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay&&bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.9\" condition=\"overlay&&bg.type !== 'color'\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay&&bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container-fluid\">\n        <div class=\"row\">\n            <div class=\"col-lg-6 img-col\" mbr-class=\"{'order-2':reverseContent}\">\n                <img src=\"@PROJECT_PATH@/assets/images/mbr-1451x968.jpg\" alt=\"Mobirise\">\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn pt-3\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-lg btn-success\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\"><span class=\"mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn\"></span>READ MORE</a></div>\n            </div>\n            <div class=\"col-lg-6 text-col align-left\">\n                <h3 class=\"mbr-section-subtitle mbr-regular pb-2 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showSubTitle\"><b>Industries</b> / Supply</h3>\n                <h1 class=\"mbr-section-title mbr-semibold pb-4 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">Hello World !!</h1>\n                <p class=\"mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">Avocats, médecins, notaires, huissier, expert-comptable, les internautes vous recherchent de la même manière.\n<br><br>Si traditionnellement ces métiers sont soumis par l’interdiction de pratiquer la publicité, du fait de leurs actes de nature civile et non commerciale, les professions libérales réglementées ont cependant le droit de diffuser du contenu informatif ou pédagogique : blog, newsletter pour annoncer des actualités, site vitrine pour annoncer ses horaires d’ouverture ou bien encore prendre rendez-vous en ligne via un agenda connecté. <br><br>Découvrez les solutions que nous pouvons vous proposer allant de l’achat de votre site à la location avec option d’achat.&nbsp;<br></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "spsr9H24XP",
+          "_anchor": "extContent7-5y",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -15199,15 +15007,13 @@
           },
           "_name": "extContent3",
           "_sourceTheme": "newsm4",
-          "_customHTML": "<section class=\"mbr-section article extСontent\" group=\"Additional Blocks\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8\" mbr-theme-style=\"display-7\">\n                <div class=\"flex-block\">\n                    <span mbr-icon class=\"mbr-iconfont mbri-quote-right\" style=\"color: rgb(236, 201, 121); fill: rgb(236, 201, 121);\"></span>\n                    <p class=\"mbr-fonts-style block-quote\" data-app-selector=\".block-quote\" mbr-theme-style=\"display-7\">Vous êtes avocat, architecte, médecin, huissier, expert-comptable, infirmière, etc. Et vous souhaitez donner de la visibilité en ligne à votre activité ? Le site internet est un excellent moyen de faire connaître votre métier et de vous différencier de vos concurrents. Il est temps de vous distinguer !&nbsp;</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article extСontent\" group=\"Additional Blocks\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8\" mbr-theme-style=\"display-7\">\n                <div class=\"flex-block\">\n                    <span mbr-icon class=\"mbr-iconfont mbri-quote-right\" style=\"color: rgb(236, 201, 121); fill: rgb(236, 201, 121);\"></span>\n                    <p class=\"mbr-fonts-style block-quote\" data-app-selector=\".block-quote\" mbr-theme-style=\"display-7\">Vous êtes avocat, architecte, médecin, huissier, expert-comptable, infirmière, etc. Et vous souhaitez donner de la visibilité en ligne à votre activité ? Le site internet est un excellent moyen de faire connaître votre métier et de vous différencier de vos concurrents. Il est temps de vous distinguer !&nbsp;</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "spsrIa1PJI",
           "_anchor": "extContent3-5z",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_params": {}
         },
         {
           "alias": "mobirise4-blocks/components",
@@ -15224,12 +15030,11 @@
           },
           "_name": "extContent15",
           "_sourceTheme": "newsm4",
-          "_customHTML": "<section class=\"mbr-section extContent\" group=\"Additional Blocks\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Show Underline\" name=\"showUnderline\" checked>\n        <input type=\"color\" title=\"Underline Color\" name=\"underlineColor\" value=\"#355665\" condition=\"showUnderline\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-10 col-sm-12 text-section\">\n                <p class=\"mbr-fonts-style mbr-text align-center\" data-app-selector=\".mbr-text, .ornament\" mbr-theme-style=\"display-7\">Aussi, concernant la communication, une certaine souplesse est appliquée (selon l’Ordre dont vous dépendez). Voilà quelques exemples de campagnes qui peuvent être admises :\n<br><br>•\tUn site vitrine lorsqu’il est informatif et pratique (adresse, horaires d’ouverture, tarifs…)\n<br>•\tNous porterons une attention particulière à l’aspect visuel sur votre site vitrine. En effet, pour les professions réglementées, cela pourrait s’apparenter à de la publicité directe. Nous vous ferons uniquement des propositions de sites vitrine modernes et sobres, neutre de toute attractivité marketing.\n<br>•\tCréer une section actualités ou pédagogique.\n<br>•\tDans le cadre de présenter des informations pédagogiques, l’envoi de newsletters ou l’envoi de plaquettes est possible.\n<br><br>Attention ! Pensez d’abord à vous renseigner sur ses réglementations précises, car elles peuvent en fonction de l’Ordre duquel dépend la profession en question.\n<br><br>Le principal avantage de la location de site est la maîtrise de son budget sur la durée. En effet, le site cela coûte un certain prix et souvent le jeune entrepreneur n’a pas forcément les finances pour payer le site web en une seule fois. Donc cette solution permet de pouvoir échelonner ses paiements via la location.\n<br><br>Autre avantage, la LOA (location avec option d’achat) vous assure un accompagnement et un suivi de votre projet sur la durée de la location. Cela comprend : l’hébergement, la maintenance, les mises à jour, le renouvellement de votre nom de domaine.<br></p>\n                <div class=\"py-3 ornament text-center\" mbr-if=\"showUnderline\">\n                    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 133 20\" height=\"20\" width=\"150\" fill=\"{{underlineColor}}\">\n                        <g><path d=\"M127.18,6.19C121-.05,109.94-.24,101.84.1,90.84.56,80,3.3,69.32,5.77c-8,1.86-16,3.63-24,5.72-9.21,2.41-18.6,4.72-28.14,5.19-4.1.2-8.48,0-12.16-2a6.6,6.6,0,0,1-2.7-9A5.46,5.46,0,0,1,7.07,2.77c4-.22,6.73,8.39-.08,4.58a.49.49,0,0,0-.49.84c4.88,3,10.8,0,5.4-4.91C7.6-.63.4,2.06,0,8-1,24,28.25,17,36.29,15.24,53.74,11.37,70.9,6.44,88.53,3.33c11.1-2,24.75-3.54,35.06,2.19a16,16,0,0,1,6.86,8.85c1.29,4.31-4.35,4.2-7,3.52-4.84-1.26-2.42-8,1.22-3,.61.83,2,0,1.4-.82-2.15-2.93-6.71-4.9-7.12.35s8.36,7.24,11.72,4.47C135,15.32,129.91,9,127.18,6.19Z\"></path></g>\n                    </svg>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_JSplaceholders": [],
+          "_customHTML": "<section class=\"mbr-section extContent\" group=\"Additional Blocks\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Show Underline\" name=\"showUnderline\" checked>\n        <input type=\"color\" title=\"Underline Color\" name=\"underlineColor\" value=\"#355665\" condition=\"showUnderline\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-10 col-sm-12 text-section\">\n                <p class=\"mbr-fonts-style mbr-text align-center\" data-app-selector=\".mbr-text, .ornament\" mbr-theme-style=\"display-7\">\n                Depuis 2010, une recherche sur deux sur Internet concerne la santé. Pour un médecin en exercice libéral, Il est donc indispensable d’assurer une présence 24h/24 sur Internet qui permette de trouver les informations utiles et pertinentes sur l’essentiel sur votre activité.\n<br><br>Comment communiquer correctement quand je suis une profession libérale ?\n<br>Pour des raisons légales, les professions libérales sont contraintes à une réglementation concernant la réclame. Aussi, de manière générale, il leur est interdit de diffuser des contenus des publicitaires (slogans publicitaires incitants à la vente, offres promotionnelles, publicités comparatives, etc.) et ce sur tous les supports de communication (campagnes emailing, bannières publicitaires, flyers, spots radio, etc.).\n<br><br>Cette interdiction de publicité ne touche pas le droit d’informer et la réglementation tend peu à peu à s’assouplir pour ces métiers. <br><br>En effet, du fait des nouveaux usages du web, certaines professions libérales ont besoin de développer au moins un site vitrine d’une ou plusieurs pages qui peuvent alors :\n<br><br>•\tPrésenter votre activité et votre cabinet\n<br>•\tDiffuser des informations sur votre activité (votre spécialité : droit du travail, dermatologie)\n<br>•\tIndiquer vos coordonnées professionnelles\n<br>•\tProposer des conseils, des fiches pratiques, un agenda de prise de rendez-vous, etc.\n<br><br>Aussi, concernant la communication, une certaine souplesse est appliquée (selon l’Ordre dont vous dépendez). Voilà quelques exemples de campagnes qui peuvent être admises :\n<br><br>•\tUn site vitrine lorsqu’il est informatif et pratique (adresse, horaires d’ouverture, tarifs…)\n<br>•\tNous porterons une attention particulière à l’aspect visuel sur votre site vitrine. En effet, pour les professions réglementées, cela pourrait s’apparenter à de la publicité directe. Nous vous ferons uniquement des propositions de sites vitrine modernes et sobres, neutre de toute attractivité marketing.\n<br>•\tCréer une section actualités ou pédagogique.\n<br>•\tDans le cadre de présenter des informations pédagogiques, l’envoi de newsletters ou l’envoi de plaquettes est possible.\n<br><br>Attention ! Pensez d’abord à vous renseigner sur ses réglementations précises, car elles peuvent en fonction de l’Ordre duquel dépend la profession en question.\n<br><br>Le principal avantage de la location de site est la maîtrise de son budget sur la durée. En effet, le site cela coûte un certain prix et souvent le jeune entrepreneur n’a pas forcément les finances pour payer le site web en une seule fois. Donc cette solution permet de pouvoir échelonner ses paiements via la location.\n<br><br>Autre avantage, la LOA (location avec option d’achat) vous assure un accompagnement et un suivi de votre projet sur la durée de la location. Cela comprend : l’hébergement, la maintenance, les mises à jour, le renouvellement de votre nom de domaine.<br></p>\n                <div class=\"py-3 ornament text-center\" mbr-if=\"showUnderline\">\n                    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 133 20\" height=\"20\" width=\"150\" fill=\"{{underlineColor}}\">\n                        <g><path d=\"M127.18,6.19C121-.05,109.94-.24,101.84.1,90.84.56,80,3.3,69.32,5.77c-8,1.86-16,3.63-24,5.72-9.21,2.41-18.6,4.72-28.14,5.19-4.1.2-8.48,0-12.16-2a6.6,6.6,0,0,1-2.7-9A5.46,5.46,0,0,1,7.07,2.77c4-.22,6.73,8.39-.08,4.58a.49.49,0,0,0-.49.84c4.88,3,10.8,0,5.4-4.91C7.6-.63.4,2.06,0,8-1,24,28.25,17,36.29,15.24,53.74,11.37,70.9,6.44,88.53,3.33c11.1-2,24.75-3.54,35.06,2.19a16,16,0,0,1,6.86,8.85c1.29,4.31-4.35,4.2-7,3.52-4.84-1.26-2.42-8,1.22-3,.61.83,2,0,1.4-.82-2.15-2.93-6.71-4.9-7.12.35s8.36,7.24,11.72,4.47C135,15.32,129.91,9,127.18,6.19Z\"></path></g>\n                    </svg>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "spss2SAbAb",
+          "_anchor": "extContent15-60",
           "_PHPplaceholders": [],
-          "_anchor": "extContent15-65",
-          "_isUserblock": true,
-          "_cid": "sptx86iggi",
+          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": false,
           "_once": false,
