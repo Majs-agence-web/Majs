@@ -65,9 +65,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "publishChangesOnly": true,
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "Landing-Page.html": {
