@@ -31,50 +31,9 @@
 </head>
 <body>
   
-  <section class="menu cid-sn6ZrWZ9w9" once="" id="menu01-51">
-
-    
-
-
-    <nav class="navbar navbar-dropdown BgNavColor navbar-fixed-top navbar-expand-lg">
-        <div class="navbar-brand">
-            <span class="navbar-logo">
-                <a href="index.html">
-                    <img src="assets/images/logomajs-vectoriel.svg" alt="Majs" style="height: 4.7rem;">
-                </a>
-            </span>
-            
-        </div>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-            <div class="hamburger">
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-info text-primary display-4" href="index.html" aria-expanded="false">
-                        ACCUEIL</a></li>
-                <li class="nav-item"><a class="nav-link link text-info text-primary display-4" href="Agence.html" aria-expanded="false">L'AGENCE MAJS</a>
-                    
-                </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link link dropdown-toggle text-info display-4" href="#" aria-expanded="false" data-toggle="dropdown-submenu">
-                        SERVICES</a><div class="dropdown-menu"><a class="dropdown-item text-info text-primary display-4" href="site-vitrine.html" aria-expanded="false">Site Vitrine</a><a class="dropdown-item text-info text-primary display-4" href="site-E-Commerce.html" aria-expanded="false">Site E-commerce</a><a class="dropdown-item text-info text-primary display-4" href="Landing-Page.html" aria-expanded="false">Site Landing page</a><a class="dropdown-item text-info text-primary display-4" href="Refonte-de-site-Web.html" aria-expanded="false">Refonte de Site</a><a class="dropdown-item text-info text-primary display-4" href="Sur-mesure.html" aria-expanded="false">Site sur mesure<br></a></div></li>
-                <li class="nav-item"><a class="nav-link link text-info text-primary display-4" href="Accueil.html#title02-5s" aria-expanded="false">
-                        NOS REALISATIONS</a></li><li class="nav-item"><a class="nav-link link text-info text-primary display-4" href="Pricing.html" aria-expanded="false">TARIFS</a></li><li class="nav-item"><a class="nav-link link text-info text-primary display-4" href="Actualites.html" aria-expanded="false">ACTUALITÉS</a></li>
-<!--                 
-                <li class="nav-item"><a class="nav-link link text-white text-primary" href="page5.html" data-app-selector=".nav-link,.dropdown-item" data-app-placeholder="Type Text" aria-expanded="false">
-                        ACTUALITES</a></li>
-                <li class="nav-item"><a class="nav-link link text-white text-primary" href="page6.html" data-app-selector=".nav-link,.dropdown-item" data-app-placeholder="Type Text" aria-expanded="false">
-                        CLIENTS</a></li> --></ul>
-            
-            <div class="navbar-buttons px-2"><a class="btn btn-sm btn-danger display-4" href="contact.html">
-                    NOUS CONTACTER</a></div>
-        </div>
-    </nav>
-</section>
+<?php 
+        include("header.php")
+    ?>
 
 <section class="cid-sn6ZrXyH50" id="title02-52">
 
@@ -158,26 +117,26 @@ Ce formulaire vous permettra de déterminer au mieux votre besoin.</p>
 <div class="form-control-label">
 <label for="Type de site -extForm3-57" class="mbr-fonts-style display-7">Mon site :</label>
 </div>
-<div class="form-check">
-<input type="radio" name="Type de site " data-form-field="Type de site " class="form-check-input display-7" value="Landing page" checked="" id="Type de site -extForm3-57">
-<label class="form-check-label display-7">Landing page</label>
-</div>
-<div class="form-check">
-<input type="radio" name="Type de site " data-form-field="Type de site " class="form-check-input display-7" value="Site vitrine" id="Type de site -extForm3-57">
-<label class="form-check-label display-7">Site vitrine</label>
-</div>
-<div class="form-check">
-<input type="radio" name="Type de site " data-form-field="Type de site " class="form-check-input display-7" value="Site E-Commerce" id="Type de site -extForm3-57">
-<label class="form-check-label display-7">Site E-Commerce</label>
-</div>
-<div class="form-check">
-<input type="radio" name="Type de site " data-form-field="Type de site " class="form-check-input display-7" value="Site sur mesure" id="Type de site -extForm3-57">
-<label class="form-check-label display-7">Site sur mesure</label>
-</div>
-<div class="form-check">
-<input type="radio" name="Type de site " data-form-field="Type de site " class="form-check-input display-7" value="Refont graphique" id="Type de site -extForm3-57">
-<label class="form-check-label display-7">Refont graphique</label>
-</div>
+    <div class="form-check">
+        <input type="radio" name="Type de site " data-form-field="Type de site " class="form-check-input display-7" value="Landing page" id="Type de site -extForm3-57" <?php if(isset($_GET['site']) and $_GET['site'] == "landingPage" ){ echo 'checked=""'; } ?>>
+        <label class="form-check-label display-7">Landing page</label>
+    </div>
+    <div class="form-check">
+        <input type="radio" name="Type de site " data-form-field="Type de site " class="form-check-input display-7" value="Site vitrine" id="Type de site -extForm3-57" <?php if(isset($_GET['site']) and $_GET['site'] == "siteVitrine"){ echo 'checked=""'; } ?>>
+        <label class="form-check-label display-7">Site vitrine</label>
+    </div>
+    <div class="form-check">
+        <input type="radio" name="Type de site " data-form-field="Type de site " class="form-check-input display-7" value="Site E-Commerce" id="Type de site -extForm3-57" <?php if(isset($_GET['site']) and $_GET['site'] == "siteECommerce"){ echo 'checked=""'; } ?>>
+        <label class="form-check-label display-7">Site E-Commerce</label>
+    </div>
+    <div class="form-check">
+        <input type="radio" name="Type de site " data-form-field="Type de site " class="form-check-input display-7" value="Site sur mesure" id="Type de site -extForm3-57" <?php if(isset($_GET['site']) and $_GET['site'] == "surMesure"){ echo 'checked=""'; } ?>>
+        <label class="form-check-label display-7">Site sur mesure</label>
+    </div>
+    <div class="form-check">
+        <input type="radio" name="Type de site " data-form-field="Type de site " class="form-check-input display-7" value="Refont graphique" id="Type de site -extForm3-57" <?php if(isset($_GET['site']) and $_GET['site'] == "refonte"){ echo 'checked=""'; } ?>>
+        <label class="form-check-label display-7">Refont graphique</label>
+    </div>
 </div>
 <div class="col-lg-12 col-md-12 col-sm-12">
 <hr>
@@ -378,124 +337,9 @@ Ce formulaire vous permettra de déterminer au mieux votre besoin.</p>
     </svg>
 </section>
 
-<section class="cid-sn6ZrYUNSV" id="footer02-56">
-
-    
-
-    
-
-
-    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1380px" height="760px" viewBox="0 0 1380 760" preserveAspectRatio="xMidYMid meet">
-        <defs id="svgEditorDefs">
-            <polygon id="svgEditorShapeDefs" style="fill:khaki;stroke:black;vector-effect:non-scaling-stroke;stroke-width:0px;"></polygon>
-        </defs>
-        <rect id="svgEditorBackground" x="0" y="0" width="1380" height="760" style="fill: none; stroke: none;"></rect>
-        <path d="M0.3577131120350206,0.819491525482845h-1.5000000000000355ZM0.3577131120350206,-3.1805084745172603h-1.5000000000000355ZM-0.14228688796500222,-4.180508474517258h5.000000000000002a5,5,0,0,1,0,6.00000000000003h-5.000000000000025a5,5,0,0,0,0,-6.00000000000003ZM5.8577131120349835,-1.1805084745172634h1.0000000000000249Z" style="fill:khaki; stroke:black; vector-effect:non-scaling-stroke;stroke-width:0px;" id="e2_shape" transform="matrix(1.01506 82.3743 -245.478 0.34062 392.311 526.125)"></path>
-    </svg>
-
-
-    <div class="container">
-        <div class="media-container-row content text-white">
-            <div class="col-12 col-md-6 col-lg-3">
-                <div class="media-wrap align-left">
-                    <a href="index.html">
-                        <img src="assets/images/logomajs-vectoriel.svg" alt="Majs">
-                    </a>
-                </div>
-
-                <p class="mbr-text align-left text1 mbr-fonts-style display-4">
-                    Retrouvez nous aussi sur
-                </p>
-
-                <div class="social-list align-left">
-                    <div class="soc-item">
-                        <a href="https://www.linkedin.com/company/71576509/" target="_blank">
-                            <span class="mbr-iconfont mbr-iconfont-social socicon-linkedin socicon" style="color: rgb(53, 86, 101); fill: rgb(53, 86, 101);"></span>
-                        </a>
-                    </div>
-                    <div class="soc-item">
-                        <a href="https://twitter.com/MajsWeb" target="_blank">
-                            <span class="mbr-iconfont mbr-iconfont-social socicon-twitter socicon" style="color: rgb(53, 86, 101); fill: rgb(53, 86, 101);"></span>
-                        </a>
-                    </div>
-                    
-                    
-                    
-
-                </div>
-
-
-            </div>
-            <div class="col-12 col-md-6 col-lg-3 mbr-fonts-style display-4">
-                <h5 class="pb-3 align-left">
-                    Contact&nbsp;</h5>
-
-
-                <div class="item">
-                    <div class="card-img"><span class="mbr-iconfont img1 fa-home fa"></span>
-                    </div>
-                    <div class="card-box">
-                        <h4 class="item-title align-left mbr-fonts-style display-4">Tourcoing , Hauts de France</h4>
-                    </div>
-                </div>
-
-<!--                 <div class="item" mbr-if="itemsCount > 1">
-                    <div class="card-img"><span mbr-icon class="mbr-iconfont img1 mobi-mbri-pin mobi-mbri"></span></div>
-                    <div class="card-box">
-                        <h4 class="item-title align-left mbr-fonts-style" mbr-theme-style="display-4" data-app-selector=".item-title">Lille, AA 99999</h4>
-                    </div>
-                </div> -->
-
-                <div class="item">
-                    <div class="card-img"><span class="mbr-iconfont img1 mobi-mbri-letter mobi-mbri"></span>
-                    </div>
-                    <div class="card-box">
-                        <h4 class="item-title align-left mbr-fonts-style display-4">
-                            contact@majs.fr</h4>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="card-img"><span class="mbr-iconfont img1 mobi-mbri-phone mobi-mbri"></span>
-                    </div>
-                    <div class="card-box">
-                        <h4 class="item-title align-left mbr-fonts-style display-4">07 70 39 27 93</h4>
-                    </div>
-                </div>
-
-                
-
-
-            </div>
-            <div class="col-12 col-md-6 col-lg-3 mbr-fonts-style display-7">
-
-                <p class="mbr-text quote align-left mbr-fonts-style display-4">Enfin sur vos écrans !!</p>
-
-                <div class="item">
-                    <div class="card-img2"><a href="https://www.facebook.com/MajsWebAgency"><span class="mbr-iconfont ico2 socicon-facebook socicon" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255);"></span></a></div>
-                    <div class="card-box">
-                        <h4 class="theme align-left mbr-fonts-style display-7">MajS</h4>
-                    </div>
-                </div>
-            </div>
-<!--             <div class="demandeDevis col-12 col-md-6 col-lg-3 pb-3 mbr-fonts-style" mbr-theme-style="display-7">
-                <p>Besoin d'un devis ou de renseigment ?<br><br>L’agence MAJS est là pour vous accompagner, contactez-nous.<br></p>
-                <div class="boutonDevis btn btn-danger mx-auto"><span>Demander un devis</span></div>
-            </div> -->
-            <div class="demandeDevis col-12 col-md-6 col-lg-3 pb-3 mbr-fonts-style display-7">
-                <p class="text-center">Besoin d'un devis ou de renseigments ?<br></p>
-<!--                  <div mbr-if="showButtons" mbr-buttons mbr-theme-style="display-4" class="boutonDevis mx-auto navbar-buttons px-2"><a class="btn btn-sm btn-danger" href="contact.html" data-app-placeholder="Type Text">
-                    NOUS CONTACTER</a></div> -->
-                <div class="boutonDevis mx-auto navbar-buttons px-2"><a class="btn btn-sm btn-danger display-4" href="Devis.html">
-                    DEMANDER UN DEVIS GRATUIT</a></div>
-                 
-            </div>                
- 
-        </div>
-
-
-    </div>
-</section>
+<?php 
+        include("footer.php")
+    ?>
 
 
 <script src="assets/web/assets/jquery/jquery.min.js"></script>
