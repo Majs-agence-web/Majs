@@ -436,7 +436,7 @@
     </div>
 </section>
 
-<section class="cid-spsnx5TdtQ" id="title02-5s">
+<section class="cid-spsnx5TdtQ">
 
     
 
@@ -445,9 +445,7 @@
     <div class="container align-center">
         <div class="row justify-content-md-start justify-content-md-center">
             <div class="mbr-white col-sm-12 col-md-10 col-lg-7">
-                <h1 class="mbr-section-title mbr-regular align-center mbr-fonts-style display-2"><span style="color:#ecc979;">{&nbsp;</span>Nos Dernières Réalisations&nbsp;<span style="color:#ecc979;">}</span></h1>
-                
-                
+                <h1 id="nos_realisations" class="mbr-section-title mbr-regular align-center mbr-fonts-style display-2"><span style="color:#ecc979;">{&nbsp;</span>Nos Dernières Réalisations&nbsp;<span style="color:#ecc979;">}</span></h1>
                 
             </div>
         </div>
