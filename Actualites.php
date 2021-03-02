@@ -94,7 +94,8 @@
                     <div class="mbr-section-btn"><a class="btn btn-danger display-4" href="profession-liberale.php"><span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>En savoir +<br></a></div>
                     
                 </div>
-            </div><div class="item features-image сol-12 col-lg-6">
+            </div>
+            <div class="item features-image сol-12 col-lg-6">
                 <div class="item-wrapper">
                     
                     
@@ -126,6 +127,41 @@
                     <p class="mbr-text mbr-fonts-style display-4">
                         Durant le 2e confinement, l’État a décidé de soutenir les entreprises via une aide financière à hauteur de 500 € pour la création d’un site internet (plus d’explications sur le dispositif ici).</p>
                     <div class="mbr-section-btn"><a class="btn btn-danger display-4" href="Aide-etat.php"><span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>En savoir +<br></a></div>
+                    
+                </div>
+            </div>
+            <div class="item features-image сol-12 col-lg-6">
+                <div class="item-wrapper">
+                    
+                    
+                    <div class="post_wrap text-primary">
+                        <div class="card_post">
+                            <div class="image_post">
+                               
+                                <img src="assets/images/5c3330-270x270.jpg" alt="" data-slide-to="2">
+                             
+                            </div>
+                            <div class="author_post">
+                                <p class="author mb-0 mbr-fonts-style display-7">Auteur</p>
+                                <p class="name_author mb-0 mbr-fonts-style display-4"><strong>Antoine Debroucker</strong></p>
+                            </div>
+                            <div class="published_post">
+                                <p class="publish_date mb-0 mbr-fonts-style display-7">Publication</p>
+                                <p class="date mb-0 mbr-fonts-style display-4"><strong>Février 2021</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item-img">
+                     
+                    <img src="assets/images/mbr-2-1920x1280.jpg" alt="" title="" data-slide-to="2">
+                      
+                </div>
+                <div class="item-content">
+                    <h3 class="mbr-section-subtitle mbr-medium mbr-fonts-style display-7">Les 7 arguments pour choisir une agence web</h3>
+                    <p class="mbr-text mbr-fonts-style display-4">
+                        Vous avez besoin d’un site internet pour votre activité professionnelle et évidemment, vous recherchez le meilleur rapport qualité prix pour votre plateforme web. Voici les deux solutions envisagées par un entrepreneur.....</p>
+                    <div class="mbr-section-btn"><a class="btn btn-danger display-4" href="les_7_arguments.php"><span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>En savoir +<br></a></div>
                     
                 </div>
             </div>
