@@ -34,7 +34,7 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link link text-info text-primary display-4" href="index.php#title02-5s" aria-expanded="false">NOS REALISATIONS</a>
+                        <a class="nav-link link text-info text-primary display-4" href="index.php#nos_realisations" aria-expanded="false">NOS REALISATIONS</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link link text-info text-primary display-4" href="Pricing.php" aria-expanded="false">TARIFS</a>
