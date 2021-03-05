@@ -18,7 +18,7 @@
         <div class="media-container-row content text-white">
             <div class="col-12 col-md-6 col-lg-3">
                 <div class="media-wrap align-left">
-                    <a href="index.php">
+                    <a href="accueil.php">
                         <img src="assets/images/logomajs-vectoriel.svg" alt="Majs">
                     </a>
                 </div>
@@ -106,7 +106,7 @@
                 <p class="text-center">Besoin d'un devis ou de renseigments ?<br></p>
 <!--                  <div mbr-if="showButtons" mbr-buttons mbr-theme-style="display-4" class="boutonDevis mx-auto navbar-buttons px-2"><a class="btn btn-sm btn-danger" href="contact.php" data-app-placeholder="Type Text">
                     NOUS CONTACTER</a></div> -->
-                <div class="boutonDevis mx-auto navbar-buttons px-2"><a class="btn btn-sm btn-danger display-4" href="Devis.php">
+                <div class="boutonDevis mx-auto navbar-buttons px-2"><a class="btn btn-sm btn-danger display-4" href="devis.php">
                     DEMANDER UN DEVIS GRATUIT</a></div>
                  
             </div>                

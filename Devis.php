@@ -83,11 +83,11 @@
             <div class="row">
                 <div class="col-lg-3"></div>
                 <div class="col-lg-8 text-col align-center">
-                    <p class="text-center mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-2">Vous êtes:</p>
+                    <p class="text-center mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-2">Vous êtes</p>
                     <p class="mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-7">
-                        • Un nouvel entrepreneur voulant créer une boutique en ligne<br>
-                        • Une entreprise souhaitant se développer sur internet<br>
-                        • Une entreprise cherchant une solution sur mesure<br>
+                        • Un nouvel entrepreneur voulant créer une boutique en ligne ?<br>
+                        • Une entreprise souhaitant se développer sur internet ?<br>
+                        • Une entreprise cherchant une solution sur mesure ?<br>
                         • A la recherche d’une optimisation en référencement naturel/payant, ergonomie ou emailing ?<br><br>
                         Ce formulaire vous permettra de déterminer au mieux votre besoin.</p>
                 </div>
@@ -121,13 +121,13 @@
                                         <label for="Type de site -extForm3-57" class="mbr-fonts-style display-7">Mon site :</label>
                                     </div>
                                     <div class="form-check">
-                                        <input type="radio" name="Type de site " data-form-field="Type de site " class="form-check-input display-7" value="Landing page" id="Type de site -extForm3-57" <?php if (isset($_GET['site']) and $_GET['site'] == "landingPage") {
+                                        <input required type="radio" name="Type de site " data-form-field="Type de site " class="form-check-input display-7" value="Landing page" id="Type de site -extForm3-57" <?php if (isset($_GET['site']) and $_GET['site'] == "landingPage") {
                                                                                                                                                                                                             echo 'checked=""';
                                                                                                                                                                                                         } ?>>
                                         <label class="form-check-label display-7">Landing page</label>
                                     </div>
                                     <div class="form-check">
-                                        <input type="radio" name="Type de site " data-form-field="Type de site " class="form-check-input display-7" value="Site vitrine" id="Type de site -extForm3-57" <?php if (isset($_GET['site']) and $_GET['site'] == "siteVitrine") {
+                                        <input  type="radio" name="Type de site " data-form-field="Type de site " class="form-check-input display-7" value="Site vitrine" id="Type de site -extForm3-57" <?php if (isset($_GET['site']) and $_GET['site'] == "siteVitrine") {
                                                                                                                                                                                                             echo 'checked=""';
                                                                                                                                                                                                         } ?>>
                                         <label class="form-check-label display-7">Site vitrine</label>
@@ -214,7 +214,7 @@
                                     <p class="mbr-fonts-style display-5">Combien de pages avez-vous besoin ?</p>
                                 </div>
                                 <div data-for="Nombre de page" class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                    <input type="number" name="Nombre de page" placeholder="Nombre de pages" max="100" min="0" step="1" data-form-field="Nombre de page" class="form-control display-7" value="" id="Nombre de page-extForm3-57">
+                                    <input required type="number" name="Nombre de page" placeholder="Nombre de pages" max="100" min="0" step="1" data-form-field="Nombre de page" class="form-control display-7" value="" id="Nombre de page-extForm3-57">
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">
                                     <div class="form-control-label">
@@ -307,7 +307,7 @@
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">
                                     <div class="form-row">
                                         <div class="col">
-                                            <input type="text" name="nom" placeholder="Nom" data-form-field="nom" class="form-control text-multiple" value="" id="nom-extForm3-57">
+                                            <input required type="text" name="nom" placeholder="Nom*" data-form-field="nom" class="form-control text-multiple" value="" id="nom-extForm3-57">
                                         </div>
                                         <div class="col">
                                             <input type="text" name="societe" placeholder="Société" data-form-field="societe" class="form-control text-multiple" value="" id="societe-extForm3-57">
@@ -315,12 +315,13 @@
                                     </div>
                                 </div>
                                 <div data-for="telephone" class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                    <input type="tel" name="telephone" placeholder="Téléphone" data-form-field="telephone" required="required" class="form-control display-7" value="" id="telephone-extForm3-57">
+                                    <input required type="tel" name="telephone" placeholder="Téléphone*" data-form-field="telephone" required="required" class="form-control display-7" value="" id="telephone-extForm3-57">
                                 </div>
                                 <div data-for="email" class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                    <input type="email" name="email" placeholder="Adresse mail" data-form-field="email" required="required" class="form-control display-7" value="" id="email-extForm3-57">
+                                    <input required type="email" name="email" placeholder="Adresse mail*" data-form-field="email" required="required" class="form-control display-7" value="" id="email-extForm3-57">
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12">
+                                <p class="mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-7"> * Champs requis </p>
                                     <hr>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 input-group-btn mt-2"><button type="submit" class="btn btn-form btn-bgr btn-danger display-7">ENVOYER</button></div>
@@ -371,17 +372,6 @@
     <script src="assets/datepicker/jquery.datetimepicker.full.js"></script>
     <script src="assets/theme/js/script.js"></script>
     <script src="assets/formoid/formoid.min.js"></script>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-C7H5YYSF35%22%3E"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'G-C7H5YYSF35');
-    </script>
 
 
 
