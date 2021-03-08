@@ -126,7 +126,7 @@
                     <h3 class="mbr-section-subtitle mbr-medium mbr-fonts-style display-7">Quelles sont les conditions pour toucher l’aide de 500 € à la création d’un site internet ?</h3>
                     <p class="mbr-text mbr-fonts-style display-4">
                         Durant le 2e confinement, l’État a décidé de soutenir les entreprises via une aide financière à hauteur de 500 € pour la création d’un site internet (plus d’explications sur le dispositif ici).</p>
-                    <div class="mbr-section-btn"><a class="btn btn-danger display-4" href="Aide-etat.php"><span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>En savoir +<br></a></div>
+                    <div class="mbr-section-btn"><a class="btn btn-danger display-4" href="aide-etat.php"><span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>En savoir +<br></a></div>
                     
                 </div>
             </div>

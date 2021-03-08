@@ -1,3 +1,5 @@
+    <script src="tarteaucitron/tarteaucitron.js"></script>
+    <script src="/scripttarteaucitron.js"></script>
 
     <section class="menu cid-smyf9k48K2" once="" id="menu01-49">
         <nav class="navbar navbar-dropdown BgNavColor navbar-fixed-top navbar-expand-xl">
@@ -18,29 +20,29 @@
                 </div>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-info text-primary display-4" href="index.php" aria-expanded="false">
+                <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-info text-primary display-4" href="accueil.php" aria-expanded="false">
                             ACCUEIL</a></li>
-                    <li class="nav-item"><a class="nav-link link text-info text-primary display-4" href="Agence.php" aria-expanded="false">L'AGENCE MAJS</a>
+                    <li class="nav-item"><a class="nav-link link text-info text-primary display-4" href="agence.php" aria-expanded="false">L'AGENCE MAJS</a>
                         
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link link dropdown-toggle text-info display-4" href="#" aria-expanded="false" data-toggle="dropdown-submenu">SERVICES</a>
                         <div class="dropdown-menu">
                             <a class="dropdown-item text-info text-primary display-4" href="site-vitrine.php" aria-expanded="false">Site Vitrine</a>
-                            <a class="dropdown-item text-info text-primary display-4" href="site-E-Commerce.php" aria-expanded="false">Site E-commerce</a>
-                            <a class="dropdown-item text-info text-primary display-4" href="Landing-Page.php" aria-expanded="false">Site Landing page</a>
-                            <a class="dropdown-item text-info text-primary display-4" href="Refonte-de-site-Web.php" aria-expanded="false">Refonte de Site</a>
-                            <a class="dropdown-item text-info text-primary display-4" href="Sur-mesure.php" aria-expanded="false">Site sur mesure<br></a>
+                            <a class="dropdown-item text-info text-primary display-4" href="site-e-commerce.php" aria-expanded="false">Site E-commerce</a>
+                            <a class="dropdown-item text-info text-primary display-4" href="landing-page.php" aria-expanded="false">Site Landing page</a>
+                            <a class="dropdown-item text-info text-primary display-4" href="refonte-de-site-Web.php" aria-expanded="false">Refonte de Site</a>
+                            <a class="dropdown-item text-info text-primary display-4" href="sur-mesure.php" aria-expanded="false">Site sur mesure<br></a>
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link link text-info text-primary display-4" href="index.php#nos_realisations" aria-expanded="false">NOS REALISATIONS</a>
+                        <a class="nav-link link text-info text-primary display-4" href="accueil.php#nos_realisations" aria-expanded="false">NOS REALISATIONS</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link link text-info text-primary display-4" href="Pricing.php" aria-expanded="false">TARIFS</a>
+                        <a class="nav-link link text-info text-primary display-4" href="tarifs.php" aria-expanded="false">TARIFS</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link link text-info text-primary display-4" href="Actualites.php" aria-expanded="false">ACTUALITÉS</a>
+                        <a class="nav-link link text-info text-primary display-4" href="actualites.php" aria-expanded="false">ACTUALITÉS</a>
                     </li>
     <!--                 
                     <li class="nav-item"><a class="nav-link link text-white text-primary" href="page5.php" data-app-selector=".nav-link,.dropdown-item" data-app-placeholder="Type Text" aria-expanded="false">

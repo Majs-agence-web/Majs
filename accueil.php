@@ -8,7 +8,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.png" type="image/x-icon">
   <meta name="description" content="">
-  
+
+
   
   <title>ACCUEIL</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
@@ -30,8 +31,8 @@
 </head>
 <body>
   
-<?php 
-        include("header.php")
+    <?php 
+        include("header.php");
     ?>
 
 <section class="cid-slZn8dqWS3 mbr-parallax-background" id="header02-2n">
@@ -410,7 +411,7 @@
 <br><br><br><br></p>
                         <div class="link-wrap">
                             <div class="line"></div>
-                            <div class="mbr-section-btn"><a class="btn btn-md btn-danger-outline display-4" href="Sur-mesure.php"><span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>EN SAVOIR PLUS&nbsp;</a></div>
+                            <div class="mbr-section-btn"><a class="btn btn-md btn-danger-outline display-4" href="sur-mesure.php"><span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>EN SAVOIR PLUS&nbsp;</a></div>
                         </div>
                     </div>
                 </div>
@@ -427,7 +428,7 @@
 <br>Nous sommes là pour vous conseiller sur le format le plus adapté à votre besoin. <br></p>
                         <div class="link-wrap">
                             <div class="line"></div>
-                            <div class="mbr-section-btn"><a class="btn btn-md btn-danger-outline display-4" href="Landing-Page.php"><span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>EN SAVOIR PLUS&nbsp;</a></div>
+                            <div class="mbr-section-btn"><a class="btn btn-md btn-danger-outline display-4" href="landing-Page.php"><span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>EN SAVOIR PLUS&nbsp;</a></div>
                         </div>
                     </div>
                 </div>

@@ -10,7 +10,7 @@
   <meta name="description" content="">
   
   
-  <title>Pricing</title>
+  <title>Tarifs</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css">
@@ -23,10 +23,8 @@
   <link rel="stylesheet" href="assets/dropdown/css/style.css">
   <link rel="stylesheet" href="assets/socicon/css/styles.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
-  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
-  
-  
-  
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
 </head>
 <body>
@@ -44,7 +42,7 @@
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-12 text-center mx-auto">
-                <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-1">Pricing<br></h1>
+                <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-1">Tarifs<br></h1>
                 
                 
                 
@@ -102,8 +100,7 @@
                         <span class="mbr-iconfont mbrib-like" style="font-size: 85px;"></span>
                     </div>
                     <div class="card-box">
-                        <h4 class="card-title mbr-fonts-style align-center display-5">Aucun frais caché
-</h4>
+                        <h4 class="card-title mbr-fonts-style align-center display-5">Aucun frais caché</h4>
                         <p class="mbr-text mbr-fonts-style align-center display-7">Avec Majs nous communiquerons nos tarifs sur les options et les services.&nbsp;<br></p>
                     </div>
                 </div>
@@ -115,8 +112,7 @@
                         <span class="mbr-iconfont icon54-v1-money-bag" style="font-size: 85px;"></span>
                     </div>
                     <div class="card-box">
-                        <h4 class="card-title mbr-fonts-style align-center display-5">Un prix juste
-</h4>
+                        <h4 class="card-title mbr-fonts-style align-center display-5">Un prix juste</h4>
                         <p class="mbr-text mbr-fonts-style align-center display-7">Avec notre structure 100% en ligne, nous pouvons vous proposer des prix justes et dans les moins chers du marché.&nbsp;<br></p>
                     </div>
                 </div>
@@ -128,10 +124,7 @@
 </section>
 
 <section class="extTabs tabs cid-spniIXjsh8" id="extTabs11-5o">
-
-    
-
-    
+   
     <div class="container d-flex flex-column">
         <ul class="nav nav-tabs mb-4 justify-content-center mx-auto d-flex" role="tablist">
             <li class="nav-item first mbr-section-btn"><a class="mbr-fonts-style btn-sm btn show active display-5" role="tab" data-toggle="tab" href="#extTabs11-5o_tab0" aria-selected="true">Location</a></li>
@@ -162,7 +155,9 @@
                                         <li class="list-group-item">Hébergement &amp; maintenance (inclus)</li>
                                     </ul>
                                 </div>
-                                <div class="mbr-section-btn text-center pt-5"><a href="#" class="btn btn-danger display-4">CHOISIR CETTE OFFRE</a></div>
+                                <div class="mbr-section-btn text-center pt-5">
+                                    <a href="landing-page.php" class="btn btn-danger display-4">Découvrir l'offre</a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -172,9 +167,7 @@
                                 <h3 class="plan-title mbr-fonts-style display-5">
                                     Site Vitrine</h3>
                                 <div class="plan-price  py-3">
-
-                                    <span class="price-figure mbr-fonts-style display-1">
-                                        70</span>
+                                    <span class="price-figure mbr-fonts-style display-1">70</span>
                                     <span class="price-value mbr-fonts-style display-5">€/mois</span>
                                 </div>
                                 <h4 class="plan-text mbr-fonts-style pb-4 m-0 display-5"></h4>
@@ -189,17 +182,15 @@
                                         <li class="list-group-item">Hébergement &amp; maintenance (inclus)</li>
                                     </ul>
                                 </div>
-                                <div class="mbr-section-btn text-center pt-5"><a href="#" class="btn btn-danger display-4">CHOISIR CETTE OFFRE</a></div>
+                                <div class="mbr-section-btn text-center pt-5"><a href="site-vitrine.php" class="btn btn-danger display-4">Découvrir l'offre</a></div>
                             </div>
                         </div>
                     </div>
                     <div class="plan col-12 justify-content-center col-lg-4">
                         <div class="card3">
                             <div class="plan-header text-center">
-                                <h3 class="plan-title mbr-fonts-style display-5">
-                                    E-Commerce</h3>
+                                <h3 class="plan-title mbr-fonts-style display-5">E-Commerce</h3>
                                 <div class="plan-price py-3">
-
                                     <span class="price-figure mbr-fonts-style display-1">80</span>
                                     <span class="price-value mbr-fonts-style display-5">€/mois</span>
                                 </div>
@@ -208,14 +199,14 @@
                             <div class="plan-body">
                                 <div class="plan-list align-center">
                                     <ul class="list-group list-group-flush mbr-fonts-style display-7">
-                                        <li class="list-group-item">Site Internet Prestashop
-</li><li class="list-group-item">Fiche Google My Business
-</li><li class="list-group-item">Google Analytics
-</li><li class="list-group-item">Nom de domaine &amp; e-mails (inclus)
-</li><li class="list-group-item">Hébergement &amp; maintenance (inclus)</li>
+                                        <li class="list-group-item">Site Internet Prestashop</li>
+                                        <li class="list-group-item">Fiche Google My Business</li>
+                                        <li class="list-group-item">Google Analytics</li>
+                                        <li class="list-group-item">Nom de domaine &amp; e-mails (inclus)</li>
+                                        <li class="list-group-item">Hébergement &amp; maintenance (inclus)</li>
                                     </ul>
                                 </div>
-                                <div class="mbr-section-btn text-center pt-5"><a href="#" class="btn btn-danger display-4">CHOISIR CETTE OFFRE</a></div>
+                                <div class="mbr-section-btn text-center pt-5"><a href="site-e-commerce.php" class="btn btn-danger display-4">Découvrir l'offre</a></div>
                             </div>
                         </div>
                     </div>
@@ -230,7 +221,7 @@
                             <div class="plan-header text-center">
                                 <h3 class="plan-title mbr-fonts-style display-5">Landing Page</h3>
                                 <div class="plan-price py-3">
-
+                                    <p class="mbr-text mbr-fonts-style align-center display-7">A partir de</p>
                                     <span class="price-figure mbr-fonts-style display-1">
                                         950</span>
                                     <span class="price-value mbr-fonts-style display-5">€ /HT</span>
@@ -240,23 +231,26 @@
                             <div class="plan-body">
                                 <div class="plan-list align-center">
                                     <ul class="list-group list-group-flush mbr-fonts-style display-7">
-                                        <li class="list-group-item">Site Internet Mobirise</li><li class="list-group-item"><span style="background-color: transparent; font-size: 1.2rem;">Fiche Google My Business</span></li><li class="list-group-item">Google Analytics
-</li><li class="list-group-item">Nom de domaine &amp; e-mails (option)
-</li><li class="list-group-item">Hébergement &amp; maintenance (option)</li>
+                                        <li class="list-group-item">Site Internet Mobirise</li>
+                                        <li class="list-group-item"><span style="background-color: transparent; font-size: 1.2rem;">Fiche Google My Business</span></li>
+                                        <li class="list-group-item">Google Analytics</li>
+                                        <li class="list-group-item">Nom de domaine &amp; e-mails (option)</li>
+                                        <li class="list-group-item">Hébergement &amp; maintenance (option)</li>
                                     </ul>
                                 </div>
-                                <div class="mbr-section-btn text-center pt-5"><a href="#" class="btn btn-danger display-4">CHOISIR CETTE OFFRE</a></div>
+                                <div class="mbr-section-btn text-center pt-5">
+                                    <a href="landing-page.php" class="btn btn-danger display-4">Découvrir l'offre</a>
+                                </div>
                             </div>
                         </div>
                     </div>
                     <div class="plan col-12 justify-content-center col-lg-4">
                         <div class="card2">
                             <div class="plan-header text-center">
-                                <h3 class="plan-title mbr-fonts-style display-5">Site Vitrine
-</h3>
+                                <h3 class="plan-title mbr-fonts-style display-5">Site Vitrine</h3>
                                 <div class="plan-price  py-3">
-
-                                    <span class="price-figure mbr-fonts-style display-1">1300</span>
+                                    <p class="mbr-text mbr-fonts-style align-center display-7">A partir de</p>
+                                    <span class="price-figure mbr-fonts-style display-1">1500</span>
                                     <span class="price-value mbr-fonts-style display-5">€/HT</span>
                                 </div>
                                 <h4 class="plan-text mbr-fonts-style pb-4 m-0 display-5"></h4>
@@ -265,13 +259,13 @@
                                 <div class="plan-list align-center">
                                     <ul class="list-group list-group-flush mbr-fonts-style display-7">
                                         <li class="list-group-item">Site Internet WordPress
-</li><li class="list-group-item">Fiche Google My Business
-</li><li class="list-group-item">Google Analytics
-</li><li class="list-group-item">Nom de domaine &amp; e-mails (option)
-</li><li class="list-group-item">Hébergement &amp; maintenance (option)</li>
+                                        </li><li class="list-group-item">Fiche Google My Business
+                                        </li><li class="list-group-item">Google Analytics
+                                        </li><li class="list-group-item">Nom de domaine &amp; e-mails (option)
+                                        </li><li class="list-group-item">Hébergement &amp; maintenance (option)</li>
                                     </ul>
                                 </div>
-                                <div class="mbr-section-btn text-center pt-5"><a href="#" class="btn btn-danger display-4">CHOISIR CETTE OFFRE</a></div>
+                                <div class="mbr-section-btn text-center pt-5"><a href="site-vitrine.php" class="btn btn-danger display-4">Découvrir l'offre</a></div>
                             </div>
                         </div>
                     </div>
@@ -281,7 +275,7 @@
                                 <h3 class="plan-title mbr-fonts-style display-5">
                                     E-Commerce</h3>
                                 <div class="plan-price py-3">
-
+                                    <p class="mbr-text mbr-fonts-style align-center display-7">A partir de</p>
                                     <span class="price-figure mbr-fonts-style display-1">2000</span>
                                     <span class="price-value mbr-fonts-style display-5">€/HT</span>
                                 </div>
@@ -291,13 +285,13 @@
                                 <div class="plan-list align-center">
                                     <ul class="list-group list-group-flush mbr-fonts-style display-7">
                                         <li class="list-group-item">Site Internet Prestashop
-</li><li class="list-group-item">Fiche Google My Business
-</li><li class="list-group-item">Google Analytics
-</li><li class="list-group-item">Nom de domaine &amp; e-mails (option)
-</li><li class="list-group-item">Hébergement &amp; maintenance (option)</li>
+                                        </li><li class="list-group-item">Fiche Google My Business
+                                        </li><li class="list-group-item">Google Analytics
+                                        </li><li class="list-group-item">Nom de domaine &amp; e-mails (option)
+                                        </li><li class="list-group-item">Hébergement &amp; maintenance (option)</li>
                                     </ul>
                                 </div>
-                                <div class="mbr-section-btn text-center pt-5"><a href="#" class="btn btn-danger display-4">CHOISIR CETTE OFFRE</a></div>
+                                <div class="mbr-section-btn text-center pt-5"><a href="site-e-commerce.php" class="btn btn-danger display-4">Découvrir l'offre</a></div>
                             </div>
                         </div>
                     </div>

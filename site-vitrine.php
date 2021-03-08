@@ -158,7 +158,7 @@
                 <div class="mbr-text align-center mbr-white pb-2">
                     
                 </div>
-                <div class="mbr-section-btn align-center"><a class="btn btn-md btn-danger display-4" href="Devis.php?site=siteVitrine">DEMANDER UN DEVIS</a></div>
+                <div class="mbr-section-btn align-center"><a class="btn btn-md btn-danger display-4" href="devis.php?site=siteVitrine">DEMANDER UN DEVIS</a></div>
             </div>
 
         </div>
