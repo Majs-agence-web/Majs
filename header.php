@@ -4,7 +4,7 @@
             <div class="navbar-brand">
                 <span class="navbar-logo">
                     <a href="index.php">
-                        <img src="assets/images/logomajs-vectoriel.svg" alt="Majs" style="height: 4.7rem;">
+                        <img src="assets/images/logomajs-vectoriel.svg" alt="Majs" style="height: 6rem;">
                     </a>
                 </span>
                 
