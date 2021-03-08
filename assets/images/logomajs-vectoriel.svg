@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="127" height="91.213" viewBox="0 0 127 91.213">
-  <g id="Groupe_3" data-name="Groupe 3" transform="translate(-1320.143 -909)">
+<svg xmlns="http://www.w3.org/2000/svg" width="127.143" height="91.213" viewBox="0 0 127.143 91.213">
+  <g id="Groupe_3" data-name="Groupe 3" transform="translate(-1320 -909)">
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="127" height="91" rx="5" transform="translate(1320 909)" fill="#fff"/>
     <rect id="Rectangle_6" data-name="Rectangle 6" width="127" height="17" rx="5" transform="translate(1320.143 909)" fill="#3b735f"/>
     <circle id="Ellipse_7" data-name="Ellipse 7" cx="3.5" cy="3.5" r="3.5" transform="translate(1330.143 914)" fill="#fff"/>
     <circle id="Ellipse_8" data-name="Ellipse 8" cx="3.5" cy="3.5" r="3.5" transform="translate(1340.143 914)" fill="#fff"/>
@@ -11,7 +12,7 @@
     <circle id="path2031" cx="3.019" cy="3.019" r="3.019" transform="translate(1399.506 939.5)" fill="#e4bd4d" opacity="0.997" style="isolation: isolate"/>
     <text id="WEB" transform="translate(1336.628 984.301)" fill="#3b735f" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.396em"><tspan x="0" y="0">WEB</tspan></text>
     <text id="AGENCY" transform="translate(1362.725 997.213)" fill="#3b735f" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.396em"><tspan x="0" y="0">AGENCY</tspan></text>
-    <rect id="Rectangle_7" data-name="Rectangle 7" width="4" height="78" transform="translate(1320.143 920)" fill="#3b735f"/>
-    <rect id="Rectangle_8" data-name="Rectangle 8" width="4" height="15" transform="translate(1443.143 921)" fill="#3b735f"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="4" height="78" rx="2" transform="translate(1320.143 920)" fill="#3b735f"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="4" height="18" rx="2" transform="translate(1443.143 918)" fill="#3b735f"/>
   </g>
 </svg>
