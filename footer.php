@@ -18,7 +18,7 @@
         <div class="media-container-row content text-white">
             <div class="col-12 col-md-6 col-lg-3">
                 <div class="media-wrap align-left">
-                    <a href="accueil.php">
+                    <a href="index.php">
                         <img src="assets/images/logomajs-vectoriel-footer.svg" alt="Majs">
                     </a>
                 </div>

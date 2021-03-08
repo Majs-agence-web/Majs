@@ -20,7 +20,7 @@
                 </div>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-info text-primary display-4" href="accueil.php" aria-expanded="false">
+                <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-info text-primary display-4" href="index.php" aria-expanded="false">
                             ACCUEIL</a></li>
                     <li class="nav-item"><a class="nav-link link text-info text-primary display-4" href="agence.php" aria-expanded="false">L'AGENCE MAJS</a>
                         
@@ -36,7 +36,7 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link link text-info text-primary display-4" href="accueil.php#nos_realisations" aria-expanded="false">NOS REALISATIONS</a>
+                        <a class="nav-link link text-info text-primary display-4" href="index.php#nos_realisations" aria-expanded="false">NOS REALISATIONS</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link link text-info text-primary display-4" href="tarifs.php" aria-expanded="false">TARIFS</a>
