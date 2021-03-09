@@ -25,7 +25,7 @@
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
-  
+  <script src="testTaille.js"></script>
   
   <style>section.test {display:none}</style>
 </head>
@@ -125,7 +125,7 @@
  <div class="container">
         <div class="media-container-row">
 
-            <div class="card p-3 col-12 col-md-8 col-lg-4">
+            <div class="card p-3 nosSite">
 <!--                 <div class="card-img pb-4">
                     <span mbr-icon class="mbr-iconfont mbri-devices" style="color: rgb(85, 128, 255); fill: rgb(85, 128, 255);"></span>
                     
@@ -151,11 +151,13 @@
                 <div class="card-box">
                     <h4 class="card-title py-2 mbr-fonts-style display-5">
                         Développement web&nbsp;</h4>
-                    <p class="mbr-text mbr-fonts-style display-7">Nos priorités : être à la pointe des dernières technologies, gérer les formats mobiles, sécurité, rapidité, référencement. « Accompagnement de la maintenance »<br><br><br></p>
+                    <p class="mbr-text mbr-fonts-style display-7">Nos priorités : être à la pointe des dernières technologies, gérer les formats mobiles, sécurité, rapidité, référencement.
+                        <br> « Accompagnement de la maintenance »
+                    </p>
                 </div>
             </div>
 
-            <div onshow="myFunction()" class="teste3 card p-3 col-12 col-md-8 col-lg-4">
+            <div onshow="myFunction()" class="teste3 card p-3 nosSite">
 <!--                 <div class="card-img pb-4">
                     <span mbr-icon class="mbr-iconfont mbri-preview"></span>
                 </div> -->
@@ -193,14 +195,11 @@
       
                     
                     <h4 class="card-title py-2 mbr-fonts-style display-5">Design</h4>
-                    <p class="mbr-text mbr-fonts-style display-7">Logo, charte graphique, bannières, web design, infographie, etc.
-                        <br>Nous vous accompagnons dans la transformation de votre image numérique, notre créativité et notre savoir-faire sont à votre service.
-
-<br></p>
+                    <p class="mbr-text mbr-fonts-style display-7">Logo, charte graphique, bannières, web design, infographie, etc.Nous vous accompagnons dans la transformation de votre image numérique, notre créativité et notre savoir-faire sont à votre service.</p>
                 </div>
             </div>
 
-            <div class="card card8 p-3 col-12 col-md-8 col-lg-4">
+            <div class="card card8 p-3 nosSite">
 <!--                 <div class="card-img pb-4">
                     <span mbr-icon class="mbr-iconfont mbri-search"></span>
                 </div> -->
@@ -221,12 +220,8 @@
    </div>    
                 
                 <div class="card-box">
-                    <h4 class="card-title py-2 mbr-fonts-style display-5">
-
-                        Réferencement SEO</h4>
-                    <p class="mbr-text mbr-fonts-style display-7">Améliorer le positionnement de votre site dans les résultats de recherche grâce au référencement naturel afin que les internautes vous trouvent sur des requêtes stratégiques pour votre entreprise.
-
-<br><br></p>
+                    <h4 class="card-title py-2 mbr-fonts-style display-5">Réferencement SEO</h4>
+                    <p class="mbr-text mbr-fonts-style display-7">Améliorer le positionnement de votre site dans les résultats de recherche grâce au référencement naturel afin que les internautes vous trouvent sur des requêtes stratégiques pour votre entreprise.</p>
                 </div>
             </div>
 
@@ -361,15 +356,16 @@
         <h4 class="main-title pb-5 mbr-regular mbr-fonts-style display-1"><span style="color:#ecc979;">{&nbsp;</span>Nos Services&nbsp;<span style="color:#ecc979;">}</span></h4>
 
         <div class="row">
-            <div class="card p-3 col-12 col-md-6 col-lg-3">
+            <div class="card p-3 col-12 col-md-6 nosService">
                 <div class="card-wrapper">
                     <div class="card-img">
                         <img src="assets/images/03.jpg" alt="">
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-2 mbr-fonts-style display-5"><strong>Site vitrine</strong></h4>
-                        <p class="mbr-text pb-2 mbr-fonts-style display-7">Vous voulez communiquer votre activité sur le web et souhaitez présenter vos services à vos clients ?
-                            <br>Le site vitrine est la solution idéale. MAJS Web Agency, vous accompagne dans la création de votre site vitrine.<br><br></p>
+                        <p class="mbr-text pb-5 mbr-fonts-style display-7">Vous voulez communiquer votre activité sur le web et souhaitez présenter vos services à vos clients ?
+                            <br>Le site vitrine est la solution idéale. MAJS Web Agency, vous accompagne dans la création de votre site vitrine.<span class="m-0" style="opacity: 0;">Lorem ipsum dolor sit amet leo.</span></p>
+                        
 
                         <div class="link-wrap">
                             <div class="line"></div>
@@ -381,14 +377,14 @@
                 </div>
             </div>
 
-            <div class="card p-3 col-12 col-md-6 col-lg-3">
+            <div class="card p-3 col-12 col-md-6 nosService">
                 <div class="card-wrapper">
                     <div class="card-img">
                         <img src="assets/images/04.jpg" alt="">
                     </div>
                     <div class="card-box ">
                         <h4 class="card-title pb-2 mbr-fonts-style display-5"><strong>Site E-commerce</strong></h4>
-                        <p class="mbr-text pb-2 mbr-fonts-style display-7">Vous êtes un commerçant ?  &nbsp; Vous avez besoin de vendre sur internet ?&nbsp; Nous sommes là pour vous accompagner dans cette démarche.<br><br><br><br><br></p>
+                        <p class="mbr-text pb-5 mbr-fonts-style display-7">Vous êtes un commerçant ?  &nbsp; Vous avez besoin de vendre sur internet ?&nbsp; Nous sommes là pour vous accompagner dans cette démarche.</p>
                         <div class="link-wrap">
                             <div class="line"></div>
                             <div class="mbr-section-btn"><a class="btn btn-md btn-danger-outline display-4" href="site-E-Commerce.php"><span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>EN SAVOIR PLUS&nbsp;</a></div>
@@ -397,7 +393,7 @@
                 </div>
             </div>
 
-            <div class="card p-3 col-12 col-md-6 col-lg-3">
+            <div class="card p-3 col-12 col-md-6 nosService">
                 <div class="card-wrapper">
                     <div class="card-img">
                         <img src="assets/images/07.jpg" alt="">
@@ -405,11 +401,8 @@
                     <div class="card-box">
                         <h4 class="card-title pb-2 mbr-fonts-style display-5"><strong>Site sur-mesure
                         </strong></h4>
-                        <p class="mbr-text pb-2 mbr-fonts-style display-7">Un projet hors-norme&nbsp;? Vous avez besoin d’une plateforme sur-mesure&nbsp;?
-<br>				L’agence MAJS vous accompagne dans les moindres détails.
-
-<br><br><br><br></p>
-                        <div class="link-wrap">
+                        <p class="mbr-text pb-5 mbr-fonts-style display-7">Un projet hors-norme&nbsp;? Vous avez besoin d’une plateforme sur-mesure&nbsp;?<br>L’agence MAJS vous accompagne dans les moindres détails.<br></p>
+                        <div class="link-wrap ">
                             <div class="line"></div>
                             <div class="mbr-section-btn"><a class="btn btn-md btn-danger-outline display-4" href="sur-mesure.php"><span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>EN SAVOIR PLUS&nbsp;</a></div>
                         </div>
@@ -417,15 +410,16 @@
                 </div>
             </div>
 
-            <div class="card p-3 col-12 col-md-6 col-lg-3">
+            <div class="card p-3 col-12 col-md-6 nosService">
                 <div class="card-wrapper">
                     <div class="card-img">
                         <img src="assets/images/08.jpg" alt="">
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-2 mbr-fonts-style display-5"><strong>Landing page</strong></h4>
-                        <p class="mbr-text pb-2 mbr-fonts-style display-7">Plus communément appelé mini-site en Français, cet outil est idéal pour relayer une campagne publicitaire. Cela peut être aussi utile pour présenter votre activité.
-<br>Nous sommes là pour vous conseiller sur le format le plus adapté à votre besoin. <br></p>
+                        <p class="mbr-text pb-5 mbr-fonts-style display-7">Plus communément appelé mini-site en Français, cet outil est idéal pour relayer une campagne publicitaire. Cela peut être aussi utile pour présenter votre activité.
+                            <br>Nous sommes là pour vous conseiller sur le format le plus adapté à votre besoin. <br>
+                        </p>
                         <div class="link-wrap">
                             <div class="line"></div>
                             <div class="mbr-section-btn"><a class="btn btn-md btn-danger-outline display-4" href="landing-Page.php"><span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>EN SAVOIR PLUS&nbsp;</a></div>

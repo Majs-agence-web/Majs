@@ -115,7 +115,8 @@
     
 
             <div class="col-lg-6 my-auto pb-4 mbr-form" data-form-type="formoid">
-                <form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" data-form-title="Form Name"><input type="hidden" name="email" data-form-email="true" value="g95vlZWvtCsMur4tRs0/7/Zn9gSF5x1rYANP51vYqm26sYmuWskWv7byNYhssXN/lXLNRiBAros7F1mbzMGVsTVnt4oZ19MlG+xfZb2nJp+NAAXXBwaT+H17XVhw4G+J">
+                <form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" data-form-title="Form Name">
+                    <input type="hidden" name="email" data-form-email="true" value="g95vlZWvtCsMur4tRs0/7/Zn9gSF5x1rYANP51vYqm26sYmuWskWv7byNYhssXN/lXLNRiBAros7F1mbzMGVsTVnt4oZ19MlG+xfZb2nJp+NAAXXBwaT+H17XVhw4G+J">
                     <div class="form-row">
                         <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Merci pour votre message, nous vous contacterons sous 24h.</div>
                         <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">Oops...! some problem!</div>
@@ -124,19 +125,27 @@
                         <div class="col-lg-12 align-left">
                             <h5 class="mbr-regular mbr-fonts-style display-2">Nous Contactez</h5>
                         </div>
-                        <div class="col-lg-12 form-group" data-for="Full Name">
-                            <input type="text" name="Name" placeholder="Société" data-form-field="Name" required="required" class="form-control display-7" id="Name-forms03-s">
+                        <div data-for="Nom" class="col-lg-12 form-group">
+                            <input type="text" name="Nom" placeholder="Nom*" data-form-field="Nom" class="form-control display-7" required id="Nom-forms03-s">
+                        </div>
+                        <div data-for="Société" class="col-lg-12 form-group" >
+                            <input type="text" name="Société" placeholder="Société" data-form-field="Société" class="form-control display-7" id="Société-forms03-s">
                         </div>
                         <div data-for="Phone" class="col-lg-6 form-group">
-                            <input type="tel" name="Phone" placeholder="Téléphone" data-form-field="Phone" class="form-control display-7" required="required" id="Phone-forms03-s">
+                            <input type="tel" name="Phone" placeholder="Téléphone*" data-form-field="Phone" class="form-control display-7" required id="Phone-forms03-s">
                         </div>
                         <div data-for="Email" class="col-lg-6 form-group">
-                            <input type="email" name="Email" placeholder="Email" data-form-field="Email" class="form-control display-7" required="required" id="Email-forms03-s">
+                            <input type="email" name="Email" placeholder="Email*" data-form-field="Email" class="form-control display-7" required id="Email-forms03-s">
                         </div>
                         <div data-for="Message" class="col-lg-12 form-group">
-                            <textarea name="Message" placeholder="Message" data-form-field="Message" class="form-control display-7" id="Message-forms03-s"></textarea>
+                            <textarea name="Message" placeholder="Message*" data-form-field="Message" class="form-control display-7" required id="Message-forms03-s"></textarea>
                         </div>
-                        <div class="col-auto"><button type="submit" class="btn btn-info display-4" href="mailto:jemlaleffe59@gmail.com">Envoyer</button></div>
+                        <div class="col-12">
+                            <p class="mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-7"> * Champs requis </p>
+                        </div>
+                        <div class="col-auto">
+                            <button type="submit" class="btn btn-info display-4" href="mailto:contact@majs.fr">Envoyer</button>
+                        </div>
                     </div>
                 </form>
             </div>

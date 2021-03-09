@@ -107,10 +107,11 @@
                 <div class="col-md-10 col-lg-8 block-content">
                     <div data-form-type="formoid">
                         <!--Formbuilder Form-->
-                        <form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" data-form-title="Formulaire Devis"><input type="hidden" name="email" data-form-email="true" value="BX5nXUje0eDu4ncnCmt3GX2svXYsgzSYUEeEOdwmggTb+3HvgtxEWjKFOx9S5OmFinA5ZmlraZzrrpEKDeQne0yvY2lEleSljBAhfxUUoR2Yh0r21aSw2H3Ys44LS5vh">
+                        <form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" data-form-title="Formulaire Devis">
+                            <input type="hidden" name="email" data-form-email="true" value="BX5nXUje0eDu4ncnCmt3GX2svXYsgzSYUEeEOdwmggTb+3HvgtxEWjKFOx9S5OmFinA5ZmlraZzrrpEKDeQne0yvY2lEleSljBAhfxUUoR2Yh0r21aSw2H3Ys44LS5vh">
                             <div class="form-row">
                                 <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Merci pour votre mail, nous vous contacterons le plus rapidement possible</div>
-                                <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12"> </div>
+                                <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12"></div>
                             </div>
                             <div class="dragArea form-row">
                                 <div class="col-lg-12 col-md-12 col-sm-12">
