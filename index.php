@@ -58,7 +58,7 @@
                     <div class="container align-center">
                         <div class="row justify-content-md-start">
                             <div class="mbr-white col-12 text-center mx-auto">
-                                <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-1">“ Faire du Web la plus belle vitrine de votre savoir-faire ”</h1>
+                                <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-2">“ Faire du Web la plus belle vitrine de votre savoir-faire ”</h1>
 
 
 
