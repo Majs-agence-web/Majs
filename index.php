@@ -51,19 +51,10 @@
         <div class="container align-center">
             <div class="row justify-content-md-start">
                 <div class="mbr-white col-12 text-center mx-auto">
-                    <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-1">“ Vous avez des idées, nous les réalisons ”</h1>
-
-
-
-                    <div class="container align-center">
-                        <div class="row justify-content-md-start">
-                            <div class="mbr-white col-12 text-center mx-auto">
-                                <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-2">“ Faire du Web la plus belle vitrine de votre savoir-faire ”</h1>
-
-
-
-                            </div>
-                        </div>
+                    <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-2">“ Faire du Web la plus belle vitrine de votre savoir-faire ”</h1>
+                </div>
+            </div>
+        </div>
 
     </section>
 
@@ -879,15 +870,6 @@
                             <div class="col-md-12">
                                 <div class="wrap-img ">
                                     <img src="assets/images/logogalichetrenove-1316x735.png" class="img-responsive clients-img" alt="">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="carousel-item ">
-                        <div class="media-container-row">
-                            <div class="col-md-12">
-                                <div class="wrap-img ">
-                                    <img src="assets/images/logocasa-240x165.png" class="img-responsive clients-img" alt="">
                                 </div>
                             </div>
                         </div>
