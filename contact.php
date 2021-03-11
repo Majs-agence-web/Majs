@@ -140,6 +140,12 @@
                         <div data-for="Message" class="col-lg-12 form-group">
                             <textarea name="Message" placeholder="Message*" data-form-field="Message" class="form-control display-7" required id="Message-forms03-s"></textarea>
                         </div>
+                        <div class="col-lg-12 col-md-12 col-sm-12 form-group">
+                            <div data-for="J’accepte que mes données personnelles soient collectées, traitées et utilisées par Majs Web Agency afin de répondre à ma demande de contact et à recevoir le cas échéant l’actualité et les offres commerciales par emails." class="form-check">
+                                <input type="checkbox" required value="Yes" name="J’accepte que mes données personnelles soient collectées, traitées et utilisées par Majs Web Agency afin de répondre à ma demande de contact et à recevoir le cas échéant l’actualité et les offres commerciales par emails." data-form-field="J’accepte que mes données personnelles soient collectées, traitées et utilisées par Majs Web Agency afin de répondre à ma demande de contact et à recevoir le cas échéant l’actualité et les offres commerciales par emails." class="form-check-input display-7" id="J’accepte que mes données personnelles soient collectées, traitées et utilisées par Majs Web Agency afin de répondre à ma demande de contact et à recevoir le cas échéant l’actualité et les offres commerciales par emails.-extForm20-c">
+                                <label for="J’accepte que mes données personnelles soient collectées, traitées et utilisées par Majs Web Agency afin de répondre à ma demande de contact et à recevoir le cas échéant l’actualité et les offres commerciales par emails.-extForm20-c" class="form-check-label display-7">J’accepte que mes données personnelles soient collectées, traitées et utilisées par Majs Web Agency afin de répondre à ma demande de contact et à recevoir le cas échéant l’actualité et les offres commerciales par emails comme spécifié dans notre.</label>
+                            </div>
+                        </div>
                         <div class="col-12">
                             <p class="mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-7"> * Champs requis </p>
                         </div>

@@ -570,9 +570,20 @@ nav .mbr-section-btn {
 }
 
 .nav-dropdown .link {
+  padding: .667em 1.667em;
+  margin: 0 ;
+}
+
+.NavigationScript1200Plus{
   padding: .667em 1.667em !important;
   margin: 0 !important;
 }
+
+.NavigationScript1200Moin{
+  padding: .667em 0.85em !important;
+  margin: 0 !important;
+}
+
 
 .nav {
   display: -webkit-flex;

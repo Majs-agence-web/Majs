@@ -27,7 +27,7 @@
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
 
-    <script src="testTaille.js"></script>
+    <script src="Scripts.js"></script>
 
     <style>
         section.test {
@@ -58,6 +58,7 @@
 
     </section>
 
+<!--
     <section class="header4 cid-slqagl251D" id="content06-8">
 
 
@@ -86,7 +87,54 @@
         </div>
 
     </section>
+-->
+<section class="counters1 counters cid-slvlgxrWuB" roup="Counters" id="counters03-1o">
 
+    
+
+    
+
+
+
+    <div class="container">
+        <div class="row">
+        
+        <div class="col-xl-6 d-none d-lg-none d-xl-block align-center img-box">
+                <div>
+                <img class="img1" src="assets/images/pexels-burst-374016-684x456.jpg" alt="">
+                </div>
+                <div>
+                <br>
+                <img class="img2" src="assets/images/irfan-simsar-wxwulfjn-g0-unsplash-684x912.png" alt="">
+                </div>
+            </div>
+
+            <div class="col-12 col-md-10 col-lg-10 col-xl-6 py-4 m-auto">
+                <h1 class="mbr-section-title pb-3 mbr-fonts-style display-1"><span style="color:#ecc979;">{</span> Qui sommes nous ? <span style="color:#ecc979;">}</span></h1>
+                
+                    <p class="mbr-text align-left mbr-light mbr-fonts-style display-7">
+                    <br>
+                    <strong>Agence Web Enthousiaste<br></strong>
+                    MAJS est une agence digitale située à Croix, composée de 3 spécialistes du web : développeur, chef de projet et webdesigner.
+                    <br>
+                    <br>
+                    Nous aidons nos clients à digitaliser leur communication en offrant une expérience utilisateur simple et efficace.
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                </p>
+            </div>
+
+
+        </div>
+
+    </div>
+  
+
+</section>
     <section class="clients cid-smykxObL6s" id="clients01-4a">
 
 
@@ -371,7 +419,7 @@
                         <div class="card-box">
                             <h4 class="card-title pb-2 mbr-fonts-style display-5"><strong>Site vitrine</strong></h4>
                             <p class="mbr-text pb-5 mbr-fonts-style display-7">Vous voulez communiquer votre activité sur le web et souhaitez présenter vos services à vos clients ?
-                                <br>Le site vitrine est la solution idéale. MAJS Web Agency, vous accompagne dans la création de votre site vitrine. Lorem ipsum dolor sit amet leo.
+                                <br>Le site vitrine est la solution idéale. MAJS Web Agency, vous accompagne dans la création de votre site vitrine.
                             </p>
 
 

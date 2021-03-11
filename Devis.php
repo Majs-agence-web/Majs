@@ -321,8 +321,14 @@
                                 <div data-for="email" class="col-lg-12 col-md-12 col-sm-12 form-group">
                                     <input required type="email" name="email" placeholder="Adresse mail*" data-form-field="email" required="required" class="form-control display-7" value="" id="email-extForm3-57">
                                 </div>
+                                <div class="col-lg-12 col-md-12 col-sm-12 form-group">
+                                    <div data-for="J’accepte que mes données personnelles soient collectées, traitées et utilisées par Majs Web Agency afin de répondre à ma demande de contact et à recevoir le cas échéant l’actualité et les offres commerciales par emails." class="form-check">
+                                        <input type="checkbox" required value="Yes" name="J’accepte que mes données personnelles soient collectées, traitées et utilisées par Majs Web Agency afin de répondre à ma demande de contact et à recevoir le cas échéant l’actualité et les offres commerciales par emails." data-form-field="J’accepte que mes données personnelles soient collectées, traitées et utilisées par Majs Web Agency afin de répondre à ma demande de contact et à recevoir le cas échéant l’actualité et les offres commerciales par emails." class="form-check-input display-7" id="J’accepte que mes données personnelles soient collectées, traitées et utilisées par Majs Web Agency afin de répondre à ma demande de contact et à recevoir le cas échéant l’actualité et les offres commerciales par emails.-extForm20-c">
+                                        <label for="J’accepte que mes données personnelles soient collectées, traitées et utilisées par Majs Web Agency afin de répondre à ma demande de contact et à recevoir le cas échéant l’actualité et les offres commerciales par emails.-extForm20-c" class="form-check-label display-7">J’accepte que mes données personnelles soient collectées, traitées et utilisées par Majs Web Agency afin de répondre à ma demande de contact et à recevoir le cas échéant l’actualité et les offres commerciales par emails comme spécifié dans notre.</label>
+                                    </div>
+                                </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12">
-                                <p class="mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-7"> * Champs requis </p>
+                                    <p class="mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-7"> * Champs requis </p>
                                     <hr>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 input-group-btn mt-2"><button type="submit" class="btn btn-form btn-bgr btn-danger display-7">ENVOYER</button></div>

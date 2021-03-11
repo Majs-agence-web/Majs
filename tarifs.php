@@ -61,7 +61,7 @@
     <div class="container align-center">
         <div class="row justify-content-md-start justify-content-md-center">
             <div class="mbr-white col-sm-12 col-md-10 col-lg-8">
-                <h1 class="mbr-section-title mbr-regular align-center mbr-fonts-style display-2">Quel est le tarif de mon site internet?</h1>
+                <h1 class="mbr-section-title mbr-regular align-center mbr-fonts-style display-2">Quel est le tarif de mon site&nbsp;internet&nbsp;?</h1>
                 
                 <p class="mbr-text mbr-light align-center mbr-fonts-style display-7 pt-3">
                     Nous avons décidé d'avoir une politique de prix transparent pour que puissiez prévoir au mieux votre budget. Les deux solutions que nous proposons est l'achat de votre site internet ou sinon pour les budgets serré la location avec option d'achat de votre site. Dans les différentes solutions que nous proposons, nous essayons de répondre au mieux aux différentes demandes de nos clients (site vitrine, site e-commerce etc.)</p>

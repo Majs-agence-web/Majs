@@ -95,66 +95,12 @@
                 <h1 class="mbr-section-title pb-3 mbr-fonts-style display-1"><span style="color:#ecc979;">{</span> Notre vision <span style="color:#ecc979;">}</span></h1>
                 
                 <p class="mbr-text align-left mbr-light mbr-fonts-style display-7">Nous sommes des passionnés de la tech et du web et voulons mettre notre compétence au service des entreprises, commerçants, artisans, et associations. &nbsp; <br>
-<br> Notre ambition est de fournir un site internet moderne, évolutif et durable. Le référencement de nos clients est notre priorité.
-<br>
-<br>Afin de s’approprier totalement leur solution digitale, nos clients peuvent compter sur notre accompagnement. Nous leur garantissons une gestion en toute autonomie avec nos services en ligne.
-<br><br>Nous créons des sites internet pour aider nos clients dans la croissance et la visibilité de leur entreprise. 
-&nbsp;<br>
+                    <br> Notre ambition est de fournir un site internet moderne, évolutif et durable. Le référencement de nos clients est notre priorité.
+                    <br>
+                    <br>Afin de s’approprier totalement leur solution digitale, nos clients peuvent compter sur notre accompagnement. Nous leur garantissons une gestion en toute autonomie avec nos services en ligne.
+                    <br><br>Nous créons des sites internet pour aider nos clients dans la croissance et la visibilité de leur entreprise. 
+                    &nbsp;<br>
                 </p>
-
-<!--                 <div class="row justify-content-center">
-                    <div class="card p-3 align-center col-12 col-md-4" mbr-class="{'col-lg-3': cardsAmount == '4','col-lg-4': cardsAmount == '3'}">
-                        <div class="panel-item" mbr-class="{'p-3':!transparentBg}">
-                            <div class="card-img pb-3" mbr-if="showIcons">
-                                <span mbr-icon class="mbri-mobirise mbr-iconfont"></span>
-                            </div>
-
-                            <div class="card-text">
-                                <h3 class="count pt-3 pb-3 mbr-regular mbr-fonts-style" mbr-theme-style="display-2">
-                                    284</h3>
-                                <h4 class="mbr-content-title count-title mbr-fonts-style" mbr-theme-style="display-5" data-app-selector=".count-title">
-                                    Idées
-                                </h4>
-
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <div class="card p-3 align-center col-12 col-md-4" mbr-if="cardsAmount>1" mbr-class="{'col-lg-3': cardsAmount == '4','col-lg-4': cardsAmount == '3'}">
-                        <div class="panel-item" mbr-class="{'p-3':!transparentBg}">
-                            <div class="card-img pb-3" mbr-if="showIcons">
-                                <span mbr-icon class="mbri-touch-swipe mbr-iconfont"></span>
-                            </div>
-                            <div class="card-text">
-                                <h3 class="count pt-3 pb-3 mbr-regular mbr-fonts-style" mbr-theme-style="display-2">
-                                    163</h3>
-                                <h4 class="mbr-content-title count-title mbr-fonts-style" mbr-theme-style="display-5" data-app-selector=".count-title">
-                                    Projets
-                                </h4>
-
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="card p-3 align-center col-12 col-md-4" mbr-if="cardsAmount>2" mbr-class="{'col-lg-3': cardsAmount == '4','col-lg-4': cardsAmount == '3'}">
-                        <div class="panel-item" mbr-class="{'p-3':!transparentBg}">
-                            <div class="card-img pb-3" mbr-if="showIcons">
-                                <span mbr-icon class="mbri-responsive mbr-iconfont"></span>
-                            </div>
-                            <div class="card-text">
-                                <h3 class="count pt-3 pb-3 mbr-regular mbr-fonts-style" mbr-theme-style="display-2">
-                                    853</h3>
-                                <h4 class="mbr-content-title count-title mbr-fonts-style" mbr-theme-style="display-5" data-app-selector=".count-title">
-                                    Utilisateur</h4>
-
-                            </div>
-                        </div>
-                    </div>
-
-
-                </div> -->
-
 
             </div>
 
@@ -168,8 +114,6 @@
             </div>
 
         </div>
-
-
 
     </div>
   
@@ -234,7 +178,7 @@
 
                         Design</h4>
                     <p class="mbr-text align-left mbr-fonts-style display-4">
-                        Logo, charte graphique, bannières, web design, infographie.&nbsp;<br><br></p>
+                        Logo, charte graphique, bannières, web design, infographie.&nbsp; <span style="opacity: 0;">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</span><br><br></p>
                 </div>
             </div>
 
@@ -560,7 +504,7 @@
                     </div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-semibold mbr-fonts-style display-5">
-                            Maxime <br>Lespagnol&nbsp;</div>
+                            Maxime<br> Lespagnol&nbsp;</div>
                         <small class="mbr-author-desc pt-3 mbr-regular mbr-fonts-style display-4">
                             MANAGER</small>
 
@@ -590,7 +534,7 @@
                     </div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-semibold mbr-fonts-style display-5">
-                            Antoine Debroucker</div>
+                            Antoine <br>Debroucker</div>
                         <small class="mbr-author-desc pt-3 mbr-regular mbr-fonts-style display-4">
                             MARKETING</small>
 

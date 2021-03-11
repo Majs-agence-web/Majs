@@ -1,5 +1,5 @@
+/* Script ( Page d'accueil )  */
 let collection = document.getElementsByClassName('nosSite');
-
 document.addEventListener('DOMContentLoaded', function() {
     var tailleFenetre = window.innerWidth
 
@@ -33,7 +33,6 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 });
-
 window.addEventListener('resize', ()=>{  
     var tailleFenetre = window.innerWidth
 
@@ -92,13 +91,13 @@ window.addEventListener('resize', ()=>{
         }
     }
 });
+/* Fin */
 
+/* Script Nos Service ( Page d'accueil )*/
 let collection2 = document.getElementsByClassName('nosService');
-
 document.addEventListener('DOMContentLoaded', function() {
     var tailleFenetre = window.innerWidth
     
-
     if( tailleFenetre >= 1200 ){
 
         for (item of collection2){
@@ -117,7 +116,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
     }
 });
-
 window.addEventListener('resize', ()=>{  
     var tailleFenetre = window.innerWidth
 
@@ -144,13 +142,12 @@ window.addEventListener('resize', ()=>{
     }
 
 });
+/* Fin */
 
-
+/*  Script Footer ( Centrage des élément )*/
 let collection3 = document.getElementsByClassName('footerCentrage');
-
 document.addEventListener('DOMContentLoaded', function() {
     var tailleFenetre = window.innerWidth
-    console.log(tailleFenetre)
 
     if( tailleFenetre < 992 ){
 
@@ -163,7 +160,6 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
 });
-
 window.addEventListener('resize', ()=>{  
     var tailleFenetre = window.innerWidth
 
@@ -182,3 +178,51 @@ window.addEventListener('resize', ()=>{
         }
     }
 });
+/* Fin  */
+
+/* Script barre de navigation (Header) */
+let collection4 = document.getElementsByClassName('ScriptNavigation');
+document.addEventListener('DOMContentLoaded', function() {
+    var tailleFenetre = window.innerWidth
+
+    if( tailleFenetre > 1200 ){
+
+        for (item of collection4){
+
+            item.classList.add("NavigationScript1200Plus");
+            console.log(item)
+        }
+
+    }else{
+
+        for (item of collection4){
+
+            item.classList.add("NavigationScript1200Moin");
+            console.log(item)
+        }
+    }
+
+});
+window.addEventListener('resize', ()=>{  
+    var tailleFenetre = window.innerWidth
+
+    /* item.classList.remove("col-lg-4"); */
+    if(tailleFenetre > 1150){
+        for (item of collection4){
+
+            item.classList.remove("NavigationScript1200Moin");
+
+            item.classList.add("NavigationScript1200Plus");
+            console.log(item)
+        }
+    }else{
+        for (item of collection4){
+
+            item.classList.remove("NavigationScript1200Plus");
+
+            item.classList.add("NavigationScript1200Moin");
+            console.log(item)
+        }
+    }
+});
+/* Fin */
