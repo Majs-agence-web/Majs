@@ -4824,7 +4824,7 @@ section.lazy-placeholder:after {
   /* Fin */
 
 
-  /* Transition Actualité + Mentions légale + Politique de confidentialité*/
+  /* Transition Actualité + Mentions légale + Politique de confidentialité + FAQ*/
 .cid-sp5c05Igt8 {
   padding-top: 0px;
   padding-bottom: 270px;
@@ -6659,3 +6659,124 @@ section.lazy-placeholder:after {
 }
   /* Fin */
 
+
+  /* Entete FAQ*/
+.cid-srfeqb2KVSTU {
+  padding-top: 225px;
+  padding-bottom: 105px;
+  background-image: url("../../../assets/images/question-mark-1872665_1920.jpg");
+}
+/* Fin*/
+
+  /* FAQ */
+.cid-srlZOxLbbA {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-srlZOxLbbA .container-fluid {
+  padding: 0 3rem;
+}
+.cid-srlZOxLbbA .underline .line {
+  width: 5rem;
+  height: 3px;
+  background: linear-gradient(to right, #ff8a73 50%, #5580ff 120%);
+  display: inline-block;
+}
+.cid-srlZOxLbbA .panel-group {
+  width: 100%;
+  margin: 2rem auto;
+  margin-top: 0;
+}
+.cid-srlZOxLbbA .header-text {
+  padding: 2rem 1rem !important;
+}
+.cid-srlZOxLbbA .card {
+  border-radius: 25px !important;
+  background: #ffffff;
+  margin-bottom: 1rem;
+  box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.1);
+  -o-box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.1);
+  -ms-box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.1);
+}
+.cid-srlZOxLbbA .card .card-header {
+  border-radius: 25px;
+  border: 0px;
+  padding: 0;
+  background-color: transparent !important;
+}
+.cid-srlZOxLbbA .card .card-header a.panel-title {
+  transition: all .3s;
+  border-radius: 25px 25px 0 0;
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+  padding-right: 2rem;
+}
+.cid-srlZOxLbbA .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-srlZOxLbbA .card .card-header a.panel-title:hover .sign {
+  background-color: #355665 !important;
+}
+.cid-srlZOxLbbA .card .card-header a.panel-title .sign {
+  position: absolute;
+  right: 0;
+  top: -1px;
+  bottom: 0;
+  border-radius: 0 25px 25px 0;
+  background-color: #355665;
+  padding: 2rem;
+  padding-top: 36px;
+  color: #ffffff;
+}
+.cid-srlZOxLbbA .card .card-header a.panel-title h4 {
+  padding: 1rem 1rem;
+  margin-bottom: 0;
+}
+.cid-srlZOxLbbA .card .card-header a.collapsed {
+  border-radius: 25px;
+}
+.cid-srlZOxLbbA .card .panel-body {
+  width: calc(100% - 80px);
+  border-radius: 0 0 0 25px;
+}
+@media (max-width: 767px) {
+  .cid-srlZOxLbbA .container-fluid {
+    padding: 0 1rem;
+  }
+  .cid-srlZOxLbbA .header-text {
+    padding: 1rem !important;
+  }
+  .cid-srlZOxLbbA .sign {
+    padding: 16px !important;
+    padding-top: 22px !important;
+  }
+  .cid-srlZOxLbbA .panel-body {
+    width: calc(100% - 48px);
+  }
+  .cid-srlZOxLbbA .panel-group {
+    padding: 0;
+  }
+}
+.cid-srlZOxLbbA .header-text,
+.cid-srlZOxLbbA .sign {
+  color: #355665;
+}
+.cid-srlZOxLbbA .mbr-section-title,
+.cid-srlZOxLbbA .underline {
+  color: #355665;
+}
+.cid-srlZOxLbbA .panel-text {
+  color: #355665;
+}
+  /* Fin */
+  

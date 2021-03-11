@@ -108,6 +108,14 @@
                     </div>
                 </div> -->
 
+                <!--<div class="item footerCentrage">
+                    <div class="card-box">
+                        <a href="faq.php">
+                            <h4 class="item-title align-left mbr-fonts-style display-4">FAQ</h4>
+                        </a>
+                    </div>
+                </div> -->
+
 
             </div>
 
