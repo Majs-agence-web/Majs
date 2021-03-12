@@ -1056,7 +1056,7 @@ section.lazy-placeholder:after {
 @media (max-width: 992px) {
   .cid-smyb1yURxL img {
     float: none;
-    width: 100%;
+    width: 60%;
     margin-bottom: 2rem;
     margin: auto;
     padding-right: 0px;
@@ -1097,7 +1097,7 @@ section.lazy-placeholder:after {
 @media (max-width: 992px) {
   .cid-smyb1zaqEp img {
     float: initial;
-    width: 100%;
+    width: 60%;
     margin-bottom: 2rem;
     margin: auto;
     padding-left: 0px;
@@ -2306,7 +2306,7 @@ section.lazy-placeholder:after {
 @media (max-width: 992px) {
   .cid-smyyATOL0m img {
     float: none;
-    width: 100%;
+    width: 60%;
     margin-bottom: 2rem;
     margin: auto;
     padding-right: 0px;
@@ -2347,7 +2347,7 @@ section.lazy-placeholder:after {
 @media (max-width: 992px) {
   .cid-smyyAU1bO9 img {
     float: initial;
-    width: 100%;
+    width: 60%;
     margin-bottom: 2rem;
     margin: auto;
     padding-left: 0px;
@@ -2420,7 +2420,7 @@ section.lazy-placeholder:after {
 @media (max-width: 992px) {
   .cid-smyC39wBth img {
     float: none;
-    width: 100%;
+    width: 60%;
     margin-bottom: 2rem;
     margin: auto;
     padding-right: 0px;
@@ -2458,7 +2458,7 @@ section.lazy-placeholder:after {
 @media (max-width: 992px) {
   .cid-smyC39Lw5V img {
     float: initial;
-    width: 100%;
+    width: 60%;
     margin-bottom: 2rem;
     margin: auto;
     padding-left: 0px;
@@ -3260,7 +3260,7 @@ section.lazy-placeholder:after {
 @media (max-width: 992px) {
   .cid-smy6kG7ea7 img {
     float: none;
-    width: 100%;
+    width: 60%;
     margin-bottom: 2rem;
     margin: auto;
     padding-right: 0px;
@@ -3301,7 +3301,7 @@ section.lazy-placeholder:after {
 @media (max-width: 992px) {
   .cid-smy6kGn5V7 img {
     float: initial;
-    width: 100%;
+    width: 60%;
     margin-bottom: 2rem;
     margin: auto;
     padding-left: 0px;
@@ -3347,7 +3347,7 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 992px) {
   .cid-slvbIWGRx1 img {
-    width: 100%;
+    width: 60%;
     margin: auto;
     padding-right: 0px;
     float: none;
@@ -3387,7 +3387,7 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 992px) {
   .cid-smxKUwt1AU img {
-    width: 100%;
+    width: 60%;
     margin-bottom: 2rem;
     float: none;
     padding-left: 0px;
@@ -3423,7 +3423,7 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 992px) {
   .cid-smxSoq9vGp img {
-    width: 100%;
+    width: 60%;
     margin-bottom: 2rem;
     padding-right: 0px;
     float: none;
@@ -6734,7 +6734,7 @@ section.lazy-placeholder:after {
   bottom: 0;
   border-radius: 0 25px 25px 0;
   background-color: #355665;
-  padding: 2rem;
+  padding: 1.45rem;
   padding-top: 36px;
   color: #ffffff;
 }

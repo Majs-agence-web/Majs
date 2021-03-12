@@ -1,4 +1,4 @@
-/* Script ( Page d'accueil )  */
+// Script ( Page d'accueil )  
 let collection = document.getElementsByClassName('nosSite');
 document.addEventListener('DOMContentLoaded', function() {
     var tailleFenetre = window.innerWidth
@@ -190,7 +190,6 @@ document.addEventListener('DOMContentLoaded', function() {
         for (item of collection4){
 
             item.classList.add("NavigationScript1200Plus");
-            console.log(item)
         }
 
     }else{
@@ -198,7 +197,6 @@ document.addEventListener('DOMContentLoaded', function() {
         for (item of collection4){
 
             item.classList.add("NavigationScript1200Moin");
-            console.log(item)
         }
     }
 
@@ -213,7 +211,6 @@ window.addEventListener('resize', ()=>{
             item.classList.remove("NavigationScript1200Moin");
 
             item.classList.add("NavigationScript1200Plus");
-            console.log(item)
         }
     }else{
         for (item of collection4){
@@ -221,7 +218,6 @@ window.addEventListener('resize', ()=>{
             item.classList.remove("NavigationScript1200Plus");
 
             item.classList.add("NavigationScript1200Moin");
-            console.log(item)
         }
     }
 });

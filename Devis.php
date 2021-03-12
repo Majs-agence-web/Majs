@@ -123,12 +123,12 @@
                                     </div>
                                     <div class="form-check">
                                         <input required type="radio" name="Type de site " data-form-field="Type de site " class="form-check-input display-7" value="Landing page" id="Type de site -extForm3-57" <?php if (isset($_GET['site']) and $_GET['site'] == "landingPage") {
-                                                                                                                                                                                                                        echo 'checked=""';
-                                                                                                                                                                                                                    } ?>>
+                                                                                                                                                                                                            echo 'checked=""';
+                                                                                                                                                                                                        } ?>>
                                         <label class="form-check-label display-7">Landing page</label>
                                     </div>
                                     <div class="form-check">
-                                        <input type="radio" name="Type de site " data-form-field="Type de site " class="form-check-input display-7" value="Site vitrine" id="Type de site -extForm3-57" <?php if (isset($_GET['site']) and $_GET['site'] == "siteVitrine") {
+                                        <input  type="radio" name="Type de site " data-form-field="Type de site " class="form-check-input display-7" value="Site vitrine" id="Type de site -extForm3-57" <?php if (isset($_GET['site']) and $_GET['site'] == "siteVitrine") {
                                                                                                                                                                                                             echo 'checked=""';
                                                                                                                                                                                                         } ?>>
                                         <label class="form-check-label display-7">Site vitrine</label>

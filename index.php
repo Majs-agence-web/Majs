@@ -101,11 +101,11 @@
         
         <div class="col-xl-6 d-none d-lg-none d-xl-block align-center img-box">
                 <div>
-                <img class="img1" src="assets/images/pexels-burst-374016-684x456.jpg" alt="">
+                <img class="img1" src="assets/images/undraw_building_websites_i78t.svg" alt="">
                 </div>
                 <div>
                 <br>
-                <img class="img2" src="assets/images/irfan-simsar-wxwulfjn-g0-unsplash-684x912.png" alt="">
+                <img class="img2" src="assets/images/undraw_meet_the_team_e5b7.svg" alt="">
                 </div>
             </div>
 

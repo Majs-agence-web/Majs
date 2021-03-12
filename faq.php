@@ -54,19 +54,39 @@
 
 <section class="accordion1 cid-srlZOxLbbA" id="extAccordion8-d">
 
-    
+
     <div class="container-fluid">
-        <div class="media-container-row align-center">
-            <div class="col-12 col-md-12">
-                <h2 class="mbr-section-title mbr-fonts-style display-2"><strong>
-                    Vos questions les plus fréquentes :</strong></h2>
-                
-                
-                <div id="bootstrap-accordion_1" class="panel-group accordionStyles accordion col-sm-12 col-md-10 col-lg-8 align-left pt-5" role="tablist" aria-multiselectable="true">
+    
+        <div class="row">
+            <div class="text-center col-12">
+                <h2 class="mbr-section-title mbr-fonts-style display-2"><strong>Questions les plus fréquentes&nbsp;:</strong></h2>
+            </div>
+            
+
+            <div class="col-12">
+                <ul class="nav nav-pills justify-content-center">
+                    <li class="active">
+                        <a data-toggle="pill" href="#SiteInternet" class="btn btn-sm btn-danger display-4">Site Internet</a>
+                    </li>
+
+                    <li>
+                        <a data-toggle="pill" href="#Hebergement" class="btn btn-sm btn-danger display-4">Hebergement</a>
+                    </li>
+
+                    <li>
+                        <a data-toggle="pill" href="#LocationAchat" class="btn btn-sm btn-danger display-4">Location / Achat</a>
+                    </li>
+                </ul>
+            </div>
+            
+            <div id="bootstrap-accordion_1" class="panel-group accordionStyles accordion col-sm-12 col-md-10 col-lg-8 align-left pt-5 tab-content" role="tablist" aria-multiselectable="true">
+
+                <div id="SiteInternet" class="tab-pane fade in active show" >
+
                     <div class="card">
                         <div class="card-header" role="tab" id="headingOne">
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse1_1" aria-expanded="false" aria-controls="collapse1">
-                                <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                <span class="sign mbr-iconfont"></span>
                                 <h4 class="mbr-fonts-style header-text display-5">Pourrais-je transformer ma vitrine en site e-commerce par la suite ?</h4>
                             </a>
                         </div>
@@ -83,7 +103,7 @@
                     <div class="card">
                         <div class="card-header" role="tab" id="headingTwo">
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse2_1" aria-expanded="false" aria-controls="collapse2">
-                                <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                <span class="sign mbr-iconfont "></span>
                                 <h4 class="mbr-fonts-style header-text display-5">
                                 Pourquoi choisir la location avec option d'achat ?
                                 </h4>
@@ -106,7 +126,7 @@
                     <div class="card">
                         <div class="card-header" role="tab" id="headingThree">
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse3_1" aria-expanded="false" aria-controls="collapse3">
-                                <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                <span class="sign mbr-iconfont "></span>
                                 <h4 class="mbr-fonts-style header-text display-5">
                                 Combien de temps prend la création d'un site internet ?
                                 </h4>
@@ -125,11 +145,11 @@
                             </div>
                         </div>
                     </div>
-            
+                
                     <div class="card">
                         <div class="card-header" role="tab" id="headingFour">
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse4_1" aria-expanded="false" aria-controls="collapse4">
-                                <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                <span class="sign mbr-iconfont "></span>
                                 <h4 class="mbr-fonts-style header-text display-5">
                                     Puis-je modifier mon site internet ?
                                 </h4>
@@ -150,7 +170,7 @@
                     <div class="card">
                         <div class="card-header" role="tab" id="headingFive">
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse5_1" aria-expanded="false" aria-controls="collapse5">
-                                <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                <span class="sign mbr-iconfont "></span>
                                 <h4 class="mbr-fonts-style header-text display-5">
                                     Combien coûte la création d'un site internet de qualité professionnelle ?
                                 </h4>
@@ -177,7 +197,7 @@
                     <div class="card">
                         <div class="card-header" role="tab" id="headingSix">
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse6_1" aria-expanded="false" aria-controls="collapse6">
-                                <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                <span class="sign mbr-iconfont "></span>
                                 <h4 class="mbr-fonts-style header-text display-5">
                                     Ai-je besoin d'un nom de domaine avant la création de mon site internet ?
                                 </h4>
@@ -199,7 +219,7 @@
                     <div class="card">
                         <div class="card-header" role="tab" id="headingSeven">
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse7_1" aria-expanded="false" aria-controls="collapse7">
-                                <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                <span class="sign mbr-iconfont "></span>
                                 <h4 class="mbr-fonts-style header-text display-5">
                                     Pourquoi créer un site web professionnel ?
                                 </h4>
@@ -225,7 +245,7 @@
                     <div class="card">
                         <div class="card-header" role="tab" id="headingEight">
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse8_1" aria-expanded="false" aria-controls="collapse8">
-                                <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                <span class="sign mbr-iconfont "></span>
                                 <h4 class="mbr-fonts-style header-text display-5">
                                     Le référencement naturel est-il inclus dans la création de mon site internet ?
                                 </h4>
@@ -246,10 +266,14 @@
                         </div>
                     </div>
 
+                </div>
+
+                <div id="Hebergement" class="tab-pane fade">
+
                     <div class="card">
                         <div class="card-header" role="tab" id="headingNine">
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse9_1" aria-expanded="false" aria-controls="collapse9">
-                                <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                <span class="sign mbr-iconfont "></span>
                                 <h4 class="mbr-fonts-style header-text display-5">
                                     Puis-je personnaliser le design de mon site internet ?
                                 </h4>
@@ -267,7 +291,7 @@
                     <div class="card">
                         <div class="card-header" role="tab" id="headingTen">
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse10_1" aria-expanded="false" aria-controls="collapse10">
-                                <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                <span class="sign mbr-iconfont "></span>
                                 <h4 class="mbr-fonts-style header-text display-5">
                                     Combien coûte l'hébergement d'un site internet ?
                                 </h4>
@@ -287,7 +311,7 @@
                     <div class="card">
                         <div class="card-header" role="tab" id="headingEleven">
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse11_1" aria-expanded="false" aria-controls="collapse11">
-                                <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                <span class="sign mbr-iconfont "></span>
                                 <h4 class="mbr-fonts-style header-text display-5">
                                     Pourquoi mon site Internet n'apparait pas sur Google ?
                                 </h4>
@@ -305,7 +329,7 @@
                     <div class="card">
                         <div class="card-header" role="tab" id="headingTwelve">
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse12_1" aria-expanded="false" aria-controls="collapse12">
-                                <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                <span class="sign mbr-iconfont "></span>
                                 <h4 class="mbr-fonts-style header-text display-5">
                                     Pourquoi louer mon site internet ?
                                 </h4>
@@ -321,10 +345,14 @@
                         </div>
                     </div>
 
+                </div>
+
+                <div id="LocationAchat" class="tab-pane fade">  
+
                     <div class="card">
                         <div class="card-header" role="tab" id="headingThirteen">
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse13_1" aria-expanded="false" aria-controls="collapse13">
-                                <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                <span class="sign mbr-iconfont "></span>
                                 <h4 class="mbr-fonts-style header-text display-5">
                                     Comment fonctionne l'option d'achat une fois votre période d'engagement terminée ?
                                 </h4>
@@ -347,7 +375,7 @@
                     <div class="card">
                         <div class="card-header" role="tab" id="headingFourteen">
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse14_1" aria-expanded="false" aria-controls="collapse14">
-                                <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                <span class="sign mbr-iconfont "></span>
                                 <h4 class="mbr-fonts-style header-text display-5">
                                 Pourquoi choisir la location avec option d'achat ?
                                 </h4>
@@ -365,7 +393,7 @@
                     <div class="card">
                         <div class="card-header" role="tab" id="headingFifteen">
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse15_1" aria-expanded="false" aria-controls="collapse15">
-                                <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                <span class="sign mbr-iconfont "></span>
                                 <h4 class="mbr-fonts-style header-text display-5">
                                     Les tarifs peuvent-ils augmenter ?
                                 </h4>
@@ -389,7 +417,7 @@
                     <div class="card">
                         <div class="card-header" role="tab" id="headingSixteen">
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse16_1" aria-expanded="false" aria-controls="collapse16">
-                                <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                <span class="sign mbr-iconfont "></span>
                                 <h4 class="mbr-fonts-style header-text display-5">
                                     Que comprends le contrat de location ?
                                 </h4>
@@ -429,7 +457,7 @@
                     <div class="card">
                         <div class="card-header" role="tab" id="headingSeventeen">
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse17_1" aria-expanded="false" aria-controls="collapse17">
-                                <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                <span class="sign mbr-iconfont "></span>
                                 <h4 class="mbr-fonts-style header-text display-5">
                                     Comment fonctionne l'option d'achat de mon Site Internet ?
                                 </h4>
@@ -452,7 +480,7 @@
                     <div class="card">
                         <div class="card-header" role="tab" id="headingEighteen">
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse18_1" aria-expanded="false" aria-controls="collapse18">
-                                <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                <span class="sign mbr-iconfont "></span>
                                 <h4 class="mbr-fonts-style header-text display-5">
                                     Comment se déroule le financement ?
                                 </h4>
@@ -474,10 +502,48 @@
                     </div>
 
                 </div>
+
             </div>
+
         </div>
+
     </div>
 </section>
+
+<!--<div class="container">
+  <h2>Dynamic Pills</h2>
+  <p>To make the tabs toggleable, add the data-toggle="pill" attribute to each link. Then add a .tab-pane class with a unique ID for every tab and wrap them inside a div element with class .tab-content.</p>
+  <ul class="nav nav-pills">
+    <li class="active"><a data-toggle="pill" href="#home">Home</a></li>
+    <li><a data-toggle="pill" href="#menu1">Menu 1</a></li>
+    <li><a data-toggle="pill" href="#menu2">Menu 2</a></li>
+    <li><a data-toggle="pill" href="#menu3">Menu 3</a></li>
+  </ul>
+  
+  <div class="tab-content">
+
+    <div id="home" class="tab-pane fade in active">
+      <h3>HOME</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+
+    <div id="menu1" class="tab-pane fade">
+      <h3>Menu 1</h3>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    </div>
+
+    <div id="menu2" class="tab-pane fade">
+      <h3>Menu 2</h3>
+      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+    </div>
+
+    <div id="menu3" class="tab-pane fade">
+      <h3>Menu 3</h3>
+      <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+    </div>
+
+  </div>
+</div>-->
 
 <section class="clients cid-sp5c05Igt8" id="clients01-5d">
     
