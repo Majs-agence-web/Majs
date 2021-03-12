@@ -574,13 +574,13 @@ nav .mbr-section-btn {
   margin: 0 ;
 }
 
-.NavigationScript1200Plus{
-  padding: .667em 1.667em !important;
+.NavigationScript1200Moin {
+  padding: .667em 0.60em !important;
   margin: 0 !important;
 }
 
-.NavigationScript1200Moin{
-  padding: .667em 0.85em !important;
+.NavigationScript1200Plus {
+  padding: .667em 1.40em !important;
   margin: 0 !important;
 }
 

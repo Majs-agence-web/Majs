@@ -1,6 +1,6 @@
-    <script src="tarteaucitron/tarteaucitron.js"></script>
-    <script src="/scripttarteaucitron.js"></script>
-    <script src="Scripts.js"></script>
+    <!-- <script src="tarteaucitron/tarteaucitron.js"></script>
+    <script src="/scripttarteaucitron.js"></script> -->
+    <script src="Scripts-min.js"></script>
 
     <section class="menu cid-smyf9k48K2" once="" id="menu01-49">
         <nav class="navbar navbar-dropdown BgNavColor navbar-fixed-top navbar-expand-lg">

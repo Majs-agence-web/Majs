@@ -13,21 +13,21 @@
 
 
     <title>ACCUEIL</title>
-    <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
-    <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
-    <link rel="stylesheet" href="assets/bootstrap-material-design-font/css/material.css">
-    <link rel="stylesheet" href="assets/font-awesome/css/font-awesome.css">
-    <link rel="stylesheet" href="assets/tether/tether.min.css">
+    <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2-min.css">
+    <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons-min.css">
+    <link rel="stylesheet" href="assets/bootstrap-material-design-font/css/material-min.css">
+    <link rel="stylesheet" href="assets/font-awesome/css/font-awesome-min.css">
+    <link rel="stylesheet" href="assets/tether/tether-min.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
-    <link rel="stylesheet" href="assets/dropdown/css/style.css">
-    <link rel="stylesheet" href="assets/socicon/css/styles.css">
-    <link rel="stylesheet" href="assets/theme/css/style.css">
-    <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css">
-    <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+    <link rel="stylesheet" href="assets/dropdown/css/style-min.css">
+    <link rel="stylesheet" href="assets/socicon/css/styles-min.css">
+    <link rel="stylesheet" href="assets/theme/css/style-min.css">
+    <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional-min.css">
+    <link rel="stylesheet" href="assets/mobirise/css/mbr-additional-min.css" type="text/css">
 
-    <script src="Scripts.js"></script>
+    <!-- <script src="Scripts.js"></script> -->
 
     <style>
         section.test {
@@ -58,7 +58,7 @@
 
     </section>
 
-<!--
+    <!--
     <section class="header4 cid-slqagl251D" id="content06-8">
 
 
@@ -88,53 +88,53 @@
 
     </section>
 -->
-<section class="counters1 counters cid-slvlgxrWuB" roup="Counters" id="counters03-1o">
-
-    
-
-    
+    <section class="counters1 counters cid-slvlgxrWuB" roup="Counters" id="counters03-1o">
 
 
 
-    <div class="container">
-        <div class="row">
-        
-        <div class="col-xl-6 d-none d-lg-none d-xl-block align-center img-box">
-                <div>
-                <img class="img1" src="assets/images/undraw_building_websites_i78t.svg" alt="">
+
+
+
+
+        <div class="container">
+            <div class="row">
+
+                <div class="col-xl-6 d-none d-lg-none d-xl-block align-center img-box">
+                    <div>
+                        <img class="img1" src="assets/images/undraw_building_websites_i78t.svg" alt="">
+                    </div>
+                    <div>
+                        <br>
+                        <img class="img2" src="assets/images/undraw_meet_the_team_e5b7.svg" alt="">
+                    </div>
                 </div>
-                <div>
-                <br>
-                <img class="img2" src="assets/images/undraw_meet_the_team_e5b7.svg" alt="">
-                </div>
-            </div>
 
-            <div class="col-12 col-md-10 col-lg-10 col-xl-6 py-4 m-auto">
-                <h1 class="mbr-section-title pb-3 mbr-fonts-style display-1"><span style="color:#ecc979;">{</span> Qui sommes nous ? <span style="color:#ecc979;">}</span></h1>
-                
+                <div class="col-12 col-md-10 col-lg-10 col-xl-6 py-4 m-auto">
+                    <h1 class="mbr-section-title pb-3 mbr-fonts-style display-1"><span style="color:#ecc979;">{</span> Qui sommes nous ? <span style="color:#ecc979;">}</span></h1>
+
                     <p class="mbr-text align-left mbr-light mbr-fonts-style display-7">
-                    <br>
-                    <strong>Agence Web Enthousiaste<br></strong>
-                    MAJS est une agence digitale située à Croix, composée de 3 spécialistes du web : développeur, chef de projet et webdesigner.
-                    <br>
-                    <br>
-                    Nous aidons nos clients à digitaliser leur communication en offrant une expérience utilisateur simple et efficace.
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                </p>
-            </div>
+                        <br>
+                        <strong>Agence Web Enthousiaste<br></strong>
+                        MAJS est une agence digitale située à Croix, composée de 3 spécialistes du web : développeur, chef de projet et webdesigner.
+                        <br>
+                        <br>
+                        Nous aidons nos clients à digitaliser leur communication en offrant une expérience utilisateur simple et efficace.
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                    </p>
+                </div>
 
+
+            </div>
 
         </div>
 
-    </div>
-  
 
-</section>
+    </section>
     <section class="clients cid-smykxObL6s" id="clients01-4a">
 
 

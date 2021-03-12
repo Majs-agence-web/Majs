@@ -1,4 +1,4 @@
-<script src="Scripts.js"></script>
+<!-- <script src="Scripts.js"></script> -->
 
 <section class="cid-smJZfiztJP" id="footer02-4o">
 

@@ -11,17 +11,18 @@
   
   
   <title>Site Vitrine</title>
-  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
-  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
-  <link rel="stylesheet" href="assets/font-awesome/css/font-awesome.css">
-  <link rel="stylesheet" href="assets/tether/tether.min.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
-  <link rel="stylesheet" href="assets/dropdown/css/style.css">
-  <link rel="stylesheet" href="assets/socicon/css/styles.css">
-  <link rel="stylesheet" href="assets/theme/css/style.css">
-  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2-min.css">
+    <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons-min.css">
+    <link rel="stylesheet" href="assets/font-awesome/css/font-awesome-min.css">
+    <link rel="stylesheet" href="assets/tether/tether.min.css">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+    <link rel="stylesheet" href="assets/dropdown/css/style-min.css">
+    <link rel="stylesheet" href="assets/socicon/css/styles-min.css">
+    <link rel="stylesheet" href="assets/theme/css/style-min.css">
+    <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional-min.css">
+    <link rel="stylesheet" href="assets/mobirise/css/mbr-additional-min.css" type="text/css">
   
   
   
