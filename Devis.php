@@ -330,7 +330,7 @@
                                     <p class="mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-7"> * Champs requis </p>
                                     <hr>
                                 </div>
-                                <div class="col-lg-12 col-md-12 col-sm-12 input-group-btn mt-2"><button type="submit" class="btn btn-form btn-bgr btn-danger display-7">ENVOYER</button></div>
+                                <div class="col-lg-12 col-md-12 col-sm-12 input-group-btn mt-2"><button type="submit" class="btn btn-form btn-bgr btn-sm btn-danger display-7">ENVOYER</button></div>
                             </div>
                         </form>
                         <!--Formbuilder Form-->

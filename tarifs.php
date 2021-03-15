@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="assets/dropdown/css/style-min.css">
     <link rel="stylesheet" href="assets/socicon/css/styles-min.css">
     <link rel="stylesheet" href="assets/theme/css/style-min.css">
+
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional-min.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional-min.css" type="text/css">
   
@@ -155,7 +156,7 @@
                                         <li class="list-group-item">Hébergement &amp; maintenance (inclus)</li>
                                     </ul>
                                 </div>
-                                <div class="mbr-section-btn text-center pt-5">
+                                <div class="text-center pt-5">
                                     <a href="landing-page.php" class="btn btn-danger display-4">Découvrir l'offre</a>
                                 </div>
                             </div>
@@ -182,7 +183,9 @@
                                         <li class="list-group-item">Hébergement &amp; maintenance (inclus)</li>
                                     </ul>
                                 </div>
-                                <div class="mbr-section-btn text-center pt-5"><a href="site-vitrine.php" class="btn btn-danger display-4">Découvrir l'offre</a></div>
+                                <div class="text-center pt-5">
+                                    <a href="site-vitrine.php" class="btn btn-danger display-4">Découvrir l'offre</a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -206,7 +209,9 @@
                                         <li class="list-group-item">Hébergement &amp; maintenance (inclus)</li>
                                     </ul>
                                 </div>
-                                <div class="mbr-section-btn text-center pt-5"><a href="site-e-commerce.php" class="btn btn-danger display-4">Découvrir l'offre</a></div>
+                                <div class="text-center pt-5">
+                                    <a href="site-e-commerce.php" class="btn btn-danger display-4">Découvrir l'offre</a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -238,7 +243,7 @@
                                         <li class="list-group-item">Hébergement &amp; maintenance (option)</li>
                                     </ul>
                                 </div>
-                                <div class="mbr-section-btn text-center pt-5">
+                                <div class="text-center pt-5">
                                     <a href="landing-page.php" class="btn btn-danger display-4">Découvrir l'offre</a>
                                 </div>
                             </div>
@@ -265,7 +270,9 @@
                                         </li><li class="list-group-item">Hébergement &amp; maintenance (option)</li>
                                     </ul>
                                 </div>
-                                <div class="mbr-section-btn text-center pt-5"><a href="site-vitrine.php" class="btn btn-danger display-4">Découvrir l'offre</a></div>
+                                <div class="text-center pt-5">
+                                    <a href="site-vitrine.php" class="btn btn-danger display-4">Découvrir l'offre</a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -291,7 +298,9 @@
                                         </li><li class="list-group-item">Hébergement &amp; maintenance (option)</li>
                                     </ul>
                                 </div>
-                                <div class="mbr-section-btn text-center pt-5"><a href="site-e-commerce.php" class="btn btn-danger display-4">Découvrir l'offre</a></div>
+                                <div class="text-center pt-5">
+                                    <a href="site-e-commerce.php" class="btn btn-danger display-4">Découvrir l'offre</a>
+                                </div>
                             </div>
                         </div>
                     </div>

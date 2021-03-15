@@ -28,7 +28,7 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link ScriptNavigation link text-info text-primary display-4" href="agence.php" aria-expanded="false">L'AGENCE MAJS</a>
+                        <a class="nav-link ScriptNavigation link text-info text-primary display-4" href="agence.php" aria-expanded="false">L'AGENCE</a>
                     </li>
 
                     <li class="nav-item dropdown">
@@ -43,7 +43,7 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link ScriptNavigation link text-info text-primary display-4" href="index.php#nos_realisations" aria-expanded="false">NOS REALISATIONS</a>
+                        <a class="nav-link ScriptNavigation link text-info text-primary display-4" href="index.php#nos_realisations" aria-expanded="false">REALISATIONS</a>
                     </li>
 
                     <li class="nav-item">
@@ -59,8 +59,9 @@
                     <li class="nav-item"><a class="nav-link link text-white text-primary" href="page6.php" data-app-selector=".nav-link,.dropdown-item" data-app-placeholder="Type Text" aria-expanded="false">
                             CLIENTS</a></li> --></ul>
                 
-                <div class="navbar-buttons px-2"><a class="btn btn-sm btn-danger display-4" href="contact.php">
-                        NOUS CONTACTER</a></div>
+                <div class="navbar-buttons px-2">
+                    <a class="btn btn-sm btn-danger display-4" href="contact.php">CONTACTER-NOUS</a>
+                </div>
             </div>
         </nav>
     </section>

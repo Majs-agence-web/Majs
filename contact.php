@@ -22,6 +22,7 @@
     <link rel="stylesheet" href="assets/dropdown/css/style-min.css">
     <link rel="stylesheet" href="assets/socicon/css/styles-min.css">
     <link rel="stylesheet" href="assets/theme/css/style-min.css">
+    
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional-min.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional-min.css" type="text/css">
 
@@ -150,8 +151,8 @@
                         <div class="col-12">
                             <p class="mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-7"> * Champs requis </p>
                         </div>
-                        <div class="col-auto">
-                            <button type="submit" class="btn btn-info display-4" href="mailto:contact@majs.fr">Envoyer</button>
+                        <div class="text-center col-12">
+                            <button type="submit" class="btn btn-danger display-4" href="mailto:contact@majs.fr">Envoyer</button>
                         </div>
                     </div>
                 </form>

@@ -120,7 +120,9 @@
                 <div class="mbr-text align-center mbr-white pb-2">
                     
                 </div>
-                <div class="mbr-section-btn align-center"><a class="btn btn-md btn-danger display-4" href="devis.php?site=siteECommerce">DEMANDER UN DEVIS</a></div>
+                <div class="align-center">
+                    <a class="btn btn-sm btn-danger display-4" href="devis.php?site=siteECommerce">DEMANDER UN DEVIS</a>
+                </div>
             </div>
 
         </div>

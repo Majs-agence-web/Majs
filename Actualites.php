@@ -21,6 +21,7 @@
     <link rel="stylesheet" href="assets/dropdown/css/style-min.css">
     <link rel="stylesheet" href="assets/socicon/css/styles-min.css">
     <link rel="stylesheet" href="assets/theme/css/style-min.css">
+
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional-min.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional-min.css" type="text/css">
   
