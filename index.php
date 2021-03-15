@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons-min.css">
     <link rel="stylesheet" href="assets/bootstrap-material-design-font/css/material-min.css">
     <link rel="stylesheet" href="assets/font-awesome/css/font-awesome-min.css">
-    <link rel="stylesheet" href="assets/tether/tether-min.css">
+    <link rel="stylesheet" href="assets/tether/tether.min.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
