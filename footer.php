@@ -103,10 +103,13 @@
                     </div>
                 </div> 
 
-                <!--<div class="item footerCentrage">
-                    <div class="card-box">Condition générale de vente</h4>
+                <div class="item footerCentrage">
+                    <div class="card-box">
+                        <a href="condition-generale-de-vente.php">
+                            <h4 class="item-title align-left mbr-fonts-style display-4">Condition générale de vente</h4>
+                        </a>
                     </div>
-                </div> -->
+                </div> 
 
                 <!--<div class="item footerCentrage">
                     <div class="card-box">

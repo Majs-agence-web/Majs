@@ -35,31 +35,18 @@
         include("header.php")
     ?>
   
-  <section class="cid-srfeqb2KVS mbr-parallax-background" id="header02-0">
-
-    
-
+<section class="cid-srfeqb2KVS mbr-parallax-background" id="header02-0">
     <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(75, 101, 112);"></div>
-
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-12 text-center mx-auto">
                 <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-1">Mentions légales</h1>
-                
-                
-                
             </div>
         </div>
     </div>
-    
 </section>
 
 <section class="header4 cid-srfeqL2qWg" id="content05-1">
-
-    
-
-    
-
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left">
@@ -67,9 +54,9 @@
                 
 
                 <p class="mbr-text align-left mbr-fonts-style display-7">En vertu de l’article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l’économie numérique, il est précisé aux utilisateurs du site internet www.majs.fr.
-<br><br>L’identité des différents intervenants dans le cadre de sa réalisation et de son suivi :
-<br>- Propriétaire et éditeur : SASU MAJS WEB AGENCY - 59 Avenue Roger Salengro 59170 CROIX<br>- N° de TVA :&nbsp;<br>- Responsable publication et Webmaster : MAJS WEB AGENCY - 59 Avenue Roger Salengro 59170 CROIX
-<br>- N° de téléphone : 07 70 39 27 93<br>- Email : contact@majs.fr<br>- Hébergeur : IONOS - 7 Place de la Gare, 57200 Sarreguemines<br></p>
+    <br><br>L’identité des différents intervenants dans le cadre de sa réalisation et de son suivi :
+    <br>- Propriétaire et éditeur : SASU MAJS WEB AGENCY - 59 Avenue Roger Salengro 59170 CROIX<br>- N° de TVA : FR30894853233&nbsp;<br>- Responsable publication et Webmaster : MAJS WEB AGENCY - 59 Avenue Roger Salengro 59170 CROIX
+    <br>- N° de téléphone : 07 70 39 27 93<br>- Email : contact@majs.fr<br>- Hébergeur : IONOS - 7 Place de la Gare, 57200 Sarreguemines<br></p>
             </div>
 
 
@@ -91,10 +78,10 @@
                 <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">1. Conditions générales d’utilisation du site et des services proposés.</h1>
 
                 <p class="mbr-text align-left mbr-fonts-style display-7">Le Site constitue une œuvre de l’esprit protégée par les dispositions du Code de la Propriété Intellectuelle et des Réglementations Internationales applicables.
-<br>Le Client ne peut en aucune manière réutiliser, céder ou exploiter pour son propre compte tout ou partie des éléments ou travaux du Site.
-<br>L’utilisation du site www.majs.fr implique l’acceptation pleine et entière des conditions générales d’utilisation ci-après décrites. Ces conditions d’utilisation sont susceptibles d’être modifiées ou complétées à tout moment, les utilisateurs sont donc invités à les consulter de manière régulière.
-<br>Ce site internet est normalement accessible à tout moment aux utilisateurs. Une interruption pour raison de maintenance technique peut être toutefois décidée par l’éditeur.
-<br>Le site web est mis à jour régulièrement par l’éditeur qui en est responsable. De la même façon, les mentions légales peuvent être modifiées à tout moment : elles s’imposent néanmoins à l’utilisateur qui est invité à s’y référer le plus souvent possible afin d’en prendre connaissance.</p>
+                <br>Le Client ne peut en aucune manière réutiliser, céder ou exploiter pour son propre compte tout ou partie des éléments ou travaux du Site.
+                <br>L’utilisation du site www.majs.fr implique l’acceptation pleine et entière des conditions générales d’utilisation ci-après décrites. Ces conditions d’utilisation sont susceptibles d’être modifiées ou complétées à tout moment, les utilisateurs sont donc invités à les consulter de manière régulière.
+                <br>Ce site internet est normalement accessible à tout moment aux utilisateurs. Une interruption pour raison de maintenance technique peut être toutefois décidée par l’éditeur.
+                <br>Le site web est mis à jour régulièrement par l’éditeur qui en est responsable. De la même façon, les mentions légales peuvent être modifiées à tout moment : elles s’imposent néanmoins à l’utilisateur qui est invité à s’y référer le plus souvent possible afin d’en prendre connaissance.</p>
             </div>
 
 
