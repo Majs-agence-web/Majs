@@ -41,7 +41,7 @@
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-12 text-center mx-auto">
-                <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-1">Condition générale de vente</h1>
+                <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-1">Conditions générales de vente</h1>
                 
             </div>
         </div>

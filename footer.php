@@ -105,8 +105,8 @@
 
                 <div class="item footerCentrage">
                     <div class="card-box">
-                        <a href="condition-generale-de-vente.php">
-                            <h4 class="item-title align-left mbr-fonts-style display-4">Condition générale de vente</h4>
+                        <a href="conditions-generales-de-vente.php">
+                            <h4 class="item-title align-left mbr-fonts-style display-4">Conditions générales de vente</h4>
                         </a>
                     </div>
                 </div> 

@@ -43,7 +43,7 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link ScriptNavigation link text-info text-primary display-4" href="index.php#nos_realisations" aria-expanded="false">REALISATIONS</a>
+                        <a class="nav-link ScriptNavigation link text-info text-primary display-4" href="index.php#nos_realisations" aria-expanded="false">RÉALISATIONS</a>
                     </li>
 
                     <li class="nav-item">
@@ -60,7 +60,7 @@
                             CLIENTS</a></li> --></ul>
                 
                 <div class="navbar-buttons px-2">
-                    <a class="btn btn-sm btn-danger display-4" href="contact.php">CONTACTER-NOUS</a>
+                    <a class="btn btn-sm btn-danger display-4" href="contact.php">CONTACTEZ-NOUS</a>
                 </div>
             </div>
         </nav>
