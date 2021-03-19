@@ -47,18 +47,12 @@
             <div class="row justify-content-md-start justify-content-md-center">
                 <div class="mbr-white col-sm-12 col-md-10 col-lg-7">
                     <h1 class="mbr-section-title mbr-regular align-center mbr-fonts-style display-1"><span style="color:#ecc979;">{&nbsp;</span>Demande de devis&nbsp;<span style="color:#ecc979;">}</span></h1>
-
-
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="clients cid-sn6ZrXRim2" id="clients01-53">
-
-
-
-
+        <section class="clients cid-sn6ZrXRim2" id="clients01-53">
         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1380px" height="810px" viewBox="0 -8.992806499463768e-14 1380 810" preserveAspectRatio="xMidYMid meet">
             <rect id="svgEditorBackground" x="0" y="0" width="1380" height="810" style="fill: none; stroke: none;"></rect>
             <defs id="svgEditorDefs">
@@ -72,35 +66,25 @@
         </svg>
     </section>
 
+<!--
     <section class="content4 industrym4_content4 cid-sn6ZJQKi2e" id="content004-58">
-
-
-
-
-
         <div class="container-fluid">
-            <div class="row">
-                <div class="col-lg-3"></div>
+            <div class="row">       
                 <div class="col-lg-8 text-col align-center">
                     <p class="text-center mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-2">Vous êtes</p>
-                    <p class="mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-7">
+                    <p class=" text-center mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-7">
                         • Un nouvel entrepreneur voulant créer une boutique en ligne ?<br>
                         • Une entreprise souhaitant se développer sur internet ?<br>
                         • Une entreprise cherchant une solution sur mesure ?<br>
                         • A la recherche d’une optimisation en référencement naturel/payant, ergonomie ou emailing ?<br><br>
                         Ce formulaire vous permettra de déterminer au mieux votre besoin.</p>
                 </div>
-                <div class="col-lg-1"></div>
-
+                
             </div>
         </div>
     </section>
-
+-->
     <section class="mbr-section extForm cid-sn6ZC8u8u0" id="extForm3-57">
-
-
-
-
         <div class="container">
             <div class="media-container-row">
                 <div class="col-md-10 col-lg-8 block-content">
@@ -113,7 +97,7 @@
                                 <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12"></div>
                             </div>
                             <div class="dragArea form-row">
-                                <div class="col-lg-12 col-md-12 col-sm-12">
+                                <div class="col-lg-12 col-md-12 col-sm-12 pb-3">
                                     <h5 class="mbr-fonts-style mbr-regular display-2">Votre besoin</h5>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group" data-for="Type de site ">
@@ -155,7 +139,7 @@
                                     <hr>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12">
-                                    <h5 class="mbr-fonts-style mbr-regular display-2">Votre design</h5>
+                                    <h5 class="mbr-fonts-style mbr-regular display-2 pb-3">Votre design</h5>
                                 </div>
                                 <div data-for="Logo : " class="col-lg-12 col-md-12 col-sm-12 form-group">
                                     <div class="form-control-label">
@@ -208,7 +192,7 @@
                                     <hr>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12">
-                                    <h5 class="mbr-fonts-style mbr-regular display-2">Fonctionnalités</h5>
+                                    <h5 class="mbr-fonts-style mbr-regular display-2 pb-3">Fonctionnalités</h5>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12">
                                     <p class="mbr-fonts-style display-5">Combien de pages avez-vous besoin ?</p>
@@ -260,7 +244,7 @@
                                     <hr>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12">
-                                    <h5 class="mbr-fonts-style mbr-regular display-2">Référencement</h5>
+                                    <h5 class="mbr-fonts-style mbr-regular display-2 pb-3">Référencement</h5>
                                 </div>
                                 <div data-for="Référencement" class="col-lg-12 col-md-12 col-sm-12 form-group">
                                     <div class="form-control-label">
@@ -279,7 +263,7 @@
                                     <hr>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12">
-                                    <h5 class="mbr-fonts-style mbr-regular display-2">Hébergement</h5>
+                                    <h5 class="mbr-fonts-style mbr-regular display-2 pb-3">Hébergement</h5>
                                 </div>
                                 <div data-for="Hébergement" class="col-lg-12 col-md-12 col-sm-12 form-group">
                                     <div class="form-control-label">
@@ -302,7 +286,7 @@
                                     <hr>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12">
-                                    <h5 class="mbr-fonts-style mbr-regular display-2">Information de contact</h5>
+                                    <h5 class="mbr-fonts-style mbr-regular display-2 pb-3">Information de contact</h5>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">
                                     <div class="form-row">
