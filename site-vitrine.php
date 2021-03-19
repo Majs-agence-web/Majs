@@ -155,10 +155,7 @@
         <div class="row justify-content-md-center">
             <div class="col-md-10 col-sm-12">
                 <h1 class="mbr-section-title align-center mbr-white pb-2 mbr-fonts-style display-2" style="color: #2e4b58!important">C'est ce qu'il vous faut ?</h1>
-                
-                <div class="mbr-text align-center mbr-white pb-2">
-                    
-                </div>
+                <div class="mbr-text align-center mbr-white pb-2"></div>
                 <div class="align-center">
                     <a class="btn btn-sm btn-danger display-4" href="devis.php?site=siteVitrine">DEMANDER UN DEVIS</a>
                 </div>

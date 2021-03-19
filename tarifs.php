@@ -65,8 +65,14 @@
                 <h1 class="mbr-section-title mbr-regular align-center mbr-fonts-style display-2">Quel est le tarif de mon site&nbsp;internet&nbsp;?</h1>
                 
                 <p class="mbr-text mbr-light align-center mbr-fonts-style display-7 pt-3">
-                    Nous avons décidé d'avoir une politique de prix transparent pour que puissiez prévoir au mieux votre budget. Les deux solutions que nous proposons est l'achat de votre site internet ou sinon pour les budgets serré la location avec option d'achat de votre site. Dans les différentes solutions que nous proposons, nous essayons de répondre au mieux aux différentes demandes de nos clients (site vitrine, site e-commerce etc.)</p>
-                
+                    Nous avons décidé d'avoir une politique de prix transparent pour que puissiez prévoir au mieux votre budget. 
+                    <br>
+                    <!--Les deux solutions que nous proposons est l'achat de votre site internet ou sinon pour les budgets serré la location avec option d'achat de votre site.--> 
+                    La solution que nous proposons est l'achat de votre site internet.
+                    <br>
+                    <!--Dans les différentes solutions que nous proposons, nous essayons de répondre au mieux aux différentes demandes de nos clients (site vitrine, site e-commerce etc.)-->
+                    Nous essayons de répondre au mieux aux différentes demandes de nos clients (site vitrine, site e-commerce etc.)
+                </p>
             </div>
         </div>
     </div>
@@ -87,9 +93,10 @@
                         <span class="mbr-iconfont mbrib-timer" style="font-size: 85px;"></span>
                     </div>
                     <div class="card-box">
-                        <h4 class="card-title mbr-fonts-style align-center display-5">Achat ou location</h4>
+                        <h4 class="card-title mbr-fonts-style align-center display-5">Achat <!--ou location--></h4>
                         <p class="mbr-text mbr-fonts-style align-center display-7">
-                            Avec nos deux solutions achat ou location cela vous laisse une liberté pour votre business.           
+                            <!--Avec nos deux solutions achat ou location cela vous laisse une liberté pour votre business.-->
+                            Avec notre solution d'achat cela vous laisse une liberté pour votre business.         
                         </p>
                     </div>
                 </div>
@@ -128,10 +135,11 @@
    
     <div class="container d-flex flex-column">
         <ul class="nav nav-tabs mb-4 justify-content-center mx-auto d-flex" role="tablist">
-            <li class="nav-item first mbr-section-btn"><a class="mbr-fonts-style btn-sm btn show active display-5" role="tab" data-toggle="tab" href="#extTabs11-5o_tab0" aria-selected="true">Location</a></li>
+            <!--<li class="nav-item first mbr-section-btn"><a class="mbr-fonts-style btn-sm btn show active display-5" role="tab" data-toggle="tab" href="#extTabs11-5o_tab0" aria-selected="true">Location</a></li>-->
             <li class="nav-item mbr-section-btn"><a class="mbr-fonts-style btn-sm btn active display-5" role="tab" data-toggle="tab" href="#extTabs11-5o_tab1" aria-selected="true">Achat</a></li>
         </ul>
         <div class="tab-content">
+        <!--
             <div id="tab1" class="tab-pane in active" role="tabpanel">
                 <div class="row justify-content-center">
 
@@ -218,13 +226,17 @@
                     
                 </div>
             </div>
+        -->
             <div id="tab2" class="tab-pane" role="tabpanel">
                 <div class="row justify-content-center">
 
                     <div class="plan col-12 justify-content-center col-lg-4">
                         <div class="card1">
-                            <div class="plan-header text-center">
-                                <h3 class="plan-title mbr-fonts-style display-5">Landing Page</h3>
+
+                            <div class="plan-header text-center ">
+                                <h3 class="plan-title mbr-fonts-style display-5">
+                                    <a  class="enteteCarte" href="landing-page.php">Landing Page</a>
+                                </h3>
                                 <div class="plan-price py-3">
                                     <p class="mbr-text mbr-fonts-style align-center display-7">A partir de</p>
                                     <span class="price-figure mbr-fonts-style display-1">
@@ -244,15 +256,18 @@
                                     </ul>
                                 </div>
                                 <div class="text-center pt-5">
-                                    <a href="landing-page.php" class="btn btn-danger display-4">Découvrir l'offre</a>
+                                    <a href="devis.php?site=landingPage" class="btn btn-danger display-4">Devis gratuit</a>
                                 </div>
                             </div>
                         </div>
                     </div>
+
                     <div class="plan col-12 justify-content-center col-lg-4">
                         <div class="card2">
                             <div class="plan-header text-center">
-                                <h3 class="plan-title mbr-fonts-style display-5">Site Vitrine</h3>
+                                <h3 class="plan-title mbr-fonts-style display-5">
+                                    <a href="site-vitrine.php">Site Vitrine<a>
+                                </h3>
                                 <div class="plan-price  py-3">
                                     <p class="mbr-text mbr-fonts-style align-center display-7">A partir de</p>
                                     <span class="price-figure mbr-fonts-style display-1">1500</span>
@@ -271,7 +286,7 @@
                                     </ul>
                                 </div>
                                 <div class="text-center pt-5">
-                                    <a href="site-vitrine.php" class="btn btn-danger display-4">Découvrir l'offre</a>
+                                    <a href="devis.php?site=siteVitrine" class="btn btn-danger display-4">Devis gratuit</a>
                                 </div>
                             </div>
                         </div>
@@ -280,7 +295,8 @@
                         <div class="card3">
                             <div class="plan-header text-center">
                                 <h3 class="plan-title mbr-fonts-style display-5">
-                                    E-Commerce</h3>
+                                    <a href="site-e-commerce.php">E-Commerce</a>
+                                </h3>
                                 <div class="plan-price py-3">
                                     <p class="mbr-text mbr-fonts-style align-center display-7">A partir de</p>
                                     <span class="price-figure mbr-fonts-style display-1">2000</span>
@@ -299,7 +315,7 @@
                                     </ul>
                                 </div>
                                 <div class="text-center pt-5">
-                                    <a href="site-e-commerce.php" class="btn btn-danger display-4">Découvrir l'offre</a>
+                                    <a href="devis.php?site=siteECommerce" class="btn btn-danger display-4">Devis gratuit</a>
                                 </div>
                             </div>
                         </div>
