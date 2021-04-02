@@ -22,7 +22,12 @@
     <link rel="stylesheet" href="assets/theme/css/style-min.css">
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional-min.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional-min.css" type="text/css">
-  
+    <style>
+        h2, h1{
+            text-shadow: 0 0 #ecc979;
+            color: #ecc979;
+        }
+    </style>
   
   
   
@@ -141,7 +146,7 @@
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-sm-12 col-md-10 col-lg-10">
-                <h1 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-2">Qui peut bénéficier de cette aide ? (...dans la limite des crédits disponibles)</h1>
+                <h2 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-2">Qui peut bénéficier de cette aide ? (...dans la limite des crédits disponibles)</h2>
             </div>
         </div>
     </div>
@@ -176,7 +181,7 @@
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-sm-12 col-md-10 col-lg-12">
-                <h1 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-2">Comment obtenir les 500 euros de l’État pour la réalisation d’un site internet ?</h1>  
+                <h2 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-2">Comment obtenir les 500 euros de l’État pour la réalisation d’un site internet ?</h2>  
             </div>
         </div>
     </div>

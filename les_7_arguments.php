@@ -22,7 +22,12 @@
     <link rel="stylesheet" href="assets/theme/css/style-min.css">
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional-min.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional-min.css" type="text/css">
-  
+    <style>
+        h2, h1{
+            text-shadow: 0 0 #ecc979;
+            color: #ecc979;
+        }
+    </style>
   
   
 </head>
@@ -82,7 +87,7 @@
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-sm-12 col-md-10 col-lg-7">
-                <h1 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">La qualité</h1>
+                <h2 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">La qualité</h2>
             </div>
         </div>
     </div>
@@ -116,7 +121,7 @@
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-sm-12 col-md-10 col-lg-7">
-                <h1 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">Le gain de temps</h1>  
+                <h2 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">Le gain de temps</h2>  
             </div>
         </div>
     </div>
@@ -147,7 +152,7 @@
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-sm-12 col-md-10 col-lg-7">
-                <h1 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">Un site web rapide et sécurisé qui respecte le RGPD</h1>
+                <h2 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">Un site web rapide et sécurisé qui respecte le RGPD</h2>
             </div>
         </div>
     </div>
@@ -178,7 +183,7 @@
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-sm-12 col-md-10 col-lg-8">
-                <h1 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">La mise en place d’un cahier des charges avec un suivi à la lettre</h1> 
+                <h2 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">La mise en place d’un cahier des charges avec un suivi à la lettre</h2> 
             </div>
         </div>
     </div>
@@ -207,7 +212,7 @@
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-sm-12 col-md-10 col-lg-7">
-                <h1 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">Le service après-vente</h1>    
+                <h2 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">Le service après-vente</h2>    
             </div>
         </div>
     </div>
@@ -240,7 +245,7 @@
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-sm-12 col-md-10 col-lg-7">
-                <h1 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">La maîtrise des évolutions d’Internet</h1>
+                <h2 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">La maîtrise des évolutions d’Internet</h2>
             </div>
         </div>
     </div>
@@ -275,7 +280,7 @@
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-sm-12 col-md-10 col-lg-7">
-                <h1 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">Un site bien référencé est un site : visible</h1>
+                <h2 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">Un site bien référencé est un site : visible</h2>
             </div>
         </div>
     </div>
@@ -308,7 +313,7 @@
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-sm-12 col-md-10 col-lg-7">
-                <h1 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">En Conclusion&nbsp;</h1> 
+                <h2 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">En Conclusion&nbsp;</h2> 
             </div>
         </div>
     </div>
