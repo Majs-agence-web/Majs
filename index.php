@@ -115,7 +115,7 @@
                     <p class="mbr-text align-left mbr-light mbr-fonts-style display-7">
                         <br>
                         <strong>Agence Web Enthousiaste<br></strong>
-                        MAJS est une agence digitale située à Croix, composée de 3 spécialistes du web : développeur, chef de projet et webdesigner.
+                        MAJS est une agence digitale située à Croix, composée de spécialistes du web : développeur, chef de projet et webdesigner.
                         <br>
                         <br>
                         Nous aidons nos clients à digitaliser leur communication en offrant une expérience utilisateur simple et efficace.
