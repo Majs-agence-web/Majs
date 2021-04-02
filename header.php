@@ -37,7 +37,7 @@
                             <a class="dropdown-item text-info text-primary display-4" href="site-vitrine.php" aria-expanded="false">Site Vitrine</a>
                             <a class="dropdown-item text-info text-primary display-4" href="site-e-commerce.php" aria-expanded="false">Site E-commerce</a>
                             <a class="dropdown-item text-info text-primary display-4" href="landing-page.php" aria-expanded="false">Site Landing page</a>
-                            <a class="dropdown-item text-info text-primary display-4" href="refonte-de-site-Web.php" aria-expanded="false">Refonte de Site</a>
+                            <a class="dropdown-item text-info text-primary display-4" href="refonte-de-site-web.php" aria-expanded="false">Refonte de Site</a>
                             <a class="dropdown-item text-info text-primary display-4" href="sur-mesure.php" aria-expanded="false">Site sur mesure<br></a>
                         </div>
                     </li>
