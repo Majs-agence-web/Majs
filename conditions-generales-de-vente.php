@@ -1021,7 +1021,7 @@
                 <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">16.3. Modes de règlement</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le CLIENT professionnel ou non professionnel doit régler le prix selon les spécifications prévues sur le devis, soit par virement bancaire sur le compte du PRESTATAIRE, 
-                    soit par chèque libellé au nom de ORBITEO SAS.
+                    soit par chèque libellé au nom de Majs Web Agency.
                     <br>
                     <br>Toute contestation ou réserve relative à une facture devra être notifiée au PRESTATAIRE au plus tard dans les cinq (5) jours de sa réception. A défaut, la facture 
                     sera considérée comme définitivement acceptée par le CLIENT et la créance correspondante comme incontestable. 

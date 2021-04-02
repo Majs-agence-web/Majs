@@ -33,312 +33,318 @@
     ?>
 
 <section class="carousel slider1 slide testimonials-slider cid-spQq2RxfnV" data-interval="false" id="slider1-6i">
-
-    
-
-    
-
     <div class="container text-center">
-
         <div class="carousel slide" role="listbox" data-pause="true" data-keyboard="false" data-ride="false" data-interval="false">
-                 <div class="media-container-row">       
-<!--             <div class="carousel-indicators">
-                        <li class="li1 active" mbr-theme-style="display-4" data-slide-to="0"></li>
-                        <li class="li2" mbr-theme-style="display-4" data-slide-to="1" mbr-if="testimonialsSlides > 1"></li>
-                        <li class="li3" mbr-theme-style="display-4" data-slide-to="2" mbr-if="testimonialsSlides > 2"></li>
-                        <li class="li4" mbr-theme-style="display-4" data-slide-to="3" mbr-if="testimonialsSlides > 3"></li>
-            </div> -->
+            <div class="media-container-row">       
+                <!--<div class="carousel-indicators">
+                    <li class="li1 active" mbr-theme-style="display-4" data-slide-to="0"></li>
+                    <li class="li2" mbr-theme-style="display-4" data-slide-to="1" mbr-if="testimonialsSlides > 1"></li>
+                    <li class="li3" mbr-theme-style="display-4" data-slide-to="2" mbr-if="testimonialsSlides > 2"></li>
+                    <li class="li4" mbr-theme-style="display-4" data-slide-to="3" mbr-if="testimonialsSlides > 3"></li>
+                </div> -->
             </div>
-            
+        
             <div class="carousel-inner">
-                
-              
-            <div class="carousel-item">
-                    <div class="back"> </div>
+                <div class="carousel-item">
+                    <div class="back"></div>
                     <div class="media-container-row">
-                        
                         <div class="col-lg-9 col-12 image-element align-self-stretch">
-                                <img src="assets/images/mbr-1665x1110.jpg" alt="">
+                            <img src="assets/images/mbr-1665x1110.jpg" alt="">
                         </div>
-                        
                         <div class="col-lg-5 col-12">
-                        <div class="card-wrap">
-                    <h1 class="mbr-section-title align-center mbr-fonts-style display-5">Les 7 arguments pour choisir une agence web</h1>
-                    
-                            <p class="mbr-fonts-style block-quote display-7" style="text-align:justify !important;">Vous avez besoin d’un site internet pour votre activité professionnelle et évidemment, vous recherchez le meilleur rapport qualité prix pour votre plateforme web. Voici les deux solutions envisagées par un entrepreneur : <br>
-<br>- Réaliser le site par une agence web ou un développeur Freelance<br>- Le faire soit même ou faire appel à des amateurs <br>
-<br>Les deux approches ont leurs avantages et leurs inconvénients, mais au final. Il est rare que vous obteniez la même qualité de site internet sur le long terme. Nous allons tenter de vous donner les majeures différences qui font qu’au final, vous n’obtiendrez pas le même résultat.<br></p>
-                    
+                            <div class="card-wrap">
+                                <h1 class="mbr-section-title align-center mbr-fonts-style display-5">Les 7 arguments pour (bien!) choisir une agence web</h1>
+                        
+                                <p class="mbr-fonts-style block-quote display-7" style="text-align:justify !important;">
+                                    Vous avez besoin d’un site internet pour votre activité professionnelle et il est bien évidemment 
+                                    légitime que vous cherchiez à obtenir le meilleur rapport qualité/prix pour votre plateforme web. 
+                                    Dans cette recherche, deux solutions se présentent principalement à vous :
+                                    <br>
+                                    <br>- confier la réalisation de votre site à une agence web ou à un développeur freelance
+                                    <br>- le faire vous-même et/ou faire appel à des personnes “qui s’y connaissent” , mais sans que ce soit 
+                                    eur métier pour autant.
+                                    <br>
+                                    <br>Les deux approches comportent des avantages et des inconvénients, mais elles engendrent également des finalités et des 
+                                    conséquences bien différentes, particulièrement sur le long terme et sur le plan qualitatif. Nous nous proposons de vous 
+                                    exposer les différences majeures qu’elles induisent, qui feront qu’au final vous pourriez obtenir des résultats diamétralement 
+                                    opposés, compte-tenu de votre souhait initial.
+                                </p>  
+                            </div>
+                        </div>
+                    </div>
                 </div>
-            </div>
-      </div>
-                </div></div>
-
-            
+            </div>    
         </div>
     </div>
 </section>
 
 <section class="cid-spQuH4QMt0" id="title01-6o">
-
-    
-
-    
-
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-sm-12 col-md-10 col-lg-7">
                 <h1 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">La qualité</h1>
-                
-                
-                
             </div>
         </div>
     </div>
 </section>
 
 <section class="mbr-section extContent cid-spQq2RVVDk" id="extContent15-6j">
-
-    
-
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-10 col-sm-12 text-section">
-                <p class="mbr-fonts-style mbr-text align-center display-7" style="text-align:justify;">Dans beaucoup de domaines, le professionnel doit rendre un résultat impeccable, d’un autre coté l’amateur tente d’avoir un résultat le plus satisfaisant possible. Cependant, il ne s’agit pas de se satisfaire quand on parle d’un site web, il faut bien avoir l’esprit que le site internet est votre carte de visite, votre image, comme la vitrine d’un commerçant.
-<br><br>La majeure différence entre un professionnel et un amateur sont les outils utilisés. Une agence web ou un développeur paye des licences, créer des outils qui sont utilisés à longueur d’année. Les outils proposés aux particuliers sont essentiellement du préfabriqué avec peu de marge personnalisation.&nbsp;<br></p>
-               
+                <p class="mbr-fonts-style mbr-text align-center display-7" style="text-align:justify;">
+                    Dans son domaine de compétences, le professionnel doit fournir un résultat sérieux, impeccablement présenté et 
+                    irréprochable, tant au niveau du fond que de la forme, alors que, généralement, l’amateur tend plutôt à obtenir 
+                    le résultat le plus satisfaisant possible, en conservant une part de fantaisie, voire de plaisir, dans la réalisation.  
+                    Attention!!! Il faut bien avoir l’esprit que le site internet de votre business est une véritable carte de visite, 
+                    qui représente votre image, comme pourrait le faire la vitrine d’un commerçant (d’ailleurs, nous reviendrons sur ce 
+                    point un peu plus loin).
+                    <br>
+                    <br>La différence fondamentale entre un professionnel et un amateur se dégage de par les outils utilisés. 
+                    Une agence web ou un développeur payent des licences de logiciels très onéreux et pointus, ils créent du code 
+                    spécifique qui est constamment perfectionné, à longueur d’année, après avoir été testé et rodé. En contrepartie, 
+                    les particuliers auront seulement à leur disposition des outils simples, d’ailleurs souvent gratuits, qui produisent 
+                    des canevas automatisés de sites préfabriqués, avec une marge de personnalisation souvent très mince 
+                    (à moins de vraiment bien s’y connaître et donc de...créer du code). 
+                </p> 
             </div>
         </div>
     </div>
 </section>
 
 <section class="cid-spQuXhSALk" id="title01-6p">
-
-    
-
-    
-
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-sm-12 col-md-10 col-lg-7">
-                <h1 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">Le gain de temps</h1>
-                
-                
-                
+                <h1 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">Le gain de temps</h1>  
             </div>
         </div>
     </div>
 </section>
 
 <section class="mbr-section extContent cid-spQv2QwF4r" id="extContent15-6q">
-
-    
-
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-10 col-sm-12 text-section">
-                <p class="mbr-fonts-style mbr-text align-center display-7" style="text-align:justify;">Créer son site internet n’est pas quelque chose de naturel, il vous faudra évidemment regardes des heures de tutoriel sur YouTube et tomber sur des bogues que le Youtubeur ne peut pas vous expliquer. Imaginons qu’une connaissance vous aide, il faudra qu’il soit un professionnel du secteur pour obtenir un résultat irréprochable, car on ne peut pas s’improviser développeur web du jour au lendemain.
-<br><br>Seule certitude, une agence web pourra vous réaliser rapidement le site web, car les développeurs sont focalisés à délivrer le projet web, ce gain de temps vous permettra de vous concentrer sur d’autres priorités.&nbsp;<br></p>
-               
+                <p class="mbr-fonts-style mbr-text align-center display-7" style="text-align:justify;">
+                    Créer soi-même son site internet n’est pas quelque chose de naturel, il vous faudra évidemment 
+                    visionner des heures de tutoriels, ou lire assidûment beaucoup de documentation, sans aucune garantie 
+                    que les bogues, que vous rencontrerez inévitablement dans la confection puissent être élucidés 
+                    (...dure réalité, certes, mais il faut véritablement en prendre bonne conscience).  A supposer qu’une bonne âme 
+                    vous prête main forte, cela prendra énormément de temps, car on ne s’improvise pas développeur web du jour au 
+                    lendemain...à moins d’exercer le métier !
+                    <br>
+                    <br>Seule certitude, une agence web pourra vous réaliser rapidement le site web de votre choix, car les développeurs 
+                    sont focalisés pour délivrer votre projet dans un temps contractuellement imparti, et ce gain de temps vous 
+                    permettra de vous concentrer sur d’autres priorités. 
+                </p>
             </div>
         </div>
     </div>
 </section>
 
 <section class="cid-spQv3jf8lC" id="title01-6r">
-
-    
-
-    
-
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-sm-12 col-md-10 col-lg-7">
                 <h1 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">Un site web rapide et sécurisé qui respecte le RGPD</h1>
-                
-                
-                
             </div>
         </div>
     </div>
 </section>
 
 <section class="mbr-section extContent cid-spQv3GSTZz" id="extContent15-6s">
-
-    
-
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-10 col-sm-12 text-section">
-                <p class="mbr-fonts-style mbr-text align-center display-7" style="text-align:justify;">Les professionnels du web traitent quotidiennement des projets similaires au vôtre. Grâce à cela, ils éviteront les écueils qu’un amateur peut commettre et cela peut être fatal pour la fluidité de votre site. Il faut avoir à l’esprit que Google analyse la rapidité de votre site pour le classer dans son moteur de recherche. Autre point important, au niveau de la sécurité et du respect de la législation européenne (RGPD).
-<br><br>À l’avenir, le fait d’avoir un site moderne et renouvelable facilement permet de se positionner au-dessus de la concurrence. Par conséquent, il est difficile de réaliser ses performances avec un site amateur sans mise à jour régulière.&nbsp;<br></p>
-               
+                <p class="mbr-fonts-style mbr-text align-center display-7" style="text-align:justify;">
+                    Les professionnels du web traitent quotidiennement des projets similaires au vôtre. Par leurs compétences, 
+                    ils évitent les écueils qu’un amateur peut rencontrer et qui risquent d'être fatals pour la fluidité de votre site. 
+                    En effet, il faut bien garder à l’esprit que Google analyse, entre autres, la rapidité de votre site pour le 
+                    classer dans les résultats de son moteur de recherche. Un autre impact extrêmement important se situe au niveau 
+                    de la sécurité des sites produits et du respect de la législation européenne (RGPD), qui sont devenues des exigences 
+                    absolument incontournables de nos jours.
+                    <br>
+                    <br>À l’avenir, avoir un site moderne, facilement éditable et pratique à mettre à jour permet de se positionner 
+                    d’emblée au-dessus de la concurrence….Difficile de réaliser ce genre de performances avec un site amateur aux 
+                    mises à jour aléatoires ou improbables, car l’amateur...a aussi un métier!
+                </p>  
             </div>
         </div>
     </div>
 </section>
 
 <section class="cid-spQv4fNWhS" id="title01-6t">
-
-    
-
-    
-
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-sm-12 col-md-10 col-lg-8">
-                <h1 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">La mise en place de votre avec un cahier des charges suivi à la lettre</h1>
-                
-                
-                
+                <h1 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">La mise en place d’un cahier des charges avec un suivi à la lettre</h1> 
             </div>
         </div>
     </div>
 </section>
 
 <section class="mbr-section extContent cid-spQv4AO3po" id="extContent15-6u">
-
-    
-
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-10 col-sm-12 text-section">
-                <p class="mbr-fonts-style mbr-text align-center display-7" style="text-align:justify;">Afin de comprendre au mieux vos envies, vos besoins, nous vous aiderons à produire un cahier des charges. Cela permettra d’exprimer clairement vos besoins et de pourvoir les réaliser en fonctionnalités sur le site Web. Deuxième avantage, cela permet de laisser par écrit les contours du site et ainsi vous protéger vis-à-vis de votre prestataire.<br><br>Les agences Web ont pour coutume de réaliser un site internet en se basant sur un cahier des charges. Ce document permet de mettre au clair l’ensemble des interactions homme-machine et de répartir les tâches dans l’équipe de développement.&nbsp;<br></p>
-               
+                <p class="mbr-fonts-style mbr-text align-center display-7" style="text-align:justify;">
+                    Afin de comprendre au mieux vos envies, vos besoins, nous vous accompagnerons et vous conseillerons pour 
+                    produire un cahier des charges. Ce document devra vous permettre d’exprimer clairement votre projet, et pour 
+                    Majs Web Agency, de le réaliser en pages explicites et fonctionnelles d’un site Web: le vôtre propre, car en 
+                    listant clairement et explicitement l’ensemble des interactions homme-machine les tâches au sein de notre équipe 
+                    de développement pourront être idéalement réparties. Un autre avantage, loin d’être négligeable, est qu’il permet 
+                    aussi de consigner par écrit des contours impeccablement définis entre vous et nous.  Ainsi, il vous protégera de 
+                    toute “interprétation” non conforme à votre souhait, si tant est que vous en constatiez dans la réalisation de 
+                    votre site in fine.
+                </p>
             </div>
         </div>
     </div>
 </section>
 
 <section class="cid-spQv57LppE" id="title01-6v">
-
-    
-
-    
-
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-sm-12 col-md-10 col-lg-7">
-                <h1 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">Le service après-vente</h1>
-                
-                
-                
+                <h1 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">Le service après-vente</h1>    
             </div>
         </div>
     </div>
 </section>
 
 <section class="mbr-section extContent cid-spQv5qyda0" id="extContent15-6w">
-
-    
-
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-10 col-sm-12 text-section">
-                <p class="mbr-fonts-style mbr-text align-center display-7" style="text-align:justify;">Comme tout produit vendu par un professionnel, vous bénéficiez d’une garantie que votre site ne va pas dysfonctionner ou être indisponible dans les mois suivants sa mise en ligne.
-<br><br>Majs Web Agency assure les mises-à-jours et le suivi de votre site internet, et en cas de problème assure la maintenance et le service après-vente de celui-ci. Autre point, on n’improvise pas un site marchand surtout quand on n’est pas habitué au secteur du e-commerce. Le conseil du professionnel prend tout son sens pour éviter les erreurs de débutant.&nbsp;<br></p>
-               
+                <p class="mbr-fonts-style mbr-text align-center display-7" style="text-align:justify;">
+                    La vente d’un produit par un professionnel doit s’assortir légalement et contractuellement d’une garantie. 
+                    Chez Majs Web Agency, c’est celle que votre site ne va pas dysfonctionner ou être indisponible dans les jours 
+                    ou mois qui suivent sa mise en ligne.
+                    <br>
+                    <br>Nous assurons périodiquement et chaque fois que nécessaire toutes les mises à jour et le service après-vente de 
+                    votre site internet, et en cas de difficultés, nous en assurons la maintenance, ou vous orientons vers les bons 
+                    interlocuteurs, si le problème ne provient pas de notre périmètre d’action. Au risque de nous répéter,  on ne 
+                    s’improvise pas concepteur de site marchand, surtout quand on n’est pas rompu aux pratiques du secteur de 
+                    e-commerce. C’est véritablement là que le conseil du professionnel prend tout son sens, car il permet d’éviter 
+                    les erreurs du débutant ou de l’amateur, pourtant pétris de bonne volonté et d’intentions d’aide, qualités qui 
+                    ne remplaceront cependant jamais les connaissances et les compétences des acteurs reconnus du domaine, 
+                    dont Majs Web Agency fait bien entendu partie. 
+                </p>
             </div>
         </div>
     </div>
 </section>
 
 <section class="cid-spQv5Q84sY" id="title01-6x">
-
-    
-
-    
-
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-sm-12 col-md-10 col-lg-7">
-                <h1 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">Suivre les évolutions d’Internet</h1>
-                
-                
-                
+                <h1 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">La maîtrise des évolutions d’Internet</h1>
             </div>
         </div>
     </div>
 </section>
 
 <section class="mbr-section extContent cid-spQv6A3joD" id="extContent15-6y">
-
-    
-
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-10 col-sm-12 text-section">
-                <p class="mbr-fonts-style mbr-text align-center display-7" style="text-align:justify;">En engageant une agence web, pour la réalisation de son site Web, cela permet d’envisager l’évolution de son site sereinement. Il est important d’envisager son site comme un outil en constante évolution. <br><br>Quand on imagine qu’en moins de 10 ans, il y a eu l’explosion des smartphones, de nos jours un site qui n’est pas adapté à votre téléphone et un site qui perd automatiquement 40 % de son audience potentielle. Les professionnels du secteur seront toujours là pour vous conseiller sur les dernières évolutions.<br></p>
-               
+                <p class="mbr-fonts-style mbr-text align-center display-7" style="text-align:justify;">
+                    En contractualisant avec une agence Web pour la réalisation de son site Web, le commerçant, même novice ou 
+                    absolument étranger au monde d'internet, peut envisager l’évolution de son site le plus sereinement du monde. 
+                    Car il est important, et certainement même crucial,  de considérer et comprendre la réalisation de son site comme 
+                    un outil en constante évolution: connaissez-vous beaucoup de commerçants qui n’actualisent pas leurs devantures et 
+                    leurs espaces de chalandise physiques en fonction de la saisonnalité et des événements festifs, pour ne citer que 
+                    deux exemples probants...?
+                    <br>
+                    <br>Certes, il a fallu environ 10 ans pour que les smartphones s’imposent comme des compagnons indispensables à la 
+                    vie numérique, mais maintenant que leur implantation est indiscutable et que leur utilisation est incontournable 
+                    pour surfer sur le web, il faut savoir que, de nos jours, un site qui n’est pas adapté à l’affichage sur votre 
+                    téléphone est un site qui perd automatiquement 40 % de son audience potentielle. Dans ce contexte, seuls les 
+                    professionnels du secteur seront toujours là pour vous conseiller sur les dernières évolutions, car c’est bien 
+                    aussi de leur cœur de métier de s’informer constamment des nouveautés et de toute innovation commerciale dont 
+                    vous pourriez utilement tirer profit..
+                </p>    
             </div>
         </div>
     </div>
 </section>
 
 <section class="cid-spQv73MCwz" id="title01-6z">
-
-    
-
-    
-
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-sm-12 col-md-10 col-lg-7">
-                <h1 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">Un site bien référencé pour un site visible.</h1>
-                
-                
-                
+                <h1 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">Un site bien référencé est un site : visible</h1>
             </div>
         </div>
     </div>
 </section>
 
 <section class="mbr-section extContent cid-spQv7zETRY" id="extContent15-70">
-
-    
-
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-10 col-sm-12 text-section">
-                <p class="mbr-fonts-style mbr-text align-center display-7">Avoir un beau site c’est bien, avoir un site visible c’est encore mieux. En effet, beaucoup d’internautes recherche directement leur commerce via un moteur de recherche. <br><br>Le problème, si votre commerce se retrouve page 5 de Google, cela revient à être quasiment invisible. Un professionnel du web optimisera le référencement naturel (SEO) en mettant en place les bonnes pratiques. Et vous donnera des conseils pour amener du contenu pertinent ce qui permet de remonter dans le classement de Google.&nbsp;<br></p>
-              
+                <p class="mbr-fonts-style mbr-text align-center display-7">
+                    Avoir un beau site au design bien léché, avec une charte graphique sans faute de goût est bien sûr un bon point, 
+                    avoir un site visible par les moteurs de recherche... c’est encore mieux!  En effet, beaucoup d’internautes 
+                    recherchent directement le commerce dont ils ont besoin  via ces outils de tri et de sélection des adresses web, 
+                    dont les algorithmes, en plus d’être redoutablement puissants, sont particulièrement ésotériques. Là encore, 
+                    la patte du professionnel va vite s’avérer indispensable, si vous ne voulez pas que le lien de votre commerce 
+                    n’apparaisse en page 5 de Google et par conséquent soit quasiment invisible.
+                    <br>
+                    <br>Un professionnel du web saura parfaitement optimiser ce que l’on nomme dans le métier: “référencement naturel” 
+                    (SEO pour les connaisseurs), en mettant en place les bonnes pratiques. Et il vous donnera les conseils judicieux
+                    et les mieux adaptés pour apporter du contenu pertinent et construire des pages efficaces, qui  vous permettront 
+                    de remonter sans effort dans le classement des moteurs de recherche…….en tout cas, nos clients nous disent que
+                    c’est ce que nous faisons, chez Majs Web Agency!
+                </p>
             </div>
         </div>
     </div>
 </section>
 
 <section class="cid-spQwmH0d0F" id="title01-71">
-
-    
-
-    
-
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-sm-12 col-md-10 col-lg-7">
-                <h1 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">En Conclusion&nbsp;</h1>
-                
-                
-                
+                <h1 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">En Conclusion&nbsp;</h1> 
             </div>
         </div>
     </div>
 </section>
 
 <section class="mbr-section extContent cid-spQwnnldjH" id="extContent15-72">
-
-    
-
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-10 col-sm-12 text-section">
-                <p class="mbr-fonts-style mbr-text align-center display-7">Nous avons abordé à travers cet article les différentes raisons pourquoi il valait mieux choisir un professionnel du secteur pour réaliser un site internet. <br><br>La notion la plus importante qu’il faut retenir, c’est qu’un site doit être vivant, en constante évolution. Beaucoup d’entrepreneurs gèrent leur site internet comme la toiture de leur maison ce qui est une erreur stratégique à moyen et long terme vis-à-vis de la concurrence. <br><br>C’est pour&nbsp;cela qu’il est important d’être suivi dans la longueur. Dernier conseil, vous verrez beaucoup de disparité de prix entre les agences web, le véritable curseur qui fait grimper le prix est la création graphique sur-mesure. <br><br>Nous avons décidé pour vous proposer des prix planchés des formules demi-mesure, ou on vous propose des modèles que l’on adapte en fonction de votre commerce. Si vous avez besoin d’un site sur-mesure nous sommes capable de vous le proposer via un devis.<br></p>
+                <p class="mbr-fonts-style mbr-text align-center display-7">
+                    Nous avons abordé à travers cet article les différentes raisons qui prévalent au choix d’un professionnel du secteur 
+                    pour réaliser un site internet.
+                    <br>
+                    <br>Au final, peut-être que la notion la plus importante qui puisse être retenue est qu’un site internet doit être vivant, 
+                    en constante évolution. Beaucoup d’entrepreneurs gèrent leur site internet comme la toiture de leur maison ce qui est une 
+                    grave erreur stratégique à moyen et long terme vis-à-vis de la concurrence.
+                    <br>
+                    <br>C’est pour cela qu’il est important d’être suivi dans la totalité du parcours, et tout au long de toute la durée de vie 
+                    du site. Enfin, vous constaterez à coup sûr une grande disparité de prix dans les prestations des agences web, il faut 
+                    savoir que le véritable curseur qui fait grimper le prix est la création graphique sur mesure, car c’est effectivement 
+                    la clé de voûte de la personnalisation et donc de l’originalité pour cette vitrine numérique de votre commerce.
+                    <br>
+                    <br>Chez Majs Web Agency, nous avons volontairement et délibérément opté, afin de vous proposer des prix “plancher”, pour des 
+                    formules à envergure variable. Ainsi vous disposerez de modèles uniques qui seront judicieusement adaptés à moindre coût 
+                    en fonction de votre commerce, à des tarifs effectivement variables mais particulièrement adaptés. 
+                    <br>
+                    <br>Le meilleur moyen de vérifier notre propos est de nous demander un devis, et nous serons alors ravis de vous montrer
+                    à quel point vous serez le centre de toutes nos attentions, quel que soit votre besoin, du projet standard élémentaire
+                    mais déjà puissamment fonctionnel, au projet sur mesure, sans aucune limitation de perspective ni d’ambition, car sans 
+                    compromis d’aucune sorte.
+                </p>
                 <div class="py-3 ornament text-center">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 133 20" height="20" width="150" fill="#355665">
                         <g><path d="M127.18,6.19C121-.05,109.94-.24,101.84.1,90.84.56,80,3.3,69.32,5.77c-8,1.86-16,3.63-24,5.72-9.21,2.41-18.6,4.72-28.14,5.19-4.1.2-8.48,0-12.16-2a6.6,6.6,0,0,1-2.7-9A5.46,5.46,0,0,1,7.07,2.77c4-.22,6.73,8.39-.08,4.58a.49.49,0,0,0-.49.84c4.88,3,10.8,0,5.4-4.91C7.6-.63.4,2.06,0,8-1,24,28.25,17,36.29,15.24,53.74,11.37,70.9,6.44,88.53,3.33c11.1-2,24.75-3.54,35.06,2.19a16,16,0,0,1,6.86,8.85c1.29,4.31-4.35,4.2-7,3.52-4.84-1.26-2.42-8,1.22-3,.61.83,2,0,1.4-.82-2.15-2.93-6.71-4.9-7.12.35s8.36,7.24,11.72,4.47C135,15.32,129.91,9,127.18,6.19Z"></path></g>
                     </svg>
-                </div>
-              
+                </div>  
             </div>
         </div>
     </div>
@@ -360,8 +366,8 @@
 
 
 <?php 
-        include("footer.php")
-    ?>
+    include("footer.php")
+?>
 
 
 <script src="assets/web/assets/jquery/jquery.min.js"></script>

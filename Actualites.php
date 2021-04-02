@@ -165,7 +165,19 @@
                 <div class="item-content">
                     <h3 class="mbr-section-subtitle mbr-medium mbr-fonts-style display-7">Les 7 arguments pour choisir une agence web</h3>
                     <p class="mbr-text mbr-fonts-style display-4">
-                        Vous avez besoin d’un site internet pour votre activité professionnelle et évidemment, vous recherchez le meilleur rapport qualité prix pour votre plateforme web. Voici les deux solutions envisagées par un entrepreneur.....</p>
+                        Vous avez besoin d’un site internet pour votre activité professionnelle et il est bien évidemment 
+                        légitime que vous cherchiez à obtenir le meilleur rapport qualité/prix pour votre plateforme web. 
+                        Dans cette recherche, deux solutions se présentent principalement à vous :
+                        <br>
+                        <br>- confier la réalisation de votre site à une agence web ou à un développeur freelance
+                        <br>- le faire vous-même et/ou faire appel à des personnes “qui s’y connaissent” , mais sans que ce soit 
+                        eur métier pour autant.
+                        <br>
+                        <br>Les deux approches comportent des avantages et des inconvénients, mais elles engendrent également des finalités et des 
+                        conséquences bien différentes, particulièrement sur le long terme et sur le plan qualitatif. Nous nous proposons de vous 
+                        exposer les différences majeures qu’elles induisent, qui feront qu’au final vous pourriez obtenir des résultats diamétralement 
+                        opposés, compte-tenu de votre souhait initial.
+                    </p>
                     <div class="mbr-section-btn"><a class="btn btn-danger display-4" href="les_7_arguments.php"><span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>En savoir +<br></a></div>
                     
                 </div>

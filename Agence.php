@@ -422,11 +422,9 @@
     
 </section>
 
+
+<!--
 <section class="testimonials1 cid-slr2keS2Zf" id="team01-f">
-
-    
-
-    
     <div class="container">
         <div class="media-container-row">
             <div class="title col-12 align-center">
@@ -495,7 +493,7 @@
                     </div>
                 </div>
             </div>
-            -->
+            
 
             <div class="mbr-testimonial p-2 align-center col-12 col-md-6 col-lg-3">
                 <div class="panel-item p-3">
@@ -561,12 +559,10 @@
         </div>
     </div>
 </section>
+-->
 
 <section class="clients cid-smb9idkHEm" id="clients01-35">
     
-
-    
-
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1380px" height="810px" viewBox="0 -8.992806499463768e-14 1380 810" preserveAspectRatio="xMidYMid meet">
         <rect id="svgEditorBackground" x="0" y="0" width="1380" height="810" style="fill: none; stroke: none;"></rect>
         <defs id="svgEditorDefs">
