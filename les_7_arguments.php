@@ -62,7 +62,7 @@
                                     <br>
                                     <br>- confier la réalisation de votre site à une agence web ou à un développeur freelance
                                     <br>- le faire vous-même et/ou faire appel à des personnes “qui s’y connaissent” , mais sans que ce soit 
-                                    eur métier pour autant.
+                                    leur métier pour autant.
                                     <br>
                                     <br>Les deux approches comportent des avantages et des inconvénients, mais elles engendrent également des finalités et des 
                                     conséquences bien différentes, particulièrement sur le long terme et sur le plan qualitatif. Nous nous proposons de vous 
