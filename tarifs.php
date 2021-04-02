@@ -31,47 +31,33 @@
 <body>
   
 <?php 
-        include("header.php")
-    ?>
+    include("header.php")
+?>
 
 <section class="cid-spngYsxHx9 mbr-parallax-background" id="header02-5j">
-
-    
-
     <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(75, 101, 112);"></div>
-
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-12 text-center mx-auto">
-                <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-1">Tarifs<br></h1>
-                
-                
-                
+                <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-1">Tarifs<br></h1>    
             </div>
         </div>
     </div>
-    
 </section>
 
 <section class="cid-spnh6LSSFY" id="title02-5n">
-
-    
-
-    
-
     <div class="container align-center">
         <div class="row justify-content-md-start justify-content-md-center">
             <div class="mbr-white col-sm-12 col-md-10 col-lg-8">
-                <h1 class="mbr-section-title mbr-regular align-center mbr-fonts-style display-2">Quel est le tarif de mon site&nbsp;internet&nbsp;?</h1>
-                
+                <h1 class="mbr-section-title mbr-regular align-center mbr-fonts-style display-2">Quel est le tarif de mon site&nbsp;internet&nbsp;?</h1>     
                 <p class="mbr-text mbr-light align-center mbr-fonts-style display-7 pt-3">
                     Nous avons décidé d'avoir une politique de prix transparent pour que puissiez prévoir au mieux votre budget. 
                     <br>
-                    <!--Les deux solutions que nous proposons est l'achat de votre site internet ou sinon pour les budgets serré la location avec option d'achat de votre site.--> 
-                    La solution que nous proposons est l'achat de votre site internet.
+                    <br>Les deux solutions que nous proposons est l'achat de votre site internet ou sinon pour les budgets serré la location avec option 
+                    d'achat de votre site.
                     <br>
-                    <!--Dans les différentes solutions que nous proposons, nous essayons de répondre au mieux aux différentes demandes de nos clients (site vitrine, site e-commerce etc.)-->
-                    Nous essayons de répondre au mieux aux différentes demandes de nos clients (site vitrine, site e-commerce etc.)
+                    <br>Dans les différentes solutions que nous proposons, nous essayons de répondre au mieux aux différentes demandes de nos clients 
+                    (site vitrine, site e-commerce etc.)
                 </p>
             </div>
         </div>
@@ -79,13 +65,7 @@
 </section>
 
 <section class="extFeatures cid-spnlHyHOnX" id="extFeatures6-5r">
-    
-    
-
-    
     <div class="container">
-        
-        
         <div class="row justify-content-center">
             <div class="card p-3 col-12 col-md-6 col-xl-4 col-lg-4">
                 <div class="card-wrap">
@@ -93,15 +73,13 @@
                         <span class="mbr-iconfont mbrib-timer" style="font-size: 85px;"></span>
                     </div>
                     <div class="card-box">
-                        <h4 class="card-title mbr-fonts-style align-center display-5">Achat <!--ou location--></h4>
+                        <h4 class="card-title mbr-fonts-style align-center display-5">Achat ou location</h4>
                         <p class="mbr-text mbr-fonts-style align-center display-7">
-                            <!--Avec nos deux solutions achat ou location cela vous laisse une liberté pour votre business.-->
-                            Avec notre solution d'achat cela vous laisse une liberté pour votre business.         
+                            Avec nos deux solutions achat ou location cela vous laisse une liberté pour votre business.       
                         </p>
                     </div>
                 </div>
             </div>
-
             <div class="card p-3 col-12 col-md-6 col-xl-4 col-lg-4">
                 <div class="card-wrap">
                     <div class="card-img pb-4 align-center">
@@ -113,7 +91,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="card p-3 col-12 col-md-6 col-xl-4 col-lg-4">
                 <div class="card-wrap">
                     <div class="card-img pb-4 align-center">
@@ -125,21 +102,17 @@
                     </div>
                 </div>
             </div>
-
-            
         </div>
     </div>
 </section>
 
 <section class="extTabs tabs cid-spniIXjsh8" id="extTabs11-5o">
-   
     <div class="container d-flex flex-column">
         <ul class="nav nav-tabs mb-4 justify-content-center mx-auto d-flex" role="tablist">
-            <!--<li class="nav-item first mbr-section-btn"><a class="mbr-fonts-style btn-sm btn show active display-5" role="tab" data-toggle="tab" href="#extTabs11-5o_tab0" aria-selected="true">Location</a></li>-->
+            <li class="nav-item first mbr-section-btn"><a class="mbr-fonts-style btn-sm btn show active display-5" role="tab" data-toggle="tab" href="#extTabs11-5o_tab0" aria-selected="true">Location</a></li>
             <li class="nav-item mbr-section-btn"><a class="mbr-fonts-style btn-sm btn active display-5" role="tab" data-toggle="tab" href="#extTabs11-5o_tab1" aria-selected="true">Achat</a></li>
         </ul>
         <div class="tab-content">
-        <!--
             <div id="tab1" class="tab-pane in active" role="tabpanel">
                 <div class="row justify-content-center">
 
@@ -226,13 +199,11 @@
                     
                 </div>
             </div>
-        -->
+        
             <div id="tab2" class="tab-pane" role="tabpanel">
                 <div class="row justify-content-center">
-
                     <div class="plan col-12 justify-content-center col-lg-4">
                         <div class="card1">
-
                             <div class="plan-header text-center ">
                                 <h3 class="plan-title mbr-fonts-style display-5">
                                     <a  class="enteteCarte" href="landing-page.php">Landing Page</a>
@@ -261,7 +232,6 @@
                             </div>
                         </div>
                     </div>
-
                     <div class="plan col-12 justify-content-center col-lg-4">
                         <div class="card2">
                             <div class="plan-header text-center">
@@ -328,10 +298,6 @@
 </section>
 
 <section class="clients cid-spngYtusP2" id="clients01-5l">
-    
-
-    
-
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1380px" height="810px" viewBox="0 -8.992806499463768e-14 1380 810" preserveAspectRatio="xMidYMid meet">
         <rect id="svgEditorBackground" x="0" y="0" width="1380" height="810" style="fill: none; stroke: none;"></rect>
         <defs id="svgEditorDefs">
