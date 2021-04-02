@@ -97,9 +97,33 @@
                                 <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12"></div>
                             </div>
                             <div class="dragArea form-row">
+
+                            
+
+
                                 <div class="col-lg-12 col-md-12 col-sm-12 pb-3">
                                     <h5 class="mbr-fonts-style mbr-regular display-2">Votre besoin</h5>
                                 </div>
+
+                                <div class="col-lg-12 col-md-12 col-sm-12 form-group" data-for="Type de service">
+                                    <div class="form-control-label">
+                                        <label for="Type de site -extForm3-57" class="mbr-fonts-style display-7">Mon service :</label>
+                                    </div>
+                                    <div class="form-check">
+                                        <input required type="radio" name="Type de service" data-form-field="Type de service" class="form-check-input display-7" value="Achat" id="Type de service -extForm3-57" <?php if (isset($_GET['service']) and $_GET['service'] == "achat") {
+                                                                                                                                                                                                            echo 'checked=""';
+                                                                                                                                                         } ?>>
+                                        <label class="form-check-label display-7">Achat</label>
+                                    </div>
+                                    <div class="form-check">
+                                        <input  type="radio" name="Type de service" data-form-field="Type de service" class="form-check-input display-7" value="Location" id="Type de service -extForm3-57" <?php if (isset($_GET['service']) and $_GET['service'] == "location") {
+                                                                                                                                                                                                            echo 'checked=""';
+                                                                                                                                                                                                        } ?>>
+                                        <label class="form-check-label display-7">Location</label>
+                                    </div>
+                                </div>
+                  
+
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group" data-for="Type de site ">
                                     <div class="form-control-label">
                                         <label for="Type de site -extForm3-57" class="mbr-fonts-style display-7">Mon site :</label>
@@ -138,6 +162,8 @@
                                 <div class="col-lg-12 col-md-12 col-sm-12">
                                     <hr>
                                 </div>
+
+
                                 <div class="col-lg-12 col-md-12 col-sm-12">
                                     <h5 class="mbr-fonts-style mbr-regular display-2 pb-3">Votre design</h5>
                                 </div>
@@ -158,6 +184,8 @@
                                         <label class="form-check-label display-7">Je n'ai pas besoin de logo</label>
                                     </div>
                                 </div>
+
+
                                 <div data-for="Charte Graphique" class="col-lg-12 col-md-12 col-sm-12 form-group">
                                     <div class="form-control-label">
                                         <label for="Charte Graphique-extForm3-57" class="mbr-fonts-style display-7">Ma charte graphique :</label>
@@ -191,6 +219,8 @@
                                 <div class="col-lg-12 col-md-12 col-sm-12">
                                     <hr>
                                 </div>
+
+
                                 <div class="col-lg-12 col-md-12 col-sm-12">
                                     <h5 class="mbr-fonts-style mbr-regular display-2 pb-3">Fonctionnalités</h5>
                                 </div>
@@ -243,6 +273,8 @@
                                 <div class="col-lg-12 col-md-12 col-sm-12">
                                     <hr>
                                 </div>
+
+
                                 <div class="col-lg-12 col-md-12 col-sm-12">
                                     <h5 class="mbr-fonts-style mbr-regular display-2 pb-3">Référencement</h5>
                                 </div>
@@ -262,6 +294,8 @@
                                 <div class="col-lg-12 col-md-12 col-sm-12">
                                     <hr>
                                 </div>
+
+
                                 <div class="col-lg-12 col-md-12 col-sm-12">
                                     <h5 class="mbr-fonts-style mbr-regular display-2 pb-3">Hébergement</h5>
                                 </div>
@@ -285,6 +319,8 @@
                                 <div class="col-lg-12 col-md-12 col-sm-12">
                                     <hr>
                                 </div>
+
+
                                 <div class="col-lg-12 col-md-12 col-sm-12">
                                     <h5 class="mbr-fonts-style mbr-regular display-2 pb-3">Information de contact</h5>
                                 </div>

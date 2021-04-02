@@ -119,7 +119,9 @@
                     <div class="plan col-12 justify-content-center col-lg-4">
                         <div class="card1">
                             <div class="plan-header text-center">
-                                <h3 class="plan-title mbr-fonts-style display-5">Landing Page</h3>
+                                <h3 class="plan-title mbr-fonts-style display-5">
+                                    <a class="enteteCarte" href="landing-page.php">Landing Page</a>
+                                </h3>
                                 <div class="plan-price py-3">
 
                                     <span class="price-figure mbr-fonts-style display-1">50</span>
@@ -138,16 +140,18 @@
                                     </ul>
                                 </div>
                                 <div class="text-center pt-5">
-                                    <a href="landing-page.php" class="btn btn-danger display-4">Découvrir l'offre</a>
+                                    <a href="devis.php?site=landingPage&service=location" class="btn btn-danger display-4">Devis gratuit</a>
                                 </div>
                             </div>
                         </div>
                     </div>
+
                     <div class="plan col-12 justify-content-center col-lg-4">
                         <div class="card2">
                             <div class="plan-header text-center">
                                 <h3 class="plan-title mbr-fonts-style display-5">
-                                    Site Vitrine</h3>
+                                    <a href="site-vitrine.php">Site Vitrine<a>
+                                </h3>
                                 <div class="plan-price  py-3">
                                     <span class="price-figure mbr-fonts-style display-1">70</span>
                                     <span class="price-value mbr-fonts-style display-5">€/mois</span>
@@ -165,15 +169,18 @@
                                     </ul>
                                 </div>
                                 <div class="text-center pt-5">
-                                    <a href="site-vitrine.php" class="btn btn-danger display-4">Découvrir l'offre</a>
+                                    <a href="devis.php?site=siteVitrine&service=location" class="btn btn-danger display-4">Devis gratuit</a>
                                 </div>
                             </div>
                         </div>
                     </div>
+
                     <div class="plan col-12 justify-content-center col-lg-4">
                         <div class="card3">
                             <div class="plan-header text-center">
-                                <h3 class="plan-title mbr-fonts-style display-5">E-Commerce</h3>
+                                <h3 class="plan-title mbr-fonts-style display-5">
+                                    <a href="site-e-commerce.php">E-Commerce</a>
+                                </h3>
                                 <div class="plan-price py-3">
                                     <span class="price-figure mbr-fonts-style display-1">80</span>
                                     <span class="price-value mbr-fonts-style display-5">€/mois</span>
@@ -191,7 +198,7 @@
                                     </ul>
                                 </div>
                                 <div class="text-center pt-5">
-                                    <a href="site-e-commerce.php" class="btn btn-danger display-4">Découvrir l'offre</a>
+                                    <a href="devis.php?site=siteECommerce&service=location" class="btn btn-danger display-4">Devis gratuit</a>
                                 </div>
                             </div>
                         </div>
@@ -202,11 +209,12 @@
         
             <div id="tab2" class="tab-pane" role="tabpanel">
                 <div class="row justify-content-center">
+
                     <div class="plan col-12 justify-content-center col-lg-4">
                         <div class="card1">
                             <div class="plan-header text-center ">
                                 <h3 class="plan-title mbr-fonts-style display-5">
-                                    <a  class="enteteCarte" href="landing-page.php">Landing Page</a>
+                                    <a class="enteteCarte" href="landing-page.php">Landing Page</a>
                                 </h3>
                                 <div class="plan-price py-3">
                                     <p class="mbr-text mbr-fonts-style align-center display-7">A partir de</p>
@@ -227,11 +235,12 @@
                                     </ul>
                                 </div>
                                 <div class="text-center pt-5">
-                                    <a href="devis.php?site=landingPage" class="btn btn-danger display-4">Devis gratuit</a>
+                                    <a href="devis.php?site=landingPage&service=achat" class="btn btn-danger display-4">Devis gratuit</a>
                                 </div>
                             </div>
                         </div>
                     </div>
+
                     <div class="plan col-12 justify-content-center col-lg-4">
                         <div class="card2">
                             <div class="plan-header text-center">
@@ -256,11 +265,12 @@
                                     </ul>
                                 </div>
                                 <div class="text-center pt-5">
-                                    <a href="devis.php?site=siteVitrine" class="btn btn-danger display-4">Devis gratuit</a>
+                                    <a href="devis.php?site=siteVitrine&service=achat" class="btn btn-danger display-4">Devis gratuit</a>
                                 </div>
                             </div>
                         </div>
                     </div>
+
                     <div class="plan col-12 justify-content-center col-lg-4">
                         <div class="card3">
                             <div class="plan-header text-center">
@@ -285,7 +295,7 @@
                                     </ul>
                                 </div>
                                 <div class="text-center pt-5">
-                                    <a href="devis.php?site=siteECommerce" class="btn btn-danger display-4">Devis gratuit</a>
+                                    <a href="devis.php?site=siteECommerce&service=achat" class="btn btn-danger display-4">Devis gratuit</a>
                                 </div>
                             </div>
                         </div>
