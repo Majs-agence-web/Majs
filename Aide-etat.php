@@ -23,7 +23,7 @@
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional-min.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional-min.css" type="text/css">
     <style>
-        h2, h1{
+        h2, h1, span{
             text-shadow: 0 0 #ecc979;
             color: #ecc979;
         }
@@ -72,7 +72,7 @@
                                 <p class="mbr-fonts-style block-quote display-7" style="text-align:justify;">
                                     Durant le deuxième confinement décrété fin octobre 2020, le gouvernement français a décidé de soutenir les entreprises souhaitant créer un 
                                     site internet, en leur octroyant une aide financière à hauteur de 500€, dans le respect de quelques conditions cependant 
-                                    (plus d’explications sur le dispositif ici).  
+                                    (plus d’explications sur le dispositif <span>ici</span>).  
                                 </p>
                             </div>
                         </div>
@@ -170,7 +170,7 @@
                     <br>- 7° Elles ont un chiffre d'affaires annuel ou un total de bilan n'excédant pas 2 millions d'euros HT ;
                     <br>- Pour les entreprises créées postérieurement au 30 octobre 2019 et n'ayant pas encore clos leur exercice comptable au 30 octobre 2020, le chiffre d'affaires de référence se calcule par rapport au chiffre d'affaires mensuel moyen sur la période comprise entre la date de création de l'entreprise et le 30 octobre 2020 ;
                     <br>- 8° Lorsqu'elles sont constituées sous forme d'association, elles sont assujetties aux impôts commerciaux ou elles emploient au moins un salarié. 
-                    Retrouvez le décret <a class="texteIci" href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043059724">ici</a>.
+                    Retrouvez le décret <a class="texteIci" href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043059724"><span>ici</span></a>.
                 </p> 
             </div>
         </div>
@@ -195,7 +195,7 @@
                     Le chèque numérique d’une valeur de 500 euros sera alloué aux entreprises éligibles ayant effectué une demande directement sur le site officiel de 
                     l’Agence de Services et de Paiements (ASP).
                     <br>
-                    <br>Pour effectuer la demande, le lien est <a class="texteIci" href="https://cheque.francenum.gouv.fr/ecom/pre-requis">ici</a>, le montant sera versé directement sur le compte du bénéficiaire sur présentation de la facture émise par 
+                    <br>Pour effectuer la demande, le lien est <a class="texteIci" href="https://cheque.francenum.gouv.fr/ecom/pre-requis"><span>ici</span></a>, le montant sera versé directement sur le compte du bénéficiaire sur présentation de la facture émise par 
                     le prestataire de services (...comme chez Majs, évidemment!) 
                 </p>
                <div class="py-3 ornament text-center">
