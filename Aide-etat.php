@@ -195,7 +195,7 @@
                     Le chèque numérique d’une valeur de 500 euros sera alloué aux entreprises éligibles ayant effectué une demande directement sur le site officiel de 
                     l’Agence de Services et de Paiements (ASP).
                     <br>
-                    <br>Pour effectuer la demande, le lien est <a class="texteIci" target="_blank" href="https://cheque.francenum.gouv.fr/ecom/pre-requis">ici<</a>, le montant sera versé directement sur le compte du bénéficiaire sur présentation de la facture émise par 
+                    <br>Pour effectuer la demande, le lien est <a class="texteIci" target="_blank" href="https://cheque.francenum.gouv.fr/ecom/pre-requis">ici</a>, le montant sera versé directement sur le compte du bénéficiaire sur présentation de la facture émise par 
                     le prestataire de services (...comme chez Majs, évidemment!) 
                 </p>
                <div class="py-3 ornament text-center">
