@@ -57,7 +57,7 @@
                         <span class="mbr-iconfont img1 fa-home fa"></span>
                     </div>
                     <div class="card-box">
-                        <h4 class="item-title mbr-fonts-style display-4">Tourcoing , Hauts de France</h4>
+                        <h4 class="item-title mbr-fonts-style display-4">Croix , Hauts de France</h4>
                     </div>
                 </div>
 
