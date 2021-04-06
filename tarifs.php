@@ -51,13 +51,12 @@
             <div class="mbr-white col-sm-12 col-md-10 col-lg-8">
                 <h1 class="mbr-section-title mbr-regular align-center mbr-fonts-style display-2">Quel est le tarif de mon site&nbsp;internet&nbsp;?</h1>     
                 <p class="mbr-text mbr-light align-center mbr-fonts-style display-7 pt-3">
-                    Nous avons décidé d'avoir une politique de prix transparent pour que puissiez prévoir au mieux votre budget. 
+                    Nous avons décidé d'avoir une politique de prix transparente pour que vous puissiez prévoir au mieux votre budget. 
                     <br>
-                    <br>Les deux solutions que nous proposons est l'achat de votre site internet ou sinon pour les budgets serré la location avec option 
-                    d'achat de votre site.
+                    <br>Les deux solutions que nous proposons sont l'achat de votre site internet ou la location avec option 
+                    d'achat pour les budgets serrés.
                     <br>
-                    <br>Dans les différentes solutions que nous proposons, nous essayons de répondre au mieux aux différentes demandes de nos clients 
-                    (site vitrine, site e-commerce etc.)
+                    <br>Cependant, nous essayons de répondre au mieux aux différentes demandes de nos clients (site vitrine, site e-commerce, site sur-mesure, refonte de site)
                 </p>
             </div>
         </div>
@@ -75,7 +74,7 @@
                     <div class="card-box">
                         <h4 class="card-title mbr-fonts-style align-center display-5">Achat ou location</h4>
                         <p class="mbr-text mbr-fonts-style align-center display-7">
-                            Avec nos deux solutions achat ou location cela vous laisse une liberté pour votre business.       
+                            Avec nos deux solutions achat ou location cela vous laisse une liberté totale et une tranquillité d’esprit certaine pour réserver pleinement votre énergie à votre business.       
                         </p>
                     </div>
                 </div>
@@ -87,7 +86,7 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title mbr-fonts-style align-center display-5">Aucun frais caché</h4>
-                        <p class="mbr-text mbr-fonts-style align-center display-7">Avec Majs nous communiquerons nos tarifs sur les options et les services.&nbsp;<br></p>
+                        <p class="mbr-text mbr-fonts-style align-center display-7">Avec Majs nous communiquons de façon détaillée tous nos tarifs, options afférentes et services associés, et bien entendu, nous répondons sans ambigüité aucune, à toutes vos questions nos tarifs sur les options et les services&nbsp;<br></p>
                     </div>
                 </div>
             </div>

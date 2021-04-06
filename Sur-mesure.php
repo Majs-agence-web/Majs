@@ -70,14 +70,15 @@
 <br><br>Vous avez besoin d’une plateforme sur mesure ?<br><br>L’agence MAJS est là pour vous.<br><br><br></h1>
              
                 <p class="mbr-text mbr-light pt-1 mbr-fonts-style display-7"><strong><span style="font-size:1.2em !important;"><br></span></strong><strong><span style="font-size:1.2em !important;">Dans quel cas faut-il opter pour un&nbsp; site sur mesure ?</span>
-<br></strong><br>•	Une création unique réalisé par notre web designer
+                
+<br></strong><br>Si vous souhaitez véritablement:<br><br>•	Une création unique réalisée par un web designer à la pointe des pratiques
 <br>•	Des fonctionnalités personnalisées
-<br>•	Des technologies puissantes (Symfony, REACT JS …)
+<br>•	Des technologies puissantes (utilisation d’outils comme Symfony, REACT JS …)
 <br>•	Une plateforme évolutive.
-<br><br><strong>Un projet innovant une solution unique.<br></strong>
+<br><br><strong>Un projet innovant, une solution unique.<br></strong>
 <br>•	Une analyse complète de votre ancien site web
 <br>•	Une meilleure gestion de votre SEO (référencement naturel)
-<br>•	Des préconisations de nouvelle charte graphique et technique pour améliorer l’expérience utilisateur.
+<br>•	Des préconisations des nouvelles chartes  graphique et technique pour améliorer votre expérience utilisateur.
 <br>•	Une équipe d’expert à votre écoute&nbsp;<br></p>
               
 </div>  
@@ -106,7 +107,9 @@
             
                 
                 
-                <p class="mbr-text mbr-light pt-4 align-left mbr-fonts-style display-7">Votre projet sort de la trame traditionnelle qu’un CMS (système de gestion de contenu). <br><br>L’agence MAJS peut vous proposer un site sur mesure qui sera à la hauteur de vos espérances. <br><br>Nous pouvons installer un back-office facile d’utilisation qui permettra de gérer votre site et même de le faire évoluer simplement. <br><br>Pour réaliser au mieux ce projet nous accompagnerons dans la réalisation du cahier des charges qui permettra de répondre au mieux à vos besoins Grâce à cela vous aurez un site évolutif, ergonomique, performant et un design unique.
+                <p class="mbr-text mbr-light pt-4 align-left mbr-fonts-style display-7">Votre projet sort de la trame traditionnellement formatée car standardisée fournie par un CMS (système de gestion de contenu).
+ <br><br>L’agence MAJS peut vous proposer un site sur mesure qui sera à la hauteur de vos espérances car il vous correspondra vraiment.
+ <br><br>Nous pouvons sur option  installer un back-office facile d’utilisation qui permettra de gérer votre site et même de le faire évoluer simplement. <br><br>Pour réaliser au mieux votre projet nous  réaliserons avec vous un cahier des charges qui permettra de répondre au mieux à vos besoins.  Ainsi, vous bénéficierez sans effort et avec une grande satisfaction  d’un site évolutif, ergonomique, performant et d'un design unique.
 <br><br>L’agence MAJS est là pour vous
 <br>&nbsp;<br></p>
                   

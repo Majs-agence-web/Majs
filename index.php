@@ -205,7 +205,7 @@
                     <div class="card-box">
                         <h4 class="card-title py-2 mbr-fonts-style display-5">
                             Développement web&nbsp;</h4>
-                        <p class="mbr-text mbr-fonts-style display-7">Nos priorités : être à la pointe des dernières technologies, gérer les formats mobiles, sécurité, rapidité, référencement.
+                        <p class="mbr-text mbr-fonts-style display-7">Nos priorités : être à la pointe des dernières technologies, gérer tous les formats d’affichage  (dont mobiles et tablettes), garantir  la sécurité et la rapidité, œuvrer pour un référencement performant.
                             <br> « Accompagnement de la maintenance »
                         </p>
                     </div>
@@ -275,7 +275,7 @@
 
                     <div class="card-box">
                         <h4 class="card-title py-2 mbr-fonts-style display-5">Réferencement SEO</h4>
-                        <p class="mbr-text mbr-fonts-style display-7">Améliorer le positionnement de votre site dans les résultats de recherche grâce au référencement naturel afin que les internautes vous trouvent sur des requêtes stratégiques pour votre entreprise.</p>
+                        <p class="mbr-text mbr-fonts-style display-7">Nous œuvrons pour améliorer le positionnement de votre site dans les résultats des moteurs de  recherche grâce au référencement naturel afin que les internautes vous trouvent sur des requêtes stratégiques pour votre entreprise. </p>
                     </div>
                 </div>
 

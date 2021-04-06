@@ -95,10 +95,10 @@
             <div class="col-md-12 col-lg-6 col-12 py-4 m-auto">
                 <h1 class="mbr-section-title pb-3 mbr-fonts-style display-1"><span style="color:#ecc979;">{</span> Notre vision <span style="color:#ecc979;">}</span></h1>
                 
-                <p class="mbr-text align-left mbr-light mbr-fonts-style display-7">Nous sommes des passionnés de la tech et du web et voulons mettre notre compétence au service des entreprises, commerçants, artisans, et associations. &nbsp; <br>
+                <p class="mbr-text align-left mbr-light mbr-fonts-style display-7">Nous sommes des passionnés de la technologie numérique et du web et voulons mettre toutes nos compétences au service des entreprises, commerçants, artisans, et associations.  &nbsp; <br>
                     <br> Notre ambition est de fournir un site internet moderne, évolutif et durable. Le référencement de nos clients est notre priorité.
                     <br>
-                    <br>Afin de s’approprier totalement leur solution digitale, nos clients peuvent compter sur notre accompagnement. Nous leur garantissons une gestion en toute autonomie avec nos services en ligne.
+                    <br>Afin de s’approprier totalement leur solution digitale, nos clients peuvent compter sur notre accompagnement. D’ailleurs, nous leur garantissons grâce à nos services en ligne une facilitation de la gestion de leur produit.
                     <br><br>Nous créons des sites internet pour aider nos clients dans la croissance et la visibilité de leur entreprise. 
                     &nbsp;<br>
                 </p>
@@ -156,7 +156,7 @@
                 </div>
                 <div class="card-box">
                     <h4 class="card-title py-2 align-left mbr-fonts-style display-7">Gestion de projet&nbsp;</h4>
-                    <p class="mbr-text align-left mbr-fonts-style display-4">Étape indispensable pour mener à bien la création du site internet afin d’optimiser l’expérience du client et l’ergonomie.</p>
+                    <p class="mbr-text align-left mbr-fonts-style display-4">Étape indispensable pour mener à bien la création du site internet afin d’optimiser l’expérience du client et l’ergonomie de la réalisation.</p>
                 </div>
             </div>
 
@@ -166,7 +166,7 @@
                 </div>
                 <div class="card-box">
                     <h4 class="card-title py-2 align-left mbr-fonts-style display-7">Développement Web&nbsp;</h4>
-                    <p class="mbr-text align-left mbr-fonts-style display-4">Notre but : être à la pointe des dernières technologies et gérer les formats mobiles en passant par la maintenance et garantie sans bug.</p>
+                    <p class="mbr-text align-left mbr-fonts-style display-4">Notre but : être à la pointe des dernières technologies et gérer les formats mobiles en passant par la maintenance tout en garantissant un site sans bug.</p>
                 </div>
             </div>
 
@@ -190,7 +190,7 @@
                 <div class="card-box">
                     <h4 class="card-title py-2 align-left mbr-fonts-style display-7">Référencement SEO&nbsp;</h4>
                     <p class="mbr-text align-left mbr-fonts-style display-4">
-                        Améliorer le positionnement de votre site&nbsp; web  sur les pages de résultats des moteurs de recherche grâce au référencement naturel. Plaçant ainsi votre site parmi les premiers lors de la recherche d'un iutilisateur.</p>
+                        Améliorer le positionnement de votre site&nbsp; web  sur les pages de résultats des moteurs de recherche grâce au référencement naturel. Ainsi, votre site sera placé parmi les premiers lors de la recherche d'un utilisateur d’internet.</p>
                 </div>
             </div>
 
@@ -222,8 +222,9 @@
             <div class="col-md-12 col-lg-12 col-12 py-4 m-auto">
                 <h1 class="mbr-section-title mbr-regular pb-1 mbr-fonts-style display-2">- Gestion de projet -</h1>
                 <h3 class="mbr-section-subtitle mbr-regular pb-3 mbr-fonts-style display-5"><em>(gestion des aspects pour la meilleure expérience possible)</em><br><em><br></em></h3>
-                <p class="mbr-text align-left mbr-light pb-4 pt-3 mbr-fonts-style display-7">Notre équipe est à votre service pour réaliser votre projet web de A à Z. Nous mettrons en œuvre des ateliers de travail, des plans d’actions, disponibilité et réactivité, rétroplanning (nous travaillons avec agilité).
-<br><br>Notre but est d’optimiser le parcours et l’expérience de votre client, afin d’accroitre votre visibilité ou vos ventes.&nbsp;<br>
+                <p class="mbr-text align-left mbr-light pb-4 pt-3 mbr-fonts-style display-7">Notre équipe est à votre service pour réaliser votre projet web de A à Z. Nous mettrons en œuvre des ateliers de travail, des plans d’actions,  et un rétro-planning permettant leur suivi,  vous pourrez vous appuyer sur notre disponibilité et notre réactivité car nous travaillons avec agilité.
+
+<br><br>Notre but est d’optimiser le parcours et l’expérience de votre client, afin d’accroitre votre visibilité numérique ou vos ventes.&nbsp;<br>
                 </p>
 
 <!--                 <div class="card">
@@ -270,7 +271,7 @@
             <div class="col-md-12 col-lg-12 col-12 py-4 m-auto">
                 <h1 class="mbr-section-title mbr-regular pb-1 mbr-fonts-style display-2">- Webdesign&nbsp; -</h1>
                 <h3 class="mbr-section-subtitle mbr-regular pb-3 mbr-fonts-style display-5"><em>(aspect visuel du site front-end)</em></h3>
-                <p class="mbr-text align-left mbr-light pb-4 pt-3 mbr-fonts-style display-7">Le web design est une branche du graphisme appliqué au monde du web (internet). Cette discipline est la création, le choix et l’utilisation d’éléments graphiques (dessins, photos, couleurs etc..) pour élaborer un support de communication.
+                <p class="mbr-text align-left mbr-light pb-4 pt-3 mbr-fonts-style display-7">Le web design est une branche du graphisme appliquée au monde du web et des techniques de l’internet. Cette discipline est la création, le choix et l’utilisation d’éléments graphiques (dessins, photos, couleurs etc..) pour élaborer un support de communication attrayant et professionnel.
 <br>
 <br>Notre Webdesigner vous propose ses services :
 <br>
@@ -324,7 +325,7 @@
             <div class="col-md-12 col-lg-12 col-12 py-4 m-auto">
                 <h1 class="mbr-section-title mbr-regular pb-1 mbr-fonts-style display-2">- Développement&nbsp; &nbsp;-</h1>
                 <h3 class="mbr-section-subtitle mbr-regular pb-3 mbr-fonts-style display-5"><em>(construction du site web back-end)</em></h3>
-                <p class="mbr-text align-left mbr-light pb-4 pt-3 mbr-fonts-style display-7">Notre philosophie pour le développement est le mobile first. En effet, Plus de 80% des internautes utilisent des appareils mobiles pour surfer sur le Web (source blog référencement SEO). <br><br>Notre palette technique couvre l’ensemble des formats (smartphone, tablette, ordinateurs), à l’optimisation du référencement en passant par la maintenance et garantie tout bug …<br>
+                <p class="mbr-text align-left mbr-light pb-4 pt-3 mbr-fonts-style display-7">Notre philosophie pour le développement est le mobile first. En effet, Plus de 80% des internautes utilisent des appareils mobiles pour surfer sur le Web (source blog référencement SEO). <br><br>Notre palette technique couvre l’ensemble des formats (smartphone, tablette, ordinateurs), à l’optimisation du référencement en passant par la maintenance et garantie sans bug …<br>
                 </p>
 
 <!--                 <div class="card">
@@ -373,9 +374,9 @@
                 <h3 class="mbr-section-subtitle mbr-regular pb-3 mbr-fonts-style display-5"><em>(S.E.O Search Engine Optimization)</em></h3>
                 <p class="mbr-text align-left mbr-light pb-4 pt-3 mbr-fonts-style display-7">Améliorer le positionnement de votre site dans les résultats de recherche grâce au référencement naturel afin que l'internaute vous trouvent plus facilement sur des requêtes stratégiques sur votre entreprise.
 <br><br>Être visible sur la première page de résultats des moteurs de recherche est aujourd’hui indispensable. En effet, 75 % des internautes ne vont pas plus loin que la première page (source Orixa media 2020). Le SEO (pour Search Engine Optimization) ou référencement naturel est fondamental pour un site web afin d’optimiser et d’améliorer son positionnement sur les moteurs de recherche.
-<br><br>Cela vous permettra :
-<br><br>-	Accroître le trafic de votre site en acquérant plus de visiteurs
-<br>-	Obtenir des visiteurs qualifiés
+<br><br>Ainsi, vous allez pouvoir aisément:
+<br><br>- D’accroître le trafic de votre site en acquérant davantage de visiteurs.
+<br>- D’obtenir des visiteurs qualifiés pertinents.
 <br>-	Devancer vos concurrents en matière de visibilité web
 <br>-	Optimiser votre site web pour les utilisateurs et pour les moteurs de recherche
 <br>-	70 % des clics sur les résultats de recherche sont issus du référencement naturel.&nbsp;<br></p>

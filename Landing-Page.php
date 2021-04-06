@@ -68,11 +68,13 @@
 <div>
                 <h1 class="mbr-section-title mbr-regular align-left pt-5 mbr-fonts-style display-2"><br>Description Landing Page</h1>
                
-                <p class="mbr-text mbr-light pt-4 mbr-fonts-style display-7">Plus communément appelé mini-site en Français, cet outil est l’idéal pour relayer une campagne publicitaire cela peut être aussi utile pour présenter votre activité.
+                <p class="mbr-text mbr-light pt-4 mbr-fonts-style display-7">Plus communément appelé mini-site en Français, cet outil est idéal pour relayer une campagne publicitaire, il peut également être très utile et reste parfaitement adapté pour présenter votre activité.
+
 <br><br>Nous sommes là pour vous conseiller sur le format le plus adapté à votre besoin. 
 <br><br><br><br><strong><span style="font-size:1.2em !important;">Dans quel cas faut-il opter pour une landing page ?</span>
 <br></strong><br>•	Maximiser la visibilité de votre entreprise.
-<br>•	Améliorer votre taux de conversion.
+<br>•	Améliorer votre taux de conversion (par exemple: convaincre des prospects sur la solution que vous présentez) 
+.
 <br>•	Une mise en page simple et efficace pour vos prospects&nbsp;<br></p>
               
 </div>  
@@ -101,12 +103,13 @@
             
                 
                 
-                <p class="mbr-text mbr-light pt-4 align-left mbr-fonts-style display-7"><strong><span style="font-size: 1.5em !important;">Une landing page en quelques phrases.</span><br></strong><br>C’est un mini site que l’on peut traduire littéralement en anglais comme page d’atterrissage.<br><br> Le but de ce genre de sites Web et d’être impactant sur une seule page pour un maximum d’inscrit ou de prospects.
-<br><br>Pour être impactant il y a quelques règles assez simples :
-<br><br>- Un texte clair et concis, il met l’accent sur les points forts de la solution
-<br>- Des photos ou des vidéos qui permettent à l’internaute de se projeter
-<br>- Des témoignages (statistiques, avis de clients certifiés…)
-<br>- L’absence d’éléments superflus qui pourraient faire perdre la puissance au message.&nbsp;<br></p>
+                <p class="mbr-text mbr-light pt-4 align-left mbr-fonts-style display-7"><strong><span style="font-size: 1.5em !important;">Une landing page en quelques phrases.</span><br></strong><br>C’est un mini site que l’on peut traduire littéralement en anglais comme page d’atterrissage.<br><br> Le but de ce genre de sites Web est d'être impactant sur une seule page pour un maximum d'inscrits ou de prospects.
+<br><br>Pour que cet outil soit impactant et bien efficace, il faut cependant respecter quelques règles assez simples:
+<br><br>- Rédiger un texte clair et concis, qui met l’accent sur les points forts de la solution
+<br>- Publier des photos ou des vidéos qui permettent à l’internaute de se projeter
+<br>- Fournir des témoignages (statistiques, avis de clients certifiés…)
+<br>- Veiller à l’absence d’éléments superflus qui pourraient faire perdre  de la puissance au message. 
+&nbsp;<br></p>
                   
             </div>      
         </div>

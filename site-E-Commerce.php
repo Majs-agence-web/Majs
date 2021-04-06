@@ -68,9 +68,9 @@
 <div>
                 <h1 class="mbr-section-title mbr-regular align-left pt-5 mbr-fonts-style display-2"><br>Description e-commerce</h1>
                
-                <p class="mbr-text mbr-light pt-4 mbr-fonts-style display-7">Vous êtes un commerçant ou un marchand ? <br>Vous avez besoin de vendre sur internet ? <br>Nous sommes là pour vous accompagner dans cette démarche.<br><br><br><strong><span style="font-size:1.2em !important;">Dans quel cas faut-il opter pour un site marchand ?</span>
-<br></strong><br>•	Développement de votre chiffre d’affaires.
-<br>•	Vendre vos produits en ligne<br>•	Augmenter la visibilité de votre entreprise<br>•	Pouvoir vendre 24h/24, 7J/7
+                <p class="mbr-text mbr-light pt-4 mbr-fonts-style display-7">Vous êtes un commerçant ou un marchand ? <br>Vous avez besoin de vendre ou de proposer des produits payants sur internet ? <br>Nous sommes là pour vous accompagner dans cette démarche.<br><br><br><strong><span style="font-size:1.2em !important;">Dans quel cas faut-il opter pour un site marchand ?</span>
+<br></strong><br>•	Développer votre chiffre d’affaires.
+<br>•	De vendre vos produits en ligne<br>•	D'augmenter la visibilité de votre entreprise<br>•	Pouvoir vendre 24h/24, 7J/7
 <br></p>
               
 </div>  
@@ -99,7 +99,8 @@
             
                 
                 
-                <p class="mbr-text mbr-light pt-4 align-left mbr-fonts-style display-7"><strong><span style="font-size: 1.5em !important;">Un site e-commerce en quelques phrases.</span><br></strong><br>Un site e-commerce est une boutique en ligne qui permet de vendre des produits via une plateforme Web. Si vous êtes une boutique avec un pas de porte cela permet de donner une plus grande visibilité à votre commerce mais également d’augmenter votre chiffre d’affaires.<br><br>  Mais cela peut être la solution idéale si vous voulez vendre des produits sans pour autant investir dans un local commercial.
+                <p class="mbr-text mbr-light pt-4 align-left mbr-fonts-style display-7"><strong><span style="font-size: 1.5em !important;">Un site e-commerce en quelques phrases.</span><br></strong><br>Un site e-commerce est une boutique en ligne qui permet de vendre des produits via une plateforme Web. Si vous êtes une boutique avec un pas de porte cela permet de donner une plus grande visibilité à votre commerce mais également d’augmenter votre chiffre d’affaires en proposant le paiement dématérialisé et la possibilité du retrait des marchandises, par exemple (clic and collect).
+<br><br>  Il peut s’agir pour vous de la solution idéale si vous voulez vendre des produits sans pour autant investir dans un local commercial.
 <br>Nous pouvons vous accompagner pour créer le site marchand qui vous conviendra grâce à notre expertise digitale.
 <br><br>Pour mener à bien la création de votre boutique en ligne nous vous aiderons dans la composition du cahier des charges et dans la réalisation du design et de l’ergonomie du site.&nbsp;<br></p>
                   

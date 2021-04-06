@@ -69,9 +69,9 @@
                 <h1 class="mbr-section-title mbr-regular pt-5 mbr-fonts-style display-2">Description d'un site vitrine</h1>
                
                 <p class="mbr-text mbr-light pt-4 mbr-fonts-style display-7">Vous voulez communiquer votre activité sur le web et souhaitez présenter vos services à vos clients ?
-<br><br>Le site vitrine est la solution idéale. MAJS agence web, vous accompagnera dans la création de votre site vitrine.
+<br><br>Le site vitrine est la solution idéale. MAJS Web Agency, vous accompagnera dans la création de votre site vitrine.
 <br><br><strong><span style="font-size:1.5em !important;"><br></span></strong><br><strong><span style="font-size:1.5em !important;">Dans quel cas faut-il opter pour un site vitrine ?</span>
-<br></strong><br>•	Présenter vos produits et/ou vos services (sans pour autant les vendre en ligne)
+<br></strong><br>•	Présenter vos produits et/ou vos services (sans pour autant nécessairement les vendre en ligne)
 <br>•	Attirer de nouveaux clients
 <br>•	Mettre en avant votre activité
 <br>•	Augmenter la visibilité de votre entreprise
@@ -139,7 +139,7 @@
             
                 
                 
-                <p class="mbr-text mbr-light pt-4 align-left mbr-fonts-style display-7"><span style="font-size: 1.5em !important;"><strong>Combien ça </strong></span><span style="font-size: 28.8px;"><strong>coûte la création ou refonte d'un site Web</strong></span><span style="font-size: 1.5em !important;"><strong>&nbsp;?</strong></span><br><br>Cela va dépendre du nombre de page et des fonctionnalités tel qu’un agenda en ligne, un système de réservation ou ajouter une deuxième langue. Nous sommes disponibles afin d’estimer votre projet et de vous proposer la meilleure solution.<br><br>Le site vitrine est la solution idéale. MAJS agence web, vous accompagnera lors de la création de votre site vitrine.
+                <p class="mbr-text mbr-light pt-4 align-left mbr-fonts-style display-7"><span style="font-size: 1.5em !important;"><strong>Combien ça </strong></span><span style="font-size: 28.8px;"><strong>coûte la création ou refonte d'un site Web</strong></span><span style="font-size: 1.5em !important;"><strong>&nbsp;?</strong></span><br><br>Cela va dépendre du nombre de pages et des fonctionnalités tel qu’un agenda en ligne, un système de réservation ou l'ajout d'une deuxième langue. Nous sommes disponibles afin d’estimer votre projet et vous proposer la meilleure solution.<br><br>Le site vitrine est la solution idéale. MAJS Web Agency, vous accompagnera lors de la création de votre site vitrine.
 <br></p>
                   
             </div>      
