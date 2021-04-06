@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+    <meta name="p:domain_verify" content="1761fe36c8627d0a4f9ce323ef50dd19"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
     <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.png" type="image/x-icon">
     <meta name="description" content="">
