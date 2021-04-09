@@ -70,7 +70,7 @@
                     </li>
 
                     <li>
-                        <a data-toggle="pill" href="#Hebergement" class="btn btn-sm btn-danger display-4">Hebergement</a>
+                        <a data-toggle="pill" href="#Hebergement" class="btn btn-sm btn-danger display-4">Hébergement</a>
                     </li>
 
                     <li>
@@ -87,14 +87,14 @@
                         <div class="card-header" role="tab" id="headingOne">
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse1_1" aria-expanded="false" aria-controls="collapse1">
                                 <span class="sign mbr-iconfont"></span>
-                                <h4 class="mbr-fonts-style header-text display-5">Pourrais-je transformer ma vitrine en site e-commerce par la suite ?</h4>
+                                <h4 class="mbr-fonts-style header-text display-5">Pourrais-je transformer mon site vitrine en plateforme e-commerce à l’avenir ?</h4>
                             </a>
                         </div>
                         <div id="collapse1_1" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingOne" data-parent="#bootstrap-accordion_1">
                             <div class="panel-body p-4">
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    Si vous avez opté dans un premier temps pour un site vitrine plutôt qu’un site e-commerce, vous pourrez tout à fait nous demander d’ajouter un module pour transformer votre vitrine en véritable boutique en ligne ! 
-                                    <br>Chez Le Site Français, vous faites à votre rythme.
+                                    Si vous avez choisi de commencer votre visibilité sur Internet par un site vitrine plutôt qu’une boutique en ligne, vous pourrez dans un deuxième temps faire évoluer votre site avec un module pour qu’il soit un vrai site e-commerce.
+                                    <br>Chez Majs, nous utilisons les bons outils pour faire évoluer votre site à chaque instant.
                                 </p>
                             </div>
                         </div>
@@ -105,7 +105,7 @@
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse2_1" aria-expanded="false" aria-controls="collapse2">
                                 <span class="sign mbr-iconfont "></span>
                                 <h4 class="mbr-fonts-style header-text display-5">
-                                Pourquoi choisir la location avec option d'achat ?
+                                    Pourquoi choisir la location avec option d'achat par rapport à un achat ?
                                 </h4>
                             </a>
                             
@@ -113,11 +113,11 @@
                         <div id="collapse2_1" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#bootstrap-accordion_1">
                             <div class="panel-body p-4">
                                 <p class="mbr-fonts-style panel-text display-7">
-                                Il y a plusieurs raisons, et voici les raisons principales (vous pouvez consulter notre article consacré aux raisons de choisir la location pour votre site internet :
-                                <br>- Garantissez votre présence en ligne
-                                <br>- Préservez votre trésorerie
-                                <br>- Faites-vous accompagner dans la durée
-                                <br>- Simplifiez-vous la vie au quotidien avec la maintenance incluse
+                                    Voici les arguments principaux :
+                                    <br>- Garantissez votre présence en ligne
+                                    <br>- Éviter un gros décaissement dans votre trésorerie
+                                    <br>- L’assurance d’être suivi dans la durée
+                                    <br>- Simplification de la gestion du site avec la maintenance incluse
                                 </p>
                             </div>
                         </div>
@@ -135,12 +135,7 @@
                         <div id="collapse3_1" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#bootstrap-accordion_1">
                             <div class="panel-body p-4">
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    Cela dépend de votre interlocuteur au moment où vous décidez de la création de votre site internet. 
-                                    <br>En général les agences travaillent sur plusieurs mois et affichent donc des délais en fonction. 
-                                    <br>C’est généralement plus long parce que les projets sont plus complexes qu’auprès de freelances.
-                                    <br>Chez Le Site Français, votre site web est en ligne sous 10 jours sous réserve que vous soyez réactif sur la partie contenu. 
-                                    <br>Rassurez-vous, si vous ne souhaitez pas vous en occuper, nous nous occupons de tout ! 
-                                    <br>Si besoin de la création d’un site internet en urgence, vous pouvez optez pour l’express et être livré en 48h.
+                                    Tout dépend du projet, en effet sur nos formules nous pouvons garantir un délai de 10 jours ouvrés. Par contre sur des projets qui sont sur mesure les délais vont s’ajuster à l’envergure du projet.
                                 </p>
                             </div>
                         </div>
@@ -151,17 +146,17 @@
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse4_1" aria-expanded="false" aria-controls="collapse4">
                                 <span class="sign mbr-iconfont "></span>
                                 <h4 class="mbr-fonts-style header-text display-5">
-                                    Puis-je modifier mon site internet ?
+                                    Ai-je accès au back office pour modifier mon site?
                                 </h4>
                             </a>
                         </div>
                         <div id="collapse4_1" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingFour" data-parent="#bootstrap-accordion_1">
                             <div class="panel-body p-4">
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    Cela dépend de la formule que vous avez choisi et de votre niveau de familiarité avec l’environnement de WordPress. HTML, PHP et CSS ne sont pas forcément vos langages préférés.
-                                    <br>Si vous achetez votre site internet vous pouvez tout à fait avoir accès à l’ensemble des codes, néanmoins, il serait dommage de prendre le risque de « casser » votre site internet non ?
-                                    <br>Dans le cadre de la location avec option d’achat, vous avez accès à la partie actualité de votre site internet vous permettant d’ajouter régulièrement du contenu. En revanche, vous n’avez pas accès à l’ensemble du back-office.
-                                    <br>En effet, étant garant par contrat de l’intégrité de votre site web, nous devons fermer certaines portes pour nous en assurer.
+                                    Tout dépend de la formule que vous avez sélectionné car en fonction du site nous n’utilisons pas le même CMS et en fonction de celui-ci, il faut pouvoir le maîtriser et maîtriser aussi les langages de code HTML, PHP et CSS.
+                                    <br>Quand vous achetez votre site Web vous avez accès à l’ensemble du code, cependant, il serait dommageable de modifier le code de votre site internet car cela pourrait provoquer des bogues majeures dans celui-ci!
+                                    <br>Si vous avez choisi la location avec option d’achat, vous avez accès à la partie “articles” de votre site internet ce qui vous permet d’ajouter du contenu (indispensable pour le SEO). Contrairement à la formule acquisition, vous n’avez pas accès à la totalité du back-office.
+                                    <br>Cette précaution est là, car contractuellement nous sommes garant de l’intégrité de votre site internet, et c’est pour cela que nous ne pouvons pas laisser l’accès.
                                 </p>
                             </div>
                         </div>
@@ -179,16 +174,13 @@
                         <div id="collapse5_1" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingFive" data-parent="#bootstrap-accordion_1">
                             <div class="panel-body p-4">
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    C’est la question à 1 million d’euros que beaucoup de professionnels se posent ! 
-                                    <br>La réponse est probablement la même que dans votre métier : le prix de votre site internet dépend de plusieurs facteurs.
+                                    Beaucoup d’entrepreneurs se sont posé cette question, et quand on regarde le panorama des agences la grande majorité travaillent sur devis donc il est difficile de jauger le bon prix pour un site Internet. 
+                                    <br>La réponse est sûrement la même que dans votre domaine : le prix de votre site web dépend de plusieurs éléments.
                                     <br>
-                                    L’interlocuteur auquel vous vous adressez : Une agence sera toujours plus chère qu’un freelance pour beaucoup de raisons. 
-                                    <br>Si vous avez un projet relativement simple, alors vous êtes probablement au meilleur endroit possible !
+                                    L’interlocuteur auquel vous vous adressez. Une agence sera toujours plus chère qu’un freelance pour beaucoup de facteurs. 
+                                    <br>Cependant, Majs Web Agency a prévu des formules qui permettent de réduire les coûts et de proposer un tarif compétitif et transparent.
                                     <br>
-                                    Le degré de complexité de votre projet web : Site Vitrine simple, e-commerce, marketplace ou encore application multi-support ?
-                                    <br>Votre exigence coté design : simplement magnifique ou totalement sur-mesure ?
-                                    <br>Votre calendrier de mise en ligne : Êtes-vous pressé ou pouvez-vous prendre le temps ?
-                                    <br>Consultez notre page dédiée si vous souhaitez obtenir un devis pour la création de votre site internet.
+                                    Si vous avez un projet hors-norme qui a besoin de fonctionnalités ou un design sur-mesure. C’est là où nous devons estimer le coût au cas par cas pour vous proposer la solution qui répondra à vos attentes.
                                 </p>
                             </div>
                         </div>
@@ -199,18 +191,18 @@
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse6_1" aria-expanded="false" aria-controls="collapse6">
                                 <span class="sign mbr-iconfont "></span>
                                 <h4 class="mbr-fonts-style header-text display-5">
-                                    Ai-je besoin d'un nom de domaine avant la création de mon site internet ?
+                                    Est ce que je dois acheter un nom de domaine avant la création de mon site Web ?
                                 </h4>
                             </a>
                         </div>
                         <div id="collapse6_1" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingSix" data-parent="#bootstrap-accordion_1">
                             <div class="panel-body p-4">
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    Après la création de votre site internet, et pour pouvoir réaliser la mise en ligne de site, vous avez besoin d’un hébergement et d’un nom de domaine.
+                                    Dès que votre site web est créé, nous avons besoin d’un nom de domaine et d’un hébergement pour  le mettre en ligne.
                                     
-                                    <br>Si vous choisissez la location avec option d’achat, vous bénéficiez automatique d’un nom de domaine et de vos adresses mails professionnelles.
+                                    <br>Avec les formules de location avec option d’achat, nous incluons le nom de domaine, les adresses mails et l’hébergement.
                                     
-                                    <br>Dans le cadre de l’achat, si vous profitez de notre offre d’hébergement lors du lancement de votre site web, vous bénéficiez également d’un nom de domaine inclus et de vos adresses mails professionnelles.
+                                    <br>Dans le cadre de l’acquisition de votre site Web, vous pouvez profitez des offres d'hébergement, et également d’un nom de domaine inclus et de vos e-mails.
                                 </p>
                             </div>
                         </div>
@@ -221,22 +213,20 @@
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse7_1" aria-expanded="false" aria-controls="collapse7">
                                 <span class="sign mbr-iconfont "></span>
                                 <h4 class="mbr-fonts-style header-text display-5">
-                                    Pourquoi créer un site web professionnel ?
+                                    Quel est l’intérêt de créer un site internet professionnel ?
                                 </h4>
                             </a>
                         </div>
                         <div id="collapse7_1" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingSeven" data-parent="#bootstrap-accordion_1">
                             <div class="panel-body p-4">
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    <br>Un site internet bien conçu et bien référencé fait la différence pour bien des entreprises. Il permet de soutenir la croissance de l’activité en réalisant une partie du travail de prospection commerciale de votre équipe.
+                                    <br>Un site web représente la vitrine de votre savoir-faire, votre image de marque, votre professionnalisme sur le numérique. 
                                     
-                                    <br>Bien sûr, cela ne remplacera jamais un bon commercial, c’est à la fois différent et complémentaire. Néanmoins, quelque soit la situation, votre site internet a pour objectif de générer du chiffre d’affaires pour votre entreprise.
+                                    <br>Par conséquent, un site bien réalisé soutiendra la croissance de votre activité en augmentant la visibilité de votre commerce.
                                     <br>
-                                    <br>Créer un site web professionnel ne s’improvise pas et c’est pour cela qu’il n’existe pas de version gratuite d’un site web professionnel. C’est parce qu’un professionnel qui travaille est rémunéré. Si vous utilisez un outil gratuit, c’est que l’entreprise derrière le produit espère vous faire passer sur une formule payante, ou bien… Que c’est vous le produit.
+                                    <br>Fabriquer un site internet à l’aspect irréprochable ne peut pas s’improviser, même si vous avez réalisé le site sur une plateforme de type Wix ou Shopify vous réaliserez rapidement que l’outil gratuit est limité et que vous devrez passer sur une version payante pour améliorer le site web.
                                     
-                                    <br>Retrouvez dans cet article qui pourrait vous intéresser, notre avis sur les sites internet gratuits. Par ailleurs on ne compte plus les tristes exemples d’entreprise ayant « acheter un prix » pour la création de leur site web, jetant ce budget en souhaitant faire des économies.
-                                    <br>
-                                    <br>L’objectif doit toujours être bien entouré pour faire les choix les plus adaptés et pas de chercher la solution nécessitant le plus petit budget. Cela se traduit toujours ou presque pas une perte de temps et une perte d’argent.
+                                    <br>Le meilleur moyen de prendre la bonne décision est de peser le pour et le contre. En effet, si on prend uniquement en considération le moins coûteux. Souvent cela aboutit sur un site au rendu médiocre et il en résulte une perte de temps et d’argent.
                                 </p>
                             </div>
                         </div>
@@ -247,26 +237,26 @@
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse8_1" aria-expanded="false" aria-controls="collapse8">
                                 <span class="sign mbr-iconfont "></span>
                                 <h4 class="mbr-fonts-style header-text display-5">
-                                    Le référencement naturel est-il inclus dans la création de mon site internet ?
+                                    Est ce que Le SEO (référencement naturel) est inclus dans la création de mon site web ?
                                 </h4>
                             </a>
                         </div>
                         <div id="collapse8_1" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingEight" data-parent="#bootstrap-accordion_1">
                             <div class="panel-body p-4">
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    Le référencement naturel ne s’arrête pas à la création du site internet, mais ne peut pas être correctement effectuée sur la base (le site web) n’a pas bénéficié d’une optimisation technique dédiée au SEO.
+                                    il faut d’abord distinguer le SEO en deux catégories:
                                     <br>
-                                    <br>C’est pourquoi tous les sites internet que nous livrons sont parfaitement optimisés pour le référencement naturel et l’indexation dans les moteurs de recherche tel que Google.
+                                    <br>- Le SEO technique: est de préparer le site d’un point de vue technique pour le moteur de recherche vous index de manière favorable.
                                     <br>
-                                    <br>Il est infiniment plus compliqué d’obtenir une bonne visibilité dans les moteurs de recherche avec un site réalisé en utilisant un service en ligne tel que Wix, Orson ou Cmonsite qu’avec un site réalisé par Le Site Français ou une agence web compétente.
+                                    <br>- Le contenu SEO: Google par exemple met en valeur les sites internets au contenu pertinent et cela relève de votre propre compétence. (exemple: seul un avocat peut produire du contenu légal, pas un développeur web). Cependant nous avons des contacts de freelance pour vous aider à écrire du contenu.
                                     <br>
-                                    Cela ne signifie pas pour autant que ces solutions n’ont aucun intérêt, mais si vous souhaitez « jouer » dans la cour des grands, vous ne pouvez pas arriver en tricycle !
+                                    Nous mettons en place le SEO technique pour que justement vous soyez en condition pour être bien référencé. Une bonne visibilité est beaucoup plus compliquée avec des CMS de type Wix, Orson ou Shopify qu’avec un site fabriqué par Majs Web Agency.
                                 </p>
                             </div>
                         </div>
                     </div>
 
-                </div>
+                </div> 
 
                 <div id="Hebergement" class="tab-pane fade">
 
@@ -282,7 +272,7 @@
                         <div id="collapse9_1" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingNine" data-parent="#bootstrap-accordion_1">
                             <div class="panel-body p-4">
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    C’est notre équipe qui s’occupe pour vous de la personnalisation du design au moment de la création de votre site internet. Nous échangeons ensemble préalablement sur le design pour vous proposer une solution qui vous plaise et vous rende fier !
+                                    Notre équipe vous propose une sélection de template (maquette du site internet). Dès que vous avez choisi le template, nous allons personnaliser le design au moment de la création de votre site internet. Au préalable nous échangeons avec vous sur le design pour vous proposer une solution qui vous plaise et qui puisse répondre à vos attentes !
                                 </p>
                             </div>
                         </div>
@@ -300,9 +290,9 @@
                         <div id="collapse10_1" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingTen" data-parent="#bootstrap-accordion_1">
                             <div class="panel-body p-4">
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    L’hébergement d’un site internet coute environ 5€HT/mois pour la partie technique, c’est à dire que lorsque vous achetez un service d’hébergement chez un prestataire, c’est environ le prix minimal que lui coûte chaque mois votre site web.
+                                L’hébergement d’un site internet chez notre partenaire Ionos coûte environ 5€HT/mois pour la partie technique, cela représente le prix minimal par mois chez un hébergeur Européen (OVH, Ionos, LWS, Hostinger, etc.).
                                     <br>
-                                    <br>Une couche de service est ajoutée à ce montant pour vous proposer des mises-à-jour techniques, et un support client. Sachez que ce n’est jamais sur l’hébergement qu’un prestataire gagne de l’argent, c’est seulement une façon de garder le contact et de vous assurer de votre coté un site plus durable.
+                                    <br>Après vous devez ajouter à cela une couche de service à ce montant pour vous proposer des mises-à-jour techniques, et un support client. Il faut savoir que la marge d’une agence web ne se fait pas sur l’hébergement, c’est seulement une façon de garder le contact et de vous assurer un meilleur suivi de votre site.
                                 </p>
                             </div>
                         </div>
@@ -320,7 +310,7 @@
                         <div id="collapse11_1" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingEleven" data-parent="#bootstrap-accordion_1">
                             <div class="panel-body p-4">
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    C’est une question de référencement naturel et d’optimisation technique de votre site internet. Sachez qu’avec un site réalisé par Le Site Français, cela n’arrive pas !
+                                C’est une question de SEO (search engine optimization) plus communément appelé en français le référencement naturel et d’optimisation technique de votre site web. Il faut savoir qu’un site réalisé par Majs, nous préparons les sites pour qu’ils soient compatibles !
                                 </p>
                             </div>
                         </div>
@@ -338,8 +328,8 @@
                         <div id="collapse12_1" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingTwelve" data-parent="#bootstrap-accordion_1">
                             <div class="panel-body p-4">
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    Vous devriez louer votre site internet si vous ne souhaitez pas le financer avec votre trésorerie ou si vous souhaitez éviter un prêt bancaire.
-                                    <br>La location de votre site web, notamment avec option d’achat, vous permet de conserver votre trésorerie intacte sans les inconvénients d’un prêt bancaire. Et ce n’est là qu’un avantage parmi d’autres de ce service professionnel de location de sites internet.
+                                Le principal avantage de la location est de pouvoir étaler le coût d’un site internet dans la durée. En effet, cela n’impactera pas votre trésorerie où vous évitera un prêt bancaire.
+                                    <br>Autre avantage, vous bénéficiez d’une maintenance tout le long de l’abonnement.
                                 </p>
                             </div>
                         </div>
@@ -354,19 +344,20 @@
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse13_1" aria-expanded="false" aria-controls="collapse13">
                                 <span class="sign mbr-iconfont "></span>
                                 <h4 class="mbr-fonts-style header-text display-5">
-                                    Comment fonctionne l'option d'achat une fois votre période d'engagement terminée ?
+                                Une fois la période d'engagement terminée, comment fonctionne l'option d'achat ?
                                 </h4>
                             </a>
                         </div>
                         <div id="collapse13_1" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingThirteen" data-parent="#bootstrap-accordion_1">
                             <div class="panel-body p-4">
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    Avec notre offre de location, si vous le souhaitez, vous pouvez racheter votre site web ainsi que votre nom de domaine en fin de contrat.
+                                Avec notre offre de location en fin de contrat, si vous le désirez, vous pouvez acheter votre nom de domaine ainsi que votre site Internet.
                                     
-                                    <br>Ainsi, en fonction de votre intérêt en fin de contrat, vous aurez de la possibilité de devenir propriétaire de votre site si c’est dans votre intérêt. Vous aurez alors le choix entre :
+                                    <br>Ainsi, en fin de contrat si vous avez besoin, vous pouvez devenir propriétaire de votre site si c’est dans votre intérêt. Vous avez le choix entre :
+
                                     
                                     <br>- Lever l’option d’achat de votre site et ne plus payer que sa maintenance.
-                                    <br>- Bénéficier d’un nouveau site sans coûts supplémentaire en renouvelant votre contrat de location.
+                                    <br>- Bénéficier d’un nouveau site sans coût supplémentaire en renouvelant votre contrat de location.
                                 </p>
                             </div>
                         </div>
@@ -384,7 +375,7 @@
                         <div id="collapse14_1" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingFourteen" data-parent="#bootstrap-accordion_1">
                             <div class="panel-body p-4">
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    Si vous avez opté dans un premier temps pour un site vitrine plutôt qu’un site e-commerce, vous pourrez tout à fait nous demander d’ajouter un module pour transformer votre vitrine en véritable boutique en ligne ! Chez Le Site Français, vous faites à votre rythme.
+                                Cela permet de créer plus de modularité, par exemple si vous avez décidé dans un premier temps d’avoir un site vitrine plutôt qu’un site e-commerce. Vous pouvez grâce aux formules LOA, faire évoluer votre abonnement en formule e-commerce et ainsi ajouter un module qui peut transformer votre site en boutique en ligne. Cela permet d’avoir une grande souplesse dans l’évolution.
                                 </p>
                             </div>
                         </div>
@@ -402,13 +393,13 @@
                         <div id="collapse15_1" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingFifteen" data-parent="#bootstrap-accordion_1">
                             <div class="panel-body p-4">
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    Alors qu’une agence est libre de modifier ses tarifs lorsqu’elle le souhaite, avec un engagement de plusieurs mois vous bénéficiez du même prix sur toute la durée de votre contrat.
+                                Une agence est libre de réviser ses prix lorsqu’elle le désire, avec un engagement de plusieurs mois, vous bénéficiez du même tarif sur toute la durée de votre contrat.
                                     
-                                    <br>Chaque mois vous êtes prélevé du montant de la location de votre site web, tout simplement.
+                                    <br>Vous êtes prélevé mensuellement de l’abonnement que vous avez choisi pour votre site web.
                                     
-                                    <br>Cette stabilité dans les mensualités et donc le coût annuel de votre site internet, vous permet de vous projeter plus facilement avec des charges fixes et sans mauvaises surprises.
+                                    <br>Cette solution permet d’éviter les imprévus et d’étaler les coûts en plusieurs fois. Ainsi, si vous ne voulez pas mobiliser votre trésorerie pour payer comptant un site internet, voici la solution idéale. 
                                     
-                                    <br>Votre mensualité n’évolue qu’en cas d’évolution volontaire de votre offre
+                                    <br>Votre mensualité ne peut pas évoluer, sauf si vous décidez de changer d’abonnement.
                                 </p>
                             </div>
                         </div>
@@ -419,36 +410,35 @@
                             <a role="button" class="collapsed panel-title" data-toggle="collapse" data-core="" href="#collapse16_1" aria-expanded="false" aria-controls="collapse16">
                                 <span class="sign mbr-iconfont "></span>
                                 <h4 class="mbr-fonts-style header-text display-5">
-                                    Que comprends le contrat de location ?
+                                Qu’est-ce qui est inclus dans votre contrat de location ?
                                 </h4>
                             </a>
                         </div>
                         <div id="collapse16_1" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingSixteen" data-parent="#bootstrap-accordion_1">
                             <div class="panel-body p-4">
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    <br>Il s’agit d’un contrat de quelques pages, simple et sans surprise, tout ce dont vous avez besoin est inclus. Comme client d’un site internet en location avec option d’achat, vous bénéficiez dans les tous les cas de :
+                                    <br>Vous trouverez dans votre contrat de quelques pages, une solution simple et sans surprise, tout ce qui est nécessaire est inclus. Voici la liste des services dont bénéficie un client d’un site internet en location avec option d’achat :
                                     
-                                    <br>- Un nom de domaine
-                                    <br>- Un hébergement en France pour votre site internet
-                                    <br>- Un hébergement en France pour toutes vos adresses mails
-                                    <br>- La maintenance technique de votre serveur
-                                    <br>- Des sauvegardes hebdomadaires
-                                    <br>- Un site Internet WordPress personnalisé
-                                    <br>- La mise en ligne de votre site web
-                                    <br>- Un fiche Google My Business
-                                    <br>- Un accès Zoho Bigin
                                     <br>- Des tarifs fixes pour toute la durée de votre contrat
                                     <br>- Des mensualités adaptées à votre budget
+                                    <br>- Un hébergement en Europe pour votre site Internet
+                                    <br>- Un hébergement en Europe pour toutes vos adresses mails
+                                    <br>- Un nom de domaine
+                                    <br>- La maintenance technique de votre serveur
+                                    <br>- Des sauvegardes hebdomadaires
+                                    <br>- Un site Internet réalisé via un CMS personnalisé
+                                    <br>- La mise en ligne de votre site web
+                                    <br>- Une fiche Google My Business
                                     <br>
-                                    <br>- Avec votre offre de location, vous bénéficiez sans surcoût d’un nom de domaine et d’un hébergement haute-performance incluant vos adresses mails. Vous n’avez rien à gérer, notre équipe de développement s’occupe de vos mises-à-jour et du renouvellement de vos services.
+                                    <br>- Avec votre abonnement, il est inclus un nom de domaine et un hébergement haute-performance incluant vos adresses e-mails. Tout est pris en charge par notre équipe de développement aussi bien de vos mises-à-jour que du renouvellement de vos services.
                                     <br>
-                                    <br>- Vos adresses mails sont gérées très simplement en toute transparence pour autant de collaborateurs dont vous avez besoin.
+                                    <br>- Pour vos adresses e-mails, nous pouvons en générer pour autant de collaborateurs que vous avez.
                                     <br>
-                                    <br>- Un abonnement pour la location de votre site internet vous assure un accompagnement dans la durée pour vous permettre d’être serein quant à la bonne continuité de votre site web. Il ne s’agit pas d’un emploi saisonnier !
+                                    <br>- La formule de location avec option d’achat pour votre site internet est la solution de tranquillité car elle assure un accompagnement dans la durée et le bon fonctionnement de votre internet dans la durée.
                                     <br>
-                                    <br>- Un consultant de notre équipe est disponible chaque jour de la semaine pour vous : il vous accompagne et suit régulièrement votre projet pour vous aider à faire les choix les plus pertinents pour votre activité.
+                                    <br>- Un membre de notre équipe est disponible du lundi au vendredi pour vous : il vous conseille et suit votre projet pour vous assister à faire les meilleurs choix pour votre activité.
                                     <br>
-                                    <br>Pas d’intervention sur site nécessaire, nos équipes et outils assurent votre protection 24h24h et 7 jours / 7 !
+                                    <br>Pour une sécurité de tous les instants, nos équipes mettent en place des outils qui assurent votre protection 24H/24 et 7J/7.
                                 </p>
                             </div>
                         </div>
@@ -466,12 +456,12 @@
                         <div id="collapse17_1" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingSeventeen" data-parent="#bootstrap-accordion_1">
                             <div class="panel-body p-4">
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    Avec notre offre de location, si vous le souhaitez, vous pouvez racheter votre site web ainsi que votre nom de domaine en fin de contrat.
+                                    Avec notre offre de location, si vous le désirez, vous pouvez acheter votre site Internet ainsi que votre nom de domaine en fin de contrat.
                                     
-                                    <br>Ainsi, en fonction de votre intérêt en fin de contrat, vous aurez de la possibilité de devenir propriétaire de votre site si c’est dans votre intérêt. Vous aurez alors le choix entre :
+                                    <br>Ainsi, en fonction de votre souhait en fin de contrat, vous aurez la possibilité de devenir propriétaire de votre site Internet. Vous aurez alors le choix entre :
                                     
-                                    <br>Lever l’option d’achat de votre site et ne plus payer que sa maintenance.
-                                    <br>Bénéficier d’un nouveau site sans coût supplémentaire en renouvelant votre contrat de location.
+                                    <br>- Lever l’option d’achat de votre site et éventuellement payer que sa maintenance
+                                    <br>- Bénéficier d’un nouveau site sans coût supplémentaire en renouvelant votre contrat de location.
                                 </p>
                             </div>
                         </div>
@@ -489,13 +479,13 @@
                         <div id="collapse18_1" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingEighteen" data-parent="#bootstrap-accordion_1">
                             <div class="panel-body p-4">
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    Alors qu’une agence est libre de modifier ses tarifs lorsqu’elle le souhaite, avec un engagement de plusieurs mois vous bénéficiez du même prix sur toute la durée de votre contrat.
+                                Une agence est libre de modifier ses prix lorsqu’elle le désire, avec un abonnement avec engagement. Vous bénéficiez du même tarif sur toute la durée de votre contrat.
                                     
-                                    <br>Chaque mois vous êtes prélevé du montant de la location de votre site web, tout simplement.
+                                    <br>Vous êtes prélevé mensuellement du montant de la location de votre site web.
                                     
-                                    <br>Cette stabilité dans les mensualités et donc le coût annuel de votre site internet, vous permet de vous projeter plus facilement avec des charges fixes et sans mauvaises surprises.
+                                    <br>Cette stabilité dans les mensualités et donc le coût annuel de votre site internet, vous permet de prévoir votre budget et d’éviter les mauvaises surprises.
                                     
-                                    <br>Votre mensualité n’évolue qu’en cas d’évolution volontaire de votre offre.
+                                    <br>Votre mensualité n’évolue qu’en cas de changement d’abonnement de votre part.
                                 </p>
                             </div>
                         </div>

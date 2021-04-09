@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-
+<html prefix="og: http://ogp.me/ns#">
 <head>
 
     <meta charset="UTF-8">
@@ -10,6 +10,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
     <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.png" type="image/x-icon">
     <meta name="description" content="">
+    <meta property="og:site_name" content="majs">
+    <meta property="og:url" content="https://www.majs.fr">
+    <meta property="og:image" content="http://www.majs.fr/assets/images/undraw_building_websites_i78t.png" />
+    <meta property="og:image:secure_url" content="https://www.majs.fr/assets/images/undraw_building_websites_i78t.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="627" />
+    <meta property="og:image:alt" content="création de site web" />
 
 
 
@@ -29,7 +37,8 @@
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional-min.css" type="text/css">
 
     <!-- <script src="Scripts.js"></script> -->
-
+    <script src="tarteaucitron/tarteaucitron.js"></script>
+    <script src="scripttarteaucitron.js"></script>
     <style>
         section.test {
             display: none
@@ -111,7 +120,7 @@
                 </div>
 
                 <div class="col-12 col-md-10 col-lg-10 col-xl-6 py-4 m-auto">
-                    <h1 class="mbr-section-title pb-3 mbr-fonts-style display-1"><span style="color:#ecc979;">{</span> Qui sommes nous ? <span style="color:#ecc979;">}</span></h1>
+                    <h1 class="mbr-section-title pb-3 mbr-fonts-style display-1"><span style="color:#ecc979;">{</span> Qui sommes-nous ? <span style="color:#ecc979;">}</span></h1>
 
                     <p class="mbr-text align-left mbr-light mbr-fonts-style display-7">
                         <br>
@@ -206,7 +215,7 @@
                         <h4 class="card-title py-2 mbr-fonts-style display-5">
                             Développement web&nbsp;</h4>
                         <p class="mbr-text mbr-fonts-style display-7">Nos priorités : être à la pointe des dernières technologies, gérer tous les formats d’affichage  (dont mobiles et tablettes), garantir  la sécurité et la rapidité, œuvrer pour un référencement performant.
-                            <br> « Accompagnement de la maintenance »
+                            <br> Accompagnement de la maintenance
                         </p>
                     </div>
                 </div>

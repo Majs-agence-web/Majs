@@ -57,7 +57,7 @@
                         <span class="mbr-iconfont img1 fa-home fa"></span>
                     </div>
                     <div class="card-box">
-                        <h4 class="item-title mbr-fonts-style display-4">Croix , Hauts de France</h4>
+                        <h4 class="item-title mbr-fonts-style display-4">Croix, Hauts de France</h4>
                     </div>
                 </div>
 
@@ -111,13 +111,13 @@
                     </div>
                 </div> 
 
-                <!--<div class="item footerCentrage">
+                <div class="item footerCentrage">
                     <div class="card-box">
                         <a href="faq.php">
                             <h4 class="item-title align-left mbr-fonts-style display-4">FAQ</h4>
                         </a>
                     </div>
-                </div> -->
+                </div>
 
 
             </div>

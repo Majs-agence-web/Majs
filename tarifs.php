@@ -74,7 +74,7 @@
                     <div class="card-box">
                         <h4 class="card-title mbr-fonts-style align-center display-5">Achat ou location</h4>
                         <p class="mbr-text mbr-fonts-style align-center display-7">
-                            Avec nos deux solutions achat ou location cela vous laisse une liberté totale et une tranquillité d’esprit certaine pour réserver pleinement votre énergie à votre business.       
+                            Nos solutions d'achat et de location vous laisse une liberté totale et une tranquillité d’esprit certaine pour réserver pleinement votre énergie à votre business.       
                         </p>
                     </div>
                 </div>
@@ -86,7 +86,7 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title mbr-fonts-style align-center display-5">Aucun frais caché</h4>
-                        <p class="mbr-text mbr-fonts-style align-center display-7">Avec Majs nous communiquons de façon détaillée tous nos tarifs, options afférentes et services associés, et bien entendu, nous répondons sans ambigüité aucune, à toutes vos questions nos tarifs sur les options et les services&nbsp;<br></p>
+                        <p class="mbr-text mbr-fonts-style align-center display-7">Avec Majs nous communiquons de façon détaillée tous nos tarifs, options afférentes et services associés, et bien entendu, nous répondons sans ambigüité aucune, à toutes vos questions.&nbsp;<br></p>
                     </div>
                 </div>
             </div>
@@ -97,7 +97,7 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title mbr-fonts-style align-center display-5">Un prix juste</h4>
-                        <p class="mbr-text mbr-fonts-style align-center display-7">Avec notre structure 100% en ligne, nous pouvons vous proposer des prix justes et dans les moins chers du marché.&nbsp;<br></p>
+                        <p class="mbr-text mbr-fonts-style align-center display-7">Avec notre structure 100% en ligne, nous pouvons vous proposer des prix justes et parmis les moins chers du marché.&nbsp;<br></p>
                     </div>
                 </div>
             </div>
