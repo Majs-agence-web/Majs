@@ -129,7 +129,7 @@
                     
                 </div>
                 <div class="align-center">
-                    <a class="btn btn-sm btn-danger display-4" href="devis.php?site=landingPage">DEMANDER UN DEVIS</a>
+                    <a class="btn btn-sm btn-danger display-4" href="tarifs.php#clients01-4a">Voir les tarifs</a>
                 </div>
             </div>
 

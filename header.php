@@ -39,6 +39,7 @@
                             <a class="dropdown-item text-info text-primary display-4" href="landing-page.php" aria-expanded="false">Site Landing page</a>
                             <a class="dropdown-item text-info text-primary display-4" href="refonte-de-site-web.php" aria-expanded="false">Refonte de Site</a>
                             <a class="dropdown-item text-info text-primary display-4" href="sur-mesure.php" aria-expanded="false">Site sur mesure<br></a>
+                            <a class="dropdown-item text-info text-primary display-4" href="maintenance.php" aria-expanded="false">Maintenance<br></a>
                         </div>
                     </li>
 

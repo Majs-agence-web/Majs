@@ -125,7 +125,7 @@
                     
                 </div>
                 <div class="align-center">
-                    <a class="btn btn-sm btn-danger display-4" href="devis.php?site=refonte">DEMANDER UN DEVIS</a>
+                    <a class="btn btn-sm btn-danger display-4" href="devis.php?site=refonte">Demander un devis</a>
                 </div>
             </div>
 
