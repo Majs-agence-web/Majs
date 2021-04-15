@@ -90,9 +90,9 @@
                       
                 </div>
                 <div class="item-content">
-                    <h3 class="mbr-section-subtitle mbr-medium mbr-fonts-style display-7">Profession libérale, ne négligez pas votre visibilité en ligne</h3>
+                    <h3 class="mbr-section-subtitle mbr-medium mbr-fonts-style display-7">Professions libérales: ne négligez pas votre visibilité en ligne !</h3>
                     <p class="mbr-text mbr-fonts-style display-4">
-                        Vous êtes avocat, architecte, médecin, huissier, expert-comptable, infirmière, etc. Et vous souhaitez donner de la visibilité en ligne à votre activité ?&nbsp;</p>
+                    Avocats, notaires, huissiers, experts-comptables, médecins, infirmiers, architectes...les internautes vous cherchent de la même manière que tout autre professionnel ou prestataire de services commerciaux.&nbsp;</p>
                     <div class="mbr-section-btn"><a class="btn btn-danger display-4" href="profession-liberale.php"><span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>En savoir +<br></a></div>
                     
                 </div>
