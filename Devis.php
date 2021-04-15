@@ -37,34 +37,17 @@
     include("header.php")
     ?>
 
-    <section class="cid-sn6ZrXyH50" id="title02-52">
+<section class="cid-stMQ5v2hYqy mbr-parallax-background" id="header02-10">
+    <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(75, 101, 112);"></div>
 
-
-
-
-
-        <div class="container align-center">
-            <div class="row justify-content-md-start justify-content-md-center">
-                <div class="mbr-white col-sm-12 col-md-10 col-lg-7">
-                    <h1 class="mbr-section-title mbr-regular align-center mbr-fonts-style display-1"><span style="color:#ecc979;">{&nbsp;</span>Demande de devis&nbsp;<span style="color:#ecc979;">}</span></h1>
-                </div>
+    <div class="container align-center">
+        <div class="row justify-content-md-start">
+            <div class="mbr-white col-12 text-center mx-auto">
+                <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-1">Devis (Achat/Location)</h1> 
             </div>
         </div>
-    </section>
-
-        <section class="clients cid-sn6ZrXRim2" id="clients01-53">
-        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1380px" height="810px" viewBox="0 -8.992806499463768e-14 1380 810" preserveAspectRatio="xMidYMid meet">
-            <rect id="svgEditorBackground" x="0" y="0" width="1380" height="810" style="fill: none; stroke: none;"></rect>
-            <defs id="svgEditorDefs">
-                <polygon id="svgEditorShapeDefs" style="fill:khaki;stroke:black;vector-effect:non-scaling-stroke;stroke-width:1px;"></polygon>
-                <path id="svgEditorClosePathDefs" style="stroke:black;stroke-width:1px;fill:khaki;"></path>
-            </defs>
-            <path d="M15083.791600683318,645.6720847341486c496.6000000000058,747.7999999999951,1953.3704016668416,1862.6734725832403,2751.999999999978,1967.9999999999955s1884.300000000003,-198.89999999999964,2718.7056474818382,-552.6365690040448s1746.4898225846773,-519.9524548776521,2593.2943525181545,-567.3634309959566s2251,-23.399999999999636,4384,1520.0000000000032s3205.199999999997,1437.2000000000025,4047.9999999999854,1520.0000000000018s3305.000000000029,-270.2999999999993,4640.000000000029,-1152s74.60000000000582,3328.3000000000065,32,3792.0000000000073s-19509.4,4591.000000000004,-21087.999999999993,-128.00000000000182s-1679.5999999999913,-6358.300000000001,-80,-6400Z" style="stroke:black;fill:khaki;stroke-width:0px;" id="e12_areaS3" transform="matrix(0.0650006 -0.00123765 0.00123765 0.0650006 -995.543 317.589)"></path>
-            <text dy="-0.5em" style="fill:black;font-family:Arial;font-size:20px;" id="e14_texte" transform="matrix(0.0640454 0 0 0.0640454 -832.187 329.878)">
-                <textPath id="e13_textPath" xlink:href="#e12_areaS3">T</textPath>
-            </text>
-        </svg>
-    </section>
+    </div>
+</section>
 
 <!--
     <section class="content4 industrym4_content4 cid-sn6ZJQKi2e" id="content004-58">
@@ -84,7 +67,7 @@
         </div>
     </section>
 -->
-    <section class="mbr-section extForm cid-sn6ZC8u8u0" id="extForm3-57">
+    <section class="mbr-section extForm cid-sn6ZC8u8u0 pt-5" id="extForm3-57">
         <div class="container">
             <div class="media-container-row">
                 <div class="col-md-10 col-lg-8 block-content">
@@ -105,7 +88,7 @@
                                     <h5 class="mbr-fonts-style mbr-regular display-2">Votre besoin</h5>
                                 </div>
 
-                                <div class="col-lg-12 col-md-12 col-sm-12 form-group" data-for="Type de service">
+                                <div class="col-lg-12 col-md-12 col-sm-12 form-group <?php if (isset($_GET['site']) and ($_GET['site'] == "surMesure" or $_GET['site'] == "refonte")) { echo 'd-none';} ?>" data-for="Type de service">
                                     <div class="form-control-label">
                                         <label for="Type de site -extForm3-57" class="mbr-fonts-style display-7">Mon service :</label>
                                     </div>
@@ -156,7 +139,7 @@
                                         <input type="radio" name="Type de site " data-form-field="Type de site " class="form-check-input display-7" value="Refont graphique" id="Type de site -extForm3-57" <?php if (isset($_GET['site']) and $_GET['site'] == "refonte") {
                                                                                                                                                                                                                 echo 'checked=""';
                                                                                                                                                                                                             } ?>>
-                                        <label class="form-check-label display-7">Refont graphique</label>
+                                        <label class="form-check-label display-7">Refonte graphique</label>
                                     </div>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12">
