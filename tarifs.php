@@ -599,7 +599,7 @@
                                                     <li class="option divMaintenance1">Maintenance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 255, 255);"></span> </li>
                                                     <div class="maintenance1">1 heure de maintenance par mois</div>
                                                     
-                                                    <li>Mise à jour de WordPress, Prestashop ou Mobirise, des modules et des plugins <span class="mobi-mbri mobi-mbri-arrow-down mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
+                                                    <li>Mise à jour de WordPress, Prestashop ou Mobirise, des modules et des plugins <span class="mobi-mbri mobi-mbri-success mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
                                                     
                                                     <li class="divSauvegardeSite1">Sauvegarde de votre site<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
                                                     <div class="sauvegardeSite1">2 Sauvegardes de votre site par mois</div>
@@ -633,7 +633,7 @@
                                                         <li class="option divMaintenance2">Maintenance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 255, 255);"></span> </li>
                                                         <div class="maintenance2">1 à 2 heures de maintenance par mois</div>
                                                         
-                                                        <li>Mise à jour de WordPress, Prestashop ou Mobirise, des modules et des plugins <span class="mobi-mbri mobi-mbri-arrow-down mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
+                                                        <li>Mise à jour de WordPress, Prestashop ou Mobirise, des modules et des plugins <span class="mobi-mbri mobi-mbri-success mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
                                                         
                                                         <li class="divSauvegardeSite2">Sauvegarde de votre site<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
                                                         <div class="sauvegardeSite2">2 Sauvegardes de votre site par semaine</div>
@@ -667,7 +667,7 @@
                                                     <li class="option divMaintenance1">Maintenance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 255, 255);"></span> </li>
                                                     <div class="maintenance1">2 à 4 heures de maintenance par mois</div>
                                                     
-                                                    <li>Mise à jour de WordPress, Prestashop ou Mobirise, des modules et des plugins <span class="mobi-mbri mobi-mbri-arrow-down mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
+                                                    <li>Mise à jour de WordPress, Prestashop ou Mobirise, des modules et des plugins <span class="mobi-mbri mobi-mbri-success mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
                                                     
                                                     <li class="divSauvegardeSite3">Sauvegarde de votre site<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
                                                     <div class="sauvegardeSite3">2 Sauvegardes de votre site par jour</div>
@@ -701,7 +701,7 @@
                                                         <li class="option divMaintenance4">Maintenance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 255, 255);"></span> </li>
                                                         <div class="maintenance4">4 à 7 heures de maintenance par mois</div>
                                                         
-                                                        <li>Mise à jour de WordPress, Prestashop ou Mobirise, des modules et des plugins <span class="mobi-mbri mobi-mbri-arrow-down mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
+                                                        <li>Mise à jour de WordPress, Prestashop ou Mobirise, des modules et des plugins <span class="mobi-mbri mobi-mbri-success mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
                                                         
                                                         <li class="divSauvegardeSite4">Sauvegarde de votre site<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
                                                         <div class="sauvegardeSite4">2 Sauvegardes de votre site par jour sur un serveur externe</div>
