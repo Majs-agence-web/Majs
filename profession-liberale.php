@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
 <html prefix="og: http://ogp.me/ns#">
 <head>
+
+    <title>Proféssions libérale</title>
   
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-    <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.png" type="image/x-icon">
-    <meta name="description" content="">
+    <meta name="description" content="Voici un article qui vous expliquera pourquoi il est utile d’avoir un site web quand on est une profession libérale.">
     <meta property="og:site_name" content="majs">
     <meta property="og:url" content="https://www.majs.fr/profession-liberale">
     <meta property="og:image" content="http://www.majs.fr/assets/images/mbr-700x467.jpg" />
@@ -17,9 +17,8 @@
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="627" />
     <meta property="og:image:alt" content="tablette" />
-  
-  
-    <title>Profession liberale</title>
+
+    <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.webp" type="image/x-icon">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2-min.css">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons-min.css">
     <link rel="stylesheet" href="assets/font-awesome/css/font-awesome-min.css">
@@ -32,9 +31,6 @@
     <link rel="stylesheet" href="assets/theme/css/style-min.css">
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional-min.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional-min.css" type="text/css">
-  
-  
-  
   
 </head>
 <body>
@@ -69,14 +65,14 @@
                     <div class="media-container-row">
                         
                         <div class="col-lg-9 col-12 image-element align-self-stretch">
-                                <img src="assets/images/mbr-1665x1106.jpg" alt="">
+                                <img src="assets/images/mbr-1665x1106.webp" alt="" loading="lazy">
                         </div>
                         
                         <div class="col-lg-5 col-12">
                         <div class="card-wrap">
                     <h1 class="mbr-section-title align-center mbr-fonts-style display-5">Professions libérales: ne négligez pas votre visibilité en ligne !</h1>
                     
-                            <p class="mbr-fonts-style block-quote display-7">Avocats, notaires, huissiers, experts-comptables, médecins, infirmiers, architectes...les internautes vous cherchent de la même manière que tout autre professionnel ou prestataire de services commerciaux.<br><br>Nous vous proposons dans cet article de découvrir les nombreuses solutions que nous  pouvons vous proposer, de l’achat de votre site à la location avec option d’achat.&nbsp;<br></p>
+                            <p class="mbr-fonts-style block-quote display-7" style="text-align:justify !important;">Avocats, notaires, huissiers, experts-comptables, médecins, infirmiers, architectes...les internautes vous cherchent de la même manière que tout autre professionnel ou prestataire de services commerciaux.<br><br>Nous vous proposons dans cet article de découvrir les nombreuses solutions que nous  pouvons vous proposer, de l’achat de votre site à la location avec option d’achat.&nbsp;<br></p>
                     
                 </div>
             </div>
@@ -123,7 +119,10 @@
             <div class="mbr-text col-12 col-md-8 display-7">
                 <div class="flex-block">
                     <span class="mbr-iconfont mbri-quote-right" style="color: rgb(236, 201, 121); fill: rgb(236, 201, 121);"></span>
-                    <p class="mbr-fonts-style block-quote display-7" style="text-align:justify;">Vous l’aurez compris, quelle que soit la profession libérale que vous exercez, si vous souhaitez donner de la visibilité en ligne à vos activités (...comme vous en avez le droit, à condition de respecter la réglementation !), la conception, l’élaboration et l’utilisation d’un site internet est un excellent moyen de vous faire connaître, mais aussi - et surtout !- de vous différencier de vos confrères, néanmoins  concurrents. Il est temps de vous distinguer !&nbsp;</p>
+                    <p class="mbr-fonts-style mbr-text align-center display-7" style="text-align:justify;">MAJS WEB AGENCY vous propose de booster votre business grâce à des solutions Web particulièrement riches et adaptées, tout en gardant une flexibilité et une attractivité tarifaire.
+<br><br>Nous porterons une attention toute particulière à l’identité visuelle de votre site vitrine, pour éviter qu’il puisse s’apparenter à de la publicité directe. Nous vous ferons donc uniquement des propositions modernes et sobres, neutres de toute affectation marketing.
+<br><br> Le principal avantage de la location de site est la maîtrise du budget consacré aux ressources Web sur le temps long. Un site internet coûte un prix certain, et souvent le jeune investisseur n’a pas forcément les finances pour payer le site Web en une seule fois. Une solution de location lui permet de pouvoir échelonner ses paiements, sans efforts et à son rythme, tout en conservant un très haut niveau de prestations. 
+</p>
                 </div>
             </div>
         </div>
@@ -137,10 +136,14 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-10 col-sm-12 text-section">
-                <p class="mbr-fonts-style mbr-text align-center display-7" style="text-align:justify;">MAJS WEB AGENCY vous propose de booster votre business grâce à des solutions Web particulièrement riches et adaptées, tout en gardant une flexibilité et une attractivité tarifaire.
-<br><br>Nous porterons une attention toute particulière à l’identité visuelle de votre site vitrine, pour éviter qu’il puisse s’apparenter à de la publicité directe. Nous vous ferons donc uniquement des propositions modernes et sobres, neutres de toute affectation marketing.
-<br><br> Le principal avantage de la location de site est la maîtrise du budget consacré aux ressources Web sur le temps long. Un site internet coûte un prix certain, et souvent le jeune investisseur n’a pas forcément les finances pour payer le site Web en une seule fois. Une solution de location lui permet de pouvoir échelonner ses paiements, sans efforts et à son rythme, tout en conservant un très haut niveau de prestations. 
-</p>
+                <p class="mbr-fonts-style mbr-text align-center display-7" style="text-align:justify;">Aussi, concernant la communication, une certaine souplesse est appliquée (selon l’Ordre dont vous dépendez). Voilà quelques exemples de campagnes qui peuvent être admises :
+<br><br>•	Un site vitrine lorsqu’il est informatif et pratique (adresse, horaires d’ouverture, tarifs…)
+<br>•	Nous porterons une attention particulière à l’aspect visuel sur votre site vitrine. En effet, pour les professions réglementées, cela pourrait s’apparenter à de la publicité directe. Nous vous ferons uniquement des propositions de sites vitrine modernes et sobres, neutre de toute attractivité marketing.
+<br>•	Créer une section actualités ou pédagogique.
+<br>•	Dans le cadre de présenter des informations pédagogiques, l’envoi de newsletters ou l’envoi de plaquettes est possible.
+<br><br>Attention ! Pensez d’abord à vous renseigner sur ses réglementations précises, car elles peuvent en fonction de l’Ordre duquel dépend la profession en question.
+<br><br>Le principal avantage de la location de site est la maîtrise de son budget sur la durée. En effet, le site cela coûte un certain prix et souvent le jeune entrepreneur n’a pas forcément les finances pour payer le site web en une seule fois. Donc cette solution permet de pouvoir échelonner ses paiements via la location.
+<br><br>Autre avantage, la LOA (location avec option d’achat) vous assure un accompagnement et un suivi de votre projet sur la durée de la location. Cela comprend : l’hébergement, la maintenance, les mises à jour, le renouvellement de votre nom de domaine.<br></p>
                 <div class="py-3 ornament text-center">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 133 20" height="20" width="150" fill="#355665">
                         <g><path d="M127.18,6.19C121-.05,109.94-.24,101.84.1,90.84.56,80,3.3,69.32,5.77c-8,1.86-16,3.63-24,5.72-9.21,2.41-18.6,4.72-28.14,5.19-4.1.2-8.48,0-12.16-2a6.6,6.6,0,0,1-2.7-9A5.46,5.46,0,0,1,7.07,2.77c4-.22,6.73,8.39-.08,4.58a.49.49,0,0,0-.49.84c4.88,3,10.8,0,5.4-4.91C7.6-.63.4,2.06,0,8-1,24,28.25,17,36.29,15.24,53.74,11.37,70.9,6.44,88.53,3.33c11.1-2,24.75-3.54,35.06,2.19a16,16,0,0,1,6.86,8.85c1.29,4.31-4.35,4.2-7,3.52-4.84-1.26-2.42-8,1.22-3,.61.83,2,0,1.4-.82-2.15-2.93-6.71-4.9-7.12.35s8.36,7.24,11.72,4.47C135,15.32,129.91,9,127.18,6.19Z"></path></g>

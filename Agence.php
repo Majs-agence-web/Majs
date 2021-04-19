@@ -1,17 +1,16 @@
-<!DOCTYPE html>
-<html  >
+<!DOCTYPE html >
+<html lang="fr">
 <head>
+
+    <title>L'agence</title>
   
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.png" type="image/x-icon">
-  <meta name="description" content="">
-  
-  
-  <title>L'AGENCE</title>
-  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2-min.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <meta name="description" content="Nous sommes des passionnés de la technologie numérique et du web et voulons mettre toutes nos compétences au service des entreprises.">
+
+    <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.webp" type="image/x-icon">
+    <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2-min.css">
     <link rel="stylesheet" href="assets/font-awesome/css/font-awesome-min.css">
     <link rel="stylesheet" href="assets/tether/tether.min.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
@@ -22,9 +21,6 @@
     <link rel="stylesheet" href="assets/theme/css/style-min.css">
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional-min.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional-min.css" type="text/css">
-  
-  
-  
   
 </head>
 <body>
@@ -73,7 +69,7 @@
             </div>
 
             <div class="pt-5 align-center">
-<!--                 <img src="assets/images/05-1.jpg" alt="" mbr-style="{'width': mediaSize + '%'}"> -->
+<!--                 <img src="assets/images/05-1.webp" alt="" mbr-style="{'width': mediaSize + '%'} loading="lazy""> -->
             </div>
 
         </div>
@@ -107,10 +103,10 @@
 
             <div class="col-lg-6 col-md-12 col-12 align-center img-box">
                 <div>
-                <img class="img1" src="assets/images/pexels-burst-374016-684x456.jpg" alt="">
+                <img class="img1" src="assets/images/pexels-burst-374016-684x456.webp" alt="" loading="lazy">
                 </div>
                 <div>
-                <img class="img2" src="assets/images/irfan-simsar-wxwulfjn-g0-unsplash-684x912.png" alt="">
+                <img class="img2" src="assets/images/irfan-simsar-wxwulfjn-g0-unsplash-684x912.webp" alt="" loading="lazy">
                 </div>
             </div>
 
@@ -214,7 +210,7 @@
     <div class="container">
         <div class="row">
 <!--             <div class="col-lg-4 col-md-12 col-12 align-center img-box">
-                <img class="img1" src="assets/images/agile-456x304.jpg" alt="">
+                <img class="img1" src="assets/images/agile-456x304.webp" alt="" loading="lazy">
 
 
             </div> -->
@@ -263,7 +259,7 @@
     <div class="container">
         <div class="row">
 <!--             <div class="col-lg-4 col-md-12 col-12 align-center img-box">
-                <img class="img1" src="assets/images/agile-456x304.jpg" alt="">
+                <img class="img1" src="assets/images/agile-456x304.webp" alt="" loading="lazy">
 
 
             </div> -->
@@ -317,7 +313,7 @@
     <div class="container">
         <div class="row">
 <!--             <div class="col-lg-4 col-md-12 col-12 align-center img-box">
-                <img class="img1" src="assets/images/agile-456x304.jpg" alt="">
+                <img class="img1" src="assets/images/agile-456x304.webp" alt="" loading="lazy">
 
 
             </div> -->
@@ -364,7 +360,7 @@
     <div class="container">
         <div class="row">
 <!--             <div class="col-lg-4 col-md-12 col-12 align-center img-box">
-                <img class="img1" src="assets/images/agile-456x304.jpg" alt="">
+                <img class="img1" src="assets/images/agile-456x304.webp" alt="" loading="lazy">
 
 
             </div> -->
@@ -441,7 +437,7 @@
                 <div class="panel-item p-3">
                     <div class="card-block">
                         <div class="testimonial-photo">
-                            <img src="assets/images/aa7972-270x270.jpg" alt="">
+                            <img src="assets/images/aa7972-270x270.webp" alt="" loading="lazy">
                         </div>
                     </div>
                     <div class="card-footer">
@@ -471,7 +467,7 @@
                 <div class="panel-item p-3">
                     <div class="card-block">
                         <div class="testimonial-photo">
-                            <img src="assets/images/c7d082-270x270.jpg" alt="">
+                            <img src="assets/images/c7d082-270x270.webp" alt="" loading="lazy">
                         </div>
                     </div>
                     <div class="card-footer">
@@ -500,7 +496,7 @@
                 <div class="panel-item p-3">
                     <div class="card-block">
                         <div class="testimonial-photo">
-                            <img src="assets/images/maxime-270x270.jpg" alt="">
+                            <img src="assets/images/maxime-270x270.webp" alt="" loading="lazy">
                         </div>
 
                     </div>
@@ -530,7 +526,7 @@
                 <div class="panel-item p-3">
                     <div class="card-block">
                         <div class="testimonial-photo">
-                            <img src="assets/images/5c3330-270x270.jpg" alt="">
+                            <img src="assets/images/5c3330-270x270.webp" alt="" loading="lazy">
                         </div>
 
                     </div>

@@ -1,27 +1,25 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
 <html prefix="og: http://ogp.me/ns#">
 <head>
 
+    <title>ACCUEIL</title>
+
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
+    <meta name="description" content="Nous sommes une agence située au cœur de la métropole lilloise, nous créons des sites internet 100% responsive, audit SEO, web design, développement Web. ">
     <meta name="p:domain_verify" content="1761fe36c8627d0a4f9ce323ef50dd19"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-    <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.png" type="image/x-icon">
-    <meta name="description" content="">
     <meta property="og:site_name" content="majs">
     <meta property="og:url" content="https://www.majs.fr">
-    <meta property="og:image" content="http://www.majs.fr/assets/images/undraw_building_websites_i78t.png" />
-    <meta property="og:image:secure_url" content="https://www.majs.fr/assets/images/undraw_building_websites_i78t.png" />
-    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image" content="http://www.majs.fr/assets/images/undraw_building_websites_i78t.webp" />
+    <meta property="og:image:secure_url" content="https://www.majs.fr/assets/images/undraw_building_websites_i78t.webp" />
+    <meta property="og:image:type" content="image/webp" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="627" />
     <meta property="og:image:alt" content="création de site web" />
 
-
-
-    <title>ACCUEIL</title>
+    <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.webp" type="image/x-icon">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2-min.css">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons-min.css">
     <link rel="stylesheet" href="assets/bootstrap-material-design-font/css/material-min.css">
@@ -111,11 +109,11 @@
 
                 <div class="col-xl-6 d-none d-lg-none d-xl-block align-center img-box">
                     <div>
-                        <img class="img1" src="assets/images/undraw_building_websites_i78t.svg" alt="">
+                        <img class="img1" src="assets/images/undraw_building_websites_i78t.svg" alt=""  loading="lazy">
                     </div>
                     <div>
                         <br>
-                        <img class="img2" src="assets/images/undraw_meet_the_team_e5b7.svg" alt="">
+                        <img class="img2" src="assets/images/undraw_meet_the_team_e5b7.svg" alt="" loading="lazy">
                     </div>
                 </div>
 
@@ -194,7 +192,7 @@
                     
                 </div> -->
                     <div class="container containerIcon">
-                        <div class="icon1"><img src="assets/images/dev-2.svg" alt=""></div>
+                        <div class="icon1"><img src="assets/images/dev-2.svg" alt="" loading="lazy"></div>
                         <div class="icon devIcon">
                             <svg class="devElement1" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
                                 <path d="M0,15.845v420.259h164.332v30.049h-30.036v30.001h243.407v-30.001h-30.036v-30.049H512V15.845H0z M317.665,466.153
@@ -227,7 +225,7 @@
 
 
                     <div class="container containerIcon">
-                        <div class="icon2"><img src="assets/images/design-2.svg" alt=""></div>
+                        <div class="icon2"><img src="assets/images/design-2.svg" alt=""loading="lazy"></div>
                         <div class="icon designIcon ">
                             <svg xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
                                 <path class="designElement1" d="m316 346c-5.519531 0-10 4.480469-10 10s4.480469 10 10 10 10-4.480469 10-10-4.480469-10-10-10zm0 0"></path>
@@ -268,7 +266,7 @@
                 </div> -->
 
                     <div class="container containerIcon">
-                        <div class="icon3"><img src="assets/images/seo-2.svg" alt=""></div>
+                        <div class="icon3"><img src="assets/images/seo-2.svg" alt="" loading="lazy"></div>
                         <div class="icon refIcon ">
                             <svg xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
                                 <path class="refElement1" d="m467 28.355h-422c-24.813 0-45 20.187-45 45v278.27c0 24.813 20.187 45 45 45h151.49v57.016h-22.587c-8.284 0-15 6.716-15 15s6.716 15 15 15h164.19c8.284 0 15-6.716 15-15s-6.716-15-15-15h-22.587v-57.016h151.49c24.813 0 45-20.187 45-45v-278.27c0-24.813-20.187-45-45-45zm-181.49 425.29h-59.012v-57.016h59.012v57.016zm196.49-102.02c0 8.271-6.729 15-15 15h-422c-8.271 0-15-6.729-15-15v-22.803h452v22.803zm0-52.803h-452v-225.47c0-8.271 6.729-15 15-15h422c8.271 0 15 6.729 15 15v225.47z"></path>
@@ -333,7 +331,7 @@
 
 
                 <!--             <div class="col-12 col-md-8 col-lg-4 m-auto align-center">
-                <img src="assets/images/mbr-698x468.jpg" alt="">
+                <img src="assets/images/mbr-698x468.webp" alt="" loading="lazy">
             </div>
  -->
 
@@ -424,7 +422,7 @@
                 <div class="card p-3 col-12 col-md-6 nosService">
                     <div class="card-wrapper">
                         <div class="card-img">
-                            <img src="assets/images/03.jpg" alt="">
+                            <img src="assets/images/03.webp" alt="" loading="lazy">
                         </div>
                         <div class="card-box">
                             <h4 class="card-title pb-2 mbr-fonts-style display-5"><strong>Site vitrine</strong></h4>
@@ -446,7 +444,7 @@
                 <div class="card p-3 col-12 col-md-6 nosService">
                     <div class="card-wrapper">
                         <div class="card-img">
-                            <img src="assets/images/04.jpg" alt="">
+                            <img src="assets/images/04.webp" alt="" loading="lazy">
                         </div>
                         <div class="card-box ">
                             <h4 class="card-title pb-2 mbr-fonts-style display-5"><strong>Site E-commerce</strong></h4>
@@ -462,7 +460,7 @@
                 <div class="card p-3 col-12 col-md-6 nosService">
                     <div class="card-wrapper">
                         <div class="card-img">
-                            <img src="assets/images/07.jpg" alt="">
+                            <img src="assets/images/07.webp" alt="" loading="lazy">
                         </div>
                         <div class="card-box">
                             <h4 class="card-title pb-2 mbr-fonts-style display-5"><strong>Site sur-mesure
@@ -479,7 +477,7 @@
                 <div class="card p-3 col-12 col-md-6 nosService">
                     <div class="card-wrapper">
                         <div class="card-img">
-                            <img src="assets/images/08.jpg" alt="">
+                            <img src="assets/images/08.webp" alt="" loading="lazy">
                         </div>
                         <div class="card-box">
                             <h4 class="card-title pb-2 mbr-fonts-style display-5"><strong>Landing page</strong></h4>
@@ -525,12 +523,12 @@
                     <div class="card-wrapper">
 
                         <div class="card-img">
-                            <img id="myImg2" src="assets/images/image1-290x340.jpg" title="" alt="">
+                            <img id="myImg2" src="assets/images/image1-290x340.webp" title="" alt="" loading="lazy">
                         </div>
 
                         <div id="myModal3" class="modal">
                             <span class="close3" style="padding-top: 2em; color: white;">&times;</span>
-                            <img class="modal-content" id="img03">
+                            <img class="modal-content" id="img03" loading="lazy">
                             <div id="caption"></div>
                         </div>
 
@@ -549,12 +547,12 @@
                     
                     <div class="card-img">
                         
-                         <img id="myImg" src="assets/images/image2-290x340.jpg" title="" alt="">
+                         <img id="myImg" src="assets/images/image2-290x340.webp" title="" alt="" loading="lazy">
                     </div> 
                                 
                     <div id="myModal" class="modal">
                         <span class="close" style="padding-top: 2em; color: white;">&times;</span>
-                        <img class="modal-content" id="img01">
+                        <img class="modal-content" id="img01" loading="lazy">
                         <div id="caption"></div>
                     </div>  
                                       
@@ -576,12 +574,12 @@
                     <div class="card-wrapper">
 
                         <div class="card-img">
-                            <img id="myImg2" src="assets/images/image3-290x340.jpg" title="" alt="">
+                            <img id="myImg2" src="assets/images/image3-290x340.webp" title="" alt="" loading="lazy">
                         </div>
 
                         <div id="myModal2" class="modal">
                             <span class="close2" style="padding-top: 2em; color: white;">&times;</span>
-                            <img class="modal-content" id="img02">
+                            <img class="modal-content" id="img02" loading="lazy">
                             <div id="caption"></div>
                         </div>
 
@@ -612,7 +610,7 @@
             //     var modalImg = document.getElementById("img01");     
             //     box.onclick = function(){
             //       modal.style.display = "block";
-            //       modalImg.src = "assets/images/helenePontiereApercu.png";          
+            //       modalImg.src = "assets/images/helenePontiereApercu.webp";          
             //     }
 
             // Get the modal2
@@ -624,7 +622,7 @@
             var modalImg2 = document.getElementById("img02");
             box2.onclick = function() {
                 modal2.style.display = "block";
-                modalImg2.src = "assets/images/galichetRenovApercu.png";
+                modalImg2.src = "assets/images/galichetRenovApercu.webp";
             }
 
             // Get the modal3
@@ -636,7 +634,7 @@
             var modalImg3 = document.getElementById("img03");
             box3.onclick = function() {
                 modal3.style.display = "block";
-                modalImg3.src = "assets/images/casaBenficaApercu.png";
+                modalImg3.src = "assets/images/casaBenficaApercu.webp";
             }
 
 
@@ -824,7 +822,7 @@
                             <div class="author-box">
 
                                 <div class="img-box">
-                                    <img class="face" src="assets/images/97368505-4495861057106555-2641266730826989568-o-160x162.jpg" alt="">
+                                    <img class="face" src="assets/images/97368505-4495861057106555-2641266730826989568-o-160x162.webp" alt="">
                                 </div>
 
                                 <div class="author mbr-m-auto">
@@ -915,7 +913,7 @@
                     <div class="media-container-row">
                         <div class="col-md-12">
                             <div class="wrap-img ">
-                                <img src="assets/images/logohelenepontiere-291x133.png" class="img-responsive clients-img" alt>
+                                <img src="assets/images/logohelenepontiere-291x133.webp" class="img-responsive clients-img" alt>
                             </div>
                         </div>
                     </div>
@@ -927,7 +925,7 @@
                         <div class="media-container-row">
                             <div class="col-md-12">
                                 <div class="wrap-img ">
-                                    <img src="assets/images/logogalichetrenove-1316x735.png" class="img-responsive clients-img" alt="">
+                                    <img src="assets/images/logogalichetrenove-1316x735.webp" class="img-responsive clients-img" alt="">
                                 </div>
                             </div>
                         </div>
@@ -936,7 +934,7 @@
                         <div class="media-container-row">
                             <div class="col-md-12">
                                 <div class="wrap-img ">
-                                    <img src="assets/images/logocasa-240x165.png" class="img-responsive clients-img" alt="">
+                                    <img src="assets/images/logocasa-240x165.webp" class="img-responsive clients-img" alt="">
                                 </div>
                             </div>
                         </div>

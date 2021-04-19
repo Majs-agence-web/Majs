@@ -1,17 +1,16 @@
 <!DOCTYPE html>
-<html  >
+<html lang="fr">
 <head>
+
+    <title>Mention légales</title>
   
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <meta name="description" content="">
   
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.png" type="image/x-icon">
-  <meta name="description" content="">
-  
-  
-  <title>Home</title>
-  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2-min.css">
+    <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.webp" type="image/x-icon">
+    <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2-min.css">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons-min.css">
     <link rel="stylesheet" href="assets/font-awesome/css/font-awesome-min.css">
     <link rel="stylesheet" href="assets/tether/tether.min.css">
@@ -24,10 +23,6 @@
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional-min.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional-min.css" type="text/css">
   
-  
-  
-  
-
 </head>
 <body>
 

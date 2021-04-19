@@ -1,17 +1,16 @@
 <!DOCTYPE html>
-<html  >
+<html lang="fr">
 <head>
+
+    <title>Actualites</title>
   
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.png" type="image/x-icon">
-  <meta name="description" content="">
-  
-  
-  <title>Actualites</title>
-  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2-min.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <meta name="description" content="Retrouvez nos actualités sur les conseils que nous pouvons vous donner à travers de notre expérience mais aussi de notre savoir-faire.">
+ 
+    <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.webp" type="image/x-icon">
+    <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2-min.css">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons-min.css">
     <link rel="stylesheet" href="assets/font-awesome/css/font-awesome-min.css">
     <link rel="stylesheet" href="assets/tether/tether.min.css">
@@ -21,12 +20,8 @@
     <link rel="stylesheet" href="assets/dropdown/css/style-min.css">
     <link rel="stylesheet" href="assets/socicon/css/styles-min.css">
     <link rel="stylesheet" href="assets/theme/css/style-min.css">
-
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional-min.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional-min.css" type="text/css">
-  
-  
-  
   
 </head>
 <body>
@@ -70,7 +65,7 @@
                         <div class="card_post">
                             <div class="image_post">
                                
-                                <img src="assets/images/5c3330-270x270.jpg" alt="" data-slide-to="0">
+                                <img src="assets/images/5c3330-270x270.webp" alt="" data-slide-to="0" loading="lazy">
                              
                             </div>
                             <div class="author_post">
@@ -86,7 +81,7 @@
                 </div>
                 <div class="item-img">
                      
-                    <img src="assets/images/mbr-700x467.jpg" alt="" title="" data-slide-to="0">
+                    <img src="assets/images/mbr-700x467.webp" alt="" title="" data-slide-to="0" loading="lazy">
                       
                 </div>
                 <div class="item-content">
@@ -105,7 +100,7 @@
                         <div class="card_post">
                             <div class="image_post">
                                
-                                <img src="assets/images/5c3330-270x270.jpg" alt="" data-slide-to="1">
+                                <img src="assets/images/5c3330-270x270.webp" alt="" data-slide-to="1" loading="lazy">
                              
                             </div>
                             <div class="author_post">
@@ -121,7 +116,7 @@
                 </div>
                 <div class="item-img">
                      
-                    <img src="assets/images/mbr-1-1920x1275.jpg" alt="" title="" data-slide-to="1">
+                    <img src="assets/images/mbr-1-1920x1275.webp" alt="" title="" data-slide-to="1" loading="lazy">
                       
                 </div>
                 <div class="item-content">
@@ -143,7 +138,7 @@
                         <div class="card_post">
                             <div class="image_post">
                                
-                                <img src="assets/images/5c3330-270x270.jpg" alt="" data-slide-to="2">
+                                <img src="assets/images/5c3330-270x270.webp" alt="" data-slide-to="2" loading="lazy">
                              
                             </div>
                             <div class="author_post">
@@ -159,7 +154,7 @@
                 </div>
                 <div class="item-img">
                      
-                    <img src="assets/images/mbr-2-1920x1280.jpg" alt="" title="" data-slide-to="2">
+                    <img src="assets/images/mbr-2-1920x1280.webp" alt="" title="" data-slide-to="2" loading="lazy">
                       
                 </div>
                 <div class="item-content">

@@ -1,17 +1,16 @@
 <!DOCTYPE html>
-<html  >
+<html lang="fr">
 <head>
+
+    <title>Aide-etat</title>
   
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <meta name="description" content="Nous allons vous expliquer l’aide de 500€ attribuée pour la création d'entreprise et les règles qu’il faut respecter pour pouvoir en bénéficier.">
   
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.png" type="image/x-icon">
-  <meta name="description" content="">
-  
-  
-  <title>Aide-etat</title>
-  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2-min.css">
+    <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.webp" type="image/x-icon">
+    <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2-min.css">
     <link rel="stylesheet" href="assets/font-awesome/css/font-awesome-min.css">
     <link rel="stylesheet" href="assets/tether/tether.min.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
@@ -22,15 +21,13 @@
     <link rel="stylesheet" href="assets/theme/css/style-min.css">
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional-min.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional-min.css" type="text/css">
+
     <style>
         h2, h1, .texteIci{
             text-shadow: 0 0 #ecc979;
             color: #ecc979;
         }
     </style>
-  
-  
-  
 </head>
 <body>
   
@@ -61,7 +58,7 @@
                     <div class="back"> </div>
                     <div class="media-container-row">
                         <div class="col-lg-9 col-12 image-element align-self-stretch">
-                                <img src="assets/images/mbr-1665x1250.jpg" alt="">
+                                <img src="assets/images/mbr-1665x1250.webp" alt="" loading="lazy">
                         </div>
                         
                         <div class="col-lg-5 col-12">

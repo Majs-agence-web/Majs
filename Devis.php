@@ -1,17 +1,16 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
 
 <head>
 
+    <title>Devis</title>
+
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-    <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.png" type="image/x-icon">
     <meta name="description" content="">
 
-
-    <title>Devis</title>
+    <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.webp" type="image/x-icon">
     <link rel="stylesheet" href="assets/formstyler/jquery.formstyler.css">
     <link rel="stylesheet" href="assets/formstyler/jquery.formstyler.theme.css">
     <link rel="stylesheet" href="assets/datepicker/jquery.datetimepicker.min.css">
@@ -27,8 +26,6 @@
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional-min.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional-min.css" type="text/css">
 
-
-
 </head>
 
 <body>
@@ -39,7 +36,6 @@
 
 <section class="cid-stMQ5v2hYqy mbr-parallax-background" id="header02-10">
     <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(75, 101, 112);"></div>
-
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-12 text-center mx-auto">

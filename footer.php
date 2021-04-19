@@ -22,7 +22,7 @@
 
                 <div class="media-wrap text-center">
                     <a href="index.php">
-                        <img src="assets/images/logomajs-vectoriel-footer.svg" alt="Majs">
+                        <img src="assets/images/logomajs-vectoriel-footer.svg" alt="Majs" loading="lazy">
                     </a>
                 </div>
 
@@ -30,17 +30,17 @@
 
                 <div class="social-list d-flex justify-content-center">
                     <div class="soc-item">
-                        <a href="https://www.linkedin.com/company/71576509/" target="_blank">
+                        <a href="https://www.linkedin.com/company/71576509/" target="_blank" rel="noopener">
                             <span class="mbr-iconfont mbr-iconfont-social socicon-linkedin socicon" style="color: rgb(53, 86, 101); fill: rgb(53, 86, 101);"></span>
                         </a>
                     </div>
                     <div class="soc-item">
-                        <a href="https://twitter.com/MajsWeb" target="_blank">
+                        <a href="https://twitter.com/MajsWeb" target="_blank"rel="noopener">
                             <span class="mbr-iconfont mbr-iconfont-social socicon-twitter socicon" style="color: rgb(53, 86, 101); fill: rgb(53, 86, 101);"></span>
                         </a>
                     </div>
                     <div class="soc-item">
-                        <a href="https://www.facebook.com/MajsWebAgency" target="_blank">
+                        <a href="https://www.facebook.com/MajsWebAgency" target="_blank"rel="noopener">
                             <span class="mbr-iconfont mbr-iconfont-social socicon-facebook socicon" style="color: rgb(53, 86, 101); fill: rgb(53, 86, 101);"></span>
                         </a>
                     </div>

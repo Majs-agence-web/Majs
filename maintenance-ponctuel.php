@@ -1,18 +1,17 @@
 <!DOCTYPE html>
-<html  >
+<html lang="fr">
 <head>
   
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Maintenance ponctuel</title>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <meta name="description" content="">
   
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.png" type="image/x-icon">
-  <meta name="description" content="">
-  
-  
-  <title>Tarifs</title>
+    <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.webp" type="image/x-icon">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css">
-    <link rel="stylesheet" href="assets/icon54/style.css">
+    <link rel="stylesheet" href="assets/icon54/style-min.css">
     <link rel="stylesheet" href="assets/icon54-v2/style.css">
     <link rel="stylesheet" href="assets/icon54-v4/style.css">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2-min.css">
@@ -25,9 +24,8 @@
     <link rel="stylesheet" href="assets/dropdown/css/style-min.css">
     <link rel="stylesheet" href="assets/socicon/css/styles-min.css">
     <link rel="stylesheet" href="assets/theme/css/style-min.css">
-
-    <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css">
-    <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+    <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional-min.css">
+    <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css-min" type="text/css">
   
 </head>
 <body>

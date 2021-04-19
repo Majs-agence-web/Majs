@@ -1,17 +1,16 @@
 <!DOCTYPE html>
-<html  >
+<html  lang="fr">
 <head>
+
+    <title>Site sur mesure</title>
   
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <meta name="description" content="Vous avez en tête un projet hors-norme, vous avez besoin d’une plateforme sur-mesure. L’agence MAJS est là pour vous guider dans votre projet.">
   
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.png" type="image/x-icon">
-  <meta name="description" content="">
-  
-  
-  <title>Site sur mesure</title>
-  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2-min.css">
+    <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.webp" type="image/x-icon">
+    <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2-min.css">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons-min.css">
     <link rel="stylesheet" href="assets/font-awesome/css/font-awesome-min.css">
     <link rel="stylesheet" href="assets/tether/tether.min.css">
@@ -24,29 +23,19 @@
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional-min.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional-min.css" type="text/css">
   
-  
-  
-  
 </head>
 <body>
   
 <?php 
-        include("header.php")
-    ?>
+    include("header.php")
+?>
 
 <section class="cid-smyC39ayVn mbr-parallax-background" id="header02-4j">
-
-    
-
     <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(75, 101, 112);"></div>
-
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-12 text-center mx-auto">
                 <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-1">Site sur mesure</h1>
-                
-                
-                
             </div>
         </div>
     </div>
@@ -54,70 +43,66 @@
 </section>
 
 <section class="cid-smyC39wBth" id="content02-4k">
-
-    
-
-    
-
-
-
     <div class="container">
         <div>
             <div class="align-center">
-                <img src="assets/images/surmesure-1.svg" alt="">
-<div>
-                <h1 class="mbr-section-title mbr-regular align-left pt-5 mbr-fonts-style display-5" style="font-size: 1.8rem;"><br>Vous avez en tête un projet hors-norme ?
-<br><br>Vous avez besoin d’une plateforme sur mesure ?<br><br>L’agence MAJS est là pour vous.<br><br><br></h1>
-             
-                <p class="mbr-text mbr-light pt-1 mbr-fonts-style display-7"><strong><span style="font-size:1.2em !important;"><br></span></strong><strong><span style="font-size:1.2em !important;">Dans quel cas faut-il opter pour un&nbsp; site sur mesure ?</span>
+                <img src="assets/images/surmesure-1.svg" alt="" loading="lazy">
+                <div>
+                    <h1 class="mbr-section-title mbr-regular align-left pt-5 mbr-fonts-style display-5" style="font-size: 1.8rem;">
+                        <br>Vous avez en tête un projet hors-norme ?
+                        <br>
+                        <br>Vous avez besoin d’une plateforme sur mesure ?
+                        <br>
+                        <br>L’agence MAJS est là pour vous.
+                        <br>
+                        <br>
+                        <br>
+                    </h1>
                 
-<br></strong><br>Si vous souhaitez véritablement:<br><br>•	Une création unique réalisée par un web designer à la pointe des pratiques
-<br>•	Des fonctionnalités personnalisées
-<br>•	Des technologies puissantes (utilisation d’outils comme Symfony, REACT JS …)
-<br>•	Une plateforme évolutive.
-<br><br><strong>Un projet innovant, une solution unique.<br></strong>
-<br>•	Une analyse complète de votre ancien site web
-<br>•	Une meilleure gestion de votre SEO (référencement naturel)
-<br>•	Des préconisations des nouvelles chartes  graphique et technique pour améliorer votre expérience utilisateur.
-<br>•	Une équipe d’expert à votre écoute&nbsp;<br></p>
-              
-</div>  
+                    <p class="mbr-text mbr-light pt-1 mbr-fonts-style display-7">
+                        <strong><span style="font-size:1.2em !important;"><br></span></strong><strong>
+                        <span style="font-size:1.2em !important;">Dans quel cas faut-il opter pour un&nbsp; site sur mesure ?</span>
+                        
+                        <br></strong><br>
+                        Si vous souhaitez véritablement:
+                        <br>
+                        <br>•	Une création unique réalisée par un web designer à la pointe des pratiques
+                        <br>•	Des fonctionnalités personnalisées
+                        <br>•	Des technologies puissantes (utilisation d’outils comme Symfony, REACT JS …)
+                        <br>•	Une plateforme évolutive.
+                        <br>
+                        <br>
+                        <strong>Un projet innovant, une solution unique.<br></strong>
+                        <br>•	Une analyse complète de votre ancien site web
+                        <br>•	Une meilleure gestion de votre SEO (référencement naturel)
+                        <br>•	Des préconisations des nouvelles chartes  graphique et technique pour améliorer votre expérience utilisateur.
+                        <br>•	Une équipe d’expert à votre écoute&nbsp;
+                        <br>
+                    </p>               
+                </div>  
             </div>      
         </div>
-
-
-
     </div>
 </section>
 
 <section class="cid-smyC39Lw5V" id="content02-4l">
-
-    
-
-    
-
-
-
     <div class="container">
         <div class="">
-            <div class="align-center">
-                
-                <img src="assets/images/surmesure2-1.svg" alt="">
-        
-            
-                
-                
-                <p class="mbr-text mbr-light pt-4 align-left mbr-fonts-style display-7">Votre projet sort de la trame traditionnellement formatée car standardisée fournie par un CMS (système de gestion de contenu).
- <br><br>L’agence MAJS peut vous proposer un site sur mesure qui sera à la hauteur de vos espérances car il vous correspondra vraiment.
- <br><br>Nous pouvons sur option  installer un back-office facile d’utilisation qui permettra de gérer votre site et même de le faire évoluer simplement. <br><br>Pour réaliser au mieux votre projet nous  réaliserons avec vous un cahier des charges qui permettra de répondre au mieux à vos besoins.  Ainsi, vous bénéficierez sans effort et avec une grande satisfaction  d’un site évolutif, ergonomique, performant et d'un design unique.
-<br><br>L’agence MAJS est là pour vous
-<br>&nbsp;<br></p>
-                  
+            <div class="align-center">              
+                <img src="assets/images/surmesure2-1.svg" alt="" loading="lazy">
+                <p class="mbr-text mbr-light pt-4 align-left mbr-fonts-style display-7">
+                    Votre projet sort de la trame traditionnellement formatée car standardisée fournie par un CMS (système de gestion de contenu).
+                    <br>
+                    <br>L’agence MAJS peut vous proposer un site sur mesure qui sera à la hauteur de vos espérances car il vous correspondra vraiment.
+                    <br>
+                    <br>Nous pouvons sur option  installer un back-office facile d’utilisation qui permettra de gérer votre site et même de le faire évoluer simplement. <br><br>Pour réaliser au mieux votre projet nous  réaliserons avec vous un cahier des charges qui permettra de répondre au mieux à vos besoins.  Ainsi, vous bénéficierez sans effort et avec une grande satisfaction  d’un site évolutif, ergonomique, performant et d'un design unique.
+                    <br>
+                    <br>L’agence MAJS est là pour vous
+                    <br>&nbsp;
+                    <br>
+                    </p> 
             </div>      
         </div>
-
-
-
     </div>
 </section>
 

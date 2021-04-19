@@ -1,17 +1,16 @@
 <!DOCTYPE html>
-<html  >
+<html  lang="fr">
 <head>
+
+    <title>Site Vitrine</title>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <meta name="description" content="Le site vitrine est la solution idéale pour communiquer votre activité et présenter vos services à vos clients. MAJS Web Agency est là pour vous.">
   
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.png" type="image/x-icon">
-  <meta name="description" content="">
-  
-  
-  <title>Site Vitrine</title>
-  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2-min.css">
+    <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.webp" type="image/x-icon">
+    <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2-min.css">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons-min.css">
     <link rel="stylesheet" href="assets/font-awesome/css/font-awesome-min.css">
     <link rel="stylesheet" href="assets/tether/tether.min.css">
@@ -23,10 +22,7 @@
     <link rel="stylesheet" href="assets/theme/css/style-min.css">
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional-min.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional-min.css" type="text/css">
-  
-  
-  
-  
+
 </head>
 <body>
   
@@ -64,7 +60,7 @@
     <div class="container">
         <div class="">
             <div class="align-center">
-                <img src="assets/images/vitrine1.svg" alt="">
+                <img src="assets/images/vitrine1.svg" alt="" loading="lazy">
 <div>
                 <h1 class="mbr-section-title mbr-regular pt-5 mbr-fonts-style display-2">Description d'un site vitrine</h1>
                
@@ -98,7 +94,7 @@
         <div class="">
             <div class="align-center">
                 
-                <img src="assets/images/vitrine2.svg" alt="">
+                <img src="assets/images/vitrine2.svg" alt="" loading="lazy">
         
             
                 
@@ -134,7 +130,7 @@
         <div class="">
             <div class="align-center">
                 
-                <img src="assets/images/commerce3.svg" alt="">
+                <img src="assets/images/commerce3.svg" alt="" loading="lazy">
         
             
                 
