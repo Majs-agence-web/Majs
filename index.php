@@ -20,23 +20,23 @@
     <meta property="og:image:alt" content="création de site web" />
 
     <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.webp" type="image/x-icon">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css" media="none" onload="if(media!='all')media='all'">
+    <link rel="stylesheet" href="assets/theme/css/style-min.css" media="none" onload="if(media!='all')media='all'">
+    <link rel="stylesheet" href="assets/socicon/css/styles-min.css">
+    <link rel="stylesheet" href="assets/dropdown/css/style-min.css">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2-min.css">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons-min.css">
-    <link rel="stylesheet" href="assets/bootstrap-material-design-font/css/material-min.css">
-    <link rel="stylesheet" href="assets/font-awesome/css/font-awesome-min.css">
+    <link rel="preload" as="style" href="assets/bootstrap-material-design-font/css/material-min.css" media="none" onload="if(media!='all')media='all'">
+    <link rel="preload" as="style" href="assets/font-awesome/css/font-awesome-min.css" media="none" onload="if(media!='all')media='all'">
     <link rel="stylesheet" href="assets/tether/tether-min.css">
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
-    <link rel="stylesheet" href="assets/dropdown/css/style-min.css">
-    <link rel="stylesheet" href="assets/socicon/css/styles-min.css">
-    <link rel="stylesheet" href="assets/theme/css/style-min.css">
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional-min.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional-min.css" type="text/css">
 
     <!-- <script src="Scripts.js"></script> -->
     <script src="tarteaucitron/tarteaucitron.js"></script>
-    <script src="scripttarteaucitron.js"></script>
+    <script src="scripttarteaucitron.js" async></script>
     <style>
         section.test {
             display: none
@@ -154,7 +154,7 @@
                 <polygon id="svgEditorShapeDefs" style="fill:khaki;stroke:black;vector-effect:non-scaling-stroke;stroke-width:1px;"></polygon>
                 <path id="svgEditorClosePathDefs" style="stroke:black;stroke-width:1px;fill:khaki;"></path>
             </defs>
-            <path d="M15083.791600683318,645.6720847341486c496.6000000000058,747.7999999999951,1953.3704016668416,1862.6734725832403,2751.999999999978,1967.9999999999955s1884.300000000003,-198.89999999999964,2718.7056474818382,-552.6365690040448s1746.4898225846773,-519.9524548776521,2593.2943525181545,-567.3634309959566s2251,-23.399999999999636,4384,1520.0000000000032s3205.199999999997,1437.2000000000025,4047.9999999999854,1520.0000000000018s3305.000000000029,-270.2999999999993,4640.000000000029,-1152s74.60000000000582,3328.3000000000065,32,3792.0000000000073s-19509.4,4591.000000000004,-21087.999999999993,-128.00000000000182s-1679.5999999999913,-6358.300000000001,-80,-6400Z" style="stroke:black;fill:khaki;stroke-width:0px;" id="e12_areaS3" transform="matrix(0.0650006 -0.00123765 0.00123765 0.0650006 -995.543 317.589)"></path>
+            <path d="M15083.79x0683318,645.6720847341486c496.6000000000058,747.7999999999951,1953.3704016668416,1862.6734725832403,2751.999999999978,1967.9999999999955s1884.300000000003,-198.89999999999964,2718.7056474818382,-552.6365690040448s1746.4898225846773,-519.9524548776521,2593.2943525181545,-567.3634309959566s2251,-23.399999999999636,4384,1520.0000000000032s3205.199999999997,1437.2000000000025,4047.9999999999854,1520.0000000000018s3305.000000000029,-270.2999999999993,4640.000000000029,-1152s74.60000000000582,3328.3000000000065,32,3792.0000000000073s-19509.4,4591.000000000004,-21087.999999999993,-128.00000000000182s-1679.5999999999913,-6358.300000000001,-80,-6400Z" style="stroke:black;fill:khaki;stroke-width:0px;" id="e12_areaS3" transform="matrix(0.0650006 -0.00123765 0.00123765 0.0650006 -995.543 317.589)"></path>
             <text dy="-0.5em" style="fill:black;font-family:Arial;font-size:20px;" id="e14_texte" transform="matrix(0.0640454 0 0 0.0640454 -832.187 329.878)">
                 <textPath id="e13_textPath" xlink:href="#e12_areaS3">T</textPath>
             </text>
@@ -225,7 +225,7 @@
 
 
                     <div class="container containerIcon">
-                        <div class="icon2"><img src="assets/images/design-2.svg" alt=""loading="lazy"></div>
+                        <div class="icon2"><img src="assets/images/design-2.svg" alt="" loading="lazy"></div>
                         <div class="icon designIcon ">
                             <svg xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
                                 <path class="designElement1" d="m316 346c-5.519531 0-10 4.480469-10 10s4.480469 10 10 10 10-4.480469 10-10-4.480469-10-10-10zm0 0"></path>
@@ -822,7 +822,7 @@
                             <div class="author-box">
 
                                 <div class="img-box">
-                                    <img class="face" src="assets/images/97368505-4495861057106555-2641266730826989568-o-160x162.webp" alt="">
+                                    <img class="face" src="assets/images/97368505-4495861057106555-2641266730826989568-o-160x162.webp" loading="lazy" alt="">
                                 </div>
 
                                 <div class="author mbr-m-auto">
@@ -845,7 +845,7 @@
                             <div class="author-box">
 
                                 <div class="img-box">
-                                    <img class="face" src="assets/images/50830660-1232461846922668-79653419794563072-n-160x160.jpeg" alt="">
+                                    <img class="face" src="assets/images/50830660-1232461846922668-79653419794563072-n-160x160.webp" loading="lazy" alt="">
                                 </div>
 
                                 <div class="author mbr-m-auto">
@@ -925,7 +925,7 @@
                         <div class="media-container-row">
                             <div class="col-md-12">
                                 <div class="wrap-img ">
-                                    <img src="assets/images/logogalichetrenove-1316x735.webp" class="img-responsive clients-img" alt="">
+                                    <img src="assets/images/logogalichetrenove-1316x735.webp" class="img-responsive clients-img" loading="lazy" alt="">
                                 </div>
                             </div>
                         </div>
@@ -934,7 +934,7 @@
                         <div class="media-container-row">
                             <div class="col-md-12">
                                 <div class="wrap-img ">
-                                    <img src="assets/images/logocasa-240x165.webp" class="img-responsive clients-img" alt="">
+                                    <img src="assets/images/logocasa-240x165.webp" class="img-responsive clients-img" loading="lazy" alt="">
                                 </div>
                             </div>
                         </div>
