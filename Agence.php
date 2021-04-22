@@ -30,10 +30,6 @@
     ?>
 
 <section class="header1 cid-slIvS6QC8K mbr-parallax-background" id="header05-21">
-
-    
-
-
     <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(74, 93, 102);">
     </div>
 
@@ -59,22 +55,14 @@
 
     <div class="container">
         <div class="row justify-content-md-center">
-
-
             <div class="col-md-10 col-lg-7 align-center">
                 <h1 class="mbr-section-title mbr-regular mbr-white pb-2 mbr-fonts-style display-1">L'agence MajS</h1>
-                
-                
-                
             </div>
-
             <div class="pt-5 align-center">
-<!--                 <img src="assets/images/05-1.webp" alt="" mbr-style="{'width': mediaSize + '%'} loading="lazy""> -->
+<!--                <img src="assets/images/05-1.webp" alt="" mbr-style="{'width': mediaSize + '%'} loading="lazy""> -->
             </div>
-
         </div>
     </div>
-
 </section>
 
 <section class="counters1 counters cid-slvlgxrWuB" roup="Counters" id="counters03-1o">

@@ -25,7 +25,7 @@
     <link rel="stylesheet" href="assets/socicon/css/styles-min.css">
     <link rel="stylesheet" href="assets/theme/css/style-min.css">
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional-min.css">
-    <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css-min" type="text/css">
+    <link rel="stylesheet" href="assets/mobirise/css/mbr-additional-min.css" type="text/css">
   
 </head>
 <body>
@@ -52,8 +52,9 @@
         <div class="row">
             <div class="col-lg-8 mx-auto mbr-form" data-form-type="formoid">
                 <!--Formbuilder Form-->
-                <form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" data-form-title="Maintenance Urgence">
-                    <input type="hidden" name="email" data-form-email="true" value="7NFbIg5a1ZV0gNz8eIPq2T7EHoaoC5xrOo7OVhRcufmCk7/aokWax29ZHJteBkb21l7PwziyWra+VGbibX1pHi1CCfDpWV9UjAMUyU5vUawaNCE3eLhUnH6Z8Aa7dFDI">
+
+                    <form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" data-form-title="Maintenance Urgence">
+                    <input type="hidden" name="email" data-form-email="true" value="rj89A9EoOcXtekN84UUAQ2Ctq97zz1lpVC8BUcLDnH2MMQWruaAOCQNwBYG3G2zcDKoex61RQm0QJ81uYqzIR/6lPOIwMwBqqMjm1548aQednQFIoLUoJZv/ocH8EEEt.diEt+iE6u7e6wUj/s5scTZ89T6PFHcc0YFOL64m4UbXusJ5INVWkeU3RNF05cJu0hz/VMEtTwIs2BVbcoDzpdua7chBl/cvPXsKhMhPQD/yUPOXtzm5GzEooa/GTx1K5">
                     <div class="form-row">
                         <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Thanks for filling out the form!</div>
                         <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">Oops...! some problem!</div>
@@ -220,6 +221,7 @@
     <script src="assets/parallax/jarallax.min.js"></script>
     <script src="assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>
     <script src="assets/mbr-clients-slider/mbr-clients-slider.js"></script>
+    <script src="assets/formoid/formoid.min.js"></script>
     
 </body>
 </html>
