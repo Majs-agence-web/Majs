@@ -52,22 +52,30 @@
     <div class="container">
         <h2 class="mbr-section-title align-center mbr-fonts-style display-5">DÉCOUVREZ LES FORFAITS DE MAINTENANCE LES PLUS COMPLET DU MARCHÉ</h2>
         <br>
-        <p class="mbr-fonts-style block-quote display-7" style="color:#355665 !important;">
+        <p class="mbr-fonts-style block-quote display-7">
             Vous désirez un accompagnement pour la gestion technique de votre site internet, L’agence Majs vous propose des packs qui répondront à vos besoins.
             <br>
-            <br>En faisant le choix dans l’une de nos formules de maintenance,nos solutions de maintenance et de support, vous laissent une liberté totale et une tranquillité d’esprit certaine pour réserver pleinement votre énergie à votre business.
+            <br>Choisir une de nos formules, de solutions de maintenance et de support vous laissera une liberté totale et une tranquillité d’esprit certaine pour réserver pleinement votre énergie à votre business. 
             <br>
-            <br>Autre avantage de nos formules, votre site internet sera à jour et en sécurité vis-à-vis des pirates mais aussi des défaillances par obsolescence des plugins du CMS utilisé.
+            <br>Autre avantage de nos formules, votre site internet sera parfaitement à jour et offrira une pleine sécurité en cas de tentatives d’intrusion ou de piratage tout en restant préservé de probables défaillances induites par obsolescence des plugins du CMS utilisé pour sa réalisation.
             <br>
-            <br>Choisissez la formule qui répondra à vos besoins et votre budget.
+            <br>Choisissez librement  la formule qui répondra le mieux à vos besoins et votre budget.
+            <br>
+            <br>Nos offres de maintenance sont modulables, interchangeables et sans engagement. Le jour où vous ne souhaiteriez plus être suivi par nos experts, vous aurez la liberté de mettre fin à votre engagement, immédiatement et sans contrainte cachée. 
             <br>
             <br>Afin de répondre aux besoins de chacun, nous mettons à votre disposition deux types d'offres.
             <br>
-            <br><strong>Un forfait horaire de maintenance</strong> - cette formule est adaptée pour des demandes urgentes comme la remise en état d'un site web ou sa mise à jour, changement d’hébergeur, modification du visuel de site, intégration de plugins, sécurisation de votre site avec installation d’un SSL (https), compression des images pour améliorer la fluidité de votre site,...
-            <br>
-            <br><strong>Abonnement au contrat de maintenance</strong> - idéal si vous cherchez de la sérénité tout au long de l’année, plus de détails ci-dessous.
-            <br>
-            <br>Nos offres de maintenance sont interchangeables et sans engagement. Ainsi, cela vous donne la liberté d’être suivi par nos experts et d'arrêter votre engagement quand vous le souhaitez ?
+            <br><strong>Un forfait horaire de maintenance</strong> - cette formule est adaptée pour des demandes urgentes comme:</p>
+            <ul id="liste-maintenance" class="mbr-fonts-style display-7">
+                <li>la remise en état d'un site web ou sa mise à jour</li>
+                <li>un changement d’hébergeur</li>
+                <li>une modification du visuel de site</li>
+                <li>une intégration de plugins</li>
+                <li>une sécurisation de votre site avec installation d’un SSL (https)</li>
+                <li>une compression des images pour améliorer la fluidité de votre site</li>
+            </ul>
+            <p class="mbr-fonts-style block-quote display-7">
+            <strong>Abonnement au contrat de maintenance</strong> - idéal si vous cherchez de la sérénité tout au long de l’année, plus de détails ci-après.
             <br>
             <br>retrouvez ci-dessous nos différentes formules en détails :
         </p>
@@ -209,7 +217,7 @@
 </div>
 </section>
 
-<section class="header4 cid-sqoByG21uJ" id="header09-6j" style="background-color: white !important">
+<section class="header4 cid-sqoByG21uJ devisTitle" id="header09-6j">
     <div class="container">
         <div class="row justify-content-md-center">
             <div class="col-md-10 col-sm-12">
@@ -237,7 +245,7 @@
                 </div>
                 <div class="card-box">
                     <h4 class="card-title py-2 pt-2 pb-2 mbr-fonts-style display-5">Formule Horaire</h4>
-                    <p class="mbr-fonts-style block-quote display-7" style="color:#355665 !important;">75€/Heure</p>
+                    <p class="mbr-fonts-style block-quote display-7 colorPrice">75€/Heure</p>
                     <div class="align-center">
                         <a class="btn btn-sm btn-danger display-4" href="maintenance-ponctuel.php?service=horaire">Demande d'assistance</a>
                     </div>
@@ -250,7 +258,7 @@
                 </div>
                 <div class="card-box">
                     <h4 class="card-title py-2 mbr-fonts-style pt-2 pb-2 display-5">Formule 1/2 Journée</h4>
-                    <p class="mbr-fonts-style block-quote display-7" style="color:#355665 !important;">250€/4 Heures</p>
+                    <p class="mbr-fonts-style block-quote display-7 colorPrice">250€/4 Heures</p>
                     <div class="align-center">
                         <a class="btn btn-sm btn-danger display-4" href="maintenance-ponctuel.php?service=demisJournee">Demande d'assistance</a>
                     </div>
@@ -263,7 +271,7 @@
                 </div>
                 <div class="card-box">
                     <h4 class="card-title py-2 mbr-fonts-style pt-2 pb-2 display-5">Formule Journée</h4>
-                    <p class="mbr-fonts-style block-quote display-7" style="color:#355665 !important;">450€ / 7 Heures</p>
+                    <p class="mbr-fonts-style block-quote display-7 colorPrice">450€ / 7 Heures</p>
                     <div class="align-center">
                         <a class="btn btn-sm btn-danger display-4" href="maintenance-ponctuel.php?service=journee">Demande d'assistance</a>
                     </div>
@@ -294,8 +302,6 @@
     include("footer.php")
 ?>
 
-
-<script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="assets/popper/popper.min.js"></script>
   <script src="assets/tether/tether.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>

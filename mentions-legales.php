@@ -70,7 +70,7 @@
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left">
                 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">1. Conditions générales d’utilisation du site et des services proposés.</h1>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">1. Conditions générales d’utilisation du site et des services proposés.</h2>
 
                 <p class="mbr-text align-left mbr-fonts-style display-7">Le Site constitue une œuvre de l’esprit protégée par les dispositions du Code de la Propriété Intellectuelle et des Réglementations Internationales applicables.
                 <br>Le Client ne peut en aucune manière réutiliser, céder ou exploiter pour son propre compte tout ou partie des éléments ou travaux du Site.
@@ -95,7 +95,7 @@
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left">
                 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">2. Description des services fournis.</h1>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">2. Description des services fournis.</h2>
 
                 <p class="mbr-text align-left mbr-fonts-style display-7">Le site internet www.majs.fr est édité selon une démarche d’information et présente l’ensemble des activités de la société qui s’efforce de fournir des éléments aussi précis que possible. Toutefois, il ne pourra être tenu responsable des oublis, des inexactitudes et des carences dans la mise à jour, qu’elles soient de son fait ou du fait des tiers partenaires qui lui fournissent ces informations.
 <br>Toutes les informations indiquées sur le site www.majs.fr sont données à titre indicatif, et sont susceptibles d’évoluer. Par ailleurs, les renseignements figurant sur le site ne sont pas exhaustifs. Ils sont donnés sous réserve de modifications ayant été apportées depuis leur mise en ligne.</p>
@@ -117,7 +117,7 @@
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left">
                 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">3. Limitations contractuelles sur les données techniques.</h1>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">3. Limitations contractuelles sur les données techniques.</h2>
 
                 <p class="mbr-text align-left mbr-fonts-style display-7">Le site utilise la technologie html.
 <br>L’éditeur ne pourra être tenu responsable de dommages matériels liés à l’utilisation du site. De plus, l’utilisateur du site s’engage à accéder au site en utilisant un matériel récent, ne contenant pas de virus et avec un navigateur à-jour.
@@ -140,7 +140,7 @@
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left">
                 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">4. Propriété intellectuelle et contrefaçons.</h1>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">4. Propriété intellectuelle et contrefaçons.</h2>
 
                 <p class="mbr-text align-left mbr-fonts-style display-7">MAJS WEB AGENCY est propriétaire des droits de propriété intellectuelle et détient les droits d’usage sur tous les éléments accessibles sur le site internet, notamment les textes, images, graphismes, logos, vidéos, icônes et sons.
 <br>Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite, sauf autorisation écrite préalable de l’éditeur.
@@ -163,7 +163,7 @@
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left">
                 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">5. Limitations de responsabilité.</h1>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">5. Limitations de responsabilité.</h2>
 
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     MAJS WEB AGENCY agit en tant qu’éditeur du site et est responsable de la qualité et de la véracité du contenu qu’il publie.</p>
@@ -185,7 +185,7 @@
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left">
                 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">6. Gestion des données personnelles.</h1>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">6. Gestion des données personnelles.</h2>
 
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     L’utilisateur est informé des réglementations concernant la communication marketing, la loi du 21 Juin 2014 pour la confiance dans l’Economie Numérique, la Loi Informatique et Liberté du 06 Août 2004 ainsi que du Règlement Général sur la Protection des Données (RGPD : n° 2016-679).</p>
@@ -207,7 +207,7 @@
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left">
                 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">6.1 Responsable de la collecte des données personnelles</h1>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">6.1 Responsable de la collecte des données personnelles</h2>
 
                 <p class="mbr-text align-left mbr-fonts-style display-7">Pour les Données Personnelles collectées dans le cadre d’une navigation sur le Site, le responsable du traitement des Données Personnelles est la société MAJS WEB AGENCY.
 <br>En tant que responsable du traitement des données qu’il collecte, le site www.majs.fr s’engage à respecter le cadre des dispositions légales en vigueur. Il lui appartient notamment d’établir les finalités de ses traitements de données, de fournir à ses prospects et clients, à partir de la collecte de leurs consentements, une information complète sur le traitement de leurs données personnelles et de maintenir un registre des traitements conforme à la réalité.</p>
@@ -229,7 +229,7 @@
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left">
                 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">6.2 Finalité des données collectées</h1>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">6.2 Finalité des données collectées</h2>
 
                 <p class="mbr-text align-left mbr-fonts-style display-7">- Permettre la navigation sur le Site
 <br>- Prévenir et lutter contre la fraude informatique (spamming, hacking)
@@ -253,7 +253,7 @@
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left">
                 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">6.3 Droit d’accès, de rectification et d’opposition</h1>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">6.3 Droit d’accès, de rectification et d’opposition</h2>
 
                 <p class="mbr-text align-left mbr-fonts-style display-7">Conformément à la réglementation européenne en vigueur, le visiteur du site www.majs.fr dispose des droits suivants :
 <br>- Droit d’accès (article 15 RGPD) et de rectification (article 16 RGPD), de mise à jour, de complétude des données des Utilisateurs, droit de verrouillage ou d’effacement des données des Utilisateurs à caractère personnel (article 17 du RGPD), lorsqu’elles sont inexactes, incomplètes, équivoques, périmées, ou dont la collecte, l’utilisation, la communication ou la conservation est interdite
@@ -281,7 +281,7 @@
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left">
                 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">6.4 Non-communication des données personnelles</h1>
+                <h2 class="mbr-section-title align-left pb-2 mbr-fonts-style display-5">6.4 Non-communication des données personnelles</h2>
 
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     L’éditeur s’interdit de traiter, héberger ou transférer les Informations collectées sur ses Clients vers un pays situé en dehors de l’Union européenne ou reconnu comme « non adéquat » par la Commission européenne sans en informer préalablement le client. Pour autant, l’éditeur reste libre du choix de ses sous-traitants techniques et commerciaux à la condition qu’il présentent les garanties suffisantes au regard des exigences du Règlement Général sur la Protection des Données (RGPD : n° 2016-679).</p>
@@ -315,9 +315,6 @@
         include("footer.php")
     ?>
 
-
-
-<script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="assets/popper/popper.min.js"></script>
   <script src="assets/tether/tether.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>

@@ -52,7 +52,7 @@
             <div class="row">
                 <div class="col-lg-8 mx-auto mbr-form" data-form-type="formoid">
                     <!--Formbuilder Form-->
-                    <form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" data-form-title="Maintenance Forfait">
+                    <form action="" method="POST" class="mbr-form form-with-styler" data-form-title="Maintenance Forfait">
                         <input type="hidden" name="email" data-form-email="true" value="7NFbIg5a1ZV0gNz8eIPq2T7EHoaoC5xrOo7OVhRcufmCk7/aokWax29ZHJteBkb21l7PwziyWra+VGbibX1pHi1CCfDpWV9UjAMUyU5vUawaNCE3eLhUnH6Z8Aa7dFDI">
 
                         <div class="dragArea form-row">
@@ -168,8 +168,6 @@
     include("footer.php")
 ?>
 
-
-    <script src="assets/web/assets/jquery/jquery.min.js"></script>
     <script src="assets/popper/popper.min.js"></script>
     <script src="assets/tether/tether.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
@@ -184,6 +182,7 @@
     <script src="assets/parallax/jarallax.min.js"></script>
     <script src="assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>
     <script src="assets/mbr-clients-slider/mbr-clients-slider.js"></script>
+    <script src="assets/formoid/formoid.min.js"></script>
     
 </body>
 </html>

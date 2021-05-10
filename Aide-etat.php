@@ -115,13 +115,13 @@
                     <br>
                     <br>C’est en partant de ce constat que chez Majs nous avons décidé de mettre en place des solutions d’achat ou de location avec option d’achat. 
                     Nous avons décidé de créer  des offres claires qui permettent de répondre à 3 cas de figure très précis: 
-                    <br>- Le site <a href="landing-page.php">“landing page” </a> (one page) qui permet de présenter rapidement sont activités.
-                    <br>- Le site <a href="site-vitrine.php">“vitrine”</a> permet de développer en plusieurs onglets la présentation de ses activités.
-                    <br>- Le site <a href="site-e-commerce.php">“e-commerce”</a> véritable boutique en ligne qui permet de vendre soit via la livraison, ou le click & collect, soit via les deux.
+                    <br>- Le site <a class="linkActu" href="landing-page.php">“landing page” </a> (one page) qui permet de présenter rapidement sont activités.
+                    <br>- Le site <a class="linkActu" href="site-vitrine.php">“vitrine”</a> permet de développer en plusieurs onglets la présentation de ses activités.
+                    <br>- Le site <a class="linkActu" href="site-e-commerce.php">“e-commerce”</a> véritable boutique en ligne qui permet de vendre soit via la livraison, ou le click & collect, soit via les deux.
                     <br>
                     <br>Nous proposons également des services de location avec option d’achat, les sites en location peuvent être éligibles à la subvention du 
                     gouvernement. Pour donner quelques exemples, pour un site vitrine, l’aide de l’Etat couvre environ 10 mois de location, pour un site de 
-                    e-commerce, cela couvre 6 mois de location.  Voici <a href="tarifs.php">nos tarifs</a>
+                    e-commerce, cela couvre 6 mois de location.  Voici <a class="linkActu" href="tarifs.php">nos tarifs</a>
                     <br>
                     <br>Au-delà des solutions standard proposées au catalogue, chez Majs, le client qui expose des besoins spécifiques est écouté. Notre
                     mission est d’obtenir sa satisfaction, par une réalisation efficace, après une étude approfondie et professionnelle de ses besoins avec lui. 
@@ -196,7 +196,7 @@
                     le prestataire de services (...comme chez Majs, évidemment!) 
                 </p>
                <div class="py-3 ornament text-center">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 133 20" height="20" width="150" fill="#355665">
+                    <svg class="waveActu" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 133 20" height="20" width="150">
                         <g><path d="M127.18,6.19C121-.05,109.94-.24,101.84.1,90.84.56,80,3.3,69.32,5.77c-8,1.86-16,3.63-24,5.72-9.21,2.41-18.6,4.72-28.14,5.19-4.1.2-8.48,0-12.16-2a6.6,6.6,0,0,1-2.7-9A5.46,5.46,0,0,1,7.07,2.77c4-.22,6.73,8.39-.08,4.58a.49.49,0,0,0-.49.84c4.88,3,10.8,0,5.4-4.91C7.6-.63.4,2.06,0,8-1,24,28.25,17,36.29,15.24,53.74,11.37,70.9,6.44,88.53,3.33c11.1-2,24.75-3.54,35.06,2.19a16,16,0,0,1,6.86,8.85c1.29,4.31-4.35,4.2-7,3.52-4.84-1.26-2.42-8,1.22-3,.61.83,2,0,1.4-.82-2.15-2.93-6.71-4.9-7.12.35s8.36,7.24,11.72,4.47C135,15.32,129.91,9,127.18,6.19Z"></path></g>
                     </svg>
                 </div>
@@ -228,8 +228,6 @@
         include("footer.php")
     ?>
 
-
-<script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="assets/popper/popper.min.js"></script>
   <script src="assets/tether/tether.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>

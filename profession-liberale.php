@@ -93,7 +93,7 @@
             <div class="col-md-10 col-sm-12 text-section">
                 <p class="mbr-fonts-style mbr-text align-center display-7" style="text-align:justify;">
                 Si traditionnellement les métiers d’exercice libéral sont soumis à des restrictions voire à l’interdiction de faire appel à de la publicité, du fait de la nature civile et non commerciale des actes pratiqués, les professions libérales réglementées ont cependant tout à fait le droit de diffuser du contenu informatif ou pédagogique : blog, newsletter pour annoncer des actualités, site vitrine pour annoncer ses horaires d’ouverture ou bien encore agenda connecté pour la prise de rendez-vous en ligne.&nbsp;<br><br>Depuis 2010, une recherche sur deux sur Internet concerne la Santé (source Santé Publique France). Ainsi, pour ne prendre qu’un exemple parmi tant d’autres, il suffira à un médecin en exercice libéral d’assurer une veille internet, a minima à partir d’une page accessible 24h sur 24, pour permettre aux utilisateurs du Web de trouver rapidement et sans effort toutes informations utiles et pertinentes sur l’essentiel de son activité.</p>
-<br><h2 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5">Comment communiquer correctement quand j’exerce une profession libérale ?</h2>
+<br><h2 class="mbr-section-title mbr-regular align-left mbr-fonts-style display-5 textActu">Comment communiquer correctement quand j’exerce une profession libérale ?</h2>
 <br><p class="mbr-fonts-style mbr-text align-center display-7" style="text-align:justify;">Comme nous l’avons mentionné plus haut, les professions libérales sont soumises, pour des raisons légales, à une réglementation contraignante concernant la publicité. De manière générale, il leur est interdit de diffuser des contenus publicitaires (slogans incitant à la vente, publicités comparatives ou d’offres promotionnelles, etc...) et ce, quel que soit le support de communication, physique ou dématérialisé (e-mails, bannières publicitaires, flyers, spots radio…)
     <br><br>
     Cependant, cette interdiction de publicité ne touche pas le droit d’informer et la réglementation tend d’ailleurs à s’assouplir de plus en plus pour ces métiers.<br><br>Du fait des nouveaux usages du Web, mais aussi en raison des contraintes imposées par la récente crise sanitaire, certaines professions libérales ressentent le besoin de s’appuyer sur la technologie du Web en créant par exemple un site “vitrine” d’une ou plusieurs pages dont l’intérêt n’a d’égal que l’utilité :
@@ -119,7 +119,7 @@
             <div class="mbr-text col-12 col-md-8 display-7">
                 <div class="flex-block">
                     <span class="mbr-iconfont mbri-quote-right" style="color: rgb(236, 201, 121); fill: rgb(236, 201, 121);"></span>
-                    <p class="mbr-fonts-style mbr-text align-center display-7" style="text-align:justify;">MAJS WEB AGENCY vous propose de booster votre business grâce à des solutions Web particulièrement riches et adaptées, tout en gardant une flexibilité et une attractivité tarifaire.
+                    <p class="mbr-fonts-style mbr-text align-center display-7 textActu" style="text-align:justify;">MAJS WEB AGENCY vous propose de booster votre business grâce à des solutions Web particulièrement riches et adaptées, tout en gardant une flexibilité et une attractivité tarifaire.
 <br><br>Nous porterons une attention toute particulière à l’identité visuelle de votre site vitrine, pour éviter qu’il puisse s’apparenter à de la publicité directe. Nous vous ferons donc uniquement des propositions modernes et sobres, neutres de toute affectation marketing.
 <br><br> Le principal avantage de la location de site est la maîtrise du budget consacré aux ressources Web sur le temps long. Un site internet coûte un prix certain, et souvent le jeune investisseur n’a pas forcément les finances pour payer le site Web en une seule fois. Une solution de location lui permet de pouvoir échelonner ses paiements, sans efforts et à son rythme, tout en conservant un très haut niveau de prestations. 
 </p>
@@ -145,7 +145,7 @@
 <br><br>Le principal avantage de la location de site est la maîtrise de son budget sur la durée. En effet, le site cela coûte un certain prix et souvent le jeune entrepreneur n’a pas forcément les finances pour payer le site web en une seule fois. Donc cette solution permet de pouvoir échelonner ses paiements via la location.
 <br><br>Autre avantage, la LOA (location avec option d’achat) vous assure un accompagnement et un suivi de votre projet sur la durée de la location. Cela comprend : l’hébergement, la maintenance, les mises à jour, le renouvellement de votre nom de domaine.<br></p>
                 <div class="py-3 ornament text-center">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 133 20" height="20" width="150" fill="#355665">
+                    <svg class="waveActu" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 133 20" height="20" width="150" fill="#355665">
                         <g><path d="M127.18,6.19C121-.05,109.94-.24,101.84.1,90.84.56,80,3.3,69.32,5.77c-8,1.86-16,3.63-24,5.72-9.21,2.41-18.6,4.72-28.14,5.19-4.1.2-8.48,0-12.16-2a6.6,6.6,0,0,1-2.7-9A5.46,5.46,0,0,1,7.07,2.77c4-.22,6.73,8.39-.08,4.58a.49.49,0,0,0-.49.84c4.88,3,10.8,0,5.4-4.91C7.6-.63.4,2.06,0,8-1,24,28.25,17,36.29,15.24,53.74,11.37,70.9,6.44,88.53,3.33c11.1-2,24.75-3.54,35.06,2.19a16,16,0,0,1,6.86,8.85c1.29,4.31-4.35,4.2-7,3.52-4.84-1.26-2.42-8,1.22-3,.61.83,2,0,1.4-.82-2.15-2.93-6.71-4.9-7.12.35s8.36,7.24,11.72,4.47C135,15.32,129.91,9,127.18,6.19Z"></path></g>
                     </svg>
                 </div>
@@ -175,9 +175,7 @@
 <?php 
         include("footer.php")
     ?>
-
-
-<script src="assets/web/assets/jquery/jquery.min.js"></script>
+    
   <script src="assets/popper/popper.min.js"></script>
   <script src="assets/tether/tether.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>

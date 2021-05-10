@@ -63,7 +63,7 @@
             <div class="row justify-content-md-center">
                 <div class=" col-md-12 col-lg-10 align-left">
 
-                    <h1 class="mbr-section-title align-left mbr-white pb-2 pt-2 mbr-fonts-style display-5">DONNEES PERSONNELLES</h1>
+                    <h2 class="mbr-section-title align-left mbr-regular pb-2 pt-2 mbr-fonts-style display-5">DONNEES PERSONNELLES</h2>
 
                     <p class="mbr-text align-left mbr-fonts-style display-7">
                         <span style="font-weight:bold;"> Politique de protection des données. </span>
@@ -98,7 +98,7 @@
             <div class="row justify-content-md-center">
                 <div class=" col-md-12 col-lg-10 align-left">
 
-                    <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">A PROPOS DES COOKIES</h1>
+                    <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">A PROPOS DES COOKIES</h2>
 
                     <p class="mbr-text align-left mbr-fonts-style display-7">Nous utilisons différents cookies sur le site pour en améliorer l’interactivité et l’expérience utilisateur.
                         <br>
@@ -157,9 +157,6 @@
     include("footer.php")
     ?>
 
-
-
-    <script src="assets/web/assets/jquery/jquery.min.js"></script>
     <script src="assets/popper/popper.min.js"></script>
     <script src="assets/tether/tether.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>

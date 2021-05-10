@@ -12,7 +12,7 @@
     <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.webp" type="image/x-icon">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2-min.css">
     <link rel="stylesheet" href="assets/font-awesome/css/font-awesome-min.css">
-    <link rel="stylesheet" href="assets/tether/tether.min.css">
+    <!-- <link rel="stylesheet" href="assets/tether/tether.min.css"> -->
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
@@ -574,25 +574,21 @@
 </section>
 
 <?php 
-        include("footer.php")
-    ?>
+    include("footer.php")
+?>
 
-
-<script src="assets/web/assets/jquery/jquery.min.js"></script>
-  <script src="assets/popper/popper.min.js"></script>
-  <script src="assets/tether/tether.min.js"></script>
-  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-  <script src="assets/smoothscroll/smooth-scroll.js"></script>
-  <script src="assets/parallax/jarallax.min.js"></script>
-  <script src="assets/viewportchecker/jquery.viewportchecker.js"></script>
-  <script src="assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>
-  <script src="assets/mbr-clients-slider/mbr-clients-slider.js"></script>
-  <script src="assets/dropdown/js/nav-dropdown.js"></script>
-  <script src="assets/dropdown/js/navbar-dropdown.js"></script>
-  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
-  <script src="assets/theme/js/script.js"></script>
-  
-  
+<script src="assets/theme/js/script.js"></script>
+<script src="assets/popper/popper.min.js"></script>
+<script src="assets/tether/tether.min.js"></script>
+<script src="assets/parallax/jarallax.min.js"></script>
+<script src="assets/dropdown/js/nav-dropdown.js"></script>
+<script src="assets/bootstrap/js/bootstrap.min.js"></script>
+<script src="assets/smoothscroll/smooth-scroll.js"></script>
+<script src="assets/dropdown/js/navbar-dropdown.js"></script>
+<script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
+<script src="assets/mbr-clients-slider/mbr-clients-slider.js"></script>
+<script src="assets/viewportchecker/jquery.viewportchecker.js"></script>
+<script src="assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>
   
 </body>
 </html>

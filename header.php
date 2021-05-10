@@ -1,5 +1,6 @@
     <!-- <script src="tarteaucitron/tarteaucitron.js"></script>
     <script src="/scripttarteaucitron.js"></script> -->
+    <link rel="stylesheet" href="dark-mode.scss" type="text/css">
     <script src="Scripts-min.js"></script>
 
     <section class="menu cid-smyf9k48K2" once="" id="menu01-49">
@@ -7,12 +8,12 @@
             <div class="navbar-brand">
                 <span class="navbar-logo">
                     <a href="index.php">
-                        <img src="assets/images/logomajs-vectoriel.svg" alt="Majs" style="height: 6.2rem;" loading="lazy">
+                        <img id="logoNavBar" src="assets/images/logomajs-vectoriel.svg" alt="Majs" style="height: 6.2rem;" loading="lazy">
                     </a>
                 </span>
                 
             </div>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <div class="hamburger">
                     <span></span>
                     <span></span>
@@ -44,7 +45,7 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link ScriptNavigation link text-info text-primary display-4" href="index.php#nos_realisations" aria-expanded="false">RÉALISATIONS</a>
+                        <a id="nosReal" class="nav-link ScriptNavigation link text-info text-primary display-4" href="index.php#nos_realisations" aria-expanded="false">RÉALISATIONS</a>
                     </li>
 
                     <li class="nav-item">
@@ -63,6 +64,11 @@
                 <div class="navbar-buttons px-2">
                     <a class="btn btn-sm btn-danger display-4" href="contact.php">CONTACTEZ-NOUS</a>
                 </div>
+                
             </div>
+            <!-- <div class="toggle-container ml-2 ml-lg-0">
+                 <input type="checkbox" id="switch" name="theme" /><label for="switch">Toggle</label>
+            </div> -->
         </nav>
+        <script async src="dark-mode.js"></script>
     </section>

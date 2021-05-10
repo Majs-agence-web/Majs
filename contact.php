@@ -109,10 +109,10 @@
     
 
             <div class="col-lg-6 my-auto pb-4 mbr-form" data-form-type="formoid">
-                <form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" data-form-title="Form Name">
+                <form action="" method="POST" class="mbr-form form-with-styler" data-form-title="Form Name">
                     <input type="hidden" name="email" data-form-email="true" value="g95vlZWvtCsMur4tRs0/7/Zn9gSF5x1rYANP51vYqm26sYmuWskWv7byNYhssXN/lXLNRiBAros7F1mbzMGVsTVnt4oZ19MlG+xfZb2nJp+NAAXXBwaT+H17XVhw4G+J">
                     <div class="form-row">
-                        <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Merci pour votre message, nous vous contacterons sous 24h.</div>
+                        <div id="success" hidden="hidden" data-form-alert="" class="alert alert-success col-12">Merci pour votre message, nous vous contacterons sous 24h.</div>
                         <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">Oops...! some problem!</div>
                     </div>
                     <div class="dragArea form-row">
@@ -144,7 +144,7 @@
                             <p class="mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-7"> * Champs requis </p>
                         </div>
                         <div class="text-center col-12">
-                            <button type="submit" class="btn btn-danger display-4" href="mailto:contact@majs.fr">Envoyer</button>
+                            <button type="submit" class="btn btn-danger display-4" href="">Envoyer</button>
                         </div>
                     </div>
                 </form>
@@ -180,8 +180,6 @@
         include("footer.php")
     ?>
 
-
-<script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="assets/popper/popper.min.js"></script>
   <script src="assets/tether/tether.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>

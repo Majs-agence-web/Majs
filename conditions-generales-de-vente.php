@@ -36,8 +36,7 @@
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-12 text-center mx-auto">
-                <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-1">Conditions générales de vente</h1>
-                
+                <h1 class="mbr-section-title mbr-white pb-3 align-center mbr-fonts-style display-1">Conditions générales de vente</h1>              
             </div>
         </div>
     </div>
@@ -47,7 +46,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left">
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">PRÉAMBULE</h1>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">PRÉAMBULE</h2>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Les présentes Conditions Générales de Vente ont pour objet de régir les termes et conditions ainsi que les modalités selon lesquelles MAJS Web Agency 
                     (ci-après désigné le PRESTATAIRE ou MAJS) fournit ses services à ses clients. Les présentes Conditions Générales de Vente prévalent sur les 
@@ -64,8 +63,8 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5"></h1>
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5"></h3>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5"></h2>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5"></h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                 
                 </p>
@@ -78,7 +77,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">ARTICLE 1 – DÉFINITIONS</h1>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">ARTICLE 1 – DÉFINITIONS</h2>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     « PRESTATAIRE » désigne Majs Web Agency, marque appartenant à la SASU Majs Web Agency – 89485323300019 dont le siège social est situé 59 avenue Roger 
                     Salengro – 59170 Croix.
@@ -96,7 +95,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">ARTICLE 2 – OBJET ET CHAMP D’APPLICATION</h1>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">ARTICLE 2 – OBJET ET CHAMP D’APPLICATION</h2>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le PRESTATAIRE propose des services de création, réalisation, refonte de site internet, interventions informatiques sur les CMS WordPress ou Mobirise 
                     ou Prestashop (installation de WordPress, Mobirise, Prestashop, configuration et optimisation de site) et maintenance de site internet.
@@ -114,7 +113,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">ARTICLE 3 – NOM DE DOMAINE ET HÉBERGEMENT</h1>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">ARTICLE 3 – NOM DE DOMAINE ET HÉBERGEMENT</h2>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Les prestations de création ou de refonte de site internet s’entendent hors achat de 
                     nom de domaine et hors hébergement, ceux-ci étant à la charge du CLIENT. Le PRESTATAIRE peut proposer au CLIENT de contracter chez son partenaire, 
@@ -129,8 +128,8 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">ARTICLE 4 – DROIT DE PUBLICITÉ</h1>
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">4.1. Références</h3>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">ARTICLE 4 – DROIT DE PUBLICITÉ</h2>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">4.1. Références</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le CLIENT autorise le PRESTATAIRE à citer son nom et sa dénomination sociale ainsi que son URL, les copies d’écran de ses pages Web, 
                     à titre de références pour la promotion commerciale du PRESTATAIRE.
@@ -147,7 +146,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">4.2. Mention bas de page</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">4.2. Mention bas de page</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le CLIENT s’engage à faire figurer en bas de chaque page de son site internet la mention discrète « Site réalisé par Majs Web Agency » 
                     éventuellement accompagné d’un lien pointant vers majs.fr et d’un logo Majs Web Agency.
@@ -161,8 +160,8 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">ARTICLE 5 – CAHIER DES CHARGES ET DEVIS</h1>
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">5.1. Cahier des charges</h3>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">ARTICLE 5 – CAHIER DES CHARGES ET DEVIS</h2>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">5.1. Cahier des charges</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Il est conseillé au CLIENT de remettre au PRESTATAIRE un cahier des charges du site internet qu’il souhaite faire réaliser et le 
                     compléter de la façon la plus détaillée possible. Dans le cas où le client n’aurait pas fourni de cahier des charges, 
@@ -178,7 +177,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">5.2. Devis « Réalisation ou refonte de site internet »</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">5.2. Devis « Réalisation ou refonte de site internet »</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le devis est effectué gratuitement par le PRESTATAIRE, soit à partir du cahier des charges remis par le CLIENT, soit à partir des échanges entre le CLIENT 
                     et le PRESTATAIRE, et ce sans engagement pour le CLIENT, sauf cas particulier mentionné par écrit sous forme de mail au CLIENT, notamment lorsque le devis 
@@ -207,8 +206,8 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">ARTICLE 6 – ENGAGEMENTS DU CLIENT</h1>
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">6.1. Fourniture des codes d’accès</h3>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">ARTICLE 6 – ENGAGEMENTS DU CLIENT</h2>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">6.1. Fourniture des codes d’accès</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le CLIENT s’engage à fournir au PRESTATAIRE l’ensemble des informations requises pour assurer l’exécution des services prévus dans le présent contrat 
                     et, le cas échéant, les codes d’accès à son serveur d’hébergement afin que le PRESTATAIRE puisse procéder à l’installation du site internet et 
@@ -223,7 +222,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">6.2. Fourniture des contenus</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">6.2. Fourniture des contenus</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le CLIENT s’engage à fournir tous les éléments de textes, images, vidéos et sons nécessaires à la réalisation du contrat et à collaborer avec le 
                     PRESTATAIRE en mettant à sa disposition tout document ou information qui pourrait être demandé par le PRESTATAIRE.  La livraison du site intervient 
@@ -241,7 +240,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">6.3. Délai de fourniture des contenus</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">6.3. Délai de fourniture des contenus</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le CLIENT s’engage à fournir au PRESTATAIRE, sous un délai de 10 jours après la date de l’acceptation de l’offre, tous les éléments nécessaires 
                     à la réalisation du devis accepté
@@ -257,7 +256,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">6.4. Propriété intellectuelle</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">6.4. Propriété intellectuelle</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le CLIENT doit impérativement s’assurer qu’il est propriétaire de tous les droits de propriété intellectuelle afférents à ces éléments ainsi qu’aux autres 
                     documents de toute natures présents sur son site internet et que les ressources fournies ne sont pas susceptibles de porter atteinte aux droits des tiers.
@@ -277,7 +276,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">6.5. Collaboration active</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">6.5. Collaboration active</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le CLIENT s’engage à collaborer activement avec le PRESTATAIRE en lui fournissant dans les délais utiles les informations et documents 
                     nécessaires à la bonne exécution du contrat. Le PRESTATAIRE ne pourra être tenu pour responsable en cas de retard dans l’exécution des travaux dû 
@@ -292,7 +291,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">6.6. Sauvegarde des contenus</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">6.6. Sauvegarde des contenus</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le CLIENT s’engage à conserver l’intégralité des originaux de toutes les ressources fournies au PRESTATAIRE qui ne pourra être tenu pour 
                     responsable en cas de perte lors de modification du site internet par le PRESTATAIRE ou par toute autre personne.
@@ -306,7 +305,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">6.7. Informatique et Libertés</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">6.7. Informatique et Libertés</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le CLIENT s’engage à respecter les dispositions relatives aux mentions légales obligatoires à insérer sur son site internet en vertu de la loi 
                     du 30 septembre 1986 modifiée et celles relatives à l’informatique, aux fichiers et aux libertés, en particulier celles relatives aux déclarations 
@@ -321,7 +320,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">6.8. Paiement</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">6.8. Paiement</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le CLIENT s’engage à régler les sommes dues dans les délais indiqués à la commande.
                 </p>
@@ -334,7 +333,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">ARTICLE 7 – ENGAGEMENTS DU PRESTATAIRE</h1>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">ARTICLE 7 – ENGAGEMENTS DU PRESTATAIRE</h2>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Dans le cadre d’une obligation de moyen dans l’exécution du contrat, le PRESTATAIRE s’engage à :
                     <br>
@@ -354,8 +353,8 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">ARTICLE 8 – COMMANDE</h1>
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">8.1. Conclusion du contrat</h3>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">ARTICLE 8 – COMMANDE</h2>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">8.1. Conclusion du contrat</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le CLIENT reconnaît avoir reçu du PRESTATAIRE toutes les informations et conseils qui lui étaient nécessaires pour souscrire le contrat. Ainsi, les 
                     choix effectués par le CLIENT lors de sa commande ou ultérieurement demeurent sous son entière responsabilité.
@@ -373,7 +372,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5"> 8.2. Choix du thème (aspect graphique du site)</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5"> 8.2. Choix du thème (aspect graphique du site)</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Une fois la commande passée par le CLIENT, le PRESTATAIRE lui propose une sélection de thèmes en adéquation avec le cahier des charges ou selon 
                     le projet détaillé par le CLIENT lors des échanges avec le PRESTATAIRE. Le choix du thème est réalisé en concertation avec le CLIENT. 
@@ -390,7 +389,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5"> 8.3. Installation sur le serveur d’hébergement</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5"> 8.3. Installation sur le serveur d’hébergement</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le PRESTATAIRE installe les fichiers et la base de données sur l’hébergement proposé par le PRESTATAIRE sauf en cas d‘opposition du CLIENT
                 </p>
@@ -403,7 +402,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">8.4. Intégration des contenus</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">8.4. Intégration des contenus</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le PRESTATAIRE procède à l’installation et la configuration du thème et de plugins premium ainsi qu’à la mise en place de l’arborescence et à 
                     l’intégration des textes, images, vidéos, etc…  Fournis par le CLIENT ou, si le devis l’indique, par le PRESTATAIRE.
@@ -417,7 +416,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">8.4.1. </h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">8.4.1. </h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le CLIENT est tenu de relire très attentivement ses textes avant de les transmettre au PRESTATAIRE (orthographe, majuscules, singulier/pluriel, 
                     tournures de phrases…). A la livraison du site internet, si les modifications demandées par le CLIENT sur les textes s’avéraient importantes, 
@@ -432,7 +431,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">8.4.2. </h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">8.4.2. </h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Dans le cas où le contenu est créé par le PRESTATAIRE, Le CLIENT est tenu de relire très attentivement les textes créés par le PRESTATAIRE avant 
                     de les valider (contenus, orthographe, majuscules, singulier/pluriel, tournures de phrases…). A la livraison du site internet, si les modifications 
@@ -448,7 +447,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">8.4.3. </h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">8.4.3. </h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Dans le cas où des modifications, retouches et autres prestations prévues au devis devaient engendrer un temps de réalisation excessif par rapport 
                     au délai normalement nécessaire, comme par exemple l’exploitation des fichiers et documents fournis par le CLIENT, une majoration au tarif horaire 
@@ -463,7 +462,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">8.5 Extensions et plugins</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">8.5 Extensions et plugins</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le PRESTATAIRE intègre les modules, extensions et plugins nécessaires et en conformité avec le cahier des charges (formulaires, diaporama, 
                     préparation au référencement, etc…). Certains plugins sous licence payante peuvent être utilisés et sont inclus dans le devis. Les versions des 
@@ -478,7 +477,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">8.6 Extensions et plugins</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">8.6 Extensions et plugins</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le PRESTATAIRE informera le CLIENT par mail de la mise en ligne du site internet. Le mail de mise en ligne signifiera l’achèvement des travaux.
                     <br>
@@ -495,8 +494,8 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">ARTICLE 9 – DÉLAI DE RÉTRACTATION</h1>
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">9.1. Clients professionnels</h3>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">ARTICLE 9 – DÉLAI DE RÉTRACTATION</h2>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">9.1. Clients professionnels</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le Code de la Consommation prévoit dans son article L.121-20-2 « le droit de rétractation ne peut être exercé (…) pour les contrats de fourniture 
                     de biens confectionnés selon les spécifications du consommateur ou nettement personnalisés (…) ».
@@ -518,7 +517,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">9.2. Clients particuliers</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">9.2. Clients particuliers</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le Code de la Consommation prévoit dans son article L.121-20-2 « le droit de rétractation ne peut être exercé (…) pour les contrats de fourniture 
                     de biens confectionnés selon les spécifications du consommateur ou nettement personnalisés (…) ».
@@ -540,11 +539,11 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">ARTICLE 10 – MODIFICATION OU ANNULATION DE COMMANDE</h1>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">ARTICLE 10 – MODIFICATION OU ANNULATION DE COMMANDE</h2>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Toute modification ou annulation de prestation par le CLIENT donnera lieu à un mail de confirmation de la part du PRESTATAIRE. 
                 </p>
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">10.1. Modification</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">10.1. Modification</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     La prestation comprend uniquement les services spécifiés dans le devis et approuvés par le CLIENT. Aucun devis ne peut être modifié sans 
                     l’accord express de chacune des deux parties. Toute modification ou ajout ultérieur apporté au devis initial fera l’objet d’un nouveau devis 
@@ -561,7 +560,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">10.2. Annulation (hors service de maintenance et hébergement)</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">10.2. Annulation (hors service de maintenance et hébergement)</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     En cas d’annulation des services du PRESTATAIRE par le CLIENT après la signature et la réception du devis/Bon de commande et avant le démarrage des 
                     travaux, un pourcentage d’un montant de 30 % du montant total de la facture sera demandé à titre de dommages et intérêts et de compensation pour 
@@ -579,8 +578,8 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">ARTICLE 11 – DÉLAIS DE LIVRAISON</h1>
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">11.1. Planning</h3>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">ARTICLE 11 – DÉLAIS DE LIVRAISON</h2>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">11.1. Planning</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     La durée de réalisation de la prestation sera évaluée lors de l’étude préalable, avec si possible un planning convenu en commun accord entre 
                     les parties lors de la phase d’élaboration du cahier des charges.
@@ -600,7 +599,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">11.2. Retard de livraison</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">11.2. Retard de livraison</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le délai de livraison ne dépend pas uniquement du PRESTATAIRE mais du CLIENT à qui il appartient de fournir les éléments nécessaires à la 
                     réalisation des travaux (documents, codes d’accès au serveur d’hébergement, etc…). Le PRESTATAIRE décline toute responsabilité en cas de retard 
@@ -624,7 +623,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">11.3. Devis de « mise à jour »</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">11.3. Devis de « mise à jour »</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Dans le cadre d’un devis de mise à jour demandé par le CLIENT, comme l’ajout de textes, de pages, d’articles ou de fonctionnalités, 
                     le PRESTATAIRE interviendra dans un délai de cinq (5) jours ouvrés après la réception des éléments, sauf en cas de fermeture exceptionnelle. 
@@ -639,11 +638,11 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">ARTICLE 12 – GARANTIE</h1>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">ARTICLE 12 – GARANTIE</h2>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     La garantie ne porte que sur les prestations décrites dans le contrat/devis signé et accepté par le CLIENT.
                 </p>
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">12.1. Vérification de la commande</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">12.1. Vérification de la commande</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le CLIENT doit vérifier le bon fonctionnement de son site internet dès la mise en ligne officielle et transmettre au PRESTATAIRE les dysfonctionnements 
                     constatés.
@@ -666,7 +665,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">12.2. Délai de garantie</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">12.2. Délai de garantie</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le CLIENT dispose de quinze (15) jours à compter de la mise en ligne officielle de son site internet, et/ou de la livraison d’une prestation 
                     annexe, pour faire jouer la présente garantie en cas de dysfonctionnement constaté.
@@ -680,8 +679,8 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5"> ARTICLE 13 – CONTRAT DE MAINTENANCE ET HEBERGEMENT</h1>
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">13.1. Champ d’application</h3>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5"> ARTICLE 13 – CONTRAT DE MAINTENANCE ET HEBERGEMENT</h2>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">13.1. Champ d’application</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le CLIENT reconnaît avoir vérifié l’adéquation du service à ses besoins et avoir reçu du PRESTATAIRE toutes les informations et conseils qui lui 
                     étaient nécessaires pour souscrire au présent engagement de maintenance de son site internet en connaissance de cause.
@@ -714,7 +713,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5"> 13.2. Modalités d’intervention</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5"> 13.2. Modalités d’intervention</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Lorsque le contrat de maintenance est souscrit par le CLIENT, le PRESTATAIRE ira visiter au minimum une (1) fois par mois l’espace d’administration 
                     de son site internet afin de procéder aux vérifications préventives. Les mises à jour incluses dans la maintenance se feront au moment le plus 
@@ -729,7 +728,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">13.3. Durée du contrat et reconduction</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">13.3. Durée du contrat et reconduction</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le contrat de maintenance est conclu pour une durée de un (1) an et n’est pas reconductible automatiquement à l’échéance de celui-ci. A la fin du 
                     contrat, le PRESTATAIRE se réserve le droit de proposer un nouveau devis avec ses nouvelles tarifications ou de ne pas reconduire le contrat. 
@@ -756,7 +755,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">13.4. Résiliation du service de maintenance & hébergement</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">13.4. Résiliation du service de maintenance & hébergement</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le contrat de maintenance est conclu pour une durée de un (1) an et n’est pas reconductible automatiquement à l’échéance de celui-ci. 
                     A la fin du contrat, le PRESTATAIRE se réserve le droit de proposer un nouveau devis avec ses nouvelles tarifications ou de ne pas reconduire 
@@ -783,7 +782,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">13.4.1. Défaut de paiement</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">13.4.1. Défaut de paiement</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     A défaut de l’entier paiement du prix du renouvellement fixé dans le tarif, le PRESTATAIRE ne pourra effectuer le renouvellement demandé par le CLIENT.
                     Le CLIENT recevra un mail de notification de fermeture de la maintenance à la date d’anniversaire de celle-ci. L’arrêt définitif de la maintenance 
@@ -803,7 +802,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">13.4.2. Force majeure</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">13.4.2. Force majeure</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     En cas de force majeure dans les conditions prévues à l’article 19 des présentes Conditions Générales de Vente, chaque partie peut résilier de plein 
                     droit et sans indemnité le contrat de maintenance.
@@ -817,7 +816,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">13.4.3. Non-respect des obligations du CLIENT</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">13.4.3. Non-respect des obligations du CLIENT</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le non-respect par le CLIENT de ses responsabilités stipulées dans l’article 17 des présentes Conditions Générales de Vente, 
                     entraînera le droit pour le PRESTATAIRE d’interrompre sans délai et sans mise en demeure préalable les services du CLIENT et de résilier 
@@ -833,7 +832,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">13.4.4. A l’initiative du PRESTATAIRE</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">13.4.4. A l’initiative du PRESTATAIRE</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le PRESTATAIRE pourra mettre fin au contrat arrivé à son terme par lettre recommandée avec demande d’avis de réception, sous réserve d’un préavis de 
                     deux (2) mois avant la date anniversaire, sans justification à donner et sans droit à indemnités. Le CLIENT ne pourra prétendre au remboursement 
@@ -852,7 +851,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">13.5. Mise à jour des données personnelles</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">13.5. Mise à jour des données personnelles</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le CLIENT s’engage à informer le PRESTATAIRE de toute modification concernant sa situation (notamment changement d’adresse, mail ou autre…) 
                     au plus tard dans le mois de ce changement, sauf pour le changement de l’adresse mail, dont la modification devra être transmise dans les 48 heures 
@@ -867,8 +866,8 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">ARTICLE 14 – NON-SOUSCRIPTION AU SERVICE DE MAINTENANCE</h1>
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">14.1. Champ d’application</h3>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">ARTICLE 14 – NON-SOUSCRIPTION AU SERVICE DE MAINTENANCE</h2>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">14.1. Champ d’application</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Si un contrat de maintenance n’est pas pris ou reconduit par le CLIENT, la responsabilité du PRESTATAIRE envers le site internet du CLIENT est 
                     totalement dégagée.
@@ -886,7 +885,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">14.2. Licences premium</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">14.2. Licences premium</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le CLIENT devra éventuellement acheter les licences premium du thème et des plugins utilisés pour effectuer lui-même leurs mises à jour d’une part 
                     et, pour d’autre part, assurer la compatibilité du thème utilisé avec les dernières versions du CMS utilisé.
@@ -900,7 +899,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">14.3. Mots de passe</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">14.3. Mots de passe</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Une fois le contrat achevé et le site internet mis en ligne, et seulement dans le cas où un contrat de maintenance ne serait pas souscrit, 
                     il est recommandé au CLIENT de modifier les mots de passe qui donnent accès à son site. Le PRESTATAIRE décline toute responsabilité en cas de 
@@ -915,7 +914,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">14.4. Intervention suite à problème technique</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">14.4. Intervention suite à problème technique</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Si aucun contrat de maintenance n’était souscrit par le CLIENT et en cas de problème technique ultérieur ou si le site devait être installé à 
                     nouveau sur le serveur d’hébergement, un nouveau devis sera établi par le PRESTATAIRE pour résoudre et réparer le problème constaté. 
@@ -930,8 +929,8 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">ARTICLE 15 – GESTION DU SITE PAR LE CLIENT</h1>
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">15.1. Formation de base</h3>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">ARTICLE 15 – GESTION DU SITE PAR LE CLIENT</h2>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">15.1. Formation de base</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     A la demande du CLIENT, le PRESTATAIRE est en mesure de lui apporter une formation de base à la gestion de son site internet. Cette formation doit permettre au CLIENT de rajouter 
                     sur son site des articles, des pages et/ou d’effectuer des modifications de textes, ajout/suppression de photos, etc… En aucun cas, cette formation ne prétend apporter une formation 
@@ -949,7 +948,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">15.2. Limites de responsabilité</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">15.2. Limites de responsabilité</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le PRESTATAIRE n’a aucune obligation de contrôle sur les modifications apportées sur le site internet par le CLIENT, ou par toute autre personne ne travaillant pas pour le PRESTATAIRE.
                     <br>
@@ -979,8 +978,8 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">ARTICLE 16 – TARIFS ET PAIEMENT</h1>
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">16.1. Auto-entrepreneur et TVA</h3>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">ARTICLE 16 – TARIFS ET PAIEMENT</h2>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">16.1. Auto-entrepreneur et TVA</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Les services du PRESTATAIRE sont soumis à la TVA applicable.
                 </p>
@@ -993,7 +992,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">16.2. Champ d’application</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">16.2. Champ d’application</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     En contrepartie des prestations mentionnées dans le devis accepté par le CLIENT, celui-ci s’engage à payer le PRESTATAIRE du montant des tarifs spécifiés sur le devis. 
                     Le CLIENT est seul responsable du paiement de l’ensemble des sommes dues au titre du contrat de prestations de services du PRESTATAIRE.
@@ -1013,7 +1012,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">16.3. Modes de règlement</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">16.3. Modes de règlement</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le CLIENT professionnel ou non professionnel doit régler le prix selon les spécifications prévues sur le devis, soit par virement bancaire sur le compte du PRESTATAIRE, 
                     soit par chèque libellé au nom de Majs Web Agency.
@@ -1030,7 +1029,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">16.4. Modalités de paiement</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">16.4. Modalités de paiement</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le devis précise les modalités de paiement qui sont les suivantes :
                 </p>
@@ -1043,7 +1042,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">16.4.1. Réalisation de site internet ou refonte de site</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">16.4.1. Réalisation de site internet ou refonte de site</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Lors de l’acception des services, le CLIENT complètera et signera le devis qui fera office de Bon de commande. Les modalités de paiement sont les suivantes :
                     <br>
@@ -1059,7 +1058,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">16.4.2. Maintenance</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">16.4.2. Maintenance</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                 Règlement le premier jour de maintenance, ou par prélèvement mensuel le 25 de chaque mois pour le mois suivant.
                 <br>
@@ -1076,7 +1075,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">16.4.3. Prestations annexes, devis de « mise à jour »</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">16.4.3. Prestations annexes, devis de « mise à jour »</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Règlement à la commande, avant la réalisation du devis correspondant aux travaux.
                 </p>
@@ -1089,7 +1088,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5"> 16.5. Transfert de propriété</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5"> 16.5. Transfert de propriété</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Les travaux réalisés restent l’entière propriété du PRESTATAIRE jusqu’au paiement intégral de la facture correspondante. Le transfert de propriété du 
                     PRESTATAIRE vers le CLIENT s’effectue à compter du règlement du solde restant dû par le CLIENT. 
@@ -1103,7 +1102,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">16.6. Retard de paiement</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">16.6. Retard de paiement</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Tout retard de paiement au-delà de quinze (15) jours à compter de la date d’émission de la facture entraînera de plein droit, conformément à la loi, 
                     des pénalités de retard au taux fixe annuel égales à 10% du montant de la facture.
@@ -1132,8 +1131,8 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">ARTICLE 17 – RESPONSABILITÉ</h1>
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">17.1. Champ d’application</h3>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">ARTICLE 17 – RESPONSABILITÉ</h2>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">17.1. Champ d’application</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Seul le CLIENT est dit « responsable » de son site internet et ce dès la mise en ligne. La responsabilité du PRESTATAIRE sera en conséquence 
                     entièrement dégagée à partir de la livraison du site internet.
@@ -1158,7 +1157,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">17.2. Contenu du site internet</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">17.2. Contenu du site internet</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le CLIENT est seul responsable des propos et des contenus de son site internet, de l’ensemble des informations communiquées, de leur exploitation 
                     et de leur mise à jour, ainsi que de tous fichiers, notamment fichiers d’adresses. En conséquence, le PRESTATAIRE ne serait être tenu pour responsable 
@@ -1186,7 +1185,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">17.3. Légalité</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">17.3. Légalité</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                 Le CLIENT ne doit pas, de quelque manière que ce soit, par exemple par des bandeaux publicitaires, porter atteinte à la loi, à l’ordre public, aux bonnes mœurs 
                 et/ou aux droits des tiers (droit des marques, droit d’auteur, protection des mineurs, protection des bases de données, etc…). Le CLIENT s’engage notamment à ne 
@@ -1209,7 +1208,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">17.4. Préjudices indirects</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">17.4. Préjudices indirects</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     En aucun cas, la responsabilité du PRESTATAIRE ne pourrait être engagée pour les préjudices indirects, tels que les préjudices financiers ou commerciaux, perte de 
                     commandes, perte de données, manque à gagner, atteinte à l’image de marque, perte de bénéfices ou de clients (par exemple, divulgation inopportune d’informations confidentielles les concernant par suite de défectuosité ou de piratage du système).
@@ -1226,7 +1225,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">17.5. Informations légales</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">17.5. Informations légales</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     La responsabilité du PRESTATAIRE ne saurait en aucun cas être engagée en cas de non-respect par le CLIENT des autorisations légales et réglementaires,
                      notamment en ce qui concerne le traitement des données.
@@ -1244,7 +1243,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">17.6. Protection des données</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">17.6. Protection des données</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le PRESTATAIRE décline toute responsabilité en cas d’intrusions malveillantes de tiers sur le site internet et/ou dans les boîtes aux lettres 
                     électroniques du CLIENT ; de vol et détournements éventuels de mots de passe, codes confidentiels, et plus généralement de toute information à 
@@ -1260,7 +1259,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">17.7. Interruption pour maintenance</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">17.7. Interruption pour maintenance</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Dans le cadre d’un service de maintenance, le PRESTATAIRE se réserve le droit d’interrompre temporairement l’accessibilité au site internet sans 
                     droit à indemnités. Cependant, le PRESTATAIRE s’engage à mettre en œuvre tous les moyens dont il dispose pour minimiser ce type d’interruption. 
@@ -1275,7 +1274,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">17.8. Limites de responsabilité : thème et plugins</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">17.8. Limites de responsabilité : thème et plugins</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                 
                 </p>
@@ -1288,7 +1287,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">17.8.1. </h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">17.8.1. </h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le PRESTATAIRE décline toute responsabilité en cas d’utilisation d’un thème premium ou gratuit qui ne serait plus développé par la suite et qui serait devenu 
                     incompatible avec la dernière version du CMS utilisé. Dans ce cas précis, la maintenance du thème ne pourra plus se faire par le PRESTATAIRE, 
@@ -1303,7 +1302,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">17.8.2. </h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">17.8.2. </h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Les réalisations du PRESTATAIRE utilisent des logiciels développés par des tiers tel que WordPress ou Mobirise ou Prestashop, des plugins, un thème gratuit ou premium. 
                     En aucun cas, le PRESTATAIRE ne peut être tenu pour responsable des anomalies, bugs ou dysfonctionnement de ces outils qui demeurent sous la responsabilité de leurs auteurs, 
@@ -1319,7 +1318,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">17.8.3.</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">17.8.3.</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le PRESTATAIRE prend à sa charge les premiers frais inhérents au thème et aux plugins premium sous licence payante. Le renouvellement de ces licences est normalement 
                     inclus dans le cadre d’un contrat de maintenance annuel, exception faite de modifications ultérieures des conditions de vente du fournisseur du thème ou du plugin, 
@@ -1336,7 +1335,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">17.9. Limites de responsabilité </h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">17.9. Limites de responsabilité </h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le PRESTATAIRE ne peut être tenu responsable de la perte de données sur les serveurs d’hébergement. Cependant le PRESTATAIRE s’engage à tout mettre en œuvre pour 
                     sécuriser les données du CLIENT dans la limite de son champ d’action. Il s’agit ici d’une obligation de moyens et non de résultats.
@@ -1354,7 +1353,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">17.10. Dommages et intérêts</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">17.10. Dommages et intérêts</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le CLIENT s’engage à prendre à sa charge toute réclamation et/ou procédure quelle qu’en soit la forme, l’objet ou la nature qui serait formée contre le PRESTATAIRE 
                     et qui se rattacherait aux obligations mises à la charge du CLIENT au titre du présent contrat.
@@ -1373,7 +1372,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">ARTICLE 18 – INCAPACITE DE TRAVAIL</h1>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">ARTICLE 18 – INCAPACITE DE TRAVAIL</h2>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le PRESTATAIRE se doit d’avertir le CLIENT dès le premier jour ouvrable de son incapacité.
                     <br>
@@ -1389,8 +1388,8 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">ARTICLE 19 – FORCE MAJEURE</h1>
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">19.1. Champ d’application</h3>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">ARTICLE 19 – FORCE MAJEURE</h2>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">19.1. Champ d’application</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     Le PRESTATAIRE se doit d’avertir le CLIENT dès le premier jour ouvrable de son incapacité.
                     <br>
@@ -1406,7 +1405,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h3 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">19.2. Cas de force majeure et responsabilités</h3>
+                <h3 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">19.2. Cas de force majeure et responsabilités</h3>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                     <br>Aucune des deux parties ne sera tenue pour responsable vis-à-vis de l’autre de la non-exécution ou des retards dans l’exécution d’une 
                     obligation du contrat qui seraient dus au fait de l’autre partie consécutivement à la survenance d’un cas de force majeure habituellement 
@@ -1428,7 +1427,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">ARTICLE 20 – CONFIDENTIALITE</h1>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">ARTICLE 20 – CONFIDENTIALITE</h2>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                 Chacune des parties s’engage à conserver confidentiels, pendant la durée du contrat et après son expiration, l’ensemble des informations, 
                 documents, savoir-faire, base de données, mots de passe et codes confidentiels en provenance de l’autre partie dont elle pourrait avoir eu 
@@ -1444,7 +1443,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">ARTICLE 21 – PROPRIÉTÉ INTELLECTUELLE</h1>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">ARTICLE 21 – PROPRIÉTÉ INTELLECTUELLE</h2>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                 La propriété intellectuelle des créations réalisées par le PRESTATAIRE est transférée au CLIENT dès réception et encaissement du paiement effectif 
                 et intégral de la prestation.
@@ -1458,7 +1457,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class=" col-md-12 col-lg-10 align-left"> 
-                <h1 class="mbr-section-title align-left mbr-white pb-2 mbr-fonts-style display-5">ARTICLE 22 – DROIT APPLICABLE ET ATTRIBUTION DE JURIDICTION</h1>
+                <h2 class="mbr-section-title align-left mbr-regular pb-2 mbr-fonts-style display-5">ARTICLE 22 – DROIT APPLICABLE ET ATTRIBUTION DE JURIDICTION</h2>
                 <p class="mbr-text align-left mbr-fonts-style display-7">
                 La loi française est seule applicable aux présentes Conditions Générales de Vente. En cas de litige survenant à l’occasion du contrat, tout différent 
                 lié à son interprétation, son exécution ou sa validité, et éventuellement après une tentative de recherche d’une solution amiable, sera soumis à la 
@@ -1491,9 +1490,6 @@
         include("footer.php")
     ?>
 
-
-
-<script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="assets/popper/popper.min.js"></script>
   <script src="assets/tether/tether.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>

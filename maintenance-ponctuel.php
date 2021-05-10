@@ -25,7 +25,7 @@
     <link rel="stylesheet" href="assets/socicon/css/styles-min.css">
     <link rel="stylesheet" href="assets/theme/css/style-min.css">
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional-min.css">
-    <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css-min" type="text/css">
+    <link rel="stylesheet" href="assets/mobirise/css/mbr-additional-min.css" type="text/css">
   
 </head>
 <body>
@@ -52,7 +52,7 @@
         <div class="row">
             <div class="col-lg-8 mx-auto mbr-form" data-form-type="formoid">
                 <!--Formbuilder Form-->
-                <form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" data-form-title="Maintenance Urgence">
+                <form action="" method="POST" class="mbr-form form-with-styler" data-form-title="Maintenance Urgence">
                     <input type="hidden" name="email" data-form-email="true" value="7NFbIg5a1ZV0gNz8eIPq2T7EHoaoC5xrOo7OVhRcufmCk7/aokWax29ZHJteBkb21l7PwziyWra+VGbibX1pHi1CCfDpWV9UjAMUyU5vUawaNCE3eLhUnH6Z8Aa7dFDI">
                     <div class="form-row">
                         <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Thanks for filling out the form!</div>
@@ -205,7 +205,6 @@
     })
 </script>
 
-    <script src="assets/web/assets/jquery/jquery.min.js"></script>
     <script src="assets/popper/popper.min.js"></script>
     <script src="assets/tether/tether.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
@@ -220,6 +219,7 @@
     <script src="assets/parallax/jarallax.min.js"></script>
     <script src="assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>
     <script src="assets/mbr-clients-slider/mbr-clients-slider.js"></script>
+    <script src="assets/formoid/formoid.min.js"></script>
     
 </body>
 </html>

@@ -106,11 +106,11 @@
     </div>
 </section>
 
-<section class="header4 cid-sqoByG21uJ" id="header09-6j" style="background-color: white !important">
+<section class="header4 cid-sqoByG21uJ devisTitle" id="header09-6j">
     <div class="container">
         <div class="row justify-content-md-center">
             <div class="col-md-10 col-sm-12">
-                <h1 class="mbr-section-title align-center mbr-white pb-2 mbr-fonts-style display-2" style="color: #2e4b58!important">C'est ce qu'il vous faut ?</h1>
+                <h1 class="mbr-section-title align-center mbr-white pb-2 mbr-fonts-style display-2">C'est ce qu'il vous faut ?</h1>
                 
                 <div class="mbr-text align-center mbr-white pb-2">
                     
@@ -145,9 +145,7 @@
 <?php 
         include("footer.php")
     ?>
-
-
-<script src="assets/web/assets/jquery/jquery.min.js"></script>
+    
   <script src="assets/popper/popper.min.js"></script>
   <script src="assets/tether/tether.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>

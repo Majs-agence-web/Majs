@@ -65,16 +65,16 @@
 <div>
                 <h1 class="mbr-section-title mbr-regular align-left pt-5 mbr-fonts-style display-2">La refonte de site web</h1>
                
-                <p class="mbr-text mbr-light pt-4 mbr-fonts-style display-7">La manière de naviguer sur internet a été profondément bouleversé par l’avènement des smartphones et des tablettes ? En effet, 4 internautes sur 10 surfent exclusivement via leur mobile (source Médiamétrie 2019). <br><br>De plus votre site sera moins visible sur le moteur de recherche Google car il pénalise les sites qui ne sont pas responsive (adapté aux formats mobiles).<br><br><br><br><strong><span style="font-size:1.2em !important;">Dans quel cas faut-il opter pour une refonte de site internet ?</span>
+                <p class="mbr-text mbr-light pt-4 mbr-fonts-style display-7">La manière de naviguer sur internet a été profondément bouleversée par l’avènement des smartphones et des tablettes. En effet, 4 internautes sur 10 surfent exclusivement via leur mobile (source Médiamétrie 2019). <br><br>Rendre votre site adapté à ces outils devient donc le plus souvent une nécessité, sinon votre site sera moins visible sur le moteur de recherche Google. En effet, celui-ci pénalise les sites qui ne sont pas “responsive” (adapté aux formats mobiles).<br><br><br><br><strong><span style="font-size:1.2em !important;">Dans quel cas faut-il opter pour une refonte de site internet ?</span>
 <br></strong><br>•	Votre site n’est pas responsive (non compatible mobile et tablette).
-<br>•	Vous avez changé d’image de marque
-<br>•	Vous voulez moderniser l’aspect visuel et lui donner un look plus contemporain.
+<br>•	Vous avez changé votre d’image de marque
+<br>•	Vous voulez moderniser son aspect visuel et lui donner un look plus contemporain.
 <br>•	Vous voulez ajouter des fonctionnalités majeures comme une boutique en ligne. <br>
-<br><strong>Autres avantages à mettre au gout du jour votre site internet :<br></strong>
-<br>•	Une analyse complète de votre ancien site web
-<br>•	Une meilleure gestion de votre SEO (référencement naturel)
-<br>•	Des préconisations de nouvelle charte graphique et technique pour améliorer l’expérience utilisateur.
-<br>•	Une équipe d’expert à votre écoute&nbsp;<br></p>
+<br><strong>Autres avantages procurés par la mise au goût du jour de votre site internet :<br></strong>
+<br>•	Une analyse complète de votre ancien site web va implicitement être effectuée
+<br>•	Une meilleure gestion de votre SEO (référencement naturel) va être réalisée
+<br>•	Des préconisations de nouvelles chartes graphique et technique vont améliorer l’expérience utilisateur.
+<br>•	Bien entendu, notre équipe d’expert est à vos côtés et à votre écoute pour vous accompagner et vous aider dans cette démarche.&nbsp;<br></p>
               
 </div>  
             </div>      
@@ -102,7 +102,7 @@
             
                 
                 
-                <p class="mbr-text mbr-light pt-4 align-left mbr-fonts-style display-7"><span style="font-size: 28.8px;"><strong>L'agence MajS vous aide au remodelage de votre site internet</strong></span><br><br>Notre credo pour la conception des sites internet est le mobile first par conséquence notre but est d’avoir une expérience de qualité sur les différents support (PC, Tablette, Smartphone). <br><br>La refonte de votre site est sur mesure. Nous pouvons donc retravailler l’aspect visuel mais aussi l’infrastructure. <br><br>Nous vous conseillerons au mieux afin d’atteindre le rendu qui vous permettra de vous placer au mieux vis-à-vis de vos concurrents et ainsi vous satisfaire dans l’élaboration de votre refonte.&nbsp;&nbsp;<br></p>
+                <p class="mbr-text mbr-light pt-4 align-left mbr-fonts-style display-7"><span style="font-size: 28.8px;"><strong>L'agence MajS vous aide au remodelage de votre site internet</strong></span><br><br>Notre credo pour la conception des sites internet est le "Mobile First" par conséquent notre but est de fournir aux utilisateurs de votre site  une expérience de qualité optimale sur smartphone et/ou tablette, à l’identique de celle  obtenue avec un PC. <br><br>La refonte de votre site est faite sur-mesure. Nous pouvons donc retravailler à cette occasion l’aspect visuel mais aussi l’infrastructure de l’ensemble. <br><br>Nous saurons vous conseiller au mieux  afin d’obtenir  le rendu optimal  qui vous permettra de vous positionner idéalement face à  vos concurrents et de nous permettre ainsi de gagner votre confiance et surtout votre satisfaction dans l’élaboration de votre refonte. &nbsp;&nbsp;<br></p>
                   
             </div>      
         </div>
@@ -112,11 +112,11 @@
     </div>
 </section>
 
-<section class="header4 cid-sqoByG21uJ" id="header09-6j" style="background-color: white !important">
+<section class="header4 cid-sqoByG21uJ devisTitle pt-5" id="header09-6j">
     <div class="container">
         <div class="row justify-content-md-center">
             <div class="col-md-10 col-sm-12">
-                <h1 class="mbr-section-title align-center mbr-white pb-2 mbr-fonts-style display-2" style="color: #2e4b58!important">C'est ce qu'il vous faut ?</h1>
+                <h1 class="mbr-section-title align-center mbr-white pb-2 mbr-fonts-style display-2">C'est ce qu'il vous faut ?</h1>
                 
                 <div class="mbr-text align-center mbr-white pb-2">
                     
@@ -152,8 +152,6 @@
         include("footer.php")
     ?>
 
-
-<script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="assets/popper/popper.min.js"></script>
   <script src="assets/tether/tether.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>

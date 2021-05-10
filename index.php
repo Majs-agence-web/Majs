@@ -28,20 +28,18 @@
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2-min.css">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons-min.css">
-    <link rel="preload" as="style" href="assets/bootstrap-material-design-font/css/material-min.css" media="none" onload="if(media!='all')media='all'">
-    <link rel="preload" as="style" href="assets/font-awesome/css/font-awesome-min.css" media="none" onload="if(media!='all')media='all'">
+    <link rel="stylesheet" href="assets/bootstrap-material-design-font/css/material-min.css" media="none" onload="if(media!='all')media='all'">
+    <link rel="stylesheet" href="assets/font-awesome/css/font-awesome-min.css" media="none" onload="if(media!='all')media='all'">
     <link rel="stylesheet" href="assets/tether/tether-min.css">
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional-min.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional-min.css" type="text/css">
-
-    <!-- <script src="Scripts.js"></script> -->
-    <script src="tarteaucitron/tarteaucitron.js"></script>
-    <script src="scripttarteaucitron.js" async></script>
+ 
     <style>
         section.test {
             display: none
         }
     </style>
+
 </head>
 
 <body>
@@ -78,7 +76,7 @@
             <div class="row">
 
                 <div class="col-md-12 col-lg-4 align-left">
-                    <h1 class="mbr-section-title text-center align-left mbr-white mbr-fonts-style display-2"><span style="color:#ecc979;">{</span> QUI SOMMES NOUS ? <span style="color:#ecc979;">}</span></h1>
+                    <h2 class="mbr-section-title text-center align-left mbr-white mbr-fonts-style display-2"><span style="color:#ecc979;">{</span> QUI SOMMES NOUS ? <span style="color:#ecc979;">}</span></h2>
                 </div>
 
 
@@ -103,11 +101,11 @@
 
 
 
-
+    
         <div class="container">
             <div class="row">
 
-                <div class="col-xl-6 d-none d-lg-none d-xl-block align-center img-box">
+                <div class="col-xl-6 d-none d-lg-none d-xl-block align-center img-box" style="height:500px">
                     <div>
                         <img class="img1" src="assets/images/undraw_building_websites_i78t.svg" alt=""  loading="lazy">
                     </div>
@@ -118,7 +116,7 @@
                 </div>
 
                 <div class="col-12 col-md-10 col-lg-10 col-xl-6 py-4 m-auto">
-                    <h1 class="mbr-section-title pb-3 mbr-fonts-style display-1"><span style="color:#ecc979;">{</span> Qui sommes-nous ? <span style="color:#ecc979;">}</span></h1>
+                    <h2 class="mbr-section-title pb-3 mbr-fonts-style display-1"><span style="color:#ecc979;">{</span> Qui sommes-nous ? <span style="color:#ecc979;">}</span></h2>
 
                     <p class="mbr-text align-left mbr-light mbr-fonts-style display-7">
                         <br>
@@ -127,12 +125,6 @@
                         <br>
                         <br>
                         Nous aidons nos clients à digitaliser leur communication en offrant une expérience utilisateur simple et efficace.
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
                     </p>
                 </div>
 
@@ -154,7 +146,7 @@
                 <polygon id="svgEditorShapeDefs" style="fill:khaki;stroke:black;vector-effect:non-scaling-stroke;stroke-width:1px;"></polygon>
                 <path id="svgEditorClosePathDefs" style="stroke:black;stroke-width:1px;fill:khaki;"></path>
             </defs>
-            <path d="M15083.79x0683318,645.6720847341486c496.6000000000058,747.7999999999951,1953.3704016668416,1862.6734725832403,2751.999999999978,1967.9999999999955s1884.300000000003,-198.89999999999964,2718.7056474818382,-552.6365690040448s1746.4898225846773,-519.9524548776521,2593.2943525181545,-567.3634309959566s2251,-23.399999999999636,4384,1520.0000000000032s3205.199999999997,1437.2000000000025,4047.9999999999854,1520.0000000000018s3305.000000000029,-270.2999999999993,4640.000000000029,-1152s74.60000000000582,3328.3000000000065,32,3792.0000000000073s-19509.4,4591.000000000004,-21087.999999999993,-128.00000000000182s-1679.5999999999913,-6358.300000000001,-80,-6400Z" style="stroke:black;fill:khaki;stroke-width:0px;" id="e12_areaS3" transform="matrix(0.0650006 -0.00123765 0.00123765 0.0650006 -995.543 317.589)"></path>
+            <path d="M15083.791600683318,645.6720847341486c496.6000000000058,747.7999999999951,1953.3704016668416,1862.6734725832403,2751.999999999978,1967.9999999999955s1884.300000000003,-198.89999999999964,2718.7056474818382,-552.6365690040448s1746.4898225846773,-519.9524548776521,2593.2943525181545,-567.3634309959566s2251,-23.399999999999636,4384,1520.0000000000032s3205.199999999997,1437.2000000000025,4047.9999999999854,1520.0000000000018s3305.000000000029,-270.2999999999993,4640.000000000029,-1152s74.60000000000582,3328.3000000000065,32,3792.0000000000073s-19509.4,4591.000000000004,-21087.999999999993,-128.00000000000182s-1679.5999999999913,-6358.300000000001,-80,-6400Z" style="stroke:black;fill:khaki;stroke-width:0px;" id="e12_areaS3" transform="matrix(0.0650006 -0.00123765 0.00123765 0.0650006 -995.543 317.589)"></path>
             <text dy="-0.5em" style="fill:black;font-family:Arial;font-size:20px;" id="e14_texte" transform="matrix(0.0640454 0 0 0.0640454 -832.187 329.878)">
                 <textPath id="e13_textPath" xlink:href="#e12_areaS3">T</textPath>
             </text>
@@ -192,7 +184,7 @@
                     
                 </div> -->
                     <div class="container containerIcon">
-                        <div class="icon1"><img src="assets/images/dev-2.svg" alt="" loading="lazy"></div>
+                        <div class="icon1"><img id="iconCompetence1" src="assets/images/dev-2.svg" alt="" loading="lazy"></div>
                         <div class="icon devIcon">
                             <svg class="devElement1" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
                                 <path d="M0,15.845v420.259h164.332v30.049h-30.036v30.001h243.407v-30.001h-30.036v-30.049H512V15.845H0z M317.665,466.153
@@ -223,29 +215,29 @@
                     <span mbr-icon class="mbr-iconfont mbri-preview"></span>
                 </div> -->
 
-
                     <div class="container containerIcon">
-                        <div class="icon2"><img src="assets/images/design-2.svg" alt="" loading="lazy"></div>
+                        <div class="icon2"><img id="iconCompetence2" src="assets/images/design-2.svg" alt="" loading="lazy"></div>
                         <div class="icon designIcon ">
                             <svg xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
                                 <path class="designElement1" d="m316 346c-5.519531 0-10 4.480469-10 10s4.480469 10 10 10 10-4.480469 10-10-4.480469-10-10-10zm0 0"></path>
                                 <path class="designElement2" d="m462 0h-412c-27.570312 0-50 22.429688-50 50v306c0 27.570312 22.429688 50 50 50h156v46h-10c-13.351562 
-0-25.902344 5.203125-35.351562 14.648438-9.445313 9.449218-14.648438 22-14.648438 35.351562 0 5.523438 4.476562 
-10 10 10h200c5.523438 0 10-4.476562 10-10 0-27.570312-22.429688-50-50-50h-10v-46h156c27.570312 0 50-22.429688 
-50-50v-306c0-27.570312-22.429688-50-50-50zm-412 20h412c16.542969 0 30 13.457031 30 30v256h-46v-230c0-5.523438-4.476562-10-10-10h-80c-5.523438 
-0-10 4.476562-10 10v230h-50.054688c-.105468-10.34375-.375-20.539062-.804687-30.429688-1.75-40.726562-5.738281-68.007812-7.8125-80.007812 
-20.632813-15.191406 26.265625-43.347656 13.652344-65.222656l-34.660157-60.03125c-1.789062-3.09375-5.089843-5-8.660156-5-3.574218 0-6.875 
-1.90625-8.660156 5l-34.675781 60.035156c-11.890625 20.625-7.675781 47.339844 11.003906 63.105469-2.164063 11.964843-6.53125 40.222656-8.429687 
-82.101562-.449219 9.996094-.734376 20.199219-.84375 30.449219h-50.054688v-150c0-1.585938-.375-3.03125-.988281-4.316406-.027344-.050782-.042969-.105469-.066407-.15625l-40-80c-1.695312-3.386719-5.15625-5.527344-8.945312-5.527344s-7.25 
-2.140625-8.945312 5.527344l-40 80c-.023438.050781-.039063.105468-.0625.15625-.625 1.296875-.992188 2.765625-.992188 4.316406v150h-46v-256c0-16.542969 
-13.457031-30 30-30zm316 286v-220h60v20h-10c-5.523438 0-10 4.476562-10 10s4.476562 10 10 10h10v30h-10c-5.523438 0-10 4.476562-10 10s4.476562 10 10 
-10h10v30h-10c-5.523438 0-10 4.476562-10 10s4.476562 10 10 10h10v40h-10c-5.523438 0-10 4.476562-10 10s4.476562 10 10 10h10v20zm-108.339844-100.691406c3.632813 
-0 7.25-.417969 10.789063-1.199219 1.855469 11.894531 4.582031 32.941406 6.195312 61.890625h-37.222656c1.691406-28.929688 4.546875-50.304688 6.519531-62.601562 
-4.429688 1.261718 9.042969 1.910156 13.71875 1.910156zm0-20c-22.855468 0-37.59375-24.875-26.011718-44.96875l26.011718-45.03125 25.996094 45.027344c11.539062 
-20.011718-2.996094 44.972656-25.996094 44.972656zm-21.15625 100.691406h39.019532c.210937 6.570312.355468 13.253906.425781 
-20h-39.894531c.074218-6.703125.226562-13.386719.449218-20zm-110.503906 20v-140h20v140zm-40 0v-140h20v140zm6.179688-160 23.820312-47.640625 23.820312 
-47.640625zm252.105468 346h-176.582031c1.46875-4.167969 3.867187-7.988281 7.085937-11.210938 5.671876-5.667968 13.203126-8.789062 21.210938-8.789062h120c13.039062 
-0 24.160156 8.359375 28.285156 20zm-58.285156-40h-60v-46h60zm176-66h-412c-16.542969 0-30-13.457031-30-30v-30h472v30c0 16.542969-13.457031 30-30 30zm0 0"></path>
+                                    0-25.902344 5.203125-35.351562 14.648438-9.445313 9.449218-14.648438 22-14.648438 35.351562 0 5.523438 4.476562 
+                                    10 10 10h200c5.523438 0 10-4.476562 10-10 0-27.570312-22.429688-50-50-50h-10v-46h156c27.570312 0 50-22.429688 
+                                    50-50v-306c0-27.570312-22.429688-50-50-50zm-412 20h412c16.542969 0 30 13.457031 30 30v256h-46v-230c0-5.523438-4.476562-10-10-10h-80c-5.523438 
+                                    0-10 4.476562-10 10v230h-50.054688c-.105468-10.34375-.375-20.539062-.804687-30.429688-1.75-40.726562-5.738281-68.007812-7.8125-80.007812 
+                                    20.632813-15.191406 26.265625-43.347656 13.652344-65.222656l-34.660157-60.03125c-1.789062-3.09375-5.089843-5-8.660156-5-3.574218 0-6.875 
+                                    1.90625-8.660156 5l-34.675781 60.035156c-11.890625 20.625-7.675781 47.339844 11.003906 63.105469-2.164063 11.964843-6.53125 40.222656-8.429687 
+                                    82.101562-.449219 9.996094-.734376 20.199219-.84375 30.449219h-50.054688v-150c0-1.585938-.375-3.03125-.988281-4.316406-.027344-.050782-.042969-.105469-.066407-.15625l-40-80c-1.695312-3.386719-5.15625-5.527344-8.945312-5.527344s-7.25 
+                                    2.140625-8.945312 5.527344l-40 80c-.023438.050781-.039063.105468-.0625.15625-.625 1.296875-.992188 2.765625-.992188 4.316406v150h-46v-256c0-16.542969 
+                                    13.457031-30 30-30zm316 286v-220h60v20h-10c-5.523438 0-10 4.476562-10 10s4.476562 10 10 10h10v30h-10c-5.523438 0-10 4.476562-10 10s4.476562 10 10 
+                                    10h10v30h-10c-5.523438 0-10 4.476562-10 10s4.476562 10 10 10h10v40h-10c-5.523438 0-10 4.476562-10 10s4.476562 10 10 10h10v20zm-108.339844-100.691406c3.632813 
+                                    0 7.25-.417969 10.789063-1.199219 1.855469 11.894531 4.582031 32.941406 6.195312 61.890625h-37.222656c1.691406-28.929688 4.546875-50.304688 6.519531-62.601562 
+                                    4.429688 1.261718 9.042969 1.910156 13.71875 1.910156zm0-20c-22.855468 0-37.59375-24.875-26.011718-44.96875l26.011718-45.03125 25.996094 45.027344c11.539062 
+                                    20.011718-2.996094 44.972656-25.996094 44.972656zm-21.15625 100.691406h39.019532c.210937 6.570312.355468 13.253906.425781 
+                                    20h-39.894531c.074218-6.703125.226562-13.386719.449218-20zm-110.503906 20v-140h20v140zm-40 0v-140h20v140zm6.179688-160 23.820312-47.640625 23.820312 
+                                    47.640625zm252.105468 346h-176.582031c1.46875-4.167969 3.867187-7.988281 7.085937-11.210938 5.671876-5.667968 13.203126-8.789062 21.210938-8.789062h120c13.039062 
+                                    0 24.160156 8.359375 28.285156 20zm-58.285156-40h-60v-46h60zm176-66h-412c-16.542969 0-30-13.457031-30-30v-30h472v30c0 16.542969-13.457031 30-30 30zm0 0">
+                                </path>
                                 <path class="designElement3" d="m276 346h-60c-5.523438 0-10 4.476562-10 10s4.476562 10 10 10h60c5.523438 0 10-4.476562 10-10s-4.476562-10-10-10zm0 0"></path>
                             </svg>
                         </div>
@@ -266,7 +258,7 @@
                 </div> -->
 
                     <div class="container containerIcon">
-                        <div class="icon3"><img src="assets/images/seo-2.svg" alt="" loading="lazy"></div>
+                        <div class="icon3"><img id="iconCompetence3" src="assets/images/seo-2.svg" alt="" loading="lazy"></div>
                         <div class="icon refIcon ">
                             <svg xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
                                 <path class="refElement1" d="m467 28.355h-422c-24.813 0-45 20.187-45 45v278.27c0 24.813 20.187 45 45 45h151.49v57.016h-22.587c-8.284 0-15 6.716-15 15s6.716 15 15 15h164.19c8.284 0 15-6.716 15-15s-6.716-15-15-15h-22.587v-57.016h151.49c24.813 0 45-20.187 45-45v-278.27c0-24.813-20.187-45-45-45zm-181.49 425.29h-59.012v-57.016h59.012v57.016zm196.49-102.02c0 8.271-6.729 15-15 15h-422c-8.271 0-15-6.729-15-15v-22.803h452v22.803zm0-52.803h-452v-225.47c0-8.271 6.729-15 15-15h422c8.271 0 15 6.729 15 15v225.47z"></path>
@@ -504,8 +496,7 @@
         <div class="container align-center">
             <div class="row justify-content-md-start justify-content-md-center">
                 <div class="mbr-white col-sm-12 col-md-10 col-lg-7">
-                    <h1 id="nos_realisations" class="mbr-section-title mbr-regular align-center mbr-fonts-style display-2"><span style="color:#ecc979;">{&nbsp;</span>Nos Dernières Réalisations&nbsp;<span style="color:#ecc979;">}</span></h1>
-
+                    <h2 id="nos_realisations" class="mbr-section-title mbr-regular align-center mbr-fonts-style display-2"><span style="color:#ecc979;">{&nbsp;</span>Nos Dernières Réalisations&nbsp;<span style="color:#ecc979;">}</span></h2>
                 </div>
             </div>
         </div>
@@ -535,7 +526,7 @@
                         <div class="card-box" style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
                             <h4 class="card-title mbr-fonts-style mbr-white mbr-bold display-5">Casa Benfica Tourcoing</h4>
 
-                            <h1 class="mbr-text mbr-fonts-style mbr-white card-text text-center display-7"><em>Site sur mesure</em></h1>
+                            <h2 class="mbr-text mbr-fonts-style mbr-white card-text text-center display-7"><em>Site sur mesure</em></h2>
 
                             <span mbr-icon id="myBox3" class="mbr-iconfont pt-1 mdi-image-loupe" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255); font-size: 50px;"></span>
                         </div>
@@ -561,7 +552,7 @@
                     <div class="card-box"  style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
                         <h4 class="card-title mbr-fonts-style mbr-white mbr-bold display-5">Hélène Pontière Avocat</h4>
                         
-                            <h1 class="mbr-text mbr-fonts-style mbr-white card-text text-center display-7"><em>Site Vitrine</em></h1>
+                            <h2 class="mbr-text mbr-fonts-style mbr-white card-text text-center display-7"><em>Site Vitrine</em></h2>
                     
                             <span mbr-icon id="myBox" class="mbr-iconfont pt-1 mdi-image-loupe" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255); font-size: 50px;"></span>
     
@@ -586,7 +577,7 @@
                         <div class="card-box" style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
                             <h4 class="card-title mbr-fonts-style mbr-white mbr-bold display-5">Galichet Rénov</h4>
 
-                            <h1 class="mbr-text mbr-fonts-style mbr-white card-text display-7"><em>Site OnePage</em></h1>
+                            <h2 class="mbr-text mbr-fonts-style mbr-white card-text display-7"><em>Site OnePage</em></h2>
 
                             <span mbr-icon id="myBox2" class="mbr-iconfont pt-1 mdi-image-loupe" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255); font-size: 50px;"></span>
 
@@ -780,7 +771,7 @@
         </div>
 
         <div class="container text-center pt-5 pb-5">
-            <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-2">Ce qu'ils en ont pensé(e)s</h1>
+            <h2 class="mbr-section-title mbr-white pb-3 align-center mbr-fonts-style display-2">Ce qu'ils en ont pensé(e)s</h2>
             <div class="carousel slide" data-ride="carousel" role="listbox">
                 <div class="carousel-inner">
 
@@ -958,23 +949,18 @@
     include("footer.php")
     ?>
 
-
-    <script src="assets/web/assets/jquery/jquery.min.js"></script>
+    <script src="assets/theme/js/script.js"></script>
     <script src="assets/popper/popper.min.js"></script>
     <script src="assets/tether/tether.min.js"></script>
+    <script src="assets/parallax/jarallax.min.js"></script>
+    <script src="assets/dropdown/js/nav-dropdown.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="assets/smoothscroll/smooth-scroll.js"></script>
-    <script src="assets/parallax/jarallax.min.js"></script>
-    <script src="assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>
-    <script src="assets/mbr-clients-slider/mbr-clients-slider.js"></script>
-    <script src="assets/mbr-testimonials-slider/mbr-testimonials-slider.js"></script>
-    <script src="assets/dropdown/js/nav-dropdown.js"></script>
-    <script src="assets/dropdown/js/navbar-dropdown.js"></script>
     <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
-    <script src="assets/theme/js/script.js"></script>
-
-
-
+    <script src="assets/dropdown/js/navbar-dropdown.js"></script>
+    <script src="assets/mbr-clients-slider/mbr-clients-slider.js"></script>
+    <script src="assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>
+    <script src="assets/mbr-testimonials-slider/mbr-testimonials-slider.js"></script>
 </body>
 
 </html>
