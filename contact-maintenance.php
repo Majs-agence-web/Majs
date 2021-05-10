@@ -144,6 +144,11 @@
                             </div>
 
                             <div class="col-auto"><button type="submit" class="btn btn-sm btn-danger display-7">Envoyer</button></div>
+
+                            <div class="form-row">
+                                <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Merci de votre message, nous revienderons vers vous dés que possible !</div>
+                                <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">Oops...! Il semble qu'il y est un probléme, réesayer.</div>
+                            </div>
                         </div>
                     </form><!--Formbuilder Form-->
                 </div>

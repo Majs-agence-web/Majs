@@ -31,112 +31,303 @@
     ?>
 
 <section class="cid-smyb1ywgum mbr-parallax-background" id="header02-40">
-
-    
-
     <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(75, 101, 112);"></div>
-
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-12 text-center mx-auto">
-                <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-1">Site Landing Page</h1>
-                
-                
-                
+                <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-1">Site Landing Page</h1>     
             </div>
         </div>
-    </div>
-    
+    </div>  
 </section>
 
 <section class="cid-smyb1yURxL" id="content02-41">
-
-    
-
-    
-
-
-
     <div class="container">
         <div class="">
             <div class="align-center">
                 <img src="assets/images/landing1.svg" alt="" loading="lazy">
-<div>
-                <h1 class="mbr-section-title mbr-regular align-left pt-5 mbr-fonts-style display-2"><br>Description Landing Page</h1>
-               
-                <p class="mbr-text mbr-light pt-4 mbr-fonts-style display-7">Plus communément appelé mini-site en Français, cet outil est idéal pour relayer une campagne publicitaire, il peut également être très utile et reste parfaitement adapté pour présenter votre activité.
-
-<br><br>Nous sommes là pour vous conseiller sur le format le plus adapté à votre besoin. 
-<br><br><br><br><strong><span style="font-size:1.2em !important;">Dans quel cas faut-il opter pour une landing page ?</span>
-<br></strong><br>•	Maximiser la visibilité de votre entreprise.
-<br>•	Améliorer votre taux de conversion (par exemple: convaincre des prospects sur la solution que vous présentez) 
-.
-<br>•	Une mise en page simple et efficace pour vos prospects&nbsp;<br></p>
-              
-</div>  
+                <div>
+                    <h1 class="mbr-section-title mbr-regular align-left pt-5 mbr-fonts-style display-2"><br>Description Landing Page</h1>
+                    <p class="mbr-text mbr-light pt-4 mbr-fonts-style display-7">Plus communément appelé mini-site en Français, cet outil est idéal pour relayer une campagne publicitaire, il peut également être très utile et reste parfaitement adapté pour présenter votre activité.
+                    <br><br>Nous sommes là pour vous conseiller sur le format le plus adapté à votre besoin. 
+                    <br><br><br><br><strong><span style="font-size:1.2em !important;">Dans quel cas faut-il opter pour une landing page ?</span>
+                    <br></strong><br>•	Maximiser la visibilité de votre entreprise.
+                    <br>•	Améliorer votre taux de conversion (par exemple: convaincre des prospects sur la solution que vous présentez) 
+                    .
+                    <br>•	Une mise en page simple et efficace pour vos prospects&nbsp;<br></p>            
+                </div>  
             </div>      
         </div>
-
-
-
     </div>
 </section>
 
 <section class="cid-smyb1zaqEp" id="content02-42">
-
-    
-
-    
-
-
-
     <div class="container">
         <div class="">
-            <div class="align-center">
-                
+            <div class="align-center">  
                 <img src="assets/images/landing2.svg" alt="" loading="lazy">
-        
-            
-                
-                
                 <p class="mbr-text mbr-light pt-4 align-left mbr-fonts-style display-7"><strong><span style="font-size: 1.5em !important;">Une landing page en quelques phrases.</span><br></strong><br>C’est un mini site que l’on peut traduire littéralement en anglais comme page d’atterrissage.<br><br> Le but de ce genre de sites Web est d'être impactant sur une seule page pour un maximum d'inscrits ou de prospects.
-<br><br>Pour que cet outil soit impactant et bien efficace, il faut cependant respecter quelques règles assez simples:
-<br><br>- Rédiger un texte clair et concis, qui met l’accent sur les points forts de la solution
-<br>- Publier des photos ou des vidéos qui permettent à l’internaute de se projeter
-<br>- Fournir des témoignages (statistiques, avis de clients certifiés…)
-<br>- Veiller à l’absence d’éléments superflus qui pourraient faire perdre  de la puissance au message. 
-&nbsp;<br></p>
-                  
+                <br><br>Pour que cet outil soit impactant et bien efficace, il faut cependant respecter quelques règles assez simples:
+                <br><br>- Rédiger un texte clair et concis, qui met l’accent sur les points forts de la solution
+                <br>- Publier des photos ou des vidéos qui permettent à l’internaute de se projeter
+                <br>- Fournir des témoignages (statistiques, avis de clients certifiés…)
+                <br>- Veiller à l’absence d’éléments superflus qui pourraient faire perdre  de la puissance au message. 
+                &nbsp;<br></p>   
             </div>      
         </div>
-
-
-
     </div>
 </section>
 
-<section class="header4 cid-sqoByG21uJ" id="header09-6j" style="background-color: white !important">
+<section class="extTabs tabs cid-stYFinPMLL id="extTabs11-1j">
+    <div class="container d-flex flex-column">
+        <ul class="nav nav-tabs mb-4 justify-content-center mx-auto d-flex" role="tablist">
+
+            <li class="nav-item first mbr-section-btn">
+                <a class="mbr-fonts-style btn-sm btn show active display-5" role="tab" data-toggle="tab" href="#extTabs11-1j_tab0" aria-selected="true">Location</a>
+            </li>
+                
+            <li class="nav-item mbr-section-btn">
+                <a class="mbr-fonts-style btn-sm btn active display-5" role="tab" data-toggle="tab" href="#extTabs11-1j_tab1" aria-selected="true">Achat</a>
+            </li>
+            
+            <li class="nav-item mbr-section-btn">
+                <a class="mbr-fonts-style btn-sm btn active display-5" role="tab" data-toggle="tab" href="#extTabs11-1j_tab2" aria-selected="true">Maintenance</a>
+            </li>
+
+        </ul>
+        
+        <div class="tab-content">
+            <div id="tab1" class="tab-pane in active" role="tabpanel">
+                <section class="extPricingTables" group="Additional Blocks">
+                    <div class="container">
+                        <div class="media-container-row">
+                            <div class="col-12 col-md-5 justify-content-center col-lg-4">
+                                <div class="price-item text-center">
+                                    <div class="test">
+                                        <h4 class="title mbr-fonts-style mbr-light display-5">
+                                            <strong>
+                                                <a href="landing-page.php">Landing Page</a>
+                                            </strong>
+                                        </h4>
+                                    </div>
+                                    <div class="price-tage">
+                                        <h3 class="mbr-fonts-style costs mbr-light display-2">55€</h3>
+                                        <p class="mbr-fonts-style costs-title display-4">/Mois</p>
+                                    </div>
+                                    <ul class="table-content mbr-fonts-style display-7">
+                                        <li>Site internet Mobirise</li>
+                                        <li>Fiche Google My Business</li>
+                                        <li>Google Analytics</li>
+                                        <li>Nom de domaine  e-mails (inclus)</li>
+                                        <li>Hébergement  maintenance (inclus)</li>
+                                    </ul>
+                                    <div class="pricing-footer mbr-section-btn"><a href="devis.php?site=landingPage&service=location" class="btn btn-primary display-4">Devis gratuit</a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+
+            <div id="tab2" class="tab-pane" role="tabpanel">    
+                <section class="extPricingTables" group="Additional Blocks">
+                    <div class="container">
+                        <div class="media-container-row">
+                            <div class="col-12 col-md-5 justify-content-center col-lg-4">
+                                <div class="price-item text-center">
+                                    <div class="test">
+                                        <h4 class="title mbr-fonts-style mbr-light display-5">
+                                            <strong>
+                                                <a href="landing-page.php">Landing Page</a>
+                                            </strong>
+                                        </h4>
+                                    </div>
+                                    <div class="price-tage">
+                                        <p class="mbr-fonts-style costs-title display-4">A partir de</p>
+                                        <h3 class="mbr-fonts-style costs mbr-light display-2">950€</h3>
+                                        <p class="mbr-fonts-style costs-title display-4">/HT</p>
+                                    </div>
+                                    <ul class="table-content mbr-fonts-style display-7">
+                                        <li>Site internet Mobirise</li>
+                                        <li>Fiche Google My Business</li>
+                                        <li>Google Analytics</li>
+                                        <li>Nom de domaine  e-mails (Option)</li>
+                                        <li>Hébergement  maintenance (Option)</li>
+                                    </ul>
+                                    <div class="pricing-footer mbr-section-btn"><a href="devis.php?site=landingPage&service=achat" class="btn btn-primary display-4">Devis gratuit</a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+
+            <div id="tab3" class="tab-pane" role="tabpanel">
+                <div class="row justify-content-center">
+                    <section class="extPricingTables" group="Additional Blocks">
+                        <div class="container">
+                            <div class="media-container-row">
+                                <div class="col-12 col-md-5 justify-content-center col-lg-3">
+                                    <div class="price-item text-center">
+                                        <div class="test">
+                                            <h4 class="title mbr-fonts-style mbr-light display-5">
+                                                <strong>
+                                                    <a href="maintenance.php">Basique</a>
+                                                </strong>
+                                            </h4>
+                                        </div>
+                                        <div class="price-tage">
+                                            <h3 class="mbr-fonts-style costs mbr-light display-2">35€</h3>
+                                            <p class="mbr-fonts-style costs-title display-4">/Mois</p>
+                                        </div>
+                                        <ul class="table-content mbr-fonts-style display-7">
+                                            
+                                            <li class="option divMaintenance1">Maintenance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 255, 255);"></span> </li>
+                                            <div class="maintenance1">1 heure de maintenance par mois</div>
+                                            
+                                            <li>Mise à jour de WordPress, Prestashop ou Mobirise, des modules et des plugins <span class="mobi-mbri mobi-mbri-success mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
+                                            
+                                            <li class="divSauvegardeSite1">Sauvegarde de votre site<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
+                                            <div class="sauvegardeSite1">2 Sauvegardes de votre site par mois</div>
+                                            
+                                            <li class="divSauvegardeBDD1">Sauvegarde de votre base de donnée&nbsp;<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>  
+                                            <div class="sauvegardeBDD1">2 Sauvegardes de votre base de données par mois</div>
+                                            
+                                            <li class="divDelaisIntervention1">Délais assistance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 138, 115);"></span></li>
+                                            <div class="delaisIntervention1">Intervention sous 48 heures</div>
+                                            
+                                        </ul>
+                                        <div class="pricing-footer mbr-section-btn"><a href="contact-maintenance.php?service=basique" class="btn btn-primary display-4">Choisir ce forfait</a></div>
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-md-5 justify-content-center col-lg-3">
+                                    <div class="price-item text-center">
+                                        <div class="test">
+                                            <h4 class="title mbr-fonts-style mbr-light display-5">
+                                                <strong>
+                                                    <a href="maintenance.php">Optimise</a>
+                                                </strong>
+                                            </h4>
+                                        </div>
+                                        <div class="price-tage">
+                                            <h3 class="mbr-fonts-style costs mbr-light display-2">55€</h3>
+                                            <p class="mbr-fonts-style costs-title display-4">/Mois</p>
+                                        </div>
+                                        <ul class="table-content mbr-fonts-style display-7">
+                                                
+                                                <li class="option divMaintenance2">Maintenance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 255, 255);"></span> </li>
+                                                <div class="maintenance2">1 à 2 heures de maintenance par mois</div>
+                                                
+                                                <li>Mise à jour de WordPress, Prestashop ou Mobirise, des modules et des plugins <span class="mobi-mbri mobi-mbri-success mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
+                                                
+                                                <li class="divSauvegardeSite2">Sauvegarde de votre site<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
+                                                <div class="sauvegardeSite2">2 Sauvegardes de votre site par semaine</div>
+                                                
+                                                <li class="divSauvegardeBDD2">Sauvegarde de votre base de donnée&nbsp;<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>  
+                                                <div class="sauvegardeBDD2">2 Sauvegardes de votre base de données par semaine</div>
+                                                
+                                                <li class="divDelaisIntervention2">Délais assistance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 138, 115);"></span></li>
+                                                <div class="delaisIntervention2">Intervention sous 48 heures</div>
+                                                
+                                            </ul>
+                                        <div class="pricing-footer mbr-section-btn"><a href="contact-maintenance.php?service=optimise" class="btn btn-primary display-4">Choisir ce forfait</a></div>
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-md-5 justify-content-center col-lg-3">
+                                    <div class="price-item text-center">
+                                        <div class="test">
+                                            <h4 class="title mbr-fonts-style mbr-light display-5">
+                                                <strong>
+                                                    <a href="maintenance.php">Confort</a>
+                                                </strong>
+                                            </h4>
+                                        </div>
+                                        <div class="price-tage">
+                                            <h3 class="mbr-fonts-style costs mbr-light display-2">100€</h3>
+                                            <p class="mbr-fonts-style costs-title display-4">/Mois</p>
+                                        </div>
+                                        <ul class="table-content mbr-fonts-style display-7">
+                                            
+                                            <li class="option divMaintenance1">Maintenance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 255, 255);"></span> </li>
+                                            <div class="maintenance1">2 à 4 heures de maintenance par mois</div>
+                                            
+                                            <li>Mise à jour de WordPress, Prestashop ou Mobirise, des modules et des plugins <span class="mobi-mbri mobi-mbri-success mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
+                                            
+                                            <li class="divSauvegardeSite3">Sauvegarde de votre site<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
+                                            <div class="sauvegardeSite3">2 Sauvegardes de votre site par jour</div>
+                                            
+                                            <li class="divSauvegardeBDD3">Sauvegarde de votre base de donnée&nbsp;<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>  
+                                            <div class="sauvegardeBDD3">2 Sauvegardes de votre base de données par jour</div>
+                                            
+                                            <li class="divDelaisIntervention3">Délais assistance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 138, 115);"></span></li>
+                                            <div class="delaisIntervention3">Intervention sous 24 heures</div>
+                                                        
+                                        </ul>
+                                        <div class="pricing-footer mbr-section-btn"><a href="contact-maintenance.php?service=confort" class="btn btn-primary display-4">Choisir ce forfait</a></div>
+                                    </div>
+                                </div>
+
+                                <div class="col-12 col-md-5 justify-content-center col-lg-3">
+                                    <div class="price-item text-center">
+                                        <div class="test">
+                                            <h4 class="title mbr-fonts-style mbr-light display-5">
+                                                <strong>
+                                                    <a href="maintenance.php">Sérénité</a>
+                                                </strong>
+                                            </h4>
+                                        </div>
+                                            <div class="price-tage">
+                                                <h3 class="mbr-fonts-style costs display-2">200€</h3>
+                                                <p class="mbr-fonts-style costs-title display-4">/Mois</p>
+                                            </div>
+                                            <ul class="table-content mbr-fonts-style display-7">
+                                            
+                                                <li class="option divMaintenance4">Maintenance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 255, 255);"></span> </li>
+                                                <div class="maintenance4">4 à 7 heures de maintenance par mois</div>
+                                                
+                                                <li>Mise à jour de WordPress, Prestashop ou Mobirise, des modules et des plugins <span class="mobi-mbri mobi-mbri-success mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
+                                                
+                                                <li class="divSauvegardeSite4">Sauvegarde de votre site<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
+                                                <div class="sauvegardeSite4">2 Sauvegardes de votre site par jour sur un serveur externe</div>
+                                                
+                                                <li class="divSauvegardeBDD4">Sauvegarde de votre base de donnée&nbsp;<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>  
+                                                <div class="sauvegardeBDD4">2 Sauvegardes de votre base de données par jour sur un serveur externe</div>
+                                                
+                                                <li class="divDelaisIntervention4">Délais assistance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 138, 115);"></span></li>
+                                                <div class="delaisIntervention4">Intervention sous 24 heures</div>
+                                            
+                                            </ul>
+
+                                            <div class="pricing-footer mbr-section-btn"><a href="contact-maintenance.php?service=serenite" class="btn btn-primary display-4">Choisir ce forfait</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--<section class="header4 cid-sqoByG21uJ" id="header09-6j" style="background-color: white !important">
     <div class="container">
         <div class="row justify-content-md-center">
             <div class="col-md-10 col-sm-12">
                 <h1 class="mbr-section-title align-center mbr-white pb-2 mbr-fonts-style display-2" style="color: #2e4b58!important">C'est ce qu'il vous faut ?</h1>
-                
                 <div class="mbr-text align-center mbr-white pb-2">
-                    
                 </div>
                 <div class="align-center">
                     <a class="btn btn-sm btn-danger display-4" href="tarifs.php#clients01-4a">Voir les tarifs</a>
                 </div>
             </div>
-
         </div>
     </div>
-</section>
+</section>-->
 
 <section class="clients cid-smyb1zuVaW" id="clients01-43">
-    
-
-    
 
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1380px" height="810px" viewBox="0 -8.992806499463768e-14 1380 810" preserveAspectRatio="xMidYMid meet">
         <rect id="svgEditorBackground" x="0" y="0" width="1380" height="810" style="fill: none; stroke: none;"></rect>
@@ -154,25 +345,25 @@
 
 
 <?php 
-        include("footer.php")
-    ?>
+    include("footer.php")
+?>
 
 
-<script src="assets/web/assets/jquery/jquery.min.js"></script>
-  <script src="assets/popper/popper.min.js"></script>
-  <script src="assets/tether/tether.min.js"></script>
-  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-  <script src="assets/smoothscroll/smooth-scroll.js"></script>
-  <script src="assets/dropdown/js/nav-dropdown.js"></script>
-  <script src="assets/dropdown/js/navbar-dropdown.js"></script>
-  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
-  <script src="assets/parallax/jarallax.min.js"></script>
-  <script src="assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>
-  <script src="assets/mbr-clients-slider/mbr-clients-slider.js"></script>
-  <script src="assets/theme/js/script.js"></script>
-  <script src="assets/formoid/formoid.min.js"></script>
-  
-  
+    <script src="assets/web/assets/jquery/jquery.min.js"></script>
+    <script src="assets/popper/popper.min.js"></script>
+    <script src="assets/tether/tether.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/smoothscroll/smooth-scroll.js"></script>
+    <script src="assets/mobirise-tabs/mbr-tabs.js"></script>
+    <script src="assets/theme/js/script.js"></script>
+
+
+    <script src="assets/dropdown/js/nav-dropdown.js"></script>
+    <script src="assets/dropdown/js/navbar-dropdown.js"></script>
+    <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
+    <script src="assets/parallax/jarallax.min.js"></script>
+    <script src="assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>
+    <script src="assets/mbr-clients-slider/mbr-clients-slider.js"></script>
   
 </body>
 </html>
