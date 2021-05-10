@@ -1,6 +1,6 @@
 
         tarteaucitron.init({
-            "privacyUrl": "",
+            "privacyUrl": "https://www.majs.fr/politique-de-confidentialite",
             /* URL de la page de la politique de vie privée */
 
             "hashtag": "#tarteaucitron",
@@ -36,9 +36,7 @@
             "readmoreLink": "/cookiespolicy" /* Lien vers la page "Lire plus" */
         });
 
-        tarteaucitron.user.gtagUa = 'G-C7H5YYSF35%22%3E';
-        tarteaucitron.user.gtagMore = function() {
-            /* add here your optionnal gtag() */
-        };
+        tarteaucitron.user.gtagUa = 'UA-186996668-1';
+        tarteaucitron.user.gtagMore = function () { /* add here your optionnal gtag() */ };
         (tarteaucitron.job = tarteaucitron.job || []).push('gtag');
     
