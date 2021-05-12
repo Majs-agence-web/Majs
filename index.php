@@ -495,8 +495,8 @@
 
         <div class="container align-center">
             <div class="row justify-content-md-start justify-content-md-center">
-                <div class="mbr-white col-sm-12 col-md-10 col-lg-7">
-                    <h2 id="nos_realisations" class="mbr-section-title mbr-regular align-center mbr-fonts-style display-2"><span style="color:#ecc979;">{&nbsp;</span>Nos Dernières Réalisations&nbsp;<span style="color:#ecc979;">}</span></h2>
+                <div class="col-sm-12 col-md-10 col-lg-7">
+                    <h2 id="nos_realisations" style="color:#355665" class="mbr-section-title mbr-regular align-center mbr-fonts-style display-2"><span style="color:#ecc979;">{&nbsp;</span>Nos Dernières Réalisations&nbsp;<span style="color:#ecc979;">}</span></h2>
                 </div>
             </div>
         </div>
@@ -533,7 +533,7 @@
                     </div>
                 </div>
 
-                <!-- <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
                     
                     <div class="card-img">
@@ -558,34 +558,34 @@
     
                     </div>
                 </div>
-            </div> -->
+            </div>
 
 
-                <div class="card p-3 col-12 col-md-6 col-lg-4">
-                    <div class="card-wrapper">
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
 
-                        <div class="card-img">
-                            <img id="myImg2" src="assets/images/image3-290x340.webp" title="" alt="" loading="lazy">
-                        </div>
+                    <div class="card-img">
+                        <img id="myImg2" src="assets/images/image3-290x340.webp" title="" alt="" loading="lazy">
+                    </div>
 
-                        <div id="myModal2" class="modal">
-                            <span class="close2" style="padding-top: 2em; color: white;">&times;</span>
-                            <img class="modal-content" id="img02" loading="lazy">
-                            <div id="caption"></div>
-                        </div>
+                    <div id="myModal2" class="modal">
+                        <span class="close2" style="padding-top: 2em; color: white;">&times;</span>
+                        <img class="modal-content" id="img02" loading="lazy">
+                        <div id="caption"></div>
+                    </div>
 
-                        <div class="card-box" style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
-                            <h4 class="card-title mbr-fonts-style mbr-white mbr-bold display-5">Galichet Rénov</h4>
+                    <div class="card-box" style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
+                        <h4 class="card-title mbr-fonts-style mbr-white mbr-bold display-5">Galichet Rénov</h4>
 
-                            <h2 class="mbr-text mbr-fonts-style mbr-white card-text display-7"><em>Site OnePage</em></h2>
+                        <h2 class="mbr-text mbr-fonts-style mbr-white card-text display-7"><em>Site OnePage</em></h2>
 
-                            <span mbr-icon id="myBox2" class="mbr-iconfont pt-1 mdi-image-loupe" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255); font-size: 50px;"></span>
+                        <span mbr-icon id="myBox2" class="mbr-iconfont pt-1 mdi-image-loupe" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255); font-size: 50px;"></span>
 
-
-                        </div>
 
                     </div>
+
                 </div>
+            </div>
 
 
 
@@ -593,16 +593,16 @@
         </div>
         <script>
             // // Get the modal1
-            //     var modal = document.getElementById("myModal");
+            var modal = document.getElementById("myModal");
 
-            // // Get the image and insert it inside the modal 
-            //     var img = document.getElementById("myImg");
-            //     var box = document.getElementById("myBox");
-            //     var modalImg = document.getElementById("img01");     
-            //     box.onclick = function(){
-            //       modal.style.display = "block";
-            //       modalImg.src = "assets/images/helenePontiereApercu.webp";          
-            //     }
+            // Get the image and insert it inside the modal 
+            var img = document.getElementById("myImg");
+            var box = document.getElementById("myBox");
+            var modalImg = document.getElementById("img01");     
+            box.onclick = function(){
+                modal.style.display = "block";
+                modalImg.src = "assets/images/helenePontiereApercu.webp";          
+            }
 
             // Get the modal2
             var modal2 = document.getElementById("myModal2");
@@ -630,14 +630,14 @@
 
 
             // Get the <span> element that closes the modal
-            // var span = document.getElementsByClassName("close")[0];        
+            var span = document.getElementsByClassName("close")[0];        
             var span2 = document.getElementsByClassName("close2")[0];
             var span3 = document.getElementsByClassName("close3")[0];
 
             // When the user clicks on <span> (x), close the modal
-            // span.onclick = function() {         
-            // modal.style.display = "none";
-            // }
+            span.onclick = function() {         
+            modal.style.display = "none";
+            }
             span2.onclick = function() {
                 modal2.style.display = "none";
             }
@@ -944,6 +944,8 @@
             </div>
         </div>
     </section>
+
+    
 
     <?php
     include("footer.php")

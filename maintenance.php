@@ -282,7 +282,7 @@
 </section>
 
 
-<section class="clients cid-smyb1zuVaW" id="clients01-43">
+<section class="clients cid-smyb1zuVaWM" id="clients01-43">
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1380px" height="810px" viewBox="0 -8.992806499463768e-14 1380 810" preserveAspectRatio="xMidYMid meet">
         <rect id="svgEditorBackground" x="0" y="0" width="1380" height="810" style="fill: none; stroke: none;"></rect>
         <defs id="svgEditorDefs">

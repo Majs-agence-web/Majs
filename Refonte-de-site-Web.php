@@ -112,11 +112,11 @@
     </div>
 </section>
 
-<section class="header4 cid-sqoByG21uJ devisTitle pt-5" id="header09-6j">
+<section style="background-color:white" class="header4 cid-sqoByG21uJ devisTitle pt-5" id="header09-6j">
     <div class="container">
         <div class="row justify-content-md-center">
             <div class="col-md-10 col-sm-12">
-                <h1 class="mbr-section-title align-center mbr-white pb-2 mbr-fonts-style display-2">C'est ce qu'il vous faut ?</h1>
+                <h1 style="color:#355665" class="mbr-section-title align-center mbr-regular pb-2 mbr-fonts-style display-2">C'est ce qu'il vous faut ?</h1>
                 
                 <div class="mbr-text align-center mbr-white pb-2">
                     

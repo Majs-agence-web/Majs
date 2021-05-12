@@ -54,7 +54,6 @@
                     <!--Formbuilder Form-->
                     <form action="" method="POST" class="mbr-form form-with-styler" data-form-title="Maintenance Forfait">
                         <input type="hidden" name="email" data-form-email="true" value="7NFbIg5a1ZV0gNz8eIPq2T7EHoaoC5xrOo7OVhRcufmCk7/aokWax29ZHJteBkb21l7PwziyWra+VGbibX1pHi1CCfDpWV9UjAMUyU5vUawaNCE3eLhUnH6Z8Aa7dFDI">
-
                         <div class="dragArea form-row">
                             <div class="col-lg-12 col-md-12 col-sm-12">
                                 <h4 class="mbr-fonts-style display-5">Pack de maintenance</h4>
@@ -143,6 +142,11 @@
                             </div>
 
                             <div class="col-auto"><button type="submit" class="btn btn-sm btn-danger display-7">Envoyer</button></div>
+
+                            <div class="form-row">
+                                <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Merci de votre message, nous revienderons vers vous dés que possible !</div>
+                                <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">Oops...! Il semble qu'il y est un probléme, réesayer.</div>
+                            </div>
                         </div>
                     </form><!--Formbuilder Form-->
                 </div>

@@ -21,8 +21,8 @@
     <link rel="stylesheet" href="assets/dropdown/css/style-min.css">
     <link rel="stylesheet" href="assets/socicon/css/styles-min.css">
     <link rel="stylesheet" href="assets/theme/css/style-min.css">
-    <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional-min.css">
-    <link rel="stylesheet" href="assets/mobirise/css/mbr-additional-min.css" type="text/css">
+    <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css">
+    <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
 
 </head>
 <body>
@@ -116,42 +116,48 @@
                         <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">Oops...! some problem!</div>
                     </div>
                     <div class="dragArea form-row">
+
                         <div class="col-lg-12 align-left">
                             <h5 class="mbr-regular mbr-fonts-style display-2">Nous Contactez</h5>
                         </div>
+
                         <div data-for="Nom" class="col-lg-12 form-group">
                             <input type="text" name="Nom" placeholder="Nom*" data-form-field="Nom" class="form-control display-7" required id="Nom-forms03-s">
                         </div>
+
                         <div data-for="Société" class="col-lg-12 form-group" >
                             <input type="text" name="Société" placeholder="Société" data-form-field="Société" class="form-control display-7" id="Société-forms03-s">
                         </div>
+
                         <div data-for="Phone" class="col-lg-6 form-group">
                             <input type="tel" name="Phone" placeholder="Téléphone*" data-form-field="Phone" class="form-control display-7" required id="Phone-forms03-s">
                         </div>
+
                         <div data-for="Email" class="col-lg-6 form-group">
                             <input type="email" name="Email" placeholder="Email*" data-form-field="Email" class="form-control display-7" required id="Email-forms03-s">
                         </div>
+
                         <div data-for="Message" class="col-lg-12 form-group">
                             <textarea name="Message" placeholder="Message*" data-form-field="Message" class="form-control display-7" required id="Message-forms03-s"></textarea>
                         </div>
+
                         <div class="col-lg-12 col-md-12 col-sm-12 form-group">
                             <div data-for="J’accepte que mes données personnelles soient collectées, traitées et utilisées par Majs Web Agency afin de répondre à ma demande de contact et à recevoir le cas échéant l’actualité et les offres commerciales par emails." class="form-check">
                                 <input type="checkbox" required value="Yes" name="J’accepte que mes données personnelles soient collectées, traitées et utilisées par Majs Web Agency afin de répondre à ma demande de contact et à recevoir le cas échéant l’actualité et les offres commerciales par emails." data-form-field="J’accepte que mes données personnelles soient collectées, traitées et utilisées par Majs Web Agency afin de répondre à ma demande de contact et à recevoir le cas échéant l’actualité et les offres commerciales par emails." class="form-check-input display-7" id="J’accepte que mes données personnelles soient collectées, traitées et utilisées par Majs Web Agency afin de répondre à ma demande de contact et à recevoir le cas échéant l’actualité et les offres commerciales par emails.-extForm20-c">
                                 <label for="J’accepte que mes données personnelles soient collectées, traitées et utilisées par Majs Web Agency afin de répondre à ma demande de contact et à recevoir le cas échéant l’actualité et les offres commerciales par emails.-extForm20-c" class="form-check-label display-7">J’accepte que mes données personnelles soient collectées, traitées et utilisées par Majs Web Agency afin de répondre à ma demande de contact et à recevoir le cas échéant l’actualité et les offres commerciales par emails.</label>
                             </div>
                         </div>
-                        <div class="col-12">
+
+                        <div class="col-12 mb-2">
                             <p class="mbr-text mbr-black mbr-regular mbr-light mbr-fonts-style display-7"> * Champs requis </p>
                         </div>
                         <div class="text-center col-12">
                             <button type="submit" class="btn btn-danger display-4" href="">Envoyer</button>
                         </div>
+
                     </div>
                 </form>
             </div>
-
-
-
          
         </div>
 
