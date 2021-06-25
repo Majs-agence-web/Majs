@@ -33,25 +33,25 @@
                     </li>
 
                     <li class="nav-item dropdown">
-                        <a class="nav-link ScriptNavigation link dropdown-toggle text-info display-4" href="#" aria-expanded="false" data-toggle="dropdown-submenu">SERVICES</a>
+                        <a class="nav-link ScriptNavigation link dropdown-toggle text-info display-4" href="#" aria-expanded="false" data-toggle="dropdown-submenu">NOS OFFRES</a>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item text-info text-primary display-4" href="site-vitrine.php" aria-expanded="false">Site Vitrine</a>
-                            <a class="dropdown-item text-info text-primary display-4" href="site-e-commerce.php" aria-expanded="false">Site E-commerce</a>
-                            <a class="dropdown-item text-info text-primary display-4" href="landing-page.php" aria-expanded="false">Site Landing page</a>
-                            <a class="dropdown-item text-info text-primary display-4" href="refonte-de-site-web.php" aria-expanded="false">Refonte de Site</a>
+                            <a class="dropdown-item text-info text-primary display-4" href="site-vitrine.php" aria-expanded="false">Site vitrine</a>
+                            <a class="dropdown-item text-info text-primary display-4" href="site-e-commerce.php" aria-expanded="false">Site e-commerce</a>
+                            <!--<a class="dropdown-item text-info text-primary display-4" href="landing-page.php" aria-expanded="false">Site One page</a>-->
+                            <a class="dropdown-item text-info text-primary display-4" href="refonte-de-site-web.php" aria-expanded="false">Refonte de site</a>
                             <a class="dropdown-item text-info text-primary display-4" href="sur-mesure.php" aria-expanded="false">Site sur mesure<br></a>
                             <a class="dropdown-item text-info text-primary display-4" href="maintenance.php" aria-expanded="false">Maintenance<br></a>
                         </div>
                     </li>
 
-                    <li class="nav-item">
+                   <!-- <li class="nav-item">
                         <a id="nosReal" class="nav-link ScriptNavigation link text-info text-primary display-4" href="index.php#nos_realisations" aria-expanded="false">RÉALISATIONS</a>
                     </li>
 
                     <li class="nav-item">
                         <a class="nav-link ScriptNavigation link text-info text-primary display-4" href="tarifs.php" aria-expanded="false">TARIFS</a>
                     </li>
-
+-->
                     <li class="nav-item">
                         <a class="nav-link ScriptNavigation link text-info text-primary display-4" href="actualites.php" aria-expanded="false">ACTUALITÉS</a>
                     </li>

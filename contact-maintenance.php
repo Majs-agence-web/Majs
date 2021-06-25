@@ -46,7 +46,337 @@
     </div>
 </section>
 
+<section class="extTabs tabs cid-stYFinPMLL d-md-block d-lg-none pt-0" id="extTabs11-1j">
+
+    <style type="text/css">
+
+        .cid-stYFinPMLL .table td{
+            border: 1px solid #355665 !important;
+        }
+
+        .cid-stYFinPMLL .table th{
+            border: 1px solid #355665 !important;
+        }
+
+
+        .cid-stYFinPMLL .table .Blanc th {
+            border-left: 1px solid #355665 !important;
+            border-right: 1px solid #fff !important;
+            border-top: 1px solid #355665 !important;
+            border-bottom: 1px solid #355665 !important;
+        }
+
+        /*class=""*/
+    </style>
+
+    <div class="container d-flex flex-column pt-5 pb-5">
+
+
+        <ul class="nav nav-tabs mb-5 justify-content-center mx-auto d-flex" role="tablist">
+            <!-- Basique -->
+                <li class="nav-item first mbr-section-btn pr-3 pl-3">
+                    <a class="mbr-fonts-style btn-sm btn show active display-5" role="tab" data-toggle="tab" href="#extTabs11-1j_tab0" aria-selected="true">Sécurité</a>
+                </li>
+
+            <!-- Optimisé -->
+                <li class="nav-item mbr-section-btn pl-3 pr-3">
+                    <a class="mbr-fonts-style btn-sm btn active display-5" role="tab" data-toggle="tab" href="#extTabs11-1j_tab1" aria-selected="true">Confort</a>
+                </li>
+
+            <!-- Confort -->
+                <li class="nav-item mbr-section-btn pl-3 pr-3">
+                    <a class="mbr-fonts-style btn-sm btn active display-5" role="tab" data-toggle="tab" href="#extTabs11-1j_tab2" aria-selected="true">Optimal</a>
+                </li>
+
+           
+
+        </ul>
+
+        
+        <div class="tab-content">
+            <div id="tab1" class="tab-pane in active" role="tabpanel">
+                <div class="container" style="background-color:#efefef">
+                    <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
+
+                        <tbody>
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Maintenance <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">A partir 1 heure/Mois</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Site <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">1 Sauvegardes par Mois</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Base de donée <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">1 Sauvegardes par Mois</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Intervention <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">Sous 48 heures</td>
+                            </tr>
+
+                            <tr class="Blanc">
+                                <th scope="row" class="MobileTarif pt-3 pb-3 align-middle">Tarifs</th>
+                                <td class="MobilePrix Center align-middle">A partir de 35€/Mois</td>
+                            </tr>
+
+                        </tbody>
+
+                    </table>
+                </div>  
+            </div>
+
+            <div id="tab2" class="tab-pane" role="tabpanel">    
+                <div class="container" style="background-color:#efefef">
+                    <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
+
+                        <tbody>
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Maintenance <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">A partie de 3 heures par mois</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Site <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">1 Sauvegardes par Semaine</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Base de donée <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">1 Sauvegardes par Semaine</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Intervention <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">Sous 48 à 24 heures</td>
+                            </tr>
+
+                            <tr class="Blanc">
+                                <th scope="row" class="MobileTarif pt-3 pb-3 align-middle">Tarifs</th>
+                                <td class="MobilePrix Center align-middle">A partir de 65€ par Mois</td>
+                            </tr>
+
+                        </tbody>
+
+                    </table>
+                </div>  
+            </div>
+
+            <div id="tab3" class="tab-pane" role="tabpanel">
+                <div class="container" style="background-color:#efefef">
+                    <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
+
+                        <tbody>
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Maintenance <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">A partir de 6 heures par Mois</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Site <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">2 Sauvegardes par Jour</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Base de donée <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">2 Sauvegardes par Jour</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Intervention <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">Sous 24 à 12 heures</td>
+                            </tr>
+
+                            <tr class="Blanc">
+                                <th scope="row" class="MobileTarif pt-3 pb-3 align-middle">Tarifs</th>
+                                <td class="MobilePrix Center align-middle">110€/Mois</td>
+                            </tr>
+
+                        </tbody>
+
+                    </table>
+                </div>  
+            </div>
+
+           
+        </div>
+    </div>
+</section>
+
+
+<style type="text/css">
+
+    .Center {
+        text-align: center;
+    }
+
+    .Titre1{
+        font-size: 1.4rem;
+        color: #ff8a73;
+        font-family: Oswald,sans-serif;
+    }
+
+    .TitreBlanc{
+        background-color: #fff;
+        font-size: 1.3rem;
+        color:#355665;
+        font-family: Oswald,sans-serif;
+    }
+
+    .TitreGris{
+        background-color: #f2f2f2;
+        font-size: 1.3rem;
+        color:#355665;
+        font-family: Oswald,sans-serif;
+    }
+
+    .TexteGris{
+        background-color: #f2f2f2;
+        font-size: 1.2rem;
+        color:#355665;
+        font-family: Oswald,sans-serif;
+    }
+
+    .TexteBlanc{
+        background-color: #fff;
+        font-size: 1.2rem;
+        color:#355665;
+        font-family: Oswald,sans-serif;
+    }
+
+    .Tarif{
+        font-size: 1.3rem;
+        background-color: #355665;
+        color:#fff;
+        font-family: Oswald,sans-serif;
+    }
+
+    .Prix{
+        font-size: 1.2rem;
+        background-color: #355665;
+        color:#fff;
+        font-family: Oswald,sans-serif;
+    }
+
+        /*Mobile*/
+    .MobileTitre1{
+        font-size: 1.2rem;
+        color: #ff8a73;
+        font-family: Oswald,sans-serif;
+    }
+
+    .MobileTitreBlanc{
+        background-color: #fff;
+        font-size: 1rem;
+        color:#355665;
+        font-family: Oswald,sans-serif;
+    }
+
+    .MobileTitreGris{
+        background-color: #f2f2f2;
+        font-size: 1rem;
+        color:#355665;
+        font-family: Oswald,sans-serif;
+    }
+
+    .MobileTexteGris{
+        background-color: #f2f2f2;
+        font-size: 1rem;
+        color:#355665;
+        font-family: Oswald,sans-serif;
+    }
+
+    .MobileTexteBlanc{
+        background-color: #fff;
+        font-size: 0.9rem;
+        color:#355665;
+        font-family: Oswald,sans-serif;
+    }
+
+    .MobileTarif{
+        font-size: 1rem;
+        background-color: #355665;
+        color:#fff;
+        font-family: Oswald,sans-serif;
+    }
+
+    .MobilePrix{
+        font-size: 0.9rem;
+        background-color: #355665;
+        color:#fff;
+        font-family: Oswald,sans-serif;
+    }
+
+    /*class=""*/
+</style>
+
+<section class="pb-5 pt-5 d-none d-lg-block">
+    <div class="container" style="background-color:#efefef">
+
+        <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
+
+            <thead>
+                <tr>
+                    <th scope="col" class="Typo Titre1 pt-3 pb-3 align-middle">Offre</th>
+                    <th scope="col" class="Typo Titre1 Center align-middle">Sécurité</th>
+                    <th scope="col" class="Typo Titre1 Center align-middle">Confort</th>
+                    <th scope="col" class="Typo Titre1 Center align-middle">Optimal</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle">Type de site conseillé <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                    <td class="Typo TexteBlanc Center align-middle">Site Vitrine</td>
+                    <td class="Typo TexteBlanc Center align-middle">Site-Vitrine/Site E-Commerce</td>
+                    <td class="Typo TexteBlanc Center align-middle">Site-E-Commerce/Site sur mesure</td>
+                </tr>
+                <tr>
+                    <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle">Maintenance <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                    <td class="Typo TexteBlanc Center align-middle">A partir 1 heure par Mois</td>
+                    <td class="Typo TexteBlanc Center align-middle">A partir de 3 heures par Mois</td>
+                    <td class="Typo TexteBlanc Center align-middle">A partir de 6 heures par Mois</td>
+                </tr>
+                <tr>
+                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Sauvegarde de votre Site <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                    <td class="Typo TexteGris Center align-middle">1 Sauvegardes par Mois</td>
+                    <td class="Typo TexteGris Center align-middle">1 Sauvegardes par Semaine</td>
+                    <td class="Typo TexteGris Center align-middle">2 Sauvegardes par Jour</td>
+                </tr>
+
+                <tr>
+                    <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Base de donée <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                    <td class="Typo TexteBlanc Center align-middle">1 Sauvegardes par Mois</td>
+                    <td class="Typo TexteBlanc Center align-middle">1 Sauvegardes par Semaine</td>
+                    <td class="Typo TexteBlanc Center align-middle">2 Sauvegardes par Jour</td>
+                </tr>
+
+                <tr>
+                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Intervention <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                    <td class="Typo TexteGris Center align-middle">Sous 48 heures</td>
+                    <td class="Typo TexteGris Center align-middle">Sous 24 à 48 heures</td>
+                    <td class="Typo TexteGris Center align-middle">Sous 12 à 24 heures</td>
+                </tr>
+
+                <tr>
+                    <th scope="row" class="Typo Tarif pt-3 pb-3 align-middle">Tarifs</th>
+                    <td class="Typo Prix Center align-middle">A partir de 35€HT/Mois</td>
+                    <td class="Typo Prix Center align-middle">A partir de 65€/Mois</td>
+                    <td class="Typo Prix Center align-middle">A partir de 110€/Mois</td>
+                </tr>
+
+            </tbody>
+
+        </table>
+    </div>
+</section>
+
 <!-- ici -->
+
 <section class="form BGC pt-5" group="Form" plugins="formstyler, datepicker">
         <div class="container">
             <div class="row">
@@ -65,40 +395,27 @@
                                 </div>
 
                                 <div class="form-check">
-                                    <input type="radio" name="radio" data-form-field="radio" class="form-check-input display-7" value="Forfait basique (35€/Mois)" checked="" id="radio-tabs04-1i"
-                                    <?php if (isset($_GET['service']) and $_GET['service'] == "basique") {
-                                        echo 'checked=""';
-                                    } ?>
-                                    >
-                                    <label class="form-check-label display-7">Forfait basique (35€/Mois)</label>
+                                    <input type="radio" name="radio" data-form-field="radio" class="form-check-input display-7" value="Sécurité" checked="" id="radio-tabs04-1i">
+                                    <label class="form-check-label display-7">Forfait Sécurité</label>
                                 </div>
 
                                 <div class="form-check">
-                                    <input type="radio" name="radio" data-form-field="radio" class="form-check-input display-7" value="Forfait optimisé (55€/Mois)" id="radio-tabs04-1i"
-                                    <?php if (isset($_GET['service']) and $_GET['service'] == "optimise") {
-                                        echo 'checked=""';
-                                    } ?>
-                                    >
-                                    <label class="form-check-label display-7">Forfait optimisé (55€/Mois)</label>
+                                    <input type="radio" name="radio" data-form-field="radio" class="form-check-input display-7" value="Confort" id="radio-tabs04-1i">
+                                    <label class="form-check-label display-7">Forfait Confort</label>
                                 </div>
 
                                 <div class="form-check">
-                                    <input type="radio" name="radio" data-form-field="radio" class="form-check-input display-7" value="Forfait confort (100€/Mois)" id="radio-tabs04-1i"
-                                    <?php if (isset($_GET['service']) and $_GET['service'] == "confort") {
-                                        echo 'checked=""';
-                                    } ?>
-                                    >
-                                    <label class="form-check-label display-7">Forfait confort (100€/Mois)</label>
+                                    <input type="radio" name="radio" data-form-field="radio" class="form-check-input display-7" value="Optimal" id="radio-tabs04-1i">
+                                    <label class="form-check-label display-7">Forfait Optimal</label>
                                 </div>
 
-                                <div class="form-check">
-                                    <input type="radio" name="radio" data-form-field="radio" class="form-check-input display-7" value="Forfait sérénité (200€/Mois)" id="radio-tabs04-1i"
-                                    <?php if (isset($_GET['service']) and $_GET['service'] == "serenite") {
-                                        echo 'checked=""';
-                                    } ?>
-                                    >
-                                    <label class="form-check-label display-7">Forfait sérénité (200€/Mois)</label>
+                            </div>
+
+                            <div class="col-lg-12 col-md-12 col-sm-12">
+                                    <p class="mbr-fonts-style display-5">Combien d'heures de mainternance souhaitez-vous dans votre pack ?</p>
                                 </div>
+                                <div data-for="Nombre de page" class="col-lg-12 col-md-12 col-sm-12 form-group">
+                                    <input required type="number" name="Nombre de page" placeholder="Nombre d'heures" max="7" min="1" step="1" data-form-field="Nombre de page" class="form-control display-7" value="" id="nameFirst-tabs04-1i">
                             </div>
 
                             <div class="col-lg-12 col-md-12 col-sm-12"><hr></div>

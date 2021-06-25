@@ -45,21 +45,254 @@
     </div>
 </section>
 
-<section class="cid-spnh6LSSFY" id="title02-5n">
-    <div class="container align-center">
-        <div class="row justify-content-md-start justify-content-md-center">
-            <div class="mbr-white col-sm-12 col-md-10 col-lg-8">
-                <h1 class="mbr-section-title mbr-regular align-center mbr-fonts-style display-2">Quel est le tarif de mon site&nbsp;internet&nbsp;?</h1>     
-                <p class="mbr-text mbr-light align-center mbr-fonts-style display-7 pt-3">
-                    Nous avons décidé d'avoir une politique de prix transparent pour que puissiez prévoir au mieux votre budget. 
-                    <br>
-                    <br>Les deux solutions que nous proposons est l'achat de votre site internet ou sinon pour les budgets serré la location avec option 
-                    d'achat de votre site.
-                    <br>
-                    <br>Dans les différentes solutions que nous proposons, nous essayons de répondre au mieux aux différentes demandes de nos clients 
-                    (site vitrine, site e-commerce etc.)
-                </p>
+<!-- PC -->
+<section class="pt-5 d-lg-block d-none">
+    <div class="row">
+    <section class="extTabs tabs cid-stYFinPMLL col-xl-4 col-lg-3 p-0 pl-2">
+        <div class="container d-flex flex-column">
+            <div class="tab-content">
+                <div id="tab1" class="tab-pane in active" role="tabpanel">
+                    <section class="extPricingTables" group="Additional Blocks">
+                        <div class="container p-0">
+                            <div class="media-container-row"> 
+                                <div class="justify-content-center">
+                                    <div class="price-item text-center">
+                                        <div class="test">
+                                            <h4 class="title mbr-fonts-style mbr-light display-5">
+                                                <strong>
+                                                    <a href="site-vitrine.php">Location</a>
+                                                </strong>
+                                            </h4>
+                                        </div>
+                                        <div class="price-tage">
+                                            <h3 class="mbr-fonts-style costs mbr-light display-2">70€</h3>
+                                            <p class="mbr-fonts-style costs-title display-4">/Mois</p>
+                                        </div>
+                                        <ul class="table-content mbr-fonts-style display-7">
+                                            <li>Site internet WordPress</li>
+                                            <li>Fiche Google My Business</li>
+                                            <li>Google Analytics</li>
+                                            <li>Nom de domaine  e-mails (inclus)</li>
+                                            <li>Hébergement  maintenance (inclus)</li>
+                                        </ul>
+                                        <div class="pricing-footer mbr-section-btn">
+                                            <a href="devis.php?site=siteVitrine&service=location" class="btn btn-primary display-4">Devis gratuit</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
             </div>
+        </div>
+    </section>
+              
+    <section class="col-xl-4 col-lg-6 d-flex align-items-center"> 
+        <img src="assets/images/test7.svg" style="width:100%">
+    </section>
+
+    <section class="extTabs tabs cid-stYFinPMLL col-xl-4 col-lg-3 p-0 pr-2">
+        <div class="container d-flex flex-column">
+            <div class="tab-content">
+                <div id="tab1" class="tab-pane in active" role="tabpanel">
+                    <section class="extPricingTables" group="Additional Blocks">
+                        <div class="container p-0">
+                            <div class="media-container-row"> 
+                                <div class="justify-content-center">
+                                    <div class="price-item text-center">
+                                        <div class="test">
+                                            <h4 class="title mbr-fonts-style mbr-light display-5">
+                                                <strong>
+                                                    <a href="site-vitrine.php">Achat</a>
+                                                </strong>
+                                            </h4>
+                                        </div>
+                                        <div class="price-tage">
+                                            <p class="mbr-fonts-style costs-title display-4">A partir de</p>
+                                            <h3 class="mbr-fonts-style costs mbr-light display-2">950€</h3>
+                                            <p class="mbr-fonts-style costs-title display-4">/HT</p>
+                                        </div>
+                                        <ul class="table-content mbr-fonts-style display-7">
+                                            <li>Site internet WordPress</li>
+                                            <li>Fiche Google My Business</li>
+                                            <li>Google Analytics</li>
+                                            <li>Nom de domaine  e-mails (Option)</li>
+                                            <li>Hébergement  maintenance (Option)</li>
+                                        </ul>
+                                        <div class="pricing-footer mbr-section-btn">
+                                            <a href="devis.php?site=siteVitrine&service=location" class="btn btn-primary display-4">Devis gratuit</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </section>
+    </div>
+</section>
+<!-- PC -->
+
+<!-- Tablette /Mobile -->
+<section class="d-md-block d-lg-none pt-5">
+    <section class="extTabs tabs cid-stYFinPMLL p-0 pb-2">
+        <div class="container d-flex flex-column">
+            <div class="tab-content">
+                <div id="tab1" class="tab-pane in active" role="tabpanel">
+                    <section class="extPricingTables" group="Additional Blocks">
+                        <div class="container p-0">
+                            <div class="media-container-row"> 
+                                <div class="justify-content-center col-md-10 col-sm-10 col-12 justify-content-center">
+                                    <div class="price-item text-center">
+                                        <div class="test">
+                                            <h4 class="title mbr-fonts-style mbr-light display-5">
+                                                <strong>
+                                                    <a href="site-vitrine.php">Location</a>
+                                                </strong>
+                                            </h4>
+                                        </div>
+                                        <div class="price-tage">
+                                            <h3 class="mbr-fonts-style costs mbr-light display-2">70€</h3>
+                                            <p class="mbr-fonts-style costs-title display-4">/Mois</p>
+                                        </div>
+                                        <ul class="table-content mbr-fonts-style display-7">
+                                            <li>Site internet WordPress</li>
+                                            <li>Fiche Google My Business</li>
+                                            <li>Google Analytics</li>
+                                            <li>Nom de domaine  e-mails (inclus)</li>
+                                            <li>Hébergement  maintenance (inclus)</li>
+                                        </ul>
+                                        <div class="pricing-footer mbr-section-btn">
+                                            <a href="devis.php?site=siteVitrine&service=location" class="btn btn-primary display-4">Devis gratuit</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="d-md-block d-none col-8 offset-2 mt-4 mb-4 align-items-center"> 
+        <img src="assets/images/test7.svg" style="width:100%">
+    </section>
+
+    <section class="extTabs tabs cid-stYFinPMLL p-0 pt-2">
+        <div class="container d-flex flex-column">
+            <div class="tab-content">
+                <div id="tab1" class="tab-pane in active" role="tabpanel">
+                    <section class="extPricingTables" group="Additional Blocks">
+                        <div class="container p-0">
+                            <div class="media-container-row"> 
+                                <div class="justify-content-center col-md-10 col-sm-10 col-12">
+                                    <div class="price-item text-center">
+                                        <div class="test">
+                                            <h4 class="title mbr-fonts-style mbr-light display-5">
+                                                <strong>
+                                                    <a href="site-vitrine.php">Achat</a>
+                                                </strong>
+                                            </h4>
+                                        </div>
+                                        <div class="price-tage">
+                                            <p class="mbr-fonts-style costs-title display-4">A partir de</p>
+                                            <h3 class="mbr-fonts-style costs mbr-light display-2">950€</h3>
+                                            <p class="mbr-fonts-style costs-title display-4">/HT</p>
+                                        </div>
+                                        <ul class="table-content mbr-fonts-style display-7">
+                                            <li>Site internet WordPress</li>
+                                            <li>Fiche Google My Business</li>
+                                            <li>Google Analytics</li>
+                                            <li>Nom de domaine  e-mails (Option)</li>
+                                            <li>Hébergement  maintenance (Option)</li>
+                                        </ul>
+                                        <div class="pricing-footer mbr-section-btn">
+                                            <a href="devis.php?site=siteVitrine&service=location" class="btn btn-primary display-4">Devis gratuit</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+
+<!-- Tablette /Mobile -->
+
+<section style="background-color:#efefef" class="header4 cid-sqoByG21uJ devisTitle pt-5" id="header09-6j">
+    <div class="container">
+        <div class="row justify-content-md-center">
+            <div class="col-md-10 col-sm-12">
+                <h6 style="color:#355665" class="mbr-section-title align-center mbr-regular pb-2 mbr-fonts-style display-2">Vous avez choici votre offre ? </h6>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<section class="pb-5">
+    <div class="container" style="background-color:#efefef">
+        <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
+
+            <thead>
+                <tr>
+                    <th scope="col" class="Typo Titre1 pt-3 pb-3 align-middle">Offre</th>
+                    <th scope="col" class="Typo Titre1 Center align-middle">Basique</th>
+                    <th scope="col" class="Typo Titre1 Center align-middle">Optimiser</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="">Maintenance <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                    <td class="Typo TexteBlanc Center align-middle">1 heure/Mois</td>
+                    <td class="Typo TexteBlanc Center align-middle">1 à 2 heures/Mois</td>
+
+                </tr>
+                <tr>
+                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Sauvegarde de votre Site <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                    <td class="Typo TexteGris Center align-middle">2 Sauvegardes/Mois</td>
+                    <td class="Typo TexteGris Center align-middle">2 Sauvegardes/Semaine</td>
+                </tr>
+
+                <tr>
+                    <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Base de donée <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                    <td class="Typo TexteBlanc Center align-middle">2 Sauvegardes/Mois</td>
+                    <td class="Typo TexteBlanc Center align-middle">2 Sauvegardes/Semaine</td>
+                </tr>
+
+                <tr>
+                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Intervention <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                    <td class="Typo TexteGris Center align-middle">Sous 48 heures</td>
+                    <td class="Typo TexteGris Center align-middle">Sous 48 heures</td>
+                </tr>
+
+                <tr>
+                    <th scope="row" class="Typo Tarif pt-3 pb-3 align-middle">Tarifs</th>
+                    <td class="Typo Prix Center align-middle">35€/Mois</td>
+                    <td class="Typo Prix Center align-middle">55€/Mois</td>
+                </tr>
+
+            </tbody>
+
+        </table>
+    </div>
+</section>
+
+<section style="background-color:#efefef" class="header4 cid-sqoByG21uJ devisTitle pt-5" id="header09-6j">
+    <div class="container">
+        <div class="row justify-content-md-center">
+            <div class="col-md-10 col-sm-12">
+                <h6 style="color:#355665" class="mbr-section-title align-center mbr-regular pb-2 mbr-fonts-style display-2">Vous avez choici votre offre ? </h6>
+            </div>
+
         </div>
     </div>
 </section>
@@ -121,611 +354,394 @@
 </section>
 
 <section class="extTabs tabs cid-stYFinPMLL id="extTabs11-1j">
-    <div class="container d-flex flex-column">
-        <ul class="nav nav-tabs mb-4 justify-content-center mx-auto d-flex" role="tablist">
-            <!-- maintenance -->
-            <?php 
-                if (isset($_GET['service']) and $_GET['service'] == "maintenance") { 
-                    echo '<li class="nav-item first mbr-section-btn">
-                    <a class="mbr-fonts-style btn-sm btn show active display-5" role="tab" data-toggle="tab" href="#extTabs11-1j_tab0" aria-selected="true">Maintenance</a>
-                    </li>';
-            
-                }else{
-                    echo '<li class="nav-item first mbr-section-btn">
-                    <a class="mbr-fonts-style btn-sm btn show active display-5" role="tab" data-toggle="tab" href="#extTabs11-1j_tab0" aria-selected="true">Location</a>
-                    </li>';
-                } 
-            ?>
-            <!-- location -->
 
-            <!-- achat -->
-            <li class="nav-item mbr-section-btn">
-                <a class="mbr-fonts-style btn-sm btn active display-5" role="tab" data-toggle="tab" href="#extTabs11-1j_tab1" aria-selected="true">Achat</a>
-            </li>
+    <style type="text/css">
 
-            <!-- location -->
-            <?php 
-                if (isset($_GET['service']) and $_GET['service'] == "maintenance") { 
-                    echo '<li class="nav-item mbr-section-btn">
-                    <a class="mbr-fonts-style btn-sm btn active display-5" role="tab" data-toggle="tab" href="#extTabs11-1j_tab2" aria-selected="true">Location</a>
-                    </li>';
-                
-                }else{
-                    echo '<li class="nav-item mbr-section-btn">
-                    <a class="mbr-fonts-style btn-sm btn active display-5" role="tab" data-toggle="tab" href="#extTabs11-1j_tab2" aria-selected="true">Maintenance</a>
-                    </li>';
-                } 
-            ?>
-            <!-- maintenance -->
+    .cid-stYFinPMLL .table td{
+        border: 1px solid #355665 !important;
+    }
+
+    .cid-stYFinPMLL .table th{
+        border: 1px solid #355665 !important;
+    }
+
+
+    .cid-stYFinPMLL .table .Blanc th {
+        border-left: 1px solid #355665 !important;
+        border-right: 1px solid #fff !important;
+        border-top: 1px solid #355665 !important;
+        border-bottom: 1px solid #355665 !important;
+    }
+
+        /*class=""*/
+    </style>
+    <div class="container d-flex flex-column pb-5">
+        <ul class="nav nav-tabs mb-5 justify-content-center mx-auto d-flex" role="tablist">
+            <!-- Basique -->
+                <li class="nav-item first mbr-section-btn pr-3 pl-3">
+                    <a class="mbr-fonts-style btn-sm btn show active display-5" role="tab" data-toggle="tab" href="#extTabs11-1j_tab0" aria-selected="true">Basique</a>
+                </li>
+
+            <!-- Optimisé -->
+                <li class="nav-item mbr-section-btn pl-3 pr-3">
+                    <a class="mbr-fonts-style btn-sm btn active display-5" role="tab" data-toggle="tab" href="#extTabs11-1j_tab1" aria-selected="true">Optimisé</a>
+                </li>
+
+            <!-- Confort -->
+                <li class="nav-item mbr-section-btn pl-3 pr-3">
+                    <a class="mbr-fonts-style btn-sm btn active display-5" role="tab" data-toggle="tab" href="#extTabs11-1j_tab2" aria-selected="true">Confort</a>
+                </li>
+
+            <!-- Sérénité -->
+                <li class="nav-item mbr-section-btn pl-3 pr-3">
+                    <a class="mbr-fonts-style btn-sm btn active display-5" role="tab" data-toggle="tab" href="#extTabs11-1j_tab3" aria-selected="true">Sérénité</a>
+                </li>
+           
+
         </ul>
+
         
         <div class="tab-content">
 
-            <!-- location -->
-            <?php 
-                if (isset($_GET['service']) and $_GET['service'] == "maintenance") { 
-                    echo '<div id="tab1" class="tab-pane in active" role="tabpanel">
-                        <div class="row justify-content-center">
-                            <section class="extPricingTables" group="Additional Blocks">
-                                <div class="container">
-                                    <div class="media-container-row">
-                                        <div class="col-12 col-md-5 justify-content-center col-lg-3">
-                                            <div class="price-item text-center">
-                                                <div class="test">
-                                                    <h4 class="title mbr-fonts-style mbr-light display-5">
-                                                        <strong>
-                                                            <a href="maintenance.php">Basique</a>
-                                                        </strong>
-                                                    </h4>
-                                                </div>
-                                                <div class="price-tage">
-                                                    <h3 class="mbr-fonts-style costs mbr-light display-2">35€</h3>
-                                                    <p class="mbr-fonts-style costs-title display-4">/Mois</p>
-                                                </div>
-                                                <ul class="table-content mbr-fonts-style display-7">
-                                                    
-                                                    <li class="option divMaintenance1">Maintenance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 255, 255);"></span> </li>
-                                                    <div class="maintenance1">1 heure de maintenance par mois</div>
-                                                    
-                                                    <li>Mise à jour de WordPress, Prestashop ou Mobirise, des modules et des plugins <span class="mobi-mbri mobi-mbri-success mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
-                                                    
-                                                    <li class="divSauvegardeSite1">Sauvegarde de votre site<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
-                                                    <div class="sauvegardeSite1">2 Sauvegardes de votre site par mois</div>
-                                                    
-                                                    <li class="divSauvegardeBDD1">Sauvegarde de votre base de donnée&nbsp;<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>  
-                                                    <div class="sauvegardeBDD1">2 Sauvegardes de votre base de données par mois</div>
-                                                    
-                                                    <li class="divDelaisIntervention1">Délais assistance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 138, 115);"></span></li>
-                                                    <div class="delaisIntervention1">Intervention sous 48 heures</div>
-                                                    
-                                                </ul>
-                                                <div class="pricing-footer mbr-section-btn"><a href="contact-maintenance.php?service=basique" class="btn btn-primary display-4">Choisir ce forfait</a></div>
-                                            </div>
-                                        </div>
+            <div id="tab1" class="tab-pane in active" role="tabpanel">
+                <div class="container" style="background-color:#efefef">
+                    <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
 
-                                        <div class="col-12 col-md-5 justify-content-center col-lg-3">
-                                            <div class="price-item text-center">
-                                                <div class="test">
-                                                    <h4 class="title mbr-fonts-style mbr-light display-5">
-                                                        <strong>
-                                                            <a href="maintenance.php">Optimise</a>
-                                                        </strong>
-                                                    </h4>
-                                                </div>
-                                                <div class="price-tage">
-                                                    <h3 class="mbr-fonts-style costs mbr-light display-2">55€</h3>
-                                                    <p class="mbr-fonts-style costs-title display-4">/Mois</p>
-                                                </div>
-                                                <ul class="table-content mbr-fonts-style display-7">
-                                                        
-                                                        <li class="option divMaintenance2">Maintenance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 255, 255);"></span> </li>
-                                                        <div class="maintenance2">1 à 2 heures de maintenance par mois</div>
-                                                        
-                                                        <li>Mise à jour de WordPress, Prestashop ou Mobirise, des modules et des plugins <span class="mobi-mbri mobi-mbri-success mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
-                                                        
-                                                        <li class="divSauvegardeSite2">Sauvegarde de votre site<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
-                                                        <div class="sauvegardeSite2">2 Sauvegardes de votre site par semaine</div>
-                                                        
-                                                        <li class="divSauvegardeBDD2">Sauvegarde de votre base de donnée&nbsp;<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>  
-                                                        <div class="sauvegardeBDD2">2 Sauvegardes de votre base de données par semaine</div>
-                                                        
-                                                        <li class="divDelaisIntervention2">Délais assistance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 138, 115);"></span></li>
-                                                        <div class="delaisIntervention2">Intervention sous 48 heures</div>
-                                                        
-                                                    </ul>
-                                                <div class="pricing-footer mbr-section-btn"><a href="contact-maintenance.php?service=optimise" class="btn btn-primary display-4">Choisir ce forfait</a></div>
-                                            </div>
-                                        </div>
+                        <tbody>
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Maintenance <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">1 heure/Mois</td>
+                            </tr>
 
-                                        <div class="col-12 col-md-5 justify-content-center col-lg-3">
-                                            <div class="price-item text-center">
-                                                <div class="test">
-                                                    <h4 class="title mbr-fonts-style mbr-light display-5">
-                                                        <strong>
-                                                            <a href="maintenance.php">Confort</a>
-                                                        </strong>
-                                                    </h4>
-                                                </div>
-                                                <div class="price-tage">
-                                                    <h3 class="mbr-fonts-style costs mbr-light display-2">100€</h3>
-                                                    <p class="mbr-fonts-style costs-title display-4">/Mois</p>
-                                                </div>
-                                                <ul class="table-content mbr-fonts-style display-7">
-                                                    
-                                                    <li class="option divMaintenance1">Maintenance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 255, 255);"></span> </li>
-                                                    <div class="maintenance1">2 à 4 heures de maintenance par mois</div>
-                                                    
-                                                    <li>Mise à jour de WordPress, Prestashop ou Mobirise, des modules et des plugins <span class="mobi-mbri mobi-mbri-success mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
-                                                    
-                                                    <li class="divSauvegardeSite3">Sauvegarde de votre site<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
-                                                    <div class="sauvegardeSite3">2 Sauvegardes de votre site par jour</div>
-                                                    
-                                                    <li class="divSauvegardeBDD3">Sauvegarde de votre base de donnée&nbsp;<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>  
-                                                    <div class="sauvegardeBDD3">2 Sauvegardes de votre base de données par jour</div>
-                                                    
-                                                    <li class="divDelaisIntervention3">Délais assistance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 138, 115);"></span></li>
-                                                    <div class="delaisIntervention3">Intervention sous 24 heures</div>
-                                                                
-                                                </ul>
-                                                <div class="pricing-footer mbr-section-btn"><a href="contact-maintenance.php?service=confort" class="btn btn-primary display-4">Choisir ce forfait</a></div>
-                                            </div>
-                                        </div>
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Site <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">2 Sauvegardes/Mois</td>
+                            </tr>
 
-                                        <div class="col-12 col-md-5 justify-content-center col-lg-3">
-                                            <div class="price-item text-center">
-                                                <div class="test">
-                                                    <h4 class="title mbr-fonts-style mbr-light display-5">
-                                                        <strong>
-                                                            <a href="maintenance.php">Sérénité</a>
-                                                        </strong>
-                                                    </h4>
-                                                </div>
-                                                    <div class="price-tage">
-                                                        <h3 class="mbr-fonts-style costs display-2">200€</h3>
-                                                        <p class="mbr-fonts-style costs-title display-4">/Mois</p>
-                                                    </div>
-                                                    <ul class="table-content mbr-fonts-style display-7">
-                                                    
-                                                        <li class="option divMaintenance4">Maintenance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 255, 255);"></span> </li>
-                                                        <div class="maintenance4">4 à 7 heures de maintenance par mois</div>
-                                                        
-                                                        <li>Mise à jour de WordPress, Prestashop ou Mobirise, des modules et des plugins <span class="mobi-mbri mobi-mbri-success mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
-                                                        
-                                                        <li class="divSauvegardeSite4">Sauvegarde de votre site<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
-                                                        <div class="sauvegardeSite4">2 Sauvegardes de votre site par jour sur un serveur externe</div>
-                                                        
-                                                        <li class="divSauvegardeBDD4">Sauvegarde de votre base de donnée&nbsp;<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>  
-                                                        <div class="sauvegardeBDD4">2 Sauvegardes de votre base de données par jour sur un serveur externe</div>
-                                                        
-                                                        <li class="divDelaisIntervention4">Délais assistance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 138, 115);"></span></li>
-                                                        <div class="delaisIntervention4">Intervention sous 24 heures</div>
-                                                    
-                                                    </ul>
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Base de donée <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">2 Sauvegardes/Mois</td>
+                            </tr>
 
-                                                    <div class="pricing-footer mbr-section-btn"><a href="contact-maintenance.php?service=serenite" class="btn btn-primary display-4">Choisir ce forfait</a></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                    </div>';
-                }else{
-                    echo '<div id="tab1" class="tab-pane in active" role="tabpanel">
-                        <section class="extPricingTables" group="Additional Blocks">
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Intervention <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">Sous 48 heures</td>
+                            </tr>
 
-                            <div class="container">
-                                <div class="media-container-row">
-                                    <div class="col-12 col-md-5 justify-content-center col-lg-3">
-                                        <div class="price-item text-center">
-                                            <div class="test">
-                                                <h4 class="title mbr-fonts-style mbr-light display-5">
-                                                    <strong>
-                                                        <a href="landing-page.php">Landing Page</a>
-                                                    </strong>
-                                                </h4>
-                                            </div>
-                                            <div class="price-tage">
-                                                <h3 class="mbr-fonts-style costs mbr-light display-2">55€</h3>
-                                                <p class="mbr-fonts-style costs-title display-4">/Mois</p>
-                                            </div>
-                                            <ul class="table-content mbr-fonts-style display-7">
-                                                <li>Site internet Mobirise</li>
-                                                <li>Fiche Google My Business</li>
-                                                <li>Google Analytics</li>
-                                                <li>Nom de domaine  e-mails (inclus)</li>
-                                                <li>Hébergement  maintenance (inclus)</li>
-                                            </ul>
-                                            <div class="pricing-footer mbr-section-btn"><a href="devis.php?site=landingPage&service=location" class="btn btn-primary display-4">Devis gratuit</a></div>
-                                        </div>
-                                    </div>
-                    
-                                    <div class="col-12 col-md-5 justify-content-center col-lg-3">
-                                        <div class="price-item text-center">
-                                            <div class="test">
-                                                <h4 class="title mbr-fonts-style mbr-light display-5">
-                                                    <strong>
-                                                        <a href="site-vitrine.php">Vitrine</a>
-                                                    </strong>
-                                                </h4>
-                                            </div>
-                                            <div class="price-tage">
-                                                <h3 class="mbr-fonts-style costs mbr-light display-2">70€</h3>
-                                                <p class="mbr-fonts-style costs-title display-4">/Mois</p>
-                                            </div>
-                                            <ul class="table-content mbr-fonts-style display-7">
-                                                <li>Site internet WordPress</li>
-                                                <li>Fiche Google My Business</li>
-                                                <li>Google Analytics</li>
-                                                <li>Nom de domaine  e-mails (inclus)</li>
-                                                <li>Hébergement  maintenance (inclus)</li>
-                                            </ul>
-                                            <div class="pricing-footer mbr-section-btn">
-                                                <a href="devis.php?site=siteVitrine&service=location" class="btn btn-primary display-4">Devis gratuit</a>
-                                            </div>
-                                        </div>
-                                    </div>
+                            <tr class="Blanc">
+                                <th scope="row" class="MobileTarif pt-3 pb-3 align-middle">Tarifs</th>
+                                <td class="MobilePrix Center align-middle">35€/Mois</td>
+                            </tr>
 
-                                    <div class="col-12 col-md-5 justify-content-center col-lg-3">
-                                        <div class="price-item text-center">
-                                            <div class="test">
-                                                <h4 class="title mbr-fonts-style mbr-light display-5">
-                                                    <strong>
-                                                        <a href="site-e-commerce.php">E-Commerce</a>
-                                                    </strong>
-                                                </h4>
-                                            </div>
-                                            <div class="price-tage">
-                                                <h3 class="mbr-fonts-style costs mbr-light display-2">85€</h3>
-                                                <p class="mbr-fonts-style costs-title display-4">/Mois</p>
-                                            </div>
-                                            <ul class="table-content mbr-fonts-style display-7">
-                                                <li>Site internet Prestashop</li>
-                                                <li>Fiche Google My Business</li>
-                                                <li>Google Analytics</li>
-                                                <li>Nom de domaine  e-mails (inclus)</li>
-                                                <li>Hébergement  maintenance (inclus)</li>
-                                            </ul>
-                                            <div class="pricing-footer mbr-section-btn">
-                                                <a href="devis.php?site=siteECommerce&service=location" class="btn btn-primary display-4">Devis gratuit</a>
-                                            </div>
-                                        </div>
-                                    </div>
+                        </tbody>
 
-                                </div>
-                            </div>
-                        </section>
-                    </div>';
-                } 
-            ?>
-            <!-- maintenance -->
-
-            <!-- achat -->
-            <div id="tab2" class="tab-pane" role="tabpanel">    
-                <section class="extPricingTables" group="Additional Blocks">
-                    <div class="container">
-                        <div class="media-container-row">
-                            <div class="col-12 col-md-5 justify-content-center col-lg-3">
-                                <div class="price-item text-center">
-                                    <div class="test">
-                                        <h4 class="title mbr-fonts-style mbr-light display-5">
-                                            <strong>
-                                                <a href="landing-page.php">Landing Page</a>
-                                            </strong>
-                                        </h4>
-                                    </div>
-                                    <div class="price-tage">
-                                        <p class="mbr-fonts-style costs-title display-4">A partir de</p>
-                                        <h3 class="mbr-fonts-style costs mbr-light display-2">950€</h3>
-                                        <p class="mbr-fonts-style costs-title display-4">/HT</p>
-                                    </div>
-                                    <ul class="table-content mbr-fonts-style display-7">
-                                        <li>Site internet Mobirise</li>
-                                        <li>Fiche Google My Business</li>
-                                        <li>Google Analytics</li>
-                                        <li>Nom de domaine  e-mails (Option)</li>
-                                        <li>Hébergement  maintenance (Option)</li>
-                                    </ul>
-                                    <div class="pricing-footer mbr-section-btn"><a href="devis.php?site=landingPage&service=achat" class="btn btn-primary display-4">Devis gratuit</a></div>
-                                </div>
-                            </div>
-            
-                            <div class="col-12 col-md-5 justify-content-center col-lg-3">
-                                <div class="price-item text-center">
-                                    <div class="test">
-                                        <h4 class="title mbr-fonts-style mbr-light display-5">
-                                            <strong>
-                                                <a href="site-vitrine.php">Vitrine</a>
-                                            </strong>
-                                        </h4>
-                                    </div>
-                                    <div class="price-tage">
-                                        <p class="mbr-fonts-style costs-title display-4">A partir de</p>
-                                        <h3 class="mbr-fonts-style costs mbr-light display-2">1500€</h3>
-                                        <p class="mbr-fonts-style costs-title display-4">/HT</p>
-                                    </div>
-                                    <ul class="table-content mbr-fonts-style display-7">
-                                        <li>Site internet WordPress</li>
-                                        <li>Fiche Google My Business</li>
-                                        <li>Google Analytics</li>
-                                        <li>Nom de domaine  e-mails (Option)</li>
-                                        <li>Hébergement  maintenance (Option)</li>
-                                    </ul>
-                                    <div class="pricing-footer mbr-section-btn"><a href="devis.php?site=siteVitrine&service=achat" class="btn btn-primary display-4">Devis gratuit</a></div>
-                                </div>
-                            </div>
-
-                            <div class="col-12 col-md-5 justify-content-center col-lg-3">
-                                <div class="price-item text-center">
-                                    <div class="test">
-                                        <h4 class="title mbr-fonts-style mbr-light display-5">
-                                            <strong>
-                                                <a href="site-e-commerce.php">E-Commerce</a>
-                                            </strong>
-                                        </h4>
-                                    </div>
-                                    <div class="price-tage">
-                                        <p class="mbr-fonts-style costs-title display-4">A partir de</p>
-                                        <h3 class="mbr-fonts-style costs mbr-light display-2">2000€</h3>
-                                        <p class="mbr-fonts-style costs-title display-4">/HT</p>
-                                    </div>
-                                    <ul class="table-content mbr-fonts-style display-7">
-                                        <li>Site internet Prestashop</li>
-                                        <li>Fiche Google My Business</li>
-                                        <li>Google Analytics</li>
-                                        <li>Nom de domaine  e-mails (Option)</li>
-                                        <li>Hébergement  maintenance (Option)</li>
-                                    </ul>
-                                    <div class="pricing-footer mbr-section-btn"><a href="devis.php?site=siteECommerce&service=achat" class="btn btn-primary display-4">Devis gratuit</a></div>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                </section>
+                    </table>
+                </div>  
             </div>
 
-            <!-- location -->
-            <?php 
-                if (isset($_GET['service']) and $_GET['service'] == "maintenance") { 
-                    echo '<div id="tab3" class="tab-pane" role="tabpanel">
-                        <section class="extPricingTables" group="Additional Blocks">
+            <div id="tab2" class="tab-pane" role="tabpanel">    
+                <div class="container" style="background-color:#efefef">
+                    <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
 
-                            <div class="container">
-                                <div class="media-container-row">
-                                    <div class="col-12 col-md-5 justify-content-center col-lg-3">
-                                        <div class="price-item text-center">
-                                            <div class="test">
-                                                <h4 class="title mbr-fonts-style mbr-light display-5">
-                                                    <strong>
-                                                        <a href="landing-page.php">Landing Page</a>
-                                                    </strong>
-                                                </h4>
-                                            </div>
-                                            <div class="price-tage">
-                                                <h3 class="mbr-fonts-style costs mbr-light display-2">55€</h3>
-                                                <p class="mbr-fonts-style costs-title display-4">/Mois</p>
-                                            </div>
-                                            <ul class="table-content mbr-fonts-style display-7">
-                                                <li>Site internet Mobirise</li>
-                                                <li>Fiche Google My Business</li>
-                                                <li>Google Analytics</li>
-                                                <li>Nom de domaine  e-mails (inclus)</li>
-                                                <li>Hébergement  maintenance (inclus)</li>
-                                            </ul>
-                                            <div class="pricing-footer mbr-section-btn"><a href="devis.php?site=landingPage&service=location" class="btn btn-primary display-4">Devis gratuit</a></div>
-                                        </div>
-                                    </div>
-                    
-                                    <div class="col-12 col-md-5 justify-content-center col-lg-3">
-                                        <div class="price-item text-center">
-                                            <div class="test">
-                                                <h4 class="title mbr-fonts-style mbr-light display-5">
-                                                    <strong>
-                                                        <a href="site-vitrine.php">Vitrine</a>
-                                                    </strong>
-                                                </h4>
-                                            </div>
-                                            <div class="price-tage">
-                                                <h3 class="mbr-fonts-style costs mbr-light display-2">70€</h3>
-                                                <p class="mbr-fonts-style costs-title display-4">/Mois</p>
-                                            </div>
-                                            <ul class="table-content mbr-fonts-style display-7">
-                                                <li>Site internet WordPress</li>
-                                                <li>Fiche Google My Business</li>
-                                                <li>Google Analytics</li>
-                                                <li>Nom de domaine  e-mails (inclus)</li>
-                                                <li>Hébergement  maintenance (inclus)</li>
-                                            </ul>
-                                            <div class="pricing-footer mbr-section-btn">
-                                                <a href="devis.php?site=siteVitrine&service=location" class="btn btn-primary display-4">Devis gratuit</a>
-                                            </div>
-                                        </div>
-                                    </div>
+                        <tbody>
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Maintenance <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">1 à 2 heures/Mois</td>
+                            </tr>
 
-                                    <div class="col-12 col-md-5 justify-content-center col-lg-3">
-                                        <div class="price-item text-center">
-                                            <div class="test">
-                                                <h4 class="title mbr-fonts-style mbr-light display-5">
-                                                    <strong>
-                                                        <a href="site-e-commerce.php">E-Commerce</a>
-                                                    </strong>
-                                                </h4>
-                                            </div>
-                                            <div class="price-tage">
-                                                <h3 class="mbr-fonts-style costs mbr-light display-2">85€</h3>
-                                                <p class="mbr-fonts-style costs-title display-4">/Mois</p>
-                                            </div>
-                                            <ul class="table-content mbr-fonts-style display-7">
-                                                <li>Site internet Prestashop</li>
-                                                <li>Fiche Google My Business</li>
-                                                <li>Google Analytics</li>
-                                                <li>Nom de domaine  e-mails (inclus)</li>
-                                                <li>Hébergement  maintenance (inclus)</li>
-                                            </ul>
-                                            <div class="pricing-footer mbr-section-btn">
-                                                <a href="devis.php?site=siteECommerce&service=location" class="btn btn-primary display-4">Devis gratuit</a>
-                                            </div>
-                                        </div>
-                                    </div>
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Site <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">2 Sauvegardes/Semaine</td>
+                            </tr>
 
-                                </div>
-                            </div>
-                        </section>
-                    </div>';
-                }else{
-                    echo'<div id="tab3" class="tab-pane" role="tabpanel">
-                        <div class="row justify-content-center">
-                            <section class="extPricingTables" group="Additional Blocks">
-                                <div class="container">
-                                    <div class="media-container-row">
-                                        <div class="col-12 col-md-5 justify-content-center col-lg-3">
-                                            <div class="price-item text-center">
-                                                <div class="test">
-                                                    <h4 class="title mbr-fonts-style mbr-light display-5">
-                                                        <strong>
-                                                            <a href="maintenance.php">Basique</a>
-                                                        </strong>
-                                                    </h4>
-                                                </div>
-                                                <div class="price-tage">
-                                                    <h3 class="mbr-fonts-style costs mbr-light display-2">35€</h3>
-                                                    <p class="mbr-fonts-style costs-title display-4">/Mois</p>
-                                                </div>
-                                                <ul class="table-content mbr-fonts-style display-7">
-                                                    
-                                                    <li class="option divMaintenance1">Maintenance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 255, 255);"></span> </li>
-                                                    <div class="maintenance1">1 heure de maintenance par mois</div>
-                                                    
-                                                    <li>Mise à jour de WordPress, Prestashop ou Mobirise, des modules et des plugins <span class="mobi-mbri mobi-mbri-success mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
-                                                    
-                                                    <li class="divSauvegardeSite1">Sauvegarde de votre site<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
-                                                    <div class="sauvegardeSite1">2 Sauvegardes de votre site par mois</div>
-                                                    
-                                                    <li class="divSauvegardeBDD1">Sauvegarde de votre base de donnée&nbsp;<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>  
-                                                    <div class="sauvegardeBDD1">2 Sauvegardes de votre base de données par mois</div>
-                                                    
-                                                    <li class="divDelaisIntervention1">Délais assistance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 138, 115);"></span></li>
-                                                    <div class="delaisIntervention1">Intervention sous 48 heures</div>
-                                                    
-                                                </ul>
-                                                <div class="pricing-footer mbr-section-btn"><a href="contact-maintenance.php?service=basique" class="btn btn-primary display-4">Choisir ce forfait</a></div>
-                                            </div>
-                                        </div>
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Base de donée <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">2 Sauvegardes/Semaine</td>
+                            </tr>
 
-                                        <div class="col-12 col-md-5 justify-content-center col-lg-3">
-                                            <div class="price-item text-center">
-                                                <div class="test">
-                                                    <h4 class="title mbr-fonts-style mbr-light display-5">
-                                                        <strong>
-                                                            <a href="maintenance.php">Optimise</a>
-                                                        </strong>
-                                                    </h4>
-                                                </div>
-                                                <div class="price-tage">
-                                                    <h3 class="mbr-fonts-style costs mbr-light display-2">55€</h3>
-                                                    <p class="mbr-fonts-style costs-title display-4">/Mois</p>
-                                                </div>
-                                                <ul class="table-content mbr-fonts-style display-7">
-                                                        
-                                                        <li class="option divMaintenance2">Maintenance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 255, 255);"></span> </li>
-                                                        <div class="maintenance2">1 à 2 heures de maintenance par mois</div>
-                                                        
-                                                        <li>Mise à jour de WordPress, Prestashop ou Mobirise, des modules et des plugins <span class="mobi-mbri mobi-mbri-success mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
-                                                        
-                                                        <li class="divSauvegardeSite2">Sauvegarde de votre site<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
-                                                        <div class="sauvegardeSite2">2 Sauvegardes de votre site par semaine</div>
-                                                        
-                                                        <li class="divSauvegardeBDD2">Sauvegarde de votre base de donnée&nbsp;<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>  
-                                                        <div class="sauvegardeBDD2">2 Sauvegardes de votre base de données par semaine</div>
-                                                        
-                                                        <li class="divDelaisIntervention2">Délais assistance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 138, 115);"></span></li>
-                                                        <div class="delaisIntervention2">Intervention sous 48 heures</div>
-                                                        
-                                                    </ul>
-                                                <div class="pricing-footer mbr-section-btn"><a href="contact-maintenance.php?service=optimise" class="btn btn-primary display-4">Choisir ce forfait</a></div>
-                                            </div>
-                                        </div>
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Intervention <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">Sous 48 heures</td>
+                            </tr>
 
-                                        <div class="col-12 col-md-5 justify-content-center col-lg-3">
-                                            <div class="price-item text-center">
-                                                <div class="test">
-                                                    <h4 class="title mbr-fonts-style mbr-light display-5">
-                                                        <strong>
-                                                            <a href="maintenance.php">Confort</a>
-                                                        </strong>
-                                                    </h4>
-                                                </div>
-                                                <div class="price-tage">
-                                                    <h3 class="mbr-fonts-style costs mbr-light display-2">100€</h3>
-                                                    <p class="mbr-fonts-style costs-title display-4">/Mois</p>
-                                                </div>
-                                                <ul class="table-content mbr-fonts-style display-7">
-                                                    
-                                                    <li class="option divMaintenance1">Maintenance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 255, 255);"></span> </li>
-                                                    <div class="maintenance1">2 à 4 heures de maintenance par mois</div>
-                                                    
-                                                    <li>Mise à jour de WordPress, Prestashop ou Mobirise, des modules et des plugins <span class="mobi-mbri mobi-mbri-success mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
-                                                    
-                                                    <li class="divSauvegardeSite3">Sauvegarde de votre site<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
-                                                    <div class="sauvegardeSite3">2 Sauvegardes de votre site par jour</div>
-                                                    
-                                                    <li class="divSauvegardeBDD3">Sauvegarde de votre base de donnée&nbsp;<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>  
-                                                    <div class="sauvegardeBDD3">2 Sauvegardes de votre base de données par jour</div>
-                                                    
-                                                    <li class="divDelaisIntervention3">Délais assistance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 138, 115);"></span></li>
-                                                    <div class="delaisIntervention3">Intervention sous 24 heures</div>
-                                                                
-                                                </ul>
-                                                <div class="pricing-footer mbr-section-btn"><a href="contact-maintenance.php?service=confort" class="btn btn-primary display-4">Choisir ce forfait</a></div>
-                                            </div>
-                                        </div>
+                            <tr class="Blanc">
+                                <th scope="row" class="MobileTarif pt-3 pb-3 align-middle">Tarifs</th>
+                                <td class="MobilePrix Center align-middle">55€/Mois</td>
+                            </tr>
 
-                                        <div class="col-12 col-md-5 justify-content-center col-lg-3">
-                                            <div class="price-item text-center">
-                                                <div class="test">
-                                                    <h4 class="title mbr-fonts-style mbr-light display-5">
-                                                        <strong>
-                                                            <a href="maintenance.php">Sérénité</a>
-                                                        </strong>
-                                                    </h4>
-                                                </div>
-                                                    <div class="price-tage">
-                                                        <h3 class="mbr-fonts-style costs display-2">200€</h3>
-                                                        <p class="mbr-fonts-style costs-title display-4">/Mois</p>
-                                                    </div>
-                                                    <ul class="table-content mbr-fonts-style display-7">
-                                                    
-                                                        <li class="option divMaintenance4">Maintenance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 255, 255);"></span> </li>
-                                                        <div class="maintenance4">4 à 7 heures de maintenance par mois</div>
-                                                        
-                                                        <li>Mise à jour de WordPress, Prestashop ou Mobirise, des modules et des plugins <span class="mobi-mbri mobi-mbri-success mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
-                                                        
-                                                        <li class="divSauvegardeSite4">Sauvegarde de votre site<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>
-                                                        <div class="sauvegardeSite4">2 Sauvegardes de votre site par jour sur un serveur externe</div>
-                                                        
-                                                        <li class="divSauvegardeBDD4">Sauvegarde de votre base de donnée&nbsp;<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: rgb(255, 138, 115);"></span></li>  
-                                                        <div class="sauvegardeBDD4">2 Sauvegardes de votre base de données par jour sur un serveur externe</div>
-                                                        
-                                                        <li class="divDelaisIntervention4">Délais assistance<span class="icon54-v4-information mbr-iconfont pl-2" style="color: rgb(255, 138, 115);"></span></li>
-                                                        <div class="delaisIntervention4">Intervention sous 24 heures</div>
-                                                    
-                                                    </ul>
+                        </tbody>
 
-                                                    <div class="pricing-footer mbr-section-btn"><a href="contact-maintenance.php?service=serenite" class="btn btn-primary display-4">Choisir ce forfait</a></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                    </div>';
-                } 
-            ?>
-            <!-- maintenance -->
+                    </table>
+                </div>  
+            </div>
+
+            <div id="tab3" class="tab-pane" role="tabpanel">
+                <div class="container" style="background-color:#efefef">
+                    <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
+
+                        <tbody>
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Maintenance <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">2 à 4 heures/Mois</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Site <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">2 Sauvegardes/Jour</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Base de donée <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">2 Sauvegardes/Jour</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Intervention <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">Sous 24 heures</td>
+                            </tr>
+
+                            <tr class="Blanc">
+                                <th scope="row" class="MobileTarif pt-3 pb-3 align-middle">Tarifs</th>
+                                <td class="MobilePrix Center align-middle">100€/Mois</td>
+                            </tr>
+
+                        </tbody>
+
+                    </table>
+                </div>  
+            </div>
+
+            <div id="tab4" class="tab-pane" role="tabpanel">
+                <div class="container" style="background-color:#efefef">
+                    <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
+
+                        <tbody>
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Maintenance <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">4 à 7 heures/Mois</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Site <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">2 Sauvegardes/Jour</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Base de donée <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">2 Sauvegardes/Jour</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Intervention <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">Sous 12 heures</td>
+                            </tr>
+
+                            <tr class="Blanc">
+                                <th scope="row" class="MobileTarif pt-3 pb-3 align-middle">Tarifs</th>
+                                <td class="MobilePrix Center align-middle">200€/Mois</td>
+                            </tr>
+
+                        </tbody>
+
+                    </table>
+                </div>  
+            </div>
         </div>
     </div>
 </section>
+
+
+<style type="text/css">
+
+    .Center {
+        text-align: center;
+    }
+
+    .Titre1{
+        font-size: 1.4rem;
+        color: #ff8a73;
+        font-family: Oswald,sans-serif;
+    }
+
+    .TitreBlanc{
+        background-color: #fff;
+        font-size: 1.3rem;
+        color:#355665;
+        font-family: Oswald,sans-serif;
+    }
+
+    .TitreGris{
+        background-color: #f2f2f2;
+        font-size: 1.3rem;
+        color:#355665;
+        font-family: Oswald,sans-serif;
+    }
+
+    .TexteGris{
+        background-color: #f2f2f2;
+        font-size: 1.2rem;
+        color:#355665;
+        font-family: Oswald,sans-serif;
+    }
+
+    .TexteBlanc{
+        background-color: #fff;
+        font-size: 1.2rem;
+        color:#355665;
+        font-family: Oswald,sans-serif;
+    }
+
+    .Tarif{
+        font-size: 1.3rem;
+        background-color: #355665;
+        color:#fff;
+        font-family: Oswald,sans-serif;
+    }
+
+    .Prix{
+        font-size: 1.2rem;
+        background-color: #355665;
+        color:#fff;
+        font-family: Oswald,sans-serif;
+    }
+
+        /*Mobile*/
+    .MobileTitre1{
+        font-size: 1.2rem;
+        color: #ff8a73;
+        font-family: Oswald,sans-serif;
+    }
+
+    .MobileTitreBlanc{
+        background-color: #fff;
+        font-size: 1rem;
+        color:#355665;
+        font-family: Oswald,sans-serif;
+    }
+
+    .MobileTitreGris{
+        background-color: #f2f2f2;
+        font-size: 1rem;
+        color:#355665;
+        font-family: Oswald,sans-serif;
+    }
+
+    .MobileTexteGris{
+        background-color: #f2f2f2;
+        font-size: 1rem;
+        color:#355665;
+        font-family: Oswald,sans-serif;
+    }
+
+    .MobileTexteBlanc{
+        background-color: #fff;
+        font-size: 0.9rem;
+        color:#355665;
+        font-family: Oswald,sans-serif;
+    }
+
+    .MobileTarif{
+        font-size: 1rem;
+        background-color: #355665;
+        color:#fff;
+        font-family: Oswald,sans-serif;
+    }
+
+    .MobilePrix{
+        font-size: 0.9rem;
+        background-color: #355665;
+        color:#fff;
+        font-family: Oswald,sans-serif;
+    }
+
+    /*class=""*/
+</style>
+
+<script>
+    $(function () {
+    $('[data-toggle="tooltip"]').tooltip()
+    })
+</script>
+
+<section class="pb-5">
+    <div class="container" style="background-color:#efefef">
+        <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
+
+            <thead>
+                <tr>
+                    <th scope="col" class="Typo Titre1 pt-3 pb-3 align-middle">Offre</th>
+                    <th scope="col" class="Typo Titre1 Center align-middle">Basique</th>
+                    <th scope="col" class="Typo Titre1 Center align-middle">Optimiser</th>
+                    <th scope="col" class="Typo Titre1 Center align-middle">Confort</th>
+                    <th scope="col" class="Typo Titre1 Center align-middle">Sérénité</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="">Maintenance <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                    <td class="Typo TexteBlanc Center align-middle">1 heure/Mois</td>
+                    <td class="Typo TexteBlanc Center align-middle">1 à 2 heures/Mois</td>
+                    <td class="Typo TexteBlanc Center align-middle">2 à 4 heures/Mois</td>
+                    <td class="Typo TexteBlanc Center align-middle">4 à 7 heures/Mois</td>
+
+                </tr>
+                <tr>
+                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Sauvegarde de votre Site <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                    <td class="Typo TexteGris Center align-middle">2 Sauvegardes/Mois</td>
+                    <td class="Typo TexteGris Center align-middle">2 Sauvegardes/Semaine</td>
+                    <td class="Typo TexteGris Center align-middle">2 Sauvegardes/Jour</td>
+                    <td class="Typo TexteGris Center align-middle">2 Sauvegardes/Jour</td>
+                </tr>
+
+                <tr>
+                    <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Base de donée <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                    <td class="Typo TexteBlanc Center align-middle">2 Sauvegardes/Mois</td>
+                    <td class="Typo TexteBlanc Center align-middle">2 Sauvegardes/Semaine</td>
+                    <td class="Typo TexteBlanc Center align-middle">2 Sauvegardes/Jour</td>
+                    <td class="Typo TexteBlanc Center align-middle">2 Sauvegardes/Jour</td>
+                </tr>
+
+                <tr>
+                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Intervention <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                    <td class="Typo TexteGris Center align-middle">Sous 48 heures</td>
+                    <td class="Typo TexteGris Center align-middle">Sous 48 heures</td>
+                    <td class="Typo TexteGris Center align-middle">Sous 24 heures</td>
+                    <td class="Typo TexteGris Center align-middle">Sous 12 heures</td>
+                </tr>
+
+                <tr>
+                    <th scope="row" class="Typo Tarif pt-3 pb-3 align-middle">Tarifs</th>
+                    <td class="Typo Prix Center align-middle">35€/Mois</td>
+                    <td class="Typo Prix Center align-middle">55€/Mois</td>
+                    <td class="Typo Prix Center align-middle">100€/Mois</td>
+                    <td class="Typo Prix Center align-middle">200€/Mois</td>
+                </tr>
+
+            </tbody>
+
+        </table>
+    </div>
+</section>
+
+<section style="background-color:#efefef" class="header4 cid-sqoByG21uJ devisTitle pt-5" id="header09-6j">
+    <div class="container">
+        <div class="row justify-content-md-center">
+            <div class="col-md-10 col-sm-12">
+                <h6 style="color:#355665" class="mbr-section-title align-center mbr-regular pb-2 mbr-fonts-style display-2">Vous avez choici votre offre ? </h6>
+                
+                <div class="mbr-text align-center mbr-white pb-2">
+                    
+                </div>
+                <div class="align-center">
+                    <a class="btn btn-sm btn-danger display-4" href="devis.php?site=refonte">Demander un devis</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
 
 <section class="clients cid-spngYtusP2" id="clients01-5l">
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1380px" height="810px" viewBox="0 -8.992806499463768e-14 1380 810" preserveAspectRatio="xMidYMid meet">

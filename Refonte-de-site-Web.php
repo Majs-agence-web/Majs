@@ -122,7 +122,7 @@
                     
                 </div>
                 <div class="align-center">
-                    <a class="btn btn-sm btn-danger display-4" href="devis.php?site=refonte">Demander un devis</a>
+                    <a class="btn btn-sm btn-danger display-4" href="contact.php">Contactez-nous</a>
                 </div>
             </div>
 
@@ -130,7 +130,7 @@
     </div>
 </section>
 
-<section class="clients cid-smyyAUgGmc" id="clients01-4g">
+<section class="clients cid-smyyAUgGmc2" id="clients01-4g">
     
 
     

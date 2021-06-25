@@ -44,14 +44,11 @@
 
 <body>
 
-    <?php
+<?php
     include("header.php");
-    ?>
+?>
 
     <section class="cid-slZn8dqWS3 mbr-parallax-background" id="header02-2n">
-
-
-
         <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(75, 101, 112);"></div>
 
         <div class="container align-center">
@@ -61,85 +58,90 @@
                 </div>
             </div>
         </div>
-
     </section>
 
-    <!--
-    <section class="header4 cid-slqagl251D" id="content06-8">
-
-
-
-
-
-
-        <div class="container-fluid">
-            <div class="row">
-
-                <div class="col-md-12 col-lg-4 align-left">
-                    <h2 class="mbr-section-title text-center align-left mbr-white mbr-fonts-style display-2"><span style="color:#ecc979;">{</span> QUI SOMMES NOUS ? <span style="color:#ecc979;">}</span></h2>
-                </div>
-
-
-                <div class="col-md-12 col-lg-8 block-border align-left">
-                    <p class="mbr-text align-left mbr-fonts-style display-5"><br><strong>Agence Web Enthousiaste<br></strong>MAJS est une agence digitale située à Croix, composée de 3 spécialistes du web : développeur, chef de projet et webdesigner.
-
-                        <br>
-                        <br>Nous aidons nos clients à digitaliser leur communication en offrant une expérience utilisateur simple et efficace.
-                        <br>
-                    </p>
-
-                </div>
-            </div>
-        </div>
-
-    </section>
--->
-    <section class="counters1 counters cid-slvlgxrWuB" roup="Counters" id="counters03-1o">
-
-
-
-
-
-
-    
+    <section class="features2 cid-slqfxpTJmh" id="features08-c">
         <div class="container">
+            <h4 class="main-title pb-5 mbr-regular mbr-fonts-style display-1"><span style="color:#ecc979;">{&nbsp;</span>Nos Services&nbsp;<span style="color:#ecc979;">}</span></h4>
+
             <div class="row">
+                <div class="card p-3 col-12 col-md-6 nosService">
+                    <div class="card-wrapper">
+                        <div class="card-img">
+                            <img src="assets/images/03.webp" alt="" loading="lazy">
+                        </div>
+                        <div class="card-box">
+                            <h4 class="card-title pb-2 mbr-fonts-style display-5"><strong>Site vitrine</strong></h4>
+                            <p class="mbr-text pb-5 mbr-fonts-style display-7">Vous voulez communiquer votre activité sur le web et souhaitez présenter vos services à vos clients ?
+                                <br>Le site vitrine est la solution idéale. MAJS Web Agency, vous accompagne dans la création de votre site vitrine.
+                            </p>
 
-                <div class="col-xl-6 d-none d-lg-none d-xl-block align-center img-box" style="height:500px">
-                    <div>
-                        <img class="img1" src="assets/images/undraw_building_websites_i78t.svg" alt=""  loading="lazy">
-                    </div>
-                    <div>
-                        <br>
-                        <img class="img2" src="assets/images/undraw_meet_the_team_e5b7.svg" alt="" loading="lazy">
+
+                            <div class="link-wrap">
+                                <div class="line"></div>
+                                <div class="mbr-section-btn"><a class="btn btn-md btn-danger-outline display-4" href="site-vitrine.php"><span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>EN SAVOIR PLUS&nbsp;</a></div>
+                            </div>
+
+
+                        </div>
                     </div>
                 </div>
 
-                <div class="col-12 col-md-10 col-lg-10 col-xl-6 py-4 m-auto">
-                    <h2 class="mbr-section-title pb-3 mbr-fonts-style display-1"><span style="color:#ecc979;">{</span> Qui sommes-nous ? <span style="color:#ecc979;">}</span></h2>
-
-                    <p class="mbr-text align-left mbr-light mbr-fonts-style display-7">
-                        <br>
-                        <strong>Agence Web Enthousiaste<br></strong>
-                        MAJS est une agence digitale située à Croix, composée de spécialistes du web : développeur, chef de projet et webdesigner.
-                        <br>
-                        <br>
-                        Nous aidons nos clients à digitaliser leur communication en offrant une expérience utilisateur simple et efficace.
-                    </p>
+                <div class="card p-3 col-12 col-md-6 nosService">
+                    <div class="card-wrapper">
+                        <div class="card-img">
+                            <img src="assets/images/04.webp" alt="" loading="lazy">
+                        </div>
+                        <div class="card-box ">
+                            <h4 class="card-title pb-2 mbr-fonts-style display-5"><strong>Site e-commerce</strong></h4>
+                            <p class="mbr-text pb-5 mbr-fonts-style display-7">Vous êtes un commerçant ?  &nbsp; Vous avez besoin de vendre sur internet ?&nbsp; Nous sommes là pour vous accompagner dans cette démarche.</p>
+                            <div class="link-wrap">
+                                <div class="line"></div>
+                                <div class="mbr-section-btn"><a class="btn btn-md btn-danger-outline display-4" href="site-E-Commerce.php"><span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>EN SAVOIR PLUS&nbsp;</a></div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
+                <div class="card p-3 col-12 col-md-6 nosService">
+                    <div class="card-wrapper">
+                        <div class="card-img">
+                            <img src="assets/images/07.webp" alt="" loading="lazy">
+                        </div>
+                        <div class="card-box">
+                            <h4 class="card-title pb-2 mbr-fonts-style display-5"><strong>Site sur-mesure
+                                </strong></h4>
+                            <p class="mbr-text pb-5 mbr-fonts-style display-7">Un projet hors-norme&nbsp;? Vous avez besoin d’une plateforme sur-mesure&nbsp;?<br>L’agence MAJS vous accompagne dans les moindres détails.<br></p>
+                            <div class="link-wrap ">
+                                <div class="line"></div>
+                                <div class="mbr-section-btn"><a class="btn btn-md btn-danger-outline display-4" href="sur-mesure.php"><span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>EN SAVOIR PLUS&nbsp;</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
+                <div class="card p-3 col-12 col-md-6 nosService">
+                    <div class="card-wrapper">
+                        <div class="card-img">
+                            <img src="assets/images/08.webp" alt="" loading="lazy">
+                        </div>
+                        <div class="card-box">
+                            <h4 class="card-title pb-2 mbr-fonts-style display-5"><strong>Refonte de site web</strong></h4>
+                            <p class="mbr-text pb-5 mbr-fonts-style display-7">Un site non compatible avec le format mobile? un site qui ne répond plus à votre charte graphique, 
+                                <br>L’agence MAJS pour aidera à le rénover
+                            </p>
+                            <div class="link-wrap">
+                                <div class="line"></div>
+                                <div class="mbr-section-btn"><a class="btn btn-md btn-danger-outline display-4" href="Refonte-de-site-Web.php"><span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>EN SAVOIR PLUS&nbsp;</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-
         </div>
-
-
     </section>
-    <section class="clients cid-smykxObL6s" id="clients01-4a">
 
-
-
-
+    <section class="clients cid-smylQostR0" id="clients01-4b">
         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1380px" height="810px" viewBox="0 -8.992806499463768e-14 1380 810" preserveAspectRatio="xMidYMid meet">
             <rect id="svgEditorBackground" x="0" y="0" width="1380" height="810" style="fill: none; stroke: none;"></rect>
             <defs id="svgEditorDefs">
@@ -155,27 +157,9 @@
 
     <section class="features1 cid-slY0tojYek" id="features010-23">
 
-
-
-
-
-        <svg class="svg1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1380px" height="810px" viewBox="0 0  1380 810" preserveAspectRatio="xMidYMid meet" style="z-index:0;">
-            <rect id="svgEditorBackground" x="0" y="0" width="1380" height="810" style="fill: none; stroke: none;"></rect>
-            <circle id="e1_circle" cx="309" cy="433" style="fill:aqua;stroke:black;stroke-width:0px;" r="149.486"></circle>
-            <circle id="e3_circle" cx="679" cy="707" style="fill: aqua; stroke-width: 0px;stroke:black;" r="516.715">
-            </circle>
-            <circle id="e4_circle" cx="759" cy="261" style="fill:aqua;stroke:black;stroke-width:0px;" r="132.2459829258">
-            </circle>
-            <circle id="e5_circle" cx="1054" cy="462" style="fill:aqua;stroke:black;stroke-width:0px;" r="139.413"> </circle>
-            <circle id="e6_circle" cx="691" cy="692" style="fill:khaki;stroke:black;stroke-width:0px;" r="367.214"></circle>
-        </svg>
-
-        <div class="round round1"></div>
-        <div class="round round2 rev"></div>
-        <!--     <div class="round round3"></div> -->
-
-
         <div class="container">
+
+            <h4 class="main-title pb-5 mbr-regular mbr-fonts-style display-1"><span style="color:#ecc979;">{&nbsp;</span><span style="color:#355665">Nos Compétence&nbsp;</span><span style="color:#ecc979;">}</span></h4>
             <div class="media-container-row">
 
                 <div class="card p-3 nosSite">
@@ -287,11 +271,7 @@
 
     </section>
 
-    <section class="clients cid-smylQostR0" id="clients01-4b">
-
-
-
-
+    <section class="clients cid-smylQostR01" id="clients01-4b">
         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1380px" height="810px" viewBox="0 -8.992806499463768e-14 1380 810" preserveAspectRatio="xMidYMid meet">
             <rect id="svgEditorBackground" x="0" y="0" width="1380" height="810" style="fill: none; stroke: none;"></rect>
             <defs id="svgEditorDefs">
@@ -304,30 +284,14 @@
             </text>
         </svg>
     </section>
-
+    
     <section class="features1 cid-slqbV4BYgz" id="features05-a">
-
-
-
-
-        <!-- 
-    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1380px" height="760px" viewBox="0 0  1380 760" preserveAspectRatio="xMidYMid meet">
-        <rect id="svgEditorBackground" x="0" y="0" width="1380" height="760" style="fill: none; stroke: none;"></rect>
-        <ellipse id="e1_ellipse" cx="411" cy="-89" style="fill:khaki;stroke:black;stroke-width:0px;" rx="842" ry="677" transform="matrix(1.10937 0 0 1.10937 -41.7954 -68.1567)"></ellipse>
-    </svg> -->
-
+        
         <div class="container">
-
             <div class="row justify-content-center">
-
-
-
-                <!--             <div class="col-12 col-md-8 col-lg-4 m-auto align-center">
-                <img src="assets/images/mbr-698x468.webp" alt="" loading="lazy">
+                <h4 class="main-title pb-5 mbr-regular mbr-fonts-style display-1"><span style="color:#ecc979;">{&nbsp;</span><span style="color:#355665">Nos Valeurs&nbsp;</span><span style="color:#ecc979;">}</span></h4>
             </div>
- -->
-
-
+            <div class="row justify-content-center">
                 <div class="col-12 col-md-12 col-lg-8">
 
                     <div class="row justify-content-center">
@@ -401,98 +365,105 @@
 
     </section>
 
-    <section class="features2 cid-slqfxpTJmh" id="features08-c">
+    <section class="carousel slide testimonials-slider cid-sluHe9NA0B mbr-parallax-background" id="testimonials-slider02-1b">
 
+        <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(46, 75, 88);">
+        </div>
 
-
-
-
-        <div class="container">
-            <h4 class="main-title pb-5 mbr-regular mbr-fonts-style display-1"><span style="color:#ecc979;">{&nbsp;</span>Nos Services&nbsp;<span style="color:#ecc979;">}</span></h4>
-
-            <div class="row">
-                <div class="card p-3 col-12 col-md-6 nosService">
-                    <div class="card-wrapper">
-                        <div class="card-img">
-                            <img src="assets/images/03.webp" alt="" loading="lazy">
-                        </div>
-                        <div class="card-box">
-                            <h4 class="card-title pb-2 mbr-fonts-style display-5"><strong>Site vitrine</strong></h4>
-                            <p class="mbr-text pb-5 mbr-fonts-style display-7">Vous voulez communiquer votre activité sur le web et souhaitez présenter vos services à vos clients ?
-                                <br>Le site vitrine est la solution idéale. MAJS Web Agency, vous accompagne dans la création de votre site vitrine.
+        <div class="container text-center pt-5 pb-5">
+            <h2 class="mbr-section-title mbr-white pb-3 align-center mbr-fonts-style display-2">Ce qu'ils en ont pensé(e)s</h2>
+            <div class="carousel slide" data-ride="carousel" role="listbox">
+                <div class="carousel-inner">
+                    
+                    <div class="carousel-item">
+                        <div class="col-md-12 col-lg-12">
+                            <p class="mbr-text mbr-light pb-4 align-center mbr-fonts-style box display-7">
+                                Une demande de proposition refonte de mon site d'origine très bien réalisée. La société Majs a su parfaitement analyser mes besoins et me livrer un projet à la hauteur de mes attentes. Je recommande vivement !&nbsp;
                             </p>
-
-
-                            <div class="link-wrap">
-                                <div class="line"></div>
-                                <div class="mbr-section-btn"><a class="btn btn-md btn-danger-outline display-4" href="site-vitrine.php"><span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>EN SAVOIR PLUS&nbsp;</a></div>
-                            </div>
-
-
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card p-3 col-12 col-md-6 nosService">
-                    <div class="card-wrapper">
-                        <div class="card-img">
-                            <img src="assets/images/04.webp" alt="" loading="lazy">
-                        </div>
-                        <div class="card-box ">
-                            <h4 class="card-title pb-2 mbr-fonts-style display-5"><strong>Site E-commerce</strong></h4>
-                            <p class="mbr-text pb-5 mbr-fonts-style display-7">Vous êtes un commerçant ?  &nbsp; Vous avez besoin de vendre sur internet ?&nbsp; Nous sommes là pour vous accompagner dans cette démarche.</p>
-                            <div class="link-wrap">
-                                <div class="line"></div>
-                                <div class="mbr-section-btn"><a class="btn btn-md btn-danger-outline display-4" href="site-E-Commerce.php"><span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>EN SAVOIR PLUS&nbsp;</a></div>
+                            <div class="author-box">
+                                <div class="img-box">
+                                    <img class="face" src="assets/images/helene-pontiere-avocat-photo-profile-160x160.webp" loading="lazy" alt="">
+                                </div>
+                                <div class="author mbr-m-auto">
+                                    <h3 class="mbr-semibold pb-2 mbr-fonts-style display-7">Hélène Pontière</h3>
+                                    <h4 class="mbr-semibold mbr-fonts-style display-4">Avocate au Barreau de Lille</h4>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
 
-                <div class="card p-3 col-12 col-md-6 nosService">
-                    <div class="card-wrapper">
-                        <div class="card-img">
-                            <img src="assets/images/07.webp" alt="" loading="lazy">
-                        </div>
-                        <div class="card-box">
-                            <h4 class="card-title pb-2 mbr-fonts-style display-5"><strong>Site sur-mesure
-                                </strong></h4>
-                            <p class="mbr-text pb-5 mbr-fonts-style display-7">Un projet hors-norme&nbsp;? Vous avez besoin d’une plateforme sur-mesure&nbsp;?<br>L’agence MAJS vous accompagne dans les moindres détails.<br></p>
-                            <div class="link-wrap ">
-                                <div class="line"></div>
-                                <div class="mbr-section-btn"><a class="btn btn-md btn-danger-outline display-4" href="sur-mesure.php"><span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>EN SAVOIR PLUS&nbsp;</a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card p-3 col-12 col-md-6 nosService">
-                    <div class="card-wrapper">
-                        <div class="card-img">
-                            <img src="assets/images/08.webp" alt="" loading="lazy">
-                        </div>
-                        <div class="card-box">
-                            <h4 class="card-title pb-2 mbr-fonts-style display-5"><strong>Landing page</strong></h4>
-                            <p class="mbr-text pb-5 mbr-fonts-style display-7">Plus communément appelé mini-site en Français, cet outil est idéal pour relayer une campagne publicitaire. Cela peut être aussi utile pour présenter votre activité.
-                                <br>Nous sommes là pour vous conseiller sur le format le plus adapté à votre besoin. <br>
+                    <div class="carousel-item">
+                        <div class="col-md-12 col-lg-12">
+                            <p class="mbr-text mbr-light pb-4 align-center mbr-fonts-style box display-7">
+                                Une équipe au Top !! Très professionnelle et à l’écoute de leurs clients ! L'équipe Majs m'a parfaitement accompagnée durant la réalisation de ce projet qui me tenait à cœur. Ambitieux et pointilleux je leurs ai confié ce projet sur-mesure. Le résultat est au-dessus de mes attentes. Bravo à toute l'équipe.
+                                &nbsp;<br>
                             </p>
-                            <div class="link-wrap">
-                                <div class="line"></div>
-                                <div class="mbr-section-btn"><a class="btn btn-md btn-danger-outline display-4" href="landing-Page.php"><span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>EN SAVOIR PLUS&nbsp;</a></div>
+                            <div class="author-box">
+                                <div class="img-box">
+                                    <img class="face" src="assets/images/97368505-4495861057106555-2641266730826989568-o-160x162.webp" loading="lazy" alt="">
+                                </div>
+
+                                <div class="author mbr-m-auto">
+                                    <h3 class="mbr-semibold pb-2 mbr-fonts-style display-7">Paolo Peixoto</h3>
+                                    <h4 class="mbr-semibold mbr-fonts-style display-4">Président Casa Benfica Tourcoing</h4>
+                                </div>
                             </div>
                         </div>
                     </div>
+
+                    <div class="carousel-item">
+                        <div class="col-md-12 col-lg-12">
+                            <p class="mbr-text mbr-light pb-4 align-center mbr-fonts-style box display-7">L'équipe a su parfaitement donner satisfaction à ma demande de site One Page. Équipe rapide, efficace, tout en livrant du travail de qualité. Indispensable dans mon métier ce site m'a permis de gonfler mon carnet de clients significativement. Je n'ai rien eu à faire l'équipe s'occupe de tout. Je recommande.
+                            </p>
+                            <div class="author-box">
+                                <div class="img-box">
+                                    <img class="face" src="assets/images/50830660-1232461846922668-79653419794563072-n-160x160.webp" loading="lazy" alt="">
+                                </div>
+
+                                <div class="author mbr-m-auto">
+                                    <h3 class="mbr-semibold pb-2 mbr-fonts-style display-7">Jérome Galichet</h3>
+                                    <h4 class="mbr-semibold mbr-fonts-style display-4">Galichet Rénov</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="col-md-12 col-lg-12">
+                            <p class="mbr-text mbr-light pb-4 align-center mbr-fonts-style box display-7">
+                            Majs Web Agency a su répondre à mes attentes en terme de boutique e-commerce, et le tout rapidement,  je recommande !
+                            </p>
+                            <div class="author-box">
+                                <div class="img-box">
+                                    <img class="face" src="assets/images/logo comp.webp" loading="lazy" alt="">
+                                </div>
+
+                                <div class="author mbr-m-auto">
+                                    <h3 class="mbr-semibold pb-2 mbr-fonts-style display-7">L'équipe Companimals</h3>
+                                    <h4 class="mbr-semibold mbr-fonts-style display-4">Companimals</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="carousel-controls">
+                    <a class="carousel-control-prev" role="button" data-slide="prev">
+                        <span aria-hidden="true" class="mobi-mbri-arrow-prev mobi-mbri mbr-iconfont"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+
+                    <a class="carousel-control-next" role="button" data-slide="next">
+                        <span aria-hidden="true" class="mobi-mbri-arrow-next mobi-mbri mbr-iconfont"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
                 </div>
             </div>
         </div>
     </section>
 
+
     <section class="cid-spsnx5TdtQ">
-
-
-
-
-
         <div class="container align-center">
             <div class="row justify-content-md-start justify-content-md-center">
                 <div class="col-sm-12 col-md-10 col-lg-7">
@@ -503,14 +474,10 @@
     </section>
 
     <section class="features1 realtym4_features1 cid-smrdZ8PbQu" id="features01-38">
-
-
-
-
         <div class="container">
-
             <div class="row row-content justify-content-center">
-                <div class="card p-3 col-12 col-md-6 col-lg-4">
+
+                <div class="card p-3 col-12 col-md-6 col-lg-3">
                     <div class="card-wrapper">
 
                         <div class="card-img">
@@ -533,61 +500,79 @@
                     </div>
                 </div>
 
-                <div class="card p-3 col-12 col-md-6 col-lg-4">
-                <div class="card-wrapper">
-                    
-                    <div class="card-img">
+                <div class="card p-3 col-12 col-md-6 col-lg-3">
+                    <div class="card-wrapper">
                         
-                         <img id="myImg" src="assets/images/image2-290x340.webp" title="" alt="" loading="lazy">
-                    </div> 
-                                
-                    <div id="myModal" class="modal">
-                        <span class="close" style="padding-top: 2em; color: white;">&times;</span>
-                        <img class="modal-content" id="img01" loading="lazy">
-                        <div id="caption"></div>
-                    </div>  
-                                      
-                    
-                    
-                    <div class="card-box"  style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
-                        <h4 class="card-title mbr-fonts-style mbr-white mbr-bold display-5">Hélène Pontière Avocat</h4>
+                        <div class="card-img">
+                            
+                            <img id="myImg" src="assets/images/image2-290x340.webp" title="" alt="" loading="lazy">
+                        </div> 
+                                    
+                        <div id="myModal" class="modal">
+                            <span class="close" style="padding-top: 2em; color: white;">&times;</span>
+                            <img class="modal-content" id="img01" loading="lazy">
+                            <div id="caption"></div>
+                        </div>  
+                                        
                         
-                            <h2 class="mbr-text mbr-fonts-style mbr-white card-text text-center display-7"><em>Site Vitrine</em></h2>
-                    
-                            <span mbr-icon id="myBox" class="mbr-iconfont pt-1 mdi-image-loupe" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255); font-size: 50px;"></span>
-    
+                        
+                        <div class="card-box"  style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
+                            <h4 class="card-title mbr-fonts-style mbr-white mbr-bold display-5">Hélène Pontière Avocat</h4>
+                            
+                                <h2 class="mbr-text mbr-fonts-style mbr-white card-text text-center display-7"><em>Site Vitrine</em></h2>
+                        
+                                <span mbr-icon id="myBox" class="mbr-iconfont pt-1 mdi-image-loupe" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255); font-size: 50px;"></span>
+        
+                        </div>
                     </div>
                 </div>
-            </div>
 
 
-            <div class="card p-3 col-12 col-md-6 col-lg-4">
-                <div class="card-wrapper">
+                <div class="card p-3 col-12 col-md-6 col-lg-3">
+                    <div class="card-wrapper">
 
-                    <div class="card-img">
-                        <img id="myImg2" src="assets/images/image3-290x340.webp" title="" alt="" loading="lazy">
+                        <div class="card-img">
+                            <img id="myImg2" src="assets/images/image3-290x340.webp" title="" alt="" loading="lazy">
+                        </div>
+
+                        <div id="myModal2" class="modal">
+                            <span class="close2" style="padding-top: 2em; color: white;">&times;</span>
+                            <img class="modal-content" id="img02" loading="lazy">
+                            <div id="caption"></div>
+                        </div>
+
+                        <div class="card-box" style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
+                            <h4 class="card-title mbr-fonts-style mbr-white mbr-bold display-5">Galichet Rénov</h4>
+
+                            <h2 class="mbr-text mbr-fonts-style mbr-white card-text display-7"><em>Site OnePage</em></h2>
+
+                            <span mbr-icon id="myBox2" class="mbr-iconfont pt-1 mdi-image-loupe" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255); font-size: 50px;"></span>
+                        </div>
                     </div>
-
-                    <div id="myModal2" class="modal">
-                        <span class="close2" style="padding-top: 2em; color: white;">&times;</span>
-                        <img class="modal-content" id="img02" loading="lazy">
-                        <div id="caption"></div>
-                    </div>
-
-                    <div class="card-box" style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
-                        <h4 class="card-title mbr-fonts-style mbr-white mbr-bold display-5">Galichet Rénov</h4>
-
-                        <h2 class="mbr-text mbr-fonts-style mbr-white card-text display-7"><em>Site OnePage</em></h2>
-
-                        <span mbr-icon id="myBox2" class="mbr-iconfont pt-1 mdi-image-loupe" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255); font-size: 50px;"></span>
-
-
-                    </div>
-
                 </div>
-            </div>
 
+                <div class="card p-3 col-12 col-md-6 col-lg-3">
+                    <div class="card-wrapper">
 
+                        <div class="card-img">
+                            <img id="myImg4" src="assets/images/companimals-290x340.webp" title="" alt="" loading="lazy">
+                        </div>
+
+                        <div id="myModal4" class="modal">
+                            <span class="close4" style="padding-top: 2em; color: white;">&times;</span>
+                            <img class="modal-content" id="img04" loading="lazy">
+                            <div id="caption"></div>
+                        </div>
+
+                        <div class="card-box" style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
+                            <h4 class="card-title mbr-fonts-style mbr-white mbr-bold display-5">Companimals</h4>
+
+                            <h2 class="mbr-text mbr-fonts-style mbr-white card-text display-7"><em>Site E-Commerce</em></h2>
+
+                            <span mbr-icon id="myBox4" class="mbr-iconfont pt-1 mdi-image-loupe" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255); font-size: 50px;"></span>
+                        </div>
+                    </div>
+                </div>
 
             </div>
         </div>
@@ -628,11 +613,24 @@
                 modalImg3.src = "assets/images/casaBenficaApercu.webp";
             }
 
+            // Get the modal3
+            var modal4 = document.getElementById("myModal4");
+
+            // Get the image and insert it inside the modal 
+            var img4 = document.getElementById("myImg4");
+            var box4 = document.getElementById("myBox4");
+            var modalImg4 = document.getElementById("img04");
+            box4.onclick = function() {
+                modal4.style.display = "block";
+                modalImg4.src = "assets/images/companimals.webp";
+            }
+
 
             // Get the <span> element that closes the modal
             var span = document.getElementsByClassName("close")[0];        
             var span2 = document.getElementsByClassName("close2")[0];
             var span3 = document.getElementsByClassName("close3")[0];
+            var span4 = document.getElementsByClassName("close4")[0];
 
             // When the user clicks on <span> (x), close the modal
             span.onclick = function() {         
@@ -644,12 +642,16 @@
             span3.onclick = function() {
                 modal3.style.display = "none";
             }
+            span4.onclick = function() {
+                modal4.style.display = "none";
+            }
         </script>
 
         <style>
             /* The Modal (background) */
             #myModal,
             #myModal2,
+            #myModal4,
             #myModal3 {
                 display: none;
                 /* Hidden by default */
@@ -670,6 +672,7 @@
             }
 
             #myBox:hover,
+            #myBox4:hover,
             #myBox2:hover,
             #myBox3:hover {
                 cursor: pointer;
@@ -686,6 +689,11 @@
             }
 
             #myModal3 {
+                padding-top: 9em;
+                /* Location of the box */
+            }
+
+            #myModal4 {
                 padding-top: 9em;
                 /* Location of the box */
             }
@@ -732,7 +740,8 @@
             /* The Close Button */
             .close,
             .close2,
-            .close3 {
+            .close3,
+            .close4 {
                 position: absolute;
                 top: -1rem;
                 right: 35px;
@@ -746,6 +755,8 @@
             .close:focus,
             .close2:hover,
             .close2:focus,
+            .close4:hover,
+            .close4:focus,
             .close3:hover,
             .close3:focus {
                 color: #bbb;
@@ -763,113 +774,9 @@
 
     </section>
 
-    <section class="carousel slide testimonials-slider cid-sluHe9NA0B mbr-parallax-background" id="testimonials-slider02-1b">
-
-
-
-        <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(46, 75, 88);">
-        </div>
-
-        <div class="container text-center pt-5 pb-5">
-            <h2 class="mbr-section-title mbr-white pb-3 align-center mbr-fonts-style display-2">Ce qu'ils en ont pensé(e)s</h2>
-            <div class="carousel slide" data-ride="carousel" role="listbox">
-                <div class="carousel-inner">
-
-
-
-                    <!-- Héléne Pontière                 -->
-                    <!--                 <div class="carousel-item">
-                    <div class="col-md-12 col-lg-12">
-                     
-                        <h3 class="mbr-section-subtitle align-center align-center mbr-regular pb-3 mbr-fonts-style" mbr-theme-style="display-5" mbr-if="showSubTitle">Lorem ipsum dolor sit amet</h3>
-                        <p class="mbr-text mbr-light pb-4 align-center mbr-fonts-style box" mbr-theme-style="display-7" mbr-if="showText" data-app-selector=".mbr-text, .mbr-section-btn">
-                            Une demande de proposition refonte de mon site d'origine très bien réalisée. La société Majs a su parfaitement analyser mes besoins et me livrer un projet à la hauteur de mes attentes. Je recommande vivement !&nbsp;</p>
-
-                        <div class="author-box">
-
-                            <div class="img-box">
-                                <img class="face" src="assets/images/helene-pontiere-avocat-photo-profile-160x160.jpeg" alt="">
-                            </div>
-
-                            <div class="author mbr-m-auto">
-                                <h3 class="mbr-semibold pb-2 mbr-fonts-style" mbr-theme-style="display-7">Hélène Pontière</h3>
-                                <h4 class="mbr-semibold mbr-fonts-style" mbr-theme-style="display-4">Avocate au Barreau de Lille</h4>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div> -->
-                    <div class="carousel-item">
-
-                        <div class="col-md-12 col-lg-12">
-
-
-                            <p class="mbr-text mbr-light pb-4 align-center mbr-fonts-style box display-7">
-                                Une équipe au Top !! Très professionnelle et à l’écoute de leurs clients ! L'équipe Majs m'a parfaitement accompagnée durant la réalisation de ce projet qui me tenait à cœur. Ambitieux et pointilleux je leurs ai confié ce projet sur-mesure. Le résultat est au-dessus de mes attentes. Bravo à toute l'équipe.
-                                &nbsp;<br>
-                            </p>
-
-                            <div class="author-box">
-
-                                <div class="img-box">
-                                    <img class="face" src="assets/images/97368505-4495861057106555-2641266730826989568-o-160x162.webp" loading="lazy" alt="">
-                                </div>
-
-                                <div class="author mbr-m-auto">
-                                    <h3 class="mbr-semibold pb-2 mbr-fonts-style display-7">Paolo Peixoto</h3>
-                                    <h4 class="mbr-semibold mbr-fonts-style display-4">Président Casa Benfica Tourcoing</h4>
-                                </div>
-                            </div>
-
-                        </div>
-
-                    </div>
-                    <div class="carousel-item">
-
-                        <div class="col-md-12 col-lg-12">
-
-
-                            <p class="mbr-text mbr-light pb-4 align-center mbr-fonts-style box display-7">L'équipe a su parfaitement donner satisfaction à ma demande de site One Page. Équipe rapide, efficace, tout en livrant du travail de qualité. Indispensable dans mon métier ce site m'a permis de gonfler mon carnet de clients significativement. Je n'ai rien eu à faire l'équipe s'occupe de tout. Je recommande.
-                            </p>
-
-                            <div class="author-box">
-
-                                <div class="img-box">
-                                    <img class="face" src="assets/images/50830660-1232461846922668-79653419794563072-n-160x160.webp" loading="lazy" alt="">
-                                </div>
-
-                                <div class="author mbr-m-auto">
-                                    <h3 class="mbr-semibold pb-2 mbr-fonts-style display-7">Jérome Galichet</h3>
-                                    <h4 class="mbr-semibold mbr-fonts-style display-4">Galichet Rénov</h4>
-                                </div>
-                            </div>
-                        </div>
-
-
-                    </div>
-                </div>
-
-                <div class="carousel-controls">
-                    <a class="carousel-control-prev" role="button" data-slide="prev">
-                        <span aria-hidden="true" class="mobi-mbri-arrow-prev mobi-mbri mbr-iconfont"></span>
-                        <span class="sr-only">Previous</span>
-                    </a>
-
-                    <a class="carousel-control-next" role="button" data-slide="next">
-                        <span aria-hidden="true" class="mobi-mbri-arrow-next mobi-mbri mbr-iconfont"></span>
-                        <span class="sr-only">Next</span>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
+    
 
     <section class="clients cid-slrFmM1Glh" id="clients01-r">
-
-
-
-
         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1380px" height="810px" viewBox="0 -8.992806499463768e-14 1380 810" preserveAspectRatio="xMidYMid meet">
             <rect id="svgEditorBackground" x="0" y="0" width="1380" height="810" style="fill: none; stroke: none;"></rect>
             <defs id="svgEditorDefs">
@@ -883,7 +790,7 @@
         </svg>
 
 
-        <div class="container mb-5">
+        <!--<div class="container mb-5">
             <div class="media-container-row">
                 <div class="col-12 align-center">
                     <h2 class="mbr-section-title pb-3 mbr-regular mbr-fonts-style display-1">
@@ -896,10 +803,10 @@
 
         <div class="container">
 
-            <!--         <div class="carousel slide" data-ride="carousel" role="listbox"> -->
+            <div class="carousel slide" data-ride="carousel" role="listbox"> 
             <div class="" data-ride="carousel" role="listbox">
                 <div class="carousel-inner" data-visible="2">
-                    <!-- Héléne Pontière                 -->
+                    Héléne Pontière                 -->
                     <!--                 <div class="carousel-item ">
                     <div class="media-container-row">
                         <div class="col-md-12">
@@ -908,7 +815,7 @@
                             </div>
                         </div>
                     </div>
-                </div> -->
+                </div> 
 
 
 
@@ -931,7 +838,7 @@
                         </div>
                     </div>
                 </div>
-                <!--             <div class="carousel-controls">
+                           <div class="carousel-controls">
                 <a data-app-prevent-settings class="carousel-control carousel-control-prev" role="button" data-slide="prev">
                     <span aria-hidden="true" class="mbri-left mbr-iconfont"></span>
                     <span class="sr-only">Previous</span>
@@ -940,9 +847,9 @@
                     <span aria-hidden="true" class="mbri-right mbr-iconfont"></span>
                     <span class="sr-only">Next</span>
                 </a>
-            </div> -->
+            </div> 
             </div>
-        </div>
+        </div>-->
     </section>
 
     

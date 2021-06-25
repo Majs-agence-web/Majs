@@ -1353,8 +1353,135 @@ section.lazy-placeholder:after {
 }
   /* Fin */
 
+   /* Qui somme Nous (Page L'agence Majs)*/
+.cid-slvlgxrWuBA {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-slvlgxrWuBA H1 {
+  color: #4a5d66;
+}
+.cid-slvlgxrWuBA .mbr-text,
+.cid-slvlgxrWuBA .mbr-section-btn {
+  color: #716c80;
+}
+.cid-slvlgxrWuBA .img-box {
+  position: relative;
+}
+.cid-slvlgxrWuBA .card {
+  display: flex;
+  flex-direction: row;
+  max-width: 350px;
+}
+.cid-slvlgxrWuBA .img1 {
+  position: absolute;
+  bottom: 0;
+  right: 3rem;
+  z-index: 1;
+}
+.cid-slvlgxrWuBA .img2 {
+  position: absolute;
+  top: 0;
+  left: 3rem;
+  z-index: 2;
+}
+.cid-slvlgxrWuBA img {
+  width: 60%;
+  border-radius: 0px 20px 0px 20px;
+}
+@media (max-width: 992px) {
+  .cid-slvlgxrWuBA .img-box {
+    height: 24em;
+  }
+  .cid-slvlgxrWuBA .img1 {
+    right: 7rem;
+    top: 7rem;
+  }
+  .cid-slvlgxrWuBA .img2 {
+    left: 5rem;
+    top: 2rem;
+  }
+  .cid-slvlgxrWuBA img {
+    width: 36%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-slvlgxrWuBA .img-box {
+    height: 19em;
+  }
+  .cid-slvlgxrWuBA .img1 {
+    right: 2rem;
+    top: 5rem;
+  }
+  .cid-slvlgxrWuBA .img2 {
+    left: 2rem;
+    top: 0rem;
+  }
+  .cid-slvlgxrWuBA img {
+    width: 41%;
+  }
+}
+@media (max-width: 576px) {
+  .cid-slvlgxrWuBA .card-text {
+    display: flex;
+    align-items: center;
+  }
+  .cid-slvlgxrWuBA .count {
+    padding-right: 16px;
+  }
+  .cid-slvlgxrWuBA img {
+    width: 15em;
+  }
+  .cid-slvlgxrWuBA .img1 {
+    right: 0rem;
+    top: 0rem;
+    position: relative;
+    align-items: center;
+  }
+  .cid-slvlgxrWuBA .img2 {
+    display: none;
+  }
+  .cid-slvlgxrWuBA .img-box {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .cid-slvlgxrWuBA .card {
+    flex-direction: column;
+    align-items: center;
+    padding: 0!important;
+  }
+}
+.cid-slvlgxrWuBA h3,
+.cid-slvlgxrWuBA h4 {
+  margin: 0;
+  padding: 0;
+}
+.cid-slvlgxrWuBA H3 {
+  color: #2e4b58;
+  text-align: center;
+}
+.cid-slvlgxrWuBA H4 {
+  color: #716c80;
+  text-align: center;
+}
+.cid-slvlgxrWuBA .card-title {
+  color: #57468b;
+}
+.cid-slvlgxrWuBA .count-title {
+  color: #ecc979;
+}
+.cid-slvlgxrWuBA H2 {
+  color: #57468b;
+}
+.cid-slvlgxrWuBA .card-img {
+  width: auto;
+}
+  /* Fin */
 
-  /* Qui somme Nous ( Page d'accueil ) + Notre Vision (Page L'agence Majs)*/
+
+  /*  Notre Vision (Page L'agence Majs)*/
 .cid-slvlgxrWuB {
   padding-top: 60px;
   padding-bottom: 0px;
@@ -2382,7 +2509,7 @@ section.lazy-placeholder:after {
   /* Fin */
 
 
-  /* Transition Footer Site E-Commerce + Refonte*/
+  /* Transition Footer Site E-Commerce*/
 .cid-smyyAUgGmc {
   padding-top: 0px;
   padding-bottom: 270px;
@@ -2403,6 +2530,31 @@ section.lazy-placeholder:after {
   fill: #92b1ac !important;
 }
 .cid-smyyAUgGmc #e19_areaS3 {
+  fill: #4a5d66 !important;
+}
+  /* Fin */
+
+   /* Transition Footer Site E-Commerce*/
+.cid-smyyAUgGmc2 {
+  padding-top: 0px;
+  padding-bottom: 270px;
+  background-color: #ffffff;
+  background: linear-gradient(#fff, #fff);
+  position: relative;
+  overflow: hidden;
+}
+.cid-smyyAUgGmc2 svg {
+  position: absolute;
+  bottom: -9.5rem;
+  left: 50%;
+  transform: translate(-50%) scaleX(-2) rotate(-12deg);
+  filter: fliph;
+  /* animation: wave2 5s ease-in-out infinite; */
+}
+.cid-smyyAUgGmc2 #e12_areaS3 {
+  fill: #92b1ac !important;
+}
+.cid-smyyAUgGmc2 #e19_areaS3 {
   fill: #4a5d66 !important;
 }
   /* Fin */
@@ -3291,12 +3443,12 @@ section.lazy-placeholder:after {
   color: #4a5d66;
 }
 
-  /* Transition entre "Qui somme Nous" et "Nos compétence" */
+  /* Transition entre "Qui somme Nous" et "Notre" */
 .cid-smykxObL6s {
   padding-top: 0px;
   padding-bottom: 270px;
-  background-color: #ffffff;
-  background: linear-gradient(#ffffff, #ffffff);
+  background-color: #eaeeef;
+  background: linear-gradient(#eaeeef, #eaeeef);
   position: relative;
   overflow: hidden;
 }
@@ -3308,7 +3460,7 @@ section.lazy-placeholder:after {
   filter: fliph;
 }
 .cid-smykxObL6s #e12_areaS3 {
-  fill: #eaeeef !important;
+  fill: #ffffff !important;
 }
 .cid-smykxObL6s #e19_areaS3 {
   fill: #4a5d66 !important;
@@ -3320,7 +3472,7 @@ section.lazy-placeholder:after {
 .cid-slY0tojYek {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #eaeeef;
+  background-color: #fff;
   position: relative;
   overflow: hidden;
 }
@@ -3718,12 +3870,36 @@ section.lazy-placeholder:after {
 }
   /* Fin */
 
+    /* Transition "Nos Compétence" */
+.cid-smylQostR01 {
+  padding-top: 0px;
+  padding-bottom: 195px;
+  background-color: #fff;
+  background: linear-gradient(#fff, #fff);
+  position: relative;
+  overflow: hidden;
+}
+.cid-smylQostR01 svg {
+  position: absolute;
+  bottom: -14.5rem;
+  left: 50%;
+  transform: translate(-50%) scaleX(-3) rotate(-12deg);
+  filter: fliph;
+}
+.cid-smylQostR01 #e12_areaS3 {
+  fill: #eaeeef !important;
+}
+.cid-smylQostR01 #e19_areaS3 {
+  fill: #4a5d66 !important;
+}
+  /* Fin */
+
 
   /* Nos engagement (Page d'accueil) */
 .cid-slqbV4BYgz {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #eaeeef;
   position: relative;
   overflow: hidden;
 }
@@ -4016,11 +4192,15 @@ section.lazy-placeholder:after {
 }
   /* Fin */
 
+  .cid-sqoByG21uJ{
+    background-color: #fff !important;
+  }
+
 
   /* Nos realisation ( Page d'accueil) */
 .cid-smrdZ8PbQu {
   padding-top: 45px;
-  padding-bottom: 45px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-smrdZ8PbQu .card-box {
@@ -4182,8 +4362,8 @@ section.lazy-placeholder:after {
 .cid-slrFmM1Glh {
   padding-top: 75px;
   padding-bottom: 270px;
-  background-color: #eaeeef;
-  background: linear-gradient(#eaeeef, #ffffff);
+  background-color: #fff;
+  background: linear-gradient(#fff, #fff);
   position: relative;
   overflow: hidden;
 }

@@ -116,7 +116,7 @@
                     
                 </div>
                 <div class="align-center">
-                    <a class="btn btn-sm btn-danger display-4" href="devis.php?site=surMesure">Demande de devis</a>
+                    <a class="btn btn-sm btn-danger display-4" href="contact.php">Contactez-nous</a>
                 </div>
             </div>
 

@@ -12,9 +12,9 @@
     <link rel="shortcut icon" href="assets/images/majs-favicon-128x108.webp" type="image/x-icon">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2-min.css">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons-min.css">
-    <link rel="stylesheet" href="assets/icon54/style-min.css">
+    <link rel="stylesheet" href="assets/icon54/style.css">
     <link rel="stylesheet" href="assets/icon54-v2/style.css">
-    <link rel="stylesheet" href="assets/icon54-v3/style-min.css">
+    <link rel="stylesheet" href="assets/icon54-v3/style.css">
     <link rel="stylesheet" href="assets/icon54-v4/style.css">
     <link rel="stylesheet" href="assets/font-awesome/css/font-awesome-min.css">
     <link rel="stylesheet" href="assets/tether/tether.min.css">
@@ -30,9 +30,7 @@
 </head>
 <body>
   
-<?php 
-        include("header.php")
-    ?>
+<?php include("header.php") ?>
 
 <section class="cid-stMQ5v2hYq mbr-parallax-background" id="header02-10">
     <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(75, 101, 112);"></div>
@@ -214,26 +212,402 @@
             </div>
         </div>
     </div>
-</div>
+    </div>
 </section>
 
-<section class="header4 cid-sqoByG21uJ devisTitle" id="header09-6j">
+<section class="clients cid-smylQostR01" id="clients01-4b">
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1380px" height="810px" viewBox="0 -8.992806499463768e-14 1380 810" preserveAspectRatio="xMidYMid meet">
+            <rect id="svgEditorBackground" x="0" y="0" width="1380" height="810" style="fill: none; stroke: none;"></rect>
+            <defs id="svgEditorDefs">
+                <polygon id="svgEditorShapeDefs" style="fill:khaki;stroke:black;vector-effect:non-scaling-stroke;stroke-width:1px;"></polygon>
+                <path id="svgEditorClosePathDefs" style="stroke:black;stroke-width:1px;fill:khaki;"></path>
+            </defs>
+            <path d="M15083.791600683318,645.6720847341486c496.6000000000058,747.7999999999951,1953.3704016668416,1862.6734725832403,2751.999999999978,1967.9999999999955s1884.300000000003,-198.89999999999964,2718.7056474818382,-552.6365690040448s1746.4898225846773,-519.9524548776521,2593.2943525181545,-567.3634309959566s2251,-23.399999999999636,4384,1520.0000000000032s3205.199999999997,1437.2000000000025,4047.9999999999854,1520.0000000000018s3305.000000000029,-270.2999999999993,4640.000000000029,-1152s74.60000000000582,3328.3000000000065,32,3792.0000000000073s-19509.4,4591.000000000004,-21087.999999999993,-128.00000000000182s-1679.5999999999913,-6358.300000000001,-80,-6400Z" style="stroke:black;fill:khaki;stroke-width:0px;" id="e12_areaS3" transform="matrix(0.0650006 -0.00123765 0.00123765 0.0650006 -995.543 317.589)"></path>
+            <text dy="-0.5em" style="fill:black;font-family:Arial;font-size:20px;" id="e14_texte" transform="matrix(0.0640454 0 0 0.0640454 -832.187 329.878)">
+                <textPath id="e13_textPath" xlink:href="#e12_areaS3">T</textPath>
+            </text>
+        </svg>
+</section>
+
+<section class="extTabs tabs cid-stYFinPMLL d-md-block d-lg-none pt-0" id="extTabs11-1j">
+
+    <style type="text/css">
+
+        .cid-stYFinPMLL .table td{
+            border: 1px solid #355665 !important;
+        }
+
+        .cid-stYFinPMLL .table th{
+            border: 1px solid #355665 !important;
+        }
+
+
+        .cid-stYFinPMLL .table .Blanc th {
+            border-left: 1px solid #355665 !important;
+            border-right: 1px solid #fff !important;
+            border-top: 1px solid #355665 !important;
+            border-bottom: 1px solid #355665 !important;
+        }
+
+        /*class=""*/
+    </style>
+
+    <div class="container d-flex flex-column pb-5">
+        <div class="row justify-content-md-center">
+            <div class="col-md-10 col-sm-12">
+                <h1 style="color:#355665;font-size:30px" class="mbr-section-title align-center mbr-regular pb-2 mbr-fonts-style display-2">Vous disposez d'un site sans maintenance ? <br>Majs vous propose une solution ! </h1>
+            </div>
+        </div>
+
+        <ul class="nav nav-tabs mb-5 justify-content-center mx-auto d-flex" role="tablist">
+            <!-- Basique -->
+                <li class="nav-item first mbr-section-btn pr-3 pl-3">
+                    <a class="mbr-fonts-style btn-sm btn show active display-5" role="tab" data-toggle="tab" href="#extTabs11-1j_tab0" aria-selected="true">Sécurité</a>
+                </li>
+
+            <!-- Optimisé -->
+                <li class="nav-item mbr-section-btn pl-3 pr-3">
+                    <a class="mbr-fonts-style btn-sm btn active display-5" role="tab" data-toggle="tab" href="#extTabs11-1j_tab1" aria-selected="true">Confort</a>
+                </li>
+
+            <!-- Confort -->
+                <li class="nav-item mbr-section-btn pl-3 pr-3">
+                    <a class="mbr-fonts-style btn-sm btn active display-5" role="tab" data-toggle="tab" href="#extTabs11-1j_tab2" aria-selected="true">Optimal</a>
+                </li>
+
+           
+
+        </ul>
+
+        
+        <div class="tab-content">
+            <div id="tab1" class="tab-pane in active" role="tabpanel">
+                <div class="container" style="background-color:#efefef">
+                    <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
+
+                        <tbody>
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Maintenance <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">A partir 1 heure/Mois</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Site <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">1 Sauvegardes par Mois</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Base de donée <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">1 Sauvegardes par Mois</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Intervention <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">Sous 48 heures</td>
+                            </tr>
+
+                            <tr class="Blanc">
+                                <th scope="row" class="MobileTarif pt-3 pb-3 align-middle">Tarifs</th>
+                                <td class="MobilePrix Center align-middle">A partir de 35€/Mois</td>
+                            </tr>
+
+                        </tbody>
+
+                    </table>
+                </div>  
+            </div>
+
+            <div id="tab2" class="tab-pane" role="tabpanel">    
+                <div class="container" style="background-color:#efefef">
+                    <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
+
+                        <tbody>
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Maintenance <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">A partie de 3 heures par mois</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Site <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">1 Sauvegardes par Semaine</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Base de donée <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">1 Sauvegardes par Semaine</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Intervention <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">Sous 48 à 24 heures</td>
+                            </tr>
+
+                            <tr class="Blanc">
+                                <th scope="row" class="MobileTarif pt-3 pb-3 align-middle">Tarifs</th>
+                                <td class="MobilePrix Center align-middle">A partir de 65€ par Mois</td>
+                            </tr>
+
+                        </tbody>
+
+                    </table>
+                </div>  
+            </div>
+
+            <div id="tab3" class="tab-pane" role="tabpanel">
+                <div class="container" style="background-color:#efefef">
+                    <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
+
+                        <tbody>
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Maintenance <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">A partir de 6 heures par Mois</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Site <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">2 Sauvegardes par Jour</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Base de donée <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">2 Sauvegardes par Jour</td>
+                            </tr>
+
+                            <tr>
+                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Intervention <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                                <td class="MobileTexteBlanc Center align-middle">Sous 24 à 12 heures</td>
+                            </tr>
+
+                            <tr class="Blanc">
+                                <th scope="row" class="MobileTarif pt-3 pb-3 align-middle">Tarifs</th>
+                                <td class="MobilePrix Center align-middle">110€/Mois</td>
+                            </tr>
+
+                        </tbody>
+
+                    </table>
+                </div>  
+            </div>
+
+           
+        </div>
+    </div>
+</section>
+
+
+<style type="text/css">
+
+    .Center {
+        text-align: center;
+    }
+
+    .Titre1{
+        font-size: 1.4rem;
+        color: #ff8a73;
+        font-family: Oswald,sans-serif;
+    }
+
+    .TitreBlanc{
+        background-color: #fff;
+        font-size: 1.3rem;
+        color:#355665;
+        font-family: Oswald,sans-serif;
+    }
+
+    .TitreGris{
+        background-color: #f2f2f2;
+        font-size: 1.3rem;
+        color:#355665;
+        font-family: Oswald,sans-serif;
+    }
+
+    .TexteGris{
+        background-color: #f2f2f2;
+        font-size: 1.2rem;
+        color:#355665;
+        font-family: Oswald,sans-serif;
+    }
+
+    .TexteBlanc{
+        background-color: #fff;
+        font-size: 1.2rem;
+        color:#355665;
+        font-family: Oswald,sans-serif;
+    }
+
+    .Tarif{
+        font-size: 1.3rem;
+        background-color: #355665;
+        color:#fff;
+        font-family: Oswald,sans-serif;
+    }
+
+    .Prix{
+        font-size: 1.2rem;
+        background-color: #355665;
+        color:#fff;
+        font-family: Oswald,sans-serif;
+    }
+
+        /*Mobile*/
+    .MobileTitre1{
+        font-size: 1.2rem;
+        color: #ff8a73;
+        font-family: Oswald,sans-serif;
+    }
+
+    .MobileTitreBlanc{
+        background-color: #fff;
+        font-size: 1rem;
+        color:#355665;
+        font-family: Oswald,sans-serif;
+    }
+
+    .MobileTitreGris{
+        background-color: #f2f2f2;
+        font-size: 1rem;
+        color:#355665;
+        font-family: Oswald,sans-serif;
+    }
+
+    .MobileTexteGris{
+        background-color: #f2f2f2;
+        font-size: 1rem;
+        color:#355665;
+        font-family: Oswald,sans-serif;
+    }
+
+    .MobileTexteBlanc{
+        background-color: #fff;
+        font-size: 0.9rem;
+        color:#355665;
+        font-family: Oswald,sans-serif;
+    }
+
+    .MobileTarif{
+        font-size: 1rem;
+        background-color: #355665;
+        color:#fff;
+        font-family: Oswald,sans-serif;
+    }
+
+    .MobilePrix{
+        font-size: 0.9rem;
+        background-color: #355665;
+        color:#fff;
+        font-family: Oswald,sans-serif;
+    }
+
+    /*class=""*/
+</style>
+
+<section class="pb-5 d-none d-lg-block">
+    <div class="container" style="background-color:#efefef">
+
+        <div class="row justify-content-md-center mb-3">
+            <div class="col-md-10 col-sm-12">
+                <h1 style="color:#355665;font-size:40px" class="mbr-section-title align-center mbr-regular pb-2 mbr-fonts-style display-2">
+                    Vous disposez d'un site sans maintenance ? 
+                    <br>
+                    Majs à la solution !
+                </h1>
+                <div class="mbr-text align-center pb-2" style="color:#355665;font-size:22px; font-family:oswald;">
+                    Retrouvez nos solutions ci-dessous :
+                </div>
+            </div>
+
+        </div>
+
+        <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
+
+            <thead>
+                <tr>
+                    <th scope="col" class="Typo Titre1 pt-3 pb-3 align-middle">Offre</th>
+                    <th scope="col" class="Typo Titre1 Center align-middle">Sécurité</th>
+                    <th scope="col" class="Typo Titre1 Center align-middle">Confort</th>
+                    <th scope="col" class="Typo Titre1 Center align-middle">Optimal</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle">Type de site conseillé <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                    <td class="Typo TexteBlanc Center align-middle">Site Vitrine</td>
+                    <td class="Typo TexteBlanc Center align-middle">Site-Vitrine/Site E-Commerce</td>
+                    <td class="Typo TexteBlanc Center align-middle">Site-E-Commerce/Site sur mesure</td>
+                </tr>
+                <tr>
+                    <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle">Maintenance <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                    <td class="Typo TexteBlanc Center align-middle">A partir 1 heure par Mois</td>
+                    <td class="Typo TexteBlanc Center align-middle">A partir de 3 heures par Mois</td>
+                    <td class="Typo TexteBlanc Center align-middle">A partir de 6 heures par Mois</td>
+                </tr>
+                <tr>
+                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Sauvegarde de votre Site <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                    <td class="Typo TexteGris Center align-middle">1 Sauvegardes par Mois</td>
+                    <td class="Typo TexteGris Center align-middle">1 Sauvegardes par Semaine</td>
+                    <td class="Typo TexteGris Center align-middle">2 Sauvegardes par Jour</td>
+                </tr>
+
+                <tr>
+                    <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Base de donée <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                    <td class="Typo TexteBlanc Center align-middle">1 Sauvegardes par Mois</td>
+                    <td class="Typo TexteBlanc Center align-middle">1 Sauvegardes par Semaine</td>
+                    <td class="Typo TexteBlanc Center align-middle">2 Sauvegardes par Jour</td>
+                </tr>
+
+                <tr>
+                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Intervention <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
+                    <td class="Typo TexteGris Center align-middle">Sous 48 heures</td>
+                    <td class="Typo TexteGris Center align-middle">Sous 24 à 48 heures</td>
+                    <td class="Typo TexteGris Center align-middle">Sous 12 à 24 heures</td>
+                </tr>
+
+                <tr>
+                    <th scope="row" class="Typo Tarif pt-3 pb-3 align-middle">Tarifs</th>
+                    <td class="Typo Prix Center align-middle">A partir de 35€HT/Mois</td>
+                    <td class="Typo Prix Center align-middle">A partir de 65€/Mois</td>
+                    <td class="Typo Prix Center align-middle">A partir de 110€/Mois</td>
+                </tr>
+
+            </tbody>
+
+        </table>
+    </div>
+</section>
+
+<section style="background-color:#efefef !important" class="header4 cid-sqoByG21uJ devisTitle pt-0" id="header09-6j">
     <div class="container">
         <div class="row justify-content-md-center">
             <div class="col-md-10 col-sm-12">
-                <!--<h1 class="mbr-section-title align-center mbr-white pb-2 mbr-fonts-style display-2" style="color: #2e4b58!important">Vous êtes intérésé par notre service de maintenance ?</h1>-->
+                <h6 style="color:#355665" class="mbr-section-title align-center mbr-regular pb-2 mbr-fonts-style display-2">Vous avez choici votre offre ? </h6>
                 
                 <div class="mbr-text align-center mbr-white pb-2">
                     
                 </div>
                 <div class="align-center">
-                    <a class="btn btn-sm btn-danger display-4" href="tarifs.php?service=maintenance&#clients01-4a">VOIR LES FORFAITS</a>
+                    <a class="btn btn-sm btn-danger display-4" href="contact-maintenance.php">Choisir mon forfait</a>
                 </div>
             </div>
 
         </div>
     </div>
 </section>
+
+<section class="clients cid-smykxObL6s" id="clients01-4a">
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1380px" height="810px" viewBox="0 -8.992806499463768e-14 1380 810" preserveAspectRatio="xMidYMid meet">
+        <rect id="svgEditorBackground" x="0" y="0" width="1380" height="810" style="fill: none; stroke: none;"></rect>
+        <defs id="svgEditorDefs">
+            <polygon id="svgEditorShapeDefs" style="fill:khaki;stroke:black;vector-effect:non-scaling-stroke;stroke-width:1px;"></polygon>
+            <path id="svgEditorClosePathDefs" style="stroke:black;stroke-width:1px;fill:khaki;"></path>
+        </defs>
+        <path d="M15083.791600683318,645.6720847341486c496.6000000000058,747.7999999999951,1953.3704016668416,1862.6734725832403,2751.999999999978,1967.9999999999955s1884.300000000003,-198.89999999999964,2718.7056474818382,-552.6365690040448s1746.4898225846773,-519.9524548776521,2593.2943525181545,-567.3634309959566s2251,-23.399999999999636,4384,1520.0000000000032s3205.199999999997,1437.2000000000025,4047.9999999999854,1520.0000000000018s3305.000000000029,-270.2999999999993,4640.000000000029,-1152s74.60000000000582,3328.3000000000065,32,3792.0000000000073s-19509.4,4591.000000000004,-21087.999999999993,-128.00000000000182s-1679.5999999999913,-6358.300000000001,-80,-6400Z" style="stroke:black;fill:khaki;stroke-width:0px;" id="e12_areaS3" transform="matrix(0.0650006 -0.00123765 0.00123765 0.0650006 -995.543 317.589)"></path>
+        <text dy="-0.5em" style="fill:black;font-family:Arial;font-size:20px;" id="e14_texte" transform="matrix(0.0640454 0 0 0.0640454 -832.187 329.878)">
+            <textPath id="e13_textPath" xlink:href="#e12_areaS3">T</textPath>
+        </text>
+    </svg>
+</section>
+
 
 <section class="features1 cid-su4sSSTt6A" id="features01-1o">  
     <h4 class="card-title py-2 pt-2 pb-2 mbr-fonts-style mb-5 display-2">Vous souhaitez une <strong>Assistance Ponctuelle</strong> sur votre site ?</h4>
@@ -297,23 +671,22 @@
 </section>
 
 
+<?php include("footer.php") ?>
 
-<?php 
-    include("footer.php")
-?>
+    <script src="assets/popper/popper.min.js"></script>
+    <script src="assets/tether/tether.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/smoothscroll/smooth-scroll.js"></script>
+    <script src="assets/mobirise-tabs/mbr-tabs.js"></script>
+    <script src="assets/theme/js/script.js"></script>
 
-  <script src="assets/popper/popper.min.js"></script>
-  <script src="assets/tether/tether.min.js"></script>
-  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-  <script src="assets/smoothscroll/smooth-scroll.js"></script>
-  <script src="assets/dropdown/js/nav-dropdown.js"></script>
-  <script src="assets/dropdown/js/navbar-dropdown.js"></script>
-  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
-  <script src="assets/parallax/jarallax.min.js"></script>
-  <script src="assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>
-  <script src="assets/mbr-clients-slider/mbr-clients-slider.js"></script>
-  <script src="assets/theme/js/script.js"></script>
-  <script src="assets/formoid/formoid.min.js"></script>
+
+    <script src="assets/dropdown/js/nav-dropdown.js"></script>
+    <script src="assets/dropdown/js/navbar-dropdown.js"></script>
+    <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
+    <script src="assets/parallax/jarallax.min.js"></script>
+    <script src="assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>
+    <script src="assets/mbr-clients-slider/mbr-clients-slider.js"></script>
   
 </body>
 </html>

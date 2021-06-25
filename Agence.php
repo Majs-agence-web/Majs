@@ -33,46 +33,68 @@
     <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(74, 93, 102);">
     </div>
 
-<!--     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1380px" height="760px" viewBox="0 0 1380 760" preserveAspectRatio="xMidYMid meet">
-        <defs id="svgEditorDefs">
-            <polygon id="svgEditorShapeDefs" style="fill:khaki;stroke:black;vector-effect:non-scaling-stroke;stroke-width:0px;"></polygon>
-        </defs>
-        <rect id="svgEditorBackground" x="0" y="0" width="1380" height="760" style="fill: none; stroke: none;"></rect>
-        <path d="M0.3577131120350206,0.819491525482845h-1.5000000000000355ZM0.3577131120350206,-3.1805084745172603h-1.5000000000000355ZM-0.14228688796500222,-4.180508474517258h5.000000000000002a5,5,0,0,1,0,6.00000000000003h-5.000000000000025a5,5,0,0,0,0,-6.00000000000003ZM5.8577131120349835,-1.1805084745172634h1.0000000000000249Z" style="fill:khaki; stroke:black; vector-effect:non-scaling-stroke;stroke-width:0px;" id="e2_shape" transform="matrix(1.01506 82.3743 -245.478 0.34062 392.311 526.125)"></path>
-    </svg>
-    
-   
-    <div class="round round2 rev"></div>
-    <div class="round round3"></div>
-    <div class="round round4 rev"></div>
- 
-    <div class="round round6 rev"></div>
-    <div class="round round7"></div>
-    <div class="round round8 rev"></div>
-  
-    <div class="round round10"></div>
-    <div class="round round11"></div> -->
-
     <div class="container">
         <div class="row justify-content-md-center">
             <div class="col-md-10 col-lg-7 align-center">
                 <h1 class="mbr-section-title mbr-regular mbr-white pb-2 mbr-fonts-style display-1">L'agence MajS</h1>
             </div>
             <div class="pt-5 align-center">
-<!--                <img src="assets/images/05-1.webp" alt="" mbr-style="{'width': mediaSize + '%'} loading="lazy""> -->
+            <!--                <img src="assets/images/05-1.webp" alt="" mbr-style="{'width': mediaSize + '%'} loading="lazy""> -->
             </div>
         </div>
     </div>
 </section>
 
+<section class="counters1 counters cid-slvlgxrWuBA" roup="Counters" id="counters03-1o">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-xl-6 d-none d-lg-none d-xl-block align-center img-box" style="height:500px">
+                    <div>
+                        <img class="img1" src="assets/images/undraw_building_websites_i78t.svg" alt=""  loading="lazy">
+                    </div>
+                    <div>
+                        <br>
+                        <img class="img2" src="assets/images/undraw_meet_the_team_e5b7.svg" alt="" loading="lazy">
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-10 col-lg-10 col-xl-6 py-4 m-auto">
+                    <h2 class="mbr-section-title pb-3 mbr-fonts-style display-1"><span style="color:#ecc979;">{</span> Qui sommes-nous ? <span style="color:#ecc979;">}</span></h2>
+
+                    <p class="mbr-text align-left mbr-light mbr-fonts-style display-7">
+                        <br>
+                        <strong>Agence Web Enthousiaste<br></strong>
+                        MAJS est une agence digitale située à Croix, composée de spécialistes du web : développeur, chef de projet et webdesigner.
+                        <br>
+                        <br>
+                        Nous aidons nos clients à digitaliser leur communication en offrant une expérience utilisateur simple et efficace.
+                    </p>
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+</section>
+    
+    <section class="clients cid-smykxObL6s" id="clients01-4a">
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1380px" height="810px" viewBox="0 -8.992806499463768e-14 1380 810" preserveAspectRatio="xMidYMid meet">
+            <rect id="svgEditorBackground" x="0" y="0" width="1380" height="810" style="fill: none; stroke: none;"></rect>
+            <defs id="svgEditorDefs">
+                <polygon id="svgEditorShapeDefs" style="fill:khaki;stroke:black;vector-effect:non-scaling-stroke;stroke-width:1px;"></polygon>
+                <path id="svgEditorClosePathDefs" style="stroke:black;stroke-width:1px;fill:khaki;"></path>
+            </defs>
+            <path d="M15083.791600683318,645.6720847341486c496.6000000000058,747.7999999999951,1953.3704016668416,1862.6734725832403,2751.999999999978,1967.9999999999955s1884.300000000003,-198.89999999999964,2718.7056474818382,-552.6365690040448s1746.4898225846773,-519.9524548776521,2593.2943525181545,-567.3634309959566s2251,-23.399999999999636,4384,1520.0000000000032s3205.199999999997,1437.2000000000025,4047.9999999999854,1520.0000000000018s3305.000000000029,-270.2999999999993,4640.000000000029,-1152s74.60000000000582,3328.3000000000065,32,3792.0000000000073s-19509.4,4591.000000000004,-21087.999999999993,-128.00000000000182s-1679.5999999999913,-6358.300000000001,-80,-6400Z" style="stroke:black;fill:khaki;stroke-width:0px;" id="e12_areaS3" transform="matrix(0.0650006 -0.00123765 0.00123765 0.0650006 -995.543 317.589)"></path>
+            <text dy="-0.5em" style="fill:black;font-family:Arial;font-size:20px;" id="e14_texte" transform="matrix(0.0640454 0 0 0.0640454 -832.187 329.878)">
+                <textPath id="e13_textPath" xlink:href="#e12_areaS3">T</textPath>
+            </text>
+        </svg>
+    </section>
+
 <section class="counters1 counters cid-slvlgxrWuB" roup="Counters" id="counters03-1o">
-
-    
-
-    
-
-
-
     <div class="container">
         <div class="row">
 
