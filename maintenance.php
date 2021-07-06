@@ -262,138 +262,94 @@
         <ul class="nav nav-tabs mb-5 justify-content-center mx-auto d-flex" role="tablist">
             <!-- Basique -->
                 <li class="nav-item first mbr-section-btn pr-3 pl-3">
-                    <a class="mbr-fonts-style btn-sm btn show active display-5" role="tab" data-toggle="tab" href="#extTabs11-1j_tab0" aria-selected="true">Sécurité</a>
+                    <a class="mbr-fonts-style btn-sm btn show active display-5" role="tab" data-toggle="tab" href="#extTabs11-1j_tab0" aria-selected="true">Site Vitrine</a>
                 </li>
 
             <!-- Optimisé -->
                 <li class="nav-item mbr-section-btn pl-3 pr-3">
-                    <a class="mbr-fonts-style btn-sm btn active display-5" role="tab" data-toggle="tab" href="#extTabs11-1j_tab1" aria-selected="true">Confort</a>
+                    <a class="mbr-fonts-style btn-sm btn active display-5" role="tab" data-toggle="tab" href="#extTabs11-1j_tab1" aria-selected="true">Site E-Commerce</a>
                 </li>
-
-            <!-- Confort -->
-                <li class="nav-item mbr-section-btn pl-3 pr-3">
-                    <a class="mbr-fonts-style btn-sm btn active display-5" role="tab" data-toggle="tab" href="#extTabs11-1j_tab2" aria-selected="true">Optimal</a>
-                </li>
-
-           
-
         </ul>
 
         
         <div class="tab-content">
             <div id="tab1" class="tab-pane in active" role="tabpanel">
-                <div class="container" style="background-color:#efefef">
-                    <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
+                <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
 
-                        <tbody>
-                            <tr>
-                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Maintenance <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                                <td class="MobileTexteBlanc Center align-middle">A partir d'1 heure/Mois</td>
-                            </tr>
+                    <thead>
+                        <tr>
+                            <th scope="col" class="Typo Titre1 pt-3 pb-3 align-middle">Offre</th>
+                            <th scope="col" class="Typo Titre1 Center align-middle">Site Vitrine</th>
+                        </tr>
+                    </thead>
 
-                            <tr>
-                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Site <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                                <td class="MobileTexteBlanc Center align-middle">1 Sauvegarde par Mois</td>
-                            </tr>
+                    <tbody>
 
-                            <tr>
-                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Base de donée <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                                <td class="MobileTexteBlanc Center align-middle">1 Sauvegarde par Mois</td>
-                            </tr>
+                        <tr>
+                            <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Maintenance préventive</th>
+                            <td class="Typo TexteGris Center align-middle">Mise à jour CMS et extensions</td>
+                        </tr>
 
-                            <tr>
-                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Intervention <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                                <td class="MobileTexteBlanc Center align-middle">Sous 48 heures</td>
-                            </tr>
+                        <tr>
+                            <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle">Maintenance corrective</th>
+                            <td class="Typo TexteBlanc Center align-middle">Résolution de bugs</td>
+                        </tr>
 
-                            <tr class="Blanc">
-                                <th scope="row" class="MobileTarif pt-3 pb-3 align-middle">Tarifs</th>
-                                <td class="MobilePrix Center align-middle">A partir de 35€/Mois</td>
-                            </tr>
+                        <tr>
+                            <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Sauvegarde</th>
+                            <td class="Typo TexteGris Center align-middle">1 Sauvegarde par Semaine</td>
+                        </tr>
 
-                        </tbody>
+                        <tr>
+                            <th scope="row" class="Typo Tarif pt-3 pb-3 align-middle">Tarifs (Hors Taxe)</th>
+                            <td class="Typo Prix Center align-middle">30€/Mois</td>
+                        </tr>
 
-                    </table>
-                </div>  
+                    </tbody>
+
+                </table>
             </div>
 
             <div id="tab2" class="tab-pane" role="tabpanel">    
-                <div class="container" style="background-color:#efefef">
-                    <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
+                <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
 
-                        <tbody>
-                            <tr>
-                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Maintenance <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                                <td class="MobileTexteBlanc Center align-middle">A partie de 3 heures par mois</td>
-                            </tr>
+                    <thead>
+                        <tr>
+                            <th scope="col" class="Typo Titre1 pt-3 pb-3 align-middle">Offre</th>
+                            <th scope="col" class="Typo Titre1 Center align-middle">Site E-Commerce</th>
+                        </tr>
+                    </thead>
 
-                            <tr>
-                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Site <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                                <td class="MobileTexteBlanc Center align-middle">1 Sauvegarde par Semaine</td>
-                            </tr>
+                    <tbody>
 
-                            <tr>
-                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Base de donée <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                                <td class="MobileTexteBlanc Center align-middle">1 Sauvegarde par Semaine</td>
-                            </tr>
+                        <tr>
+                            <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Maintenance préventive</th>
+                            <td class="Typo TexteGris Center align-middle">Mise à jour CMS ,extensions et système de vente</td>
+                        </tr>
 
-                            <tr>
-                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Intervention <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                                <td class="MobileTexteBlanc Center align-middle">Sous 48 à 24 heures</td>
-                            </tr>
+                        <tr>
+                            <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle">Maintenance corrective</th>
+                            <td class="Typo TexteBlanc Center align-middle">Résolution de bugs</td>
+                        </tr>
 
-                            <tr class="Blanc">
-                                <th scope="row" class="MobileTarif pt-3 pb-3 align-middle">Tarifs</th>
-                                <td class="MobilePrix Center align-middle">A partir de 65€ par Mois</td>
-                            </tr>
+                        <tr>
+                            <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Sauvegarde</th>
+                            <td class="Typo TexteGris Center align-middle">1 Sauvegarde par Jour</td>
+                        </tr>
 
-                        </tbody>
+                        <tr>
+                            <th scope="row" class="Typo Tarif pt-3 pb-3 align-middle">Tarifs (Hors Taxe)</th>
+                            <td class="Typo Prix Center align-middle">60€/Mois</td>
+                        </tr>
 
-                    </table>
-                </div>  
+                    </tbody>
+
+                </table>
             </div>
 
-            <div id="tab3" class="tab-pane" role="tabpanel">
-                <div class="container" style="background-color:#efefef">
-                    <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
-
-                        <tbody>
-                            <tr>
-                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Maintenance <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                                <td class="MobileTexteBlanc Center align-middle">A partir de 6 heures par Mois</td>
-                            </tr>
-
-                            <tr>
-                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Site <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                                <td class="MobileTexteBlanc Center align-middle">2 Sauvegardes par Jour</td>
-                            </tr>
-
-                            <tr>
-                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Base de donée <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                                <td class="MobileTexteBlanc Center align-middle">2 Sauvegardes par Jour</td>
-                            </tr>
-
-                            <tr>
-                                <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Intervention <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                                <td class="MobileTexteBlanc Center align-middle">Sous 24 à 12 heures</td>
-                            </tr>
-
-                            <tr class="Blanc">
-                                <th scope="row" class="MobileTarif pt-3 pb-3 align-middle">Tarifs</th>
-                                <td class="MobilePrix Center align-middle">à partir de 110€/Mois</td>
-                            </tr>
-
-                        </tbody>
-
-                    </table>
-                </div>  
-            </div>
-
-           
         </div>
     </div>
 </section>
-
 
 <style type="text/css">
 
@@ -523,51 +479,36 @@
             <thead>
                 <tr>
                     <th scope="col" class="Typo Titre1 pt-3 pb-3 align-middle">Offre</th>
-                    <th scope="col" class="Typo Titre1 Center align-middle">Sécurité</th>
-                    <th scope="col" class="Typo Titre1 Center align-middle">Confort</th>
-                    <th scope="col" class="Typo Titre1 Center align-middle">Optimal</th>
+                    <th scope="col" class="Typo Titre1 Center align-middle">Site Vitrine</th>
+                    <th scope="col" class="Typo Titre1 Center align-middle">Site E-Commerce</th>
+
                 </tr>
             </thead>
 
             <tbody>
+
                 <tr>
-                    <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle">Type de site conseillé <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                    <td class="Typo TexteBlanc Center align-middle">Site Vitrine</td>
-                    <td class="Typo TexteBlanc Center align-middle">Site-Vitrine/Site E-Commerce</td>
-                    <td class="Typo TexteBlanc Center align-middle">Site-E-Commerce/Site sur mesure</td>
+                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Maintenance préventive</th>
+                    <td class="Typo TexteGris Center align-middle">Mise à jour CMS et extensions</td>
+                    <td class="Typo TexteGris Center align-middle">Mise à jour CMS ,extensions et système de vente</td>
                 </tr>
+
                 <tr>
-                    <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle">Maintenance <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                    <td class="Typo TexteBlanc Center align-middle">A partir 1 heure par Mois</td>
-                    <td class="Typo TexteBlanc Center align-middle">A partir de 3 heures par Mois</td>
-                    <td class="Typo TexteBlanc Center align-middle">A partir de 6 heures par Mois</td>
+                    <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle">Maintenance corrective</th>
+                    <td class="Typo TexteBlanc Center align-middle">Résolution de bugs</td>
+                    <td class="Typo TexteBlanc Center align-middle">Résolution de bugs</td>
                 </tr>
+
                 <tr>
-                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Sauvegarde de votre Site <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                    <td class="Typo TexteGris Center align-middle">1 Sauvegarde par Mois</td>
+                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Sauvegarde</th>
                     <td class="Typo TexteGris Center align-middle">1 Sauvegarde par Semaine</td>
-                    <td class="Typo TexteGris Center align-middle">2 Sauvegardes par Jour</td>
+                    <td class="Typo TexteGris Center align-middle">1 Sauvegarde par Jour</td>
                 </tr>
 
                 <tr>
-                    <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Base de donée <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                    <td class="Typo TexteBlanc Center align-middle">1 Sauvegarde par Mois</td>
-                    <td class="Typo TexteBlanc Center align-middle">1 Sauvegarde par Semaine</td>
-                    <td class="Typo TexteBlanc Center align-middle">2 Sauvegardes par Jour</td>
-                </tr>
-
-                <tr>
-                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Intervention <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                    <td class="Typo TexteGris Center align-middle">Sous 48 heures</td>
-                    <td class="Typo TexteGris Center align-middle">Sous 24 à 48 heures</td>
-                    <td class="Typo TexteGris Center align-middle">Sous 12 à 24 heures</td>
-                </tr>
-
-                <tr>
-                    <th scope="row" class="Typo Tarif pt-3 pb-3 align-middle">Tarifs</th>
-                    <td class="Typo Prix Center align-middle">A partir de 35€HT/Mois</td>
-                    <td class="Typo Prix Center align-middle">A partir de 65€/Mois</td>
-                    <td class="Typo Prix Center align-middle">A partir de 110€/Mois</td>
+                    <th scope="row" class="Typo Tarif pt-3 pb-3 align-middle">Tarifs (Hors Taxe)</th>
+                    <td class="Typo Prix Center align-middle">30€/Mois</td>
+                    <td class="Typo Prix Center align-middle">60€/Mois</td>
                 </tr>
 
             </tbody>
