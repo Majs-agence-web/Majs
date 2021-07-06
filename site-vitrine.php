@@ -78,7 +78,7 @@
                                                     <li>Hébergement et maintenance <br>(Forfait Sécurité)</li>
                                                 </ul>
                                                 <div class="pricing-footer mbr-section-btn">
-                                                    <a href="devis.php?site=siteVitrine&service=location" class="btn btn-primary display-4">Devis gratuit</a>
+                                                    <a href="devis-site-vitrine.php?site=siteVitrine&service=location" class="btn btn-primary display-4">Devis gratuit</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -123,7 +123,7 @@
                                                     <li>Hébergement et maintenance <br>(Option)</li>
                                                 </ul>
                                                 <div class="pricing-footer mbr-section-btn">
-                                                    <a href="devis.php?site=siteVitrine&service=achat" class="btn btn-primary display-4">Devis gratuit</a>
+                                                    <a href="devis-site-vitrine.php?site=siteVitrine&service=achat" class="btn btn-primary display-4">Devis gratuit</a>
                                                 </div>
                                             </div>
                                         </div>

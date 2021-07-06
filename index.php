@@ -159,7 +159,7 @@
 
         <div class="container">
 
-            <h4 class="main-title pb-5 mbr-regular mbr-fonts-style display-1"><span style="color:#ecc979;">{&nbsp;</span><span style="color:#355665">Nos Compétence&nbsp;</span><span style="color:#ecc979;">}</span></h4>
+            <h4 class="main-title pb-5 mbr-regular mbr-fonts-style display-1"><span style="color:#ecc979;">{&nbsp;</span><span style="color:#355665">Nos Compétences&nbsp;</span><span style="color:#ecc979;">}</span></h4>
             <div class="media-container-row">
 
                 <div class="card p-3 nosSite">

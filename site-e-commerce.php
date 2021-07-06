@@ -171,7 +171,7 @@
                                             <li>Hébergement et maintenance <br>(Forfait Sécurité inclus)</li>
                                         </ul>
                                         <div class="pricing-footer mbr-section-btn">
-                                            <a href="devis.php?site=siteECommerce&service=location" class="btn btn-primary display-4">Devis gratuit</a>
+                                            <a href="devis-e-commerce.php?site=siteECommerce&service=location" class="btn btn-primary display-4">Devis gratuit</a>
                                         </div>
                                     </div>
                                 </div>
@@ -205,7 +205,7 @@
                                         </div>
                                         <div class="price-tage">
                                             <p class="mbr-fonts-style costs-title display-4">A partir de</p>
-                                            <h3 class="mbr-fonts-style costs mbr-light display-2">950€</h3>
+                                            <h3 class="mbr-fonts-style costs mbr-light display-2">2000€</h3>
                                             <p class="mbr-fonts-style costs-title display-4">/HT</p>
                                         </div>
                                         <ul class="table-content mbr-fonts-style display-7">
@@ -216,7 +216,7 @@
                                             <li>Hébergement  maintenance <br>(Option)</li>
                                         </ul>
                                         <div class="pricing-footer mbr-section-btn">
-                                            <a href="devis.php?site=siteECommerce&service=achat" class="btn btn-primary display-4">Devis gratuit</a>
+                                            <a href="devis-e-commerce.php?site=siteECommerce&service=achat" class="btn btn-primary display-4">Devis gratuit</a>
                                         </div>
                                     </div>
                                 </div>

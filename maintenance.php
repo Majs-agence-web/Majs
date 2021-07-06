@@ -99,9 +99,9 @@
                 </div>
                 <div class="card-box ">
                     <h4 class="card-title mbr-fonts-style align-center display-5">
-                        Sauvegardes</h4>
+                        Sauvegarde</h4>
                     <p class="mbr-text mbr-fonts-style align-center display-7">
-                       Sauvegardes de l'intégralité de votre site sur un serveur externe.
+                       Sauvegarde de l'intégralité de votre site sur un serveur externe.
                     </p>
                 </div>
             </div>
@@ -288,17 +288,17 @@
                         <tbody>
                             <tr>
                                 <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Maintenance <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                                <td class="MobileTexteBlanc Center align-middle">A partir 1 heure/Mois</td>
+                                <td class="MobileTexteBlanc Center align-middle">A partir d'1 heure/Mois</td>
                             </tr>
 
                             <tr>
                                 <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Site <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                                <td class="MobileTexteBlanc Center align-middle">1 Sauvegardes par Mois</td>
+                                <td class="MobileTexteBlanc Center align-middle">1 Sauvegarde par Mois</td>
                             </tr>
 
                             <tr>
                                 <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Base de donée <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                                <td class="MobileTexteBlanc Center align-middle">1 Sauvegardes par Mois</td>
+                                <td class="MobileTexteBlanc Center align-middle">1 Sauvegarde par Mois</td>
                             </tr>
 
                             <tr>
@@ -329,12 +329,12 @@
 
                             <tr>
                                 <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Site <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                                <td class="MobileTexteBlanc Center align-middle">1 Sauvegardes par Semaine</td>
+                                <td class="MobileTexteBlanc Center align-middle">1 Sauvegarde par Semaine</td>
                             </tr>
 
                             <tr>
                                 <th scope="row" class="MobileTitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Base de donée <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                                <td class="MobileTexteBlanc Center align-middle">1 Sauvegardes par Semaine</td>
+                                <td class="MobileTexteBlanc Center align-middle">1 Sauvegarde par Semaine</td>
                             </tr>
 
                             <tr>
@@ -380,7 +380,7 @@
 
                             <tr class="Blanc">
                                 <th scope="row" class="MobileTarif pt-3 pb-3 align-middle">Tarifs</th>
-                                <td class="MobilePrix Center align-middle">110€/Mois</td>
+                                <td class="MobilePrix Center align-middle">à partir de 110€/Mois</td>
                             </tr>
 
                         </tbody>
@@ -544,15 +544,15 @@
                 </tr>
                 <tr>
                     <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Sauvegarde de votre Site <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                    <td class="Typo TexteGris Center align-middle">1 Sauvegardes par Mois</td>
-                    <td class="Typo TexteGris Center align-middle">1 Sauvegardes par Semaine</td>
+                    <td class="Typo TexteGris Center align-middle">1 Sauvegarde par Mois</td>
+                    <td class="Typo TexteGris Center align-middle">1 Sauvegarde par Semaine</td>
                     <td class="Typo TexteGris Center align-middle">2 Sauvegardes par Jour</td>
                 </tr>
 
                 <tr>
                     <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle">Sauvegarde de votre Base de donée <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                    <td class="Typo TexteBlanc Center align-middle">1 Sauvegardes par Mois</td>
-                    <td class="Typo TexteBlanc Center align-middle">1 Sauvegardes par Semaine</td>
+                    <td class="Typo TexteBlanc Center align-middle">1 Sauvegarde par Mois</td>
+                    <td class="Typo TexteBlanc Center align-middle">1 Sauvegarde par Semaine</td>
                     <td class="Typo TexteBlanc Center align-middle">2 Sauvegardes par Jour</td>
                 </tr>
 
@@ -580,7 +580,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class="col-md-10 col-sm-12">
-                <h6 style="color:#355665" class="mbr-section-title align-center mbr-regular pb-2 mbr-fonts-style display-2">Vous avez choici votre offre ? </h6>
+                <h6 style="color:#355665" class="mbr-section-title align-center mbr-regular pb-2 mbr-fonts-style display-2">Vous avez choisi votre offre ? </h6>
                 
                 <div class="mbr-text align-center mbr-white pb-2">
                     
