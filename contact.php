@@ -118,7 +118,7 @@
                     <div class="dragArea form-row">
 
                         <div class="col-lg-12 align-left">
-                            <h5 class="mbr-regular mbr-fonts-style display-2">Nous Contactez</h5>
+                            <h5 class="mbr-regular mbr-fonts-style display-2">Nous Contacter</h5>
                         </div>
 
                         <div data-for="Nom" class="col-lg-12 form-group">

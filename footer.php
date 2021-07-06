@@ -95,7 +95,7 @@
             <div class="demandeDevis col-12 col-lg-3 pb-3 mbr-fonts-style display-7">
                 <p class="text-center">Besoin d'un devis ?<br></p>
                 <div class="boutonDevis mx-auto navbar-buttons px-2">
-                    <a class="btn btn-sm btn-danger display-4" href="devis.php">DEMANDER UN DEVIS GRATUIT</a>
+                    <a class="btn btn-sm btn-danger display-4" href="contact.php">DEMANDER UN DEVIS GRATUIT</a>
                 </div>  
             </div>                 
         </div>
