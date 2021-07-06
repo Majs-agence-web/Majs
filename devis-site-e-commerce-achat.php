@@ -134,14 +134,22 @@
                         <!-- Modele Design -->
       
                             <tr>
-                                <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Design<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #fff;"></span></th>
+                                <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Design</th>
                                 <td class="Typo TexteBlanc Center align-middle"  style="background-color:#ecc979; border-right:1px solid #ecc979 !important;"></td>
                                 <td class="Typo TexteBlanc Center align-middle"  style="background-color:#ecc979; border-right:1px solid #ecc979 !important;"></td>
                             </tr>
                         
                             <!-- site -->
                                 <tr>
-                                    <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #355665; color:#fff; border-right:1px solid #355665 !important; font-size:18px;">Profession</th>
+                                    <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #355665; color:#fff; border-right:1px solid #355665 !important; font-size:18px;">Profession
+                                    <span data-toggle="tooltip" data-placement="right" data-html="true" 
+                                        title="
+                                            <b>
+                                                <br>
+                                                <p>Indiquer votre profession nous servira à vous proposer des templates adapté à celle-ci lors du devis</p>
+                                            </>" 
+                                        class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #fff !important;"></span>
+                                    </th>
                                     <td class="Typo TexteBlanc Center align-middle"  style="background-color:#355665; border-right:1px solid #355665 !important;"></td>
                                     <td class="Typo TexteBlanc Center align-middle"  style="background-color:#355665; border-right:1px solid #355665 !important;"></td>
                                 </tr>
@@ -219,7 +227,14 @@
                                 </tr>
 
                                 <tr>
-                                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Je souhaite choisir parmis les thèmes proposé</th>
+                                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Je souhaite choisir parmis les thèmes proposé
+                                    <span data-toggle="tooltip" data-placement="right" data-html="true" 
+                                        title="
+                                            <b>
+                                                <p>Choix parmis 3 thèmes en relation avec votre profession</p>
+                                            <b/>" 
+                                        class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
+                                    </th>
                                     <td class="Typo TexteGris Center align-middle text-right">
                                         <div class="form-check text-center pb-4">
                                             <input class="form-check-input" type="radio" name="Theme" id="Theme1" value="Je souhaite choisir parmis les thémes proposé" checked data-form-field="Theme">
@@ -252,13 +267,13 @@
 
                         <!-- Modele Nbr Articles-->
                             <tr>
-                                <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Produits<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #fff;"></span></th>
+                                <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Produits</th>
                                 <td class="Typo TexteBlanc Center align-middle text-right"  style="background-color:#ecc979; border-right:1px solid #ecc979 !important;"></td>
                                 <td class="Typo TexteBlanc Center align-middle text-right"  style="background-color:#ecc979; border-right:1px solid #ecc979 !important;"></td>
                             </tr>
 
                             <tr>
-                                <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #355665; color:#fff; border-right:1px solid #355665 !important; font-size:18px;">Ajouts des produits<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #fff;"></span></th>
+                                <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #355665; color:#fff; border-right:1px solid #355665 !important; font-size:18px;">Ajouts des produits</th>
                                 <td class="Typo TexteBlanc Center align-middle"  style="background-color:#355665; border-right:1px solid #355665 !important;"></td>
                                 <td class="Typo TexteBlanc Center align-middle"  style="background-color:#355665; border-right:1px solid #355665 !important;"></td>
                             </tr>
@@ -300,7 +315,7 @@
                             </tr>
 
                             <tr>
-                                <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #355665; color:#fff; border-right:1px solid #355665 !important; font-size:18px;">Nombre de produit<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #fff;"></span></th>
+                                <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #355665; color:#fff; border-right:1px solid #355665 !important; font-size:18px;">Nombre de produit</th>
                                 <td class="Typo TexteBlanc Center align-middle"  style="background-color:#355665; border-right:1px solid #355665 !important;"></td>
                                 <td class="Typo TexteBlanc Center align-middle"  style="background-color:#355665; border-right:1px solid #355665 !important;"></td>
                             </tr>
@@ -320,7 +335,7 @@
 
                         <!-- Modele fonctionnalité-->
                             <tr>
-                                <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Fonctionnalités<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #fff !important;"></span></th>
+                                <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Fonctionnalités</th>
                                 <td class="Typo TexteBlanc Center align-middle text-right"  style="background-color:#ecc979; border-right:1px solid #ecc979 !important;"></td>
                                 <td class="Typo TexteBlanc Center align-middle text-right"  style="background-color:#ecc979; border-right:1px solid #ecc979 !important;"></td>
                             </tr>
@@ -623,7 +638,7 @@
 
                         <!-- Modele heb -->
                             <tr>
-                                <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Hébergement1
+                                <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Hébergement
                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                         title="
                                             <b>
