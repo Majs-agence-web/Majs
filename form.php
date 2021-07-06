@@ -27,7 +27,7 @@ function test($data){
         $mail->Host     = 'smtp.ionos.fr';
         $mail->SMTPAuth = true;
         $mail->Username = 'contact@majs.fr';
-        $mail->Password = 'Lemonstre3004!';
+        $mail->Password = 'Lemonstre,59avenuerogersalengro!';
         $mail->SMTPSecure = 'ssl';
         $mail->Port     = 465;
 
