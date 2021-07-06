@@ -123,7 +123,7 @@
                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Site e-commerce (conseillé)</th>
                                 <td class="Typo TexteGris Center align-middle text-center">
                                     <div class="form-check pb-4">
-                                        <input class="form-check-input increase" type="checkbox" id="Maintenance" checked disabled>
+                                        <input class="form-check-input increase" type="checkbox" id="Maintenance" checked disabled data-form-field="Maintenance">
                                     </div>
                                 </td>
                                 <td class="Typo TexteGris Center align-middle text-center" style="background-color:#355665;color: #fff;">Inclus</td>
@@ -156,7 +156,7 @@
                                     <th class="Typo TitreGris pt-3 pb-3 align-middle">Quelle est votre profession ?</th>
                                     <td colspan="2" class="Typo TexteGris Center align-middle text-center">
                                         <div class="form-check p-0 m-0">
-                                            <textarea class="form-control" placeholder="" id="Profession"></textarea>
+                                            <textarea class="form-control" placeholder="" id="Profession" data-form-field=""></textarea>
                                         </div>
                                     </td>
                                 </tr>
@@ -173,7 +173,7 @@
                                     <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">J'ai besoin d'un logo</th>
                                     <td class="Typo TexteGris Center align-middle text-right">
                                         <div class="form-check text-center pb-4">
-                                            <input class="form-check-input" type="radio" name="Logo" id="Logo1" value="J'ai besoin d'un logo" checked>
+                                            <input class="form-check-input" type="radio" name="Logo" id="Logo1" value="J'ai besoin d'un logo" checked data-form-field="Logo">
                                         </div>
                                     </td>
                                     <td class="Typo TexteGris Center align-middle text-right" style="border-color : #efefef; background-color:#efefef"></td>
@@ -183,7 +183,7 @@
                                     <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Je possède mon logo</th>
                                     <td class="Typo TexteGris Center align-middle text-right">
                                         <div class="form-check text-center pb-4">
-                                            <input class="form-check-input" type="radio" name="Logo" id="Logo2" value="Je posséde mon logo">
+                                            <input class="form-check-input" type="radio" name="Logo" id="Logo2" value="Je posséde mon logo" data-form-field="Logo">
                                         </div>
                                     </td>
                                     <td class="Typo TexteGris Center align-middle text-right" style="border-color : #efefef; background-color:#efefef"></td>
@@ -193,7 +193,7 @@
                                     <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Je n'ai pas besoin de logo</th>
                                     <td class="Typo TexteGris Center align-middle text-right">
                                         <div class="form-check text-center pb-4">
-                                            <input class="form-check-input" type="radio" name="Logo" id="Logo3" value="Je n'ai pas besoin de logo">
+                                            <input class="form-check-input" type="radio" name="Logo" id="Logo3" value="Je n'ai pas besoin de logo" data-form-field="Logo">
                                         </div>
                                     </td>
                                     <td class="Typo TexteGris Center align-middle text-right" style="border-color : #efefef; background-color:#efefef"></td>
@@ -227,7 +227,7 @@
                                     </th>
                                     <td class="Typo TexteGris Center align-middle text-right">
                                         <div class="form-check text-center pb-4">
-                                            <input class="form-check-input" type="radio" name="Theme" id="Theme1" value="Je souhaite choisir parmis les thémes proposé" checked>
+                                            <input class="form-check-input" type="radio" name="Theme" id="Theme1" value="Je souhaite choisir parmis les thémes proposé" checked data-form-field="Theme">
                                         </div>
                                     </td>
                                     <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">inclus</td>
@@ -237,7 +237,7 @@
                                     <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Je posséde mon propre thème</th>
                                     <td class="Typo TexteGris Center align-middle text-right">
                                         <div class="form-check text-center pb-4">
-                                            <input class="form-check-input" type="radio" name="Theme" id="Theme2" value="Je posséde mon propre theme">
+                                            <input data-form-field="Theme"  class="form-check-input" type="radio" name="Theme" id="Theme2" value="Je posséde mon propre theme">
                                         </div>
                                     </td>
                                     <td class="Typo TexteGris Center align-middle text-right" style="border-color : #efefef; background-color:#efefef"></td>
@@ -247,7 +247,7 @@
                                     <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Je souhaite un thème personnalisé</th>
                                     <td class="Typo TexteGris Center align-middle text-right">
                                         <div class="form-check text-center pb-4">
-                                            <input class="form-check-input" type="radio" name="Theme" id="Theme3" value="Je souhaite un design personnalisé">
+                                            <input data-form-field="Theme"  class="form-check-input" type="radio" name="Theme" id="Theme3" value="Je souhaite un design personnalisé">
                                         </div>
                                     </td>
                                     <td class="Typo TexteGris Center align-middle text-right" style="border-color : #efefef; background-color:#efefef"></td>
@@ -272,7 +272,7 @@
                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Je souhaite ajouter moi-même mes produits</th>
                                 <td class="Typo TexteGris Center align-middle">
                                     <div class="form-check text-center pb-4">
-                                        <input class="form-check-input" type="radio" name="Produit" id="Produit1" value="Je souhaite ajouter moi-même mes produits" checked>
+                                        <input data-form-field="Produit"  class="form-check-input" type="radio" name="Produit" id="Produit1" value="Je souhaite ajouter moi-même mes produits" checked>
                                     </div>
                                 </td>
                                 <td class="Typo TexteGris Center align-middle text-right" style="border-color : #efefef; background-color:#efefef"></td>
@@ -298,7 +298,7 @@
                                 </th>
                                 <td class="Typo TexteGris Center align-middle">
                                     <div class="form-check text-center pb-4">
-                                        <input class="form-check-input" type="radio" name="Produit" id="Produit2" value="Je souhaite que vous ajoutiez mes produits">
+                                        <input data-form-field="Produit" class="form-check-input" type="radio" name="Produit" id="Produit2" value="Je souhaite que vous ajoutiez mes produits">
                                     </div>
                                 </td>
                                 <td class="Typo TexteGris Center align-middle text-right" style="border-color : #efefef; background-color:#efefef"></td>
@@ -315,7 +315,7 @@
                                 <td class="Typo TexteGris Center align-middle">
                                     <div class="row mb-2">
                                         <div class="col">
-                                            <input type="number" class="form-control" id="Nombre de produit">
+                                            <input data-form-field="Nombre de produit" type="number" class="form-control" id="Nombre de produit">
                                         </div>
                                     </div>
                                 </td>
@@ -334,7 +334,7 @@
                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Formulaire de contact</th>
                                 <td class="Typo TexteGris Center align-middle text-center">
                                     <div class="form-check pb-4">
-                                        <input class="form-check-input increase" type="checkbox" id="Formulaire de contact" checked disabled>
+                                        <input data-form-field="Formulaire de contact" class="form-check-input increase" type="checkbox" id="Formulaire de contact" checked disabled>
                                     </div>
                                 </td>
                                 <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Inclus</td>
@@ -353,7 +353,7 @@
                                 </th>
                                 <td class="Typo TexteGris Center align-middle text-center">
                                     <div class="form-check pb-4">
-                                        <input class="form-check-input increase" type="checkbox" id="Icon réseaux sociaux" checked disabled>
+                                        <input data-form-field="Icon réseaux sociaux" class="form-check-input increase" type="checkbox" id="Icon réseaux sociaux" checked disabled>
                                     </div>
                                 </td>
                                 <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Inclus</td>
@@ -371,7 +371,7 @@
                                 </th>
                                 <td class="Typo TexteGris Center align-middle text-center">
                                     <div class="form-check pb-4">
-                                        <input class="form-check-input increase" type="checkbox" id="Iframe réseaux sociaux">
+                                        <input data-form-field="Iframe réseaux sociaux" class="form-check-input increase" type="checkbox" id="Iframe réseaux sociaux">
                                     </div>
                                 </td>
                                 <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">2,50€/mois</td>
@@ -390,7 +390,7 @@
                                 </th>
                                 <td class="Typo TexteGris Center align-middle text-center">
                                     <div class="form-check pb-4">
-                                        <input class="form-check-input increase" type="checkbox" id="Newsletter">
+                                        <input data-form-field="Newsletter" class="form-check-input increase" type="checkbox" id="Newsletter">
                                     </div>
                                 </td>
                                 <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">2,50€/mois</td>
@@ -409,7 +409,7 @@
                                 </th>
                                 <td class="Typo TexteGris Center align-middle text-center">
                                     <div class="form-check pb-4">
-                                        <input class="form-check-input increase" type="checkbox" id="Moteur de recherche">
+                                        <input data-form-field="Moteur de recherche" class="form-check-input increase" type="checkbox" id="Moteur de recherche">
                                     </div>
                                 </td>
                                 <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">3,50€/mois</td>
@@ -419,7 +419,7 @@
                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Espace Blog ou Actualités</th>
                                 <td class="Typo TexteGris Center align-middle text-center">
                                     <div class="form-check pb-4">
-                                        <input class="form-check-input increase" type="checkbox" id="Espace Blog ou Actualité">
+                                        <input data-form-field="Espace Blog ou Actualité" class="form-check-input increase" type="checkbox" id="Espace Blog ou Actualité">
                                     </div>
                                 </td>
                                 <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">4,50€/mois</td>
@@ -429,7 +429,7 @@
                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Click & Collect</th>
                                 <td class="Typo TexteGris Center align-middle text-center">
                                     <div class="form-check pb-4">
-                                        <input class="form-check-input increase" type="checkbox" id="Click & Collect">
+                                        <input data-form-field="Click & Collect" class="form-check-input increase" type="checkbox" id="Click & Collect">
                                     </div>
                                 </td>
                                 <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">5€/mois</td>
@@ -448,7 +448,7 @@
                                 </th>
                                 <td class="Typo TexteGris Center align-middle text-center">
                                     <div class="form-check pb-4">
-                                        <input class="form-check-input increase" type="checkbox" id="ChatBot">
+                                        <input data-form-field="ChatBot" class="form-check-input increase" type="checkbox" id="ChatBot">
                                     </div>
                                 </td>
                                 <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">6€/mois</td>
@@ -457,17 +457,17 @@
                             <tr>
                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Messagerie instantanée
                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
-                                                title="
-                                                    <b>
-                                                    <br>
-                                                        <p>Permet de communiquer par écrit avec un client/utlisateur</p>
-                                                        <br>
-                                                    <b/>" 
-                                                class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
+                                    title="
+                                        <b>
+                                        <br>
+                                            <p>Permet de communiquer par écrit avec un client/utlisateur</p>
+                                            <br>
+                                        <b/>" 
+                                    class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                 </th>
                                 <td class="Typo TexteGris Center align-middle text-center">
                                     <div class="form-check pb-4">
-                                        <input class="form-check-input increase" type="checkbox" id="Messagerie instantané">
+                                        <input data-form-field="Messagerie instantané" class="form-check-input increase" type="checkbox" id="Messagerie instantané">
                                     </div>
                                 </td>
                                 <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">6€/mois</td>
@@ -486,7 +486,7 @@
                                 </th>
                                 <td class="Typo TexteGris Center align-middle text-center">
                                     <div class="form-check pb-4">
-                                        <input class="form-check-input increase" type="checkbox" id="Systéme de paiement standard (Stripe)" checked disabled>
+                                        <input data-form-field="Systéme de paiement standard (Stripe)" class="form-check-input increase" type="checkbox" id="Systéme de paiement standard (Stripe)" checked disabled>
                                     </div>
                                 </td>
                                 <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Inclus</td>
@@ -496,7 +496,7 @@
                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Système de paiement complémentaire (Paypal)</th>
                                 <td class="Typo TexteGris Center align-middle text-center">
                                     <div class="form-check pb-4">
-                                        <input class="form-check-input increase" type="checkbox" id="Systéme de paiement complémentaire Paypal">
+                                        <input data-form-field="Systéme de paiement complémentaire Paypal" class="form-check-input increase" type="checkbox" id="Systéme de paiement complémentaire Paypal">
                                     </div>
                                 </td>
                                 <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">4€/mois</td>
@@ -506,7 +506,7 @@
                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Autre système de paiement</th>
                                 <td colspan="2" class="Typo TexteGris Center align-middle text-center">
                                     <div class="form-check p-0 m-0">
-                                        <textarea class="form-control" placeholder="" id="Autre systéme de paiement"></textarea>
+                                        <textarea data-form-field="Autre systéme de paiement" class="form-control" placeholder="" id="Autre systéme de paiement"></textarea>
                                     </div>
                                 </td>
                             </tr>
@@ -515,7 +515,7 @@
                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Système de livraison standard (Colissimo)</th>
                                 <td class="Typo TexteGris Center align-middle text-center">
                                     <div class="form-check pb-4">
-                                        <input class="form-check-input increase" type="checkbox" id="Systéme de livraison Standard (Colissimo)" checked disabled>
+                                        <input data-form-field="Systéme de livraison Standard (Colissimo)" class="form-check-input increase" type="checkbox" id="Systéme de livraison Standard (Colissimo)" checked disabled>
                                     </div>
                                 </td>
                                 <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Inclus</td>
@@ -534,7 +534,7 @@
                                 </th>
                                 <td class="Typo TexteGris Center align-middle text-center">
                                     <div class="form-check pb-4">
-                                        <input class="form-check-input increase" type="checkbox" id="Systéme de livraison personnalisé">
+                                        <input data-form-field="Systéme de livraison personnalisé" class="form-check-input increase" type="checkbox" id="Systéme de livraison personnalisé">
                                     </div>
                                 </td>
                                 <td class="Typo TexteGris Center align-middle text-right" style="border-color : #efefef; background-color:#efefef"></td>
@@ -553,7 +553,7 @@
                                 </th>
                                 <td class="Typo TexteGris Center align-middle text-center">
                                     <div class="form-check pb-4">
-                                        <input class="form-check-input increase" type="checkbox" id="Systéme de livraison Express">
+                                        <input data-form-field="Systéme de livraison Express" class="form-check-input increase" type="checkbox" id="Systéme de livraison Express">
                                     </div>
                                 </td>
                                 <td class="Typo TexteGris Center align-middle text-right" style="border-color : #efefef; background-color:#efefef"></td>
@@ -563,7 +563,7 @@
                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Autres</th>
                                 <td colspan="2" class="Typo TexteGris Center align-middle text-center">
                                     <div class="form-check p-0 m-0">
-                                        <textarea class="form-control" placeholder="" id="Autre fontionnalité"></textarea>
+                                        <textarea data-form-field="Autre fontionnalité" class="form-control" placeholder="" id="Autre fontionnalité"></textarea>
                                     </div>
                                 </td>
                             </tr>
@@ -573,13 +573,13 @@
                             <tr>
                                 <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Référencement
                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
-                                            title="
-                                                <b>
-                                                    <br>
-                                                    <p>Augmente la visibilité sur les moteurs de recherche Web</p>
-                                                    <br>
-                                                <b/>" 
-                                            class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #fff !important;"></span>
+                                    title="
+                                        <b>
+                                            <br>
+                                            <p>Augmente la visibilité sur les moteurs de recherche Web</p>
+                                            <br>
+                                        <b/>" 
+                                    class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #fff !important;"></span>
                                 </th>
                                 <td class="Typo TexteBlanc Center align-middle text-right"  style="background-color:#ecc979; border-right:1px solid #ecc979 !important;"></td>
                                 <td class="Typo TexteBlanc Center align-middle text-right"  style="background-color:#ecc979; border-right:1px solid #ecc979 !important;"></td>
@@ -588,17 +588,17 @@
                             <tr>
                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Naturel (SEO)
                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
-                                            title="
-                                                <b>
-                                                    <br>
-                                                    <p>Installation d'un module permettant d'optimiser votre position sur les moteurs de recherche</p>
-                                                    <br>
-                                                <b/>" 
-                                            class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
+                                    title="
+                                        <b>
+                                            <br>
+                                            <p>Installation d'un module permettant d'optimiser votre position sur les moteurs de recherche</p>
+                                            <br>
+                                        <b/>" 
+                                    class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                 </th>
                                 <td class="Typo TexteGris Center align-middle text-right">
                                     <div class="form-check text-center pb-4">
-                                        <input class="form-check-input" type="radio" name="Référencement" id="Référencement1" value="Naturel (SEO)" checked>
+                                        <input data-form-field="Référencement" class="form-check-input" type="radio" name="Référencement" id="Référencement1" value="Naturel (SEO)" checked>
                                     </div>
                                 </td>
                                 <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">9€/mois</td>
@@ -607,17 +607,17 @@
                             <tr>
                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Publicitaire (SEA)
                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
-                                            title="
-                                                <b>
-                                                    <br>
-                                                    <p>Permets d'être mieux positioné sur les moteurs de recherche grace au publicité du système Google Ads payant</p>
-                                                    <br>
-                                                <b/>" 
-                                            class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
+                                    title="
+                                        <b>
+                                            <br>
+                                            <p>Permets d'être mieux positioné sur les moteurs de recherche grace au publicité du système Google Ads payant</p>
+                                            <br>
+                                        <b/>" 
+                                    class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                 </th>
                                 <td class="Typo TexteGris Center align-middle text-right">
                                     <div class="form-check text-center pb-4">
-                                        <input class="form-check-input" type="radio" name="Référencement" id="Référencement2" value="Payant (SEA)" >
+                                        <input data-form-field="Référencement" class="form-check-input" type="radio" name="Référencement" id="Référencement2" value="Payant (SEA)" >
                                     </div>
                                 </td>
                                 <td scope="col" class="Typo Titre1 pt-3 pb-3 align-middle" style="border-color : #efefef; background-color:#efefef"></td>
@@ -652,7 +652,7 @@
                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Je souhaite heberger moi même mon site</th>
                                     <td class="Typo TexteGris Center align-middle text-right">
                                         <div class="form-check text-center pb-4">
-                                            <input class="form-check-input" type="radio" name="Hébergement" id="Hébergement1" value="Je souhaite heberger moi même mon site" checked>
+                                            <input data-form-field="Hébergement" class="form-check-input" type="radio" name="Hébergement" id="Hébergement1" value="Je souhaite heberger moi même mon site" checked>
                                         </div>
                                     </td>
                                 <td scope="col" class="Typo Titre1 pt-3 pb-3 align-middle" style="border-color : #efefef; background-color:#efefef"></td>
@@ -662,7 +662,7 @@
                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Je souhaite faire heberger mon site</th>
                                     <td class="Typo TexteGris Center align-middle text-right">
                                         <div class="form-check text-center pb-4">
-                                            <input class="form-check-input" type="radio" name="Hébergement" id="Hébergement2" value="Je souhaite faire heberger mon site" >
+                                            <input data-form-field="Hébergement" class="form-check-input" type="radio" name="Hébergement" id="Hébergement2" value="Je souhaite faire heberger mon site" >
                                         </div>
                                     </td>
                                 <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">1 an offert puis 45€/An </td>
@@ -672,7 +672,7 @@
                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Nom de domaine</th>
                                 <td class="Typo TexteGris Center align-middle text-center">
                                     <div class="form-check pb-4">
-                                        <input class="form-check-input increase" type="checkbox" id="Nom de domaine" checked disabled>
+                                        <input data-form-field="Hébergement" class="form-check-input increase" type="checkbox" id="Nom de domaine" checked disabled>
                                     </div>
                                 </td>
                                 <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Offert pendant 1 an</td>
@@ -700,7 +700,7 @@
                                 <td class="Typo TexteGris Center align-middle">
                                     <div class="row mb-2">
                                         <div class="col">
-                                            <input type="number" class="form-control" id="Heure de formation">
+                                            <input data-form-field="Heure de formation" type="number" class="form-control" id="Heure de formation">
                                         </div>
                                     </div>
                                 </td>
@@ -715,7 +715,7 @@
                                                 <br>
                                                 <p>Vidéo explicative sur le fonctionnement de votre site (Exemple: Ajouter une actualité)</p>
                                                 <br>
-                                            </>" 
+                                            <b/>" 
                                         class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                 </th>
                                 <td scope="col" class="Typo Titre1 pt-3 pb-3 align-middle" style="border-color : #efefef; background-color:#efefef"></td>
