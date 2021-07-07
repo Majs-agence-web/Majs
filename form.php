@@ -52,7 +52,7 @@ function test($data){
             <title>Titre</title> 
         </head> 
         <body> 
-            <h1>Contact</h1>
+            <h1>'.$data['form']['title'].'</h1>
             <pre>'.$data2.'</pre>
         </body> 
         </html>';

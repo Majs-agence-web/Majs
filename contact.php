@@ -109,7 +109,7 @@
     
 
             <div class="col-lg-6 my-auto pb-4 mbr-form" data-form-type="formoid">
-                <form action="" method="POST" class="mbr-form form-with-styler" data-form-title="Form Name">
+                <form action="" method="POST" class="mbr-form form-with-styler" data-form-title="contact">
                     <input type="hidden" name="email" data-form-email="true" value="g95vlZWvtCsMur4tRs0/7/Zn9gSF5x1rYANP51vYqm26sYmuWskWv7byNYhssXN/lXLNRiBAros7F1mbzMGVsTVnt4oZ19MlG+xfZb2nJp+NAAXXBwaT+H17XVhw4G+J">
                     <div class="form-row">
                         <div id="success" hidden="hidden" data-form-alert="" class="alert alert-success col-12">Merci pour votre message, nous vous contacterons sous 24h.</div>

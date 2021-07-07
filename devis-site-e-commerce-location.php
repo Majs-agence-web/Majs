@@ -50,8 +50,8 @@
 <!-- Transition -->
 
 <!-- Devis -->
-    <section class="pt-5">
-        <form>
+    <section class="pt-5" data-form-type="formoid">
+        <form action="" method="POST" data-form-title="site e-commerce location">
             <div class="container">
                 <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
 
@@ -156,7 +156,7 @@
                                     <th class="Typo TitreGris pt-3 pb-3 align-middle">Quelle est votre profession ?</th>
                                     <td colspan="2" class="Typo TexteGris Center align-middle text-center">
                                         <div class="form-check p-0 m-0">
-                                            <textarea class="form-control" placeholder="" id="Profession" data-form-field=""></textarea>
+                                            <textarea class="form-control" placeholder="" id="Profession" data-form-field="profession"></textarea>
                                         </div>
                                     </td>
                                 </tr>
@@ -672,7 +672,7 @@
                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Nom de domaine</th>
                                 <td class="Typo TexteGris Center align-middle text-center">
                                     <div class="form-check pb-4">
-                                        <input data-form-field="Hébergement" class="form-check-input increase" type="checkbox" id="Nom de domaine" checked disabled>
+                                        <input data-form-field="Nom de domaine" class="form-check-input increase" type="checkbox" id="Nom de domaine" checked disabled>
                                     </div>
                                 </td>
                                 <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Offert pendant 1 an</td>

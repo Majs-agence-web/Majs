@@ -50,8 +50,8 @@
 <!-- Transition -->
 
 <!-- Devis -->
-    <section class="pt-5">
-        <form>
+    <section class="pt-5" data-form-type="formoid">
+        <form action="" method="POST" data-form-title="site vitrine achat">
             <div class="container">
                 <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
 
