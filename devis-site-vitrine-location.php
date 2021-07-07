@@ -42,7 +42,7 @@
     <div class="container align-center">
         <div class="row justify-content-md-start">
             <div class="mbr-white col-12 text-center mx-auto">
-                <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-1">Devis Location Site Vitrine</h1> 
+                <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-1">Devis location site vitrine</h1> 
             </div>
         </div>
     </div>
