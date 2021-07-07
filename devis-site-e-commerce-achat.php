@@ -42,7 +42,7 @@
         <div class="container align-center">
             <div class="row justify-content-md-start">
                 <div class="mbr-white col-12 text-center mx-auto">
-                    <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-1">Devis Achat Site E-Commerce</h1> 
+                    <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-1">Devis achat site e-commerce</h1> 
                 </div>
             </div>
         </div>
@@ -88,7 +88,7 @@
                         <!-- En tete -->
                             <tr style="border-top:none !important; border-left:none !important;">
                                 <th scope="col" class="Typo Titre1 pt-3 pb-3 align-middle" style="border-color : #efefef; background-color:#efefef"></th>
-                                <th scope="col" class="Typo Titre1 Center align-middle text-center" style="background-color:#fff; color:#355665; font-size:20px; font-weight:bold;">Prix de base : 2000€HT</th>
+                                <th scope="col" class="Typo Titre1 Center align-middle text-center" style="background-color:#fff; color:#355665; font-size:20px; font-weight:bold;">Prix de base : 2000€/HT</th>
                                 <th scope="col" class="Typo Titre1 Center align-middle text-center" style="background-color:#355665; color:#fff; font-size:20px; font-weight:bold;">Tarifs</th>
                             </tr>
                         <!-- En tete -->
@@ -121,13 +121,13 @@
                             </tr>
 
                             <tr>
-                                <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Site E-Commerce (Conseillé)</th>
+                                <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Site e-commerce (conseillé)</th>
                                 <td class="Typo TexteGris Center align-middle text-center">
                                     <div class="form-check pb-4">
                                         <input class="form-check-input increase" type="checkbox" id="Maintenance" data-form-field="Maintenance">
                                     </div>
                                 </td>
-                                <td class="Typo TexteGris Center align-middle text-center" style="background-color:#355665;color: #fff;">60€/Mois</td>
+                                <td class="Typo TexteGris Center align-middle text-center" style="background-color:#355665;color: #fff;">60€/mois ou 720€/an (conseillé)</td>
                             </tr>
                         <!-- -->
 
@@ -366,7 +366,7 @@
                                         <input class="form-check-input increase" type="checkbox" id="Icon réseaux sociaux" checked disabled data-form-field="Icon réseaux sociaux">
                                     </div>
                                 </td>
-                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Inclus</td>
+                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Offert</td>
                             </tr>
 
                             <tr>
@@ -422,7 +422,7 @@
                                         <input class="form-check-input increase" type="checkbox" id="Moteur de recherche" data-form-field="Moteur de recherche">
                                     </div>
                                 </td>
-                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">120€</td>
+                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">180€</td>
                             </tr>
 
                             <tr>
@@ -480,7 +480,7 @@
                                         <input data-form-field="Messagerie instantané" class="form-check-input increase" type="checkbox" id="Messagerie instantané">
                                     </div>
                                 </td>
-                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">6€/mois</td>
+                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">250€</td>
                             </tr>
 
                             <tr>
@@ -513,13 +513,12 @@
                             </tr>
 
                             <tr>
-                                <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Autre systéme de paiement</th>
-                                <td class="Typo TexteGris Center align-middle text-center">
+                                <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Autres systéme de paiement</th>
+                                <td colspan="2" class="Typo TexteGris Center align-middle text-center">
                                     <div class="form-check p-0 m-0">
                                         <textarea class="form-control" placeholder="" id="Autre systéme de paiement" data-form-field="Autre systéme de paiement"></textarea>
                                     </div>
                                 </td>
-                                <td class="Typo TexteGris Center align-middle text-right" style="border-color : #efefef; background-color:#efefef"></td>
                             </tr>
 
                             <tr>
@@ -734,7 +733,7 @@
                                         <input class="form-check-input increase" type="checkbox" id="Video tuto" checked disabled data-form-field="Video tuto">
                                     </div>
                                 </td>
-                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Offerte</td>
+                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Offert</td>
                             </tr>
                         <!-- -->
 
@@ -748,7 +747,7 @@
                             <tr>
                                 <th scope="col" class="Typo Titre1 pt-3 pb-3 align-middle" style="border-color : #efefef; background-color:#efefef"></th>
                                 <td scope="col" class="Typo Titre1 pt-3 pb-3 align-middle" style="border-color : #efefef; background-color:#efefef"></td>
-                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">A partir de €/Mois</td>
+                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">A partir de €/mois</td>
                             </tr>
                          -->
                     </tbody>

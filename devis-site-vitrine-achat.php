@@ -42,7 +42,7 @@
         <div class="container align-center">
             <div class="row justify-content-md-start">
                 <div class="mbr-white col-12 text-center mx-auto">
-                    <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-1">Devis Achat Site Vitrine</h1> 
+                    <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-1">Devis achat site vitrine</h1> 
                 </div>
             </div>
         </div>
@@ -102,7 +102,7 @@
                                         title="
                                             <b>
                                                 <br>
-                                                <h6>1 Mois Offert</h6>
+                                                <h6>1 mois Offert</h6>
                                                 <br>
                                                 <h6>Maintenance corrective : </h6>
                                                 <p>Résolution de bugs mineure qui gênent au bon fonctionnement du site internet (ex: problème d'affichage)</p>
@@ -122,13 +122,13 @@
                             </tr>
 
                             <tr>
-                                <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Site Vitrine (Conseillé)</th>
+                                <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Site vitrine (conseillé)</th>
                                 <td class="Typo TexteGris Center align-middle text-center">
                                     <div class="form-check pb-4">
                                         <input data-form-field="Maintenance" class="form-check-input increase" type="checkbox" id="Maintenance">
                                     </div>
                                 </td>
-                                <td class="Typo TexteGris Center align-middle text-center" style="background-color:#355665;color: #fff;">30€/Mois</td>
+                                <td class="Typo TexteGris Center align-middle text-center" style="background-color:#355665;color: #fff;">30€/mois ou 360€/an</td>
                             </tr>
                         <!-- -->
 
@@ -147,7 +147,7 @@
                                         title="
                                             <b>
                                                 <br>
-                                                <p>Indiquer votre profession nous servira à vous proposer des templates adapté à celle-ci lors du devis</p>
+                                                <p>Indiquer votre profession nous servira à vous proposer des templates adapté à celle-ci lors du devis</p><br>
                                             </>" 
                                         class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #fff !important;"></span>
                                     </th>
@@ -208,8 +208,8 @@
                                     <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #355665; color:#fff; border-right:1px solid #355665 !important; font-size:18px;">Thème graphique
                                         <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                             title="
-                                                <b>
-                                                    <p>Le thème graphique défini le visuel de votre site</p>
+                                                <b><br>
+                                                    <p>Le thème graphique défini le visuel de votre site</p><br>
                                                 <b/>" 
                                             class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #fff !important;"></span>
                                     </th>
@@ -221,8 +221,8 @@
                                     <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Je souhaite choisir parmis les thèmes proposé 
                                         <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                             title="
-                                                <b>
-                                                    <p>Choix parmis 3 thèmes en relation avec votre profession</p>
+                                                <b><br>
+                                                    <p>Choix parmis 3 thèmes en relation avec votre profession</p><br>
                                                 <b/>" 
                                             class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                     </th>
@@ -278,7 +278,7 @@
 
                         <!-- Modele fonctionnalité-->
                             <tr>
-                                <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Fonctionnalités<span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #fff;"></span></th>
+                                <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Fonctionnalités</th>
                                 <td class="Typo TexteBlanc Center align-middle text-right"  style="background-color:#ecc979; border-right:1px solid #ecc979 !important;"></td>
                                 <td class="Typo TexteBlanc Center align-middle text-right"  style="background-color:#ecc979; border-right:1px solid #ecc979 !important;"></td>
 
@@ -318,8 +318,8 @@
                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Redirection réseaux sociaux
                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                         title="
-                                            <b>
-                                                <p>Implémentation d'icon des réseaux sociaux permettant d'y être redirigé</p>
+                                            <b><br>
+                                                <p>Implémentation d'icon des réseaux sociaux permettant d'y être redirigé</p><br>
                                             <b/>" 
                                         class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                 </th>
@@ -328,15 +328,15 @@
                                         <input data-form-field="Icon réseaux sociaux" class="form-check-input increase" type="checkbox" id="Icon réseaux sociaux" checked disabled>
                                     </div>
                                 </td>
-                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Inclus</td>
+                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Offert</td>
                             </tr>
 
                             <tr>
                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Iframe réseaux sociaux
                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                         title="
-                                            <b>
-                                                <p>Permet d'afficher une partie du réseaux sociale sur votre site (Style FaceBook)</p>
+                                            <b><br>
+                                                <p>Permet d'afficher une partie du réseaux sociale sur votre site (Style FaceBook)</p><br>
                                             <b/>" 
                                         class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                 </th>
@@ -352,8 +352,8 @@
                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Newsletter
                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                             title="
-                                                <b>
-                                                <p> Installation du module qui permet de créer des campagnes emailing promotionnelles et/ou de programmer un envoi de mail à une date donnée</p>
+                                                <b><br>
+                                                <p> Installation du module qui permet de créer des campagnes emailing promotionnelles et/ou de programmer un envoi de mail à une date donnée</p><br>
                                                 <b/>" 
                                             class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                 </th>
@@ -379,8 +379,8 @@
                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Moteur de recherche
                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                             title="
-                                                <b>
-                                                    <p>Barre de recherche interne au site</p>
+                                                <b><br>
+                                                    <p>Barre de recherche interne au site</p><br>
                                                 <b/>" 
                                             class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                 </th>
@@ -389,7 +389,7 @@
                                         <input data-form-field="Moteur de recherche" class="form-check-input increase" type="checkbox" id="Moteur de recherche">
                                     </div>
                                 </td>
-                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">175€</td>
+                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">180€</td>
                             </tr>
 
                             <tr>
@@ -406,8 +406,8 @@
                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Messagerie instantané
                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                             title="
-                                                <b>
-                                                    <p>Permet de communiquer par écrit avec un client/utlisateur</p>
+                                                <b><br>
+                                                    <p>Permet de communiquer par écrit avec un client/utlisateur</p><br>
                                                 <b/>" 
                                             class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                 </th>
@@ -416,15 +416,15 @@
                                         <input data-form-field="Messagerie instantané" class="form-check-input increase" type="checkbox" id="Messagerie instantané">
                                     </div>
                                 </td>
-                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">245€</td>
+                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">250€</td>
                             </tr>
 
                             <tr>
                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">ChatBot
                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                             title="
-                                                <b>
-                                                    <p>Messagerie instantané ou l'utilisateur peux poser des questions et recevoir une réponse pré-enregistrer</p>
+                                                <b><br>
+                                                    <p>Messagerie instantané ou l'utilisateur peux poser des questions et recevoir une réponse pré-enregistrer</p><br>
                                                 <b/>" 
                                             class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                 </th>
@@ -433,7 +433,7 @@
                                         <input data-form-field="ChatBot" class="form-check-input increase" type="checkbox" id="ChatBot">
                                     </div>
                                 </td>
-                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">245€</td>
+                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">250€</td>
                             </tr>
 
                             <tr>
@@ -452,8 +452,8 @@
                                 <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Référencement
                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                             title="
-                                                <b>
-                                                    <p>Augmente la visibilité sur les moteurs de recherche Web</p>
+                                                <b><br>
+                                                    <p>Augmente la visibilité sur les moteurs de recherche Web</p><br>
                                                 <b/>" 
                                             class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #fff !important;"></span>
                                 </th>
@@ -466,8 +466,8 @@
                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Naturel (SEO)
                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                             title="
-                                                <b>
-                                                    <p>Le référencement naturel se fait via vos actualités et le contenue de votre site</p>
+                                                <b><br>
+                                                    <p>Le référencement naturel se fait via vos actualités et le contenue de votre site</p><br>
                                                 <b/>" 
                                             class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                 </th>
@@ -483,8 +483,8 @@
                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Payant (SEA)
                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                             title="
-                                                <b>
-                                                    <p>Permets d'être mieux référencé grace au systeme Google Ads payant</p>
+                                                <b><br>
+                                                    <p>Permets d'être mieux référencé grace au systeme Google Ads payant</p><br>
                                                 <b/>" 
                                             class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                 </th>
@@ -587,7 +587,7 @@
                                         title="
                                             <b>
                                                 <br>
-                                                <p>Vidéo explicatif sur le fonctionnement de votre site (Exemple: Ajouter une actualité)</p>
+                                                <p>Vidéo explicatif sur le fonctionnement de votre site (Exemple: Ajouter une actualité)</p><br>
                                             </>" 
                                         class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                 </th>
@@ -606,7 +606,7 @@
                             <tr>
                                 <th scope="col" class="Typo Titre1 pt-3 pb-3 align-middle" style="border-color : #efefef; background-color:#efefef"></th>
                                 <td scope="col" class="Typo Titre1 pt-3 pb-3 align-middle" style="border-color : #efefef; background-color:#efefef"></td>
-                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">A partir de €/Mois</td>
+                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">A partir de €/mois</td>
                             </tr>
                         -->
 

@@ -85,7 +85,7 @@
                     <thead>
                         <tr style="border-top:none !important; border-left:none !important;">
                             <th scope="col" class="Typo Titre1 pt-3 pb-3 align-middle" style="border-color : #efefef; background-color:#efefef"></th>
-                            <th scope="col" class="Typo Titre1 Center align-middle text-center" style="background-color:#fff; color:#355665; font-size:20px; font-weight:bold;">Prix de base : 49€/HT</th>
+                            <th scope="col" class="Typo Titre1 Center align-middle text-center" style="background-color:#fff; color:#355665; font-size:20px; font-weight:bold;">Prix de base : 49€/mois (HT)</th>
                             <th scope="col" class="Typo Titre1 Center align-middle text-center" style="background-color:#355665; color:#fff; font-size:20px; font-weight:bold;">Tarifs</th>
                         </tr>
                     </thead>
@@ -141,6 +141,7 @@
                                             <b>
                                                 <br>
                                                 <p>Indiquer votre profession nous servira à vous proposer des templates adapté à celle-ci lors du devis</p>
+                                                <br>
                                             </>" 
                                         class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #fff !important;"></span>
                                 </th>
@@ -202,7 +203,9 @@
                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                             title="
                                                 <b>
+                                                <br>
                                                     <p>Le thème graphique défini le visuel de votre site</p>
+                                                    <br>
                                                 <b/>" 
                                             class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #fff !important;"></span>
                                 </th>
@@ -215,7 +218,9 @@
                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                             title="
                                                 <b>
+                                                <br>
                                                     <p>Choix parmis 3 thèmes en relation avec votre profession</p>
+                                                    <br>
                                                 <b/>" 
                                             class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                 </th>
@@ -311,7 +316,9 @@
                                 <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                     title="
                                         <b>
+                                        <br>
                                             <p>Implémentation d'icon des réseaux sociaux permettant d'y être redirigé</p>
+                                            <br>
                                         <b/>" 
                                     class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                             </th>
@@ -328,7 +335,9 @@
                                 <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                     title="
                                         <b>
+                                        <br>
                                             <p>Permet d'afficher une partie du réseaux sociale sur votre site (Style FaceBook)</p>
+                                            <br>
                                         <b/>" 
                                     class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                             </th>
@@ -337,7 +346,7 @@
                                     <input data-form-field="Iframe réseaux sociaux" class="form-check-input increase" type="checkbox" id="Iframe réseaux sociaux">
                                 </div>
                             </td>
-                            <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">2,50€/Mois</td>
+                            <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">2,50€/mois</td>
                         </tr>
 
                         <tr>
@@ -345,7 +354,9 @@
                                 <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                 title="
                                     <b>
+                                    <br>
                                     <p> Installation du module qui permet de créer des campagnes emailing promotionnelles et/ou de programmer un envoi de mail à une date donnée</p>
+                                    <br>
                                     <b/>" 
                                 class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                             </th>
@@ -354,7 +365,7 @@
                                     <input data-form-field="Newsletter" class="form-check-input increase" type="checkbox" id="Newsletter">
                                 </div>
                             </td>
-                            <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">2,50€/Mois</td>
+                            <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">2,50€/mois</td>
                         </tr>
 
                         <tr>
@@ -364,7 +375,7 @@
                                     <input data-form-field="Espace Blog ou Actualités" class="form-check-input increase" type="checkbox" id="Espace Blog ou Actualités">
                                 </div>
                             </td>
-                            <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">4€/Mois</td>
+                            <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">4€/mois</td>
                         </tr>
 
                         <tr>
@@ -372,7 +383,9 @@
                                 <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                 title="
                                     <b>
+                                    <br>
                                         <p>Barre de recherche interne au site</p>
+                                        <br>
                                     <b/>" 
                                 class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                             </th>
@@ -381,7 +394,7 @@
                                     <input data-form-field="Moteur de recherche" class="form-check-input increase" type="checkbox" id="Moteur de recherche">
                                 </div>
                             </td>
-                            <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">4,50€/Mois</td>
+                            <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">4,50€/mois</td>
                         </tr>
 
                         <tr>
@@ -391,7 +404,7 @@
                                     <input data-form-field="Agenda/Prise de RDV" class="form-check-input increase" type="checkbox" id="Agenda/Prise de RDV">
                                 </div>
                             </td>
-                            <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">5,50€/Mois</td>
+                            <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">5,50€/mois</td>
                         </tr>
 
                         <tr>
@@ -399,7 +412,9 @@
                                 <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                             title="
                                                 <b>
+                                                <br>
                                                     <p>Permet de communiquer par écrit avec un client/utlisateur</p>
+                                                    <br>
                                                 <b/>" 
                                             class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                             </th>
@@ -408,7 +423,7 @@
                                     <input data-form-field="Messagerie instantané" class="form-check-input increase" type="checkbox" id="Messagerie instantané">
                                 </div>
                             </td>
-                            <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">6€/Mois</td>
+                            <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">6€/mois</td>
                         </tr>
 
                         <tr>
@@ -416,7 +431,9 @@
                                 <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                 title="
                                     <b>
+                                    <br>
                                         <p>Messagerie instantané ou l'utilisateur peux poser des questions et recevoir une réponse pré-enregistrer</p>
+                                        <br>
                                     <b/>" 
                                 class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                             </th>
@@ -425,11 +442,11 @@
                                     <input data-form-field="ChatBot" class="form-check-input increase" type="checkbox" id="ChatBot">
                                 </div>
                             </td>
-                            <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">6€/Mois</td>
+                            <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">6€/mois</td>
                         </tr>
 
                         <tr>
-                            <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Autre</th>
+                            <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Autres</th>
                             <td colspan="2" class="Typo TexteGris Center align-middle text-center">
                                 <div class="form-check p-0 m-0">
                                     <textarea data-form-field="Autre fonctionnalité" class="form-control" placeholder="" id="Autre fonctionnalité"></textarea>
@@ -440,11 +457,13 @@
 
                     <!-- Modele ref -->
                         <tr>
-                            <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Référencemente
+                            <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Référencement
                                 <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                             title="
                                                 <b>
+                                                <br>
                                                     <p>Augmente la visibilité sur les moteurs de recherche Web</p>
+                                                    <br>
                                                 <b/>" 
                                             class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #fff !important;"></span>
                             </th>
@@ -457,7 +476,9 @@
                                 <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                             title="
                                                 <b>
+                                                <br>
                                                     <p>Le référencement naturel se fait via vos actualités et le contenue de votre site</p>
+                                                    <br>
                                                 <b/>" 
                                             class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                             </th>
@@ -474,7 +495,9 @@
                                 <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                             title="
                                                 <b>
+                                                <br>
                                                     <p>Permets d'être mieux référencé grace au systeme Google Ads payant</p>
+                                                    <br>
                                                 <b/>" 
                                             class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                             </th>
@@ -588,11 +611,12 @@
                                             <b>
                                                 <br>
                                                 <p>Vidéo explicatif sur le fonctionnement de votre site (Exemple: Ajouter une actualité)</p>
+                                                <br>
                                             </>" 
                                         class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                             </th>
                             <td scope="col" class="Typo Titre1 pt-3 pb-3 align-middle" style="border-color : #efefef; background-color:#efefef"></td>
-                            <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Offerte</td>
+                            <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Offert</td>
                         </tr>
                     <!-- -->
 
@@ -606,7 +630,7 @@
                         <tr>
                             <th scope="col" class="Typo Titre1 pt-3 pb-3 align-middle" style="border-color : #efefef; background-color:#efefef"></th>
                             <td scope="col" class="Typo Titre1 pt-3 pb-3 align-middle" style="border-color : #efefef; background-color:#efefef"></td>
-                            <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">A partir de €/Mois</td>
+                            <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">A partir de €/mois</td>
                         </tr>
                      -->
 

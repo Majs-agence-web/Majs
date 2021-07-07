@@ -42,7 +42,7 @@
         <div class="container align-center">
             <div class="row justify-content-md-start">
                 <div class="mbr-white col-12 text-center mx-auto">
-                    <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-1">Devis achat site e-commerce</h1> 
+                    <h1 class="mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-1">Devis location site e-commerce</h1> 
                 </div>
             </div>
         </div>
@@ -88,7 +88,7 @@
                         <!-- En tete -->
                             <tr style="border-top:none !important; border-left:none !important;">
                                 <th scope="col" class="Typo Titre1 pt-3 pb-3 align-middle" style="border-color : #efefef; background-color:#efefef"></th>
-                                <th scope="col" class="Typo Titre1 Center align-middle text-center" style="background-color:#fff; color:#355665; font-size:20px; font-weight:bold;">Prix de base : 79€HT/mois</th>
+                                <th scope="col" class="Typo Titre1 Center align-middle text-center" style="background-color:#fff; color:#355665; font-size:20px; font-weight:bold;">Prix de base : 79€/mois (HT)</th>
                                 <th scope="col" class="Typo Titre1 Center align-middle text-center" style="background-color:#355665; color:#fff; font-size:20px; font-weight:bold;">Tarifs</th>
                             </tr>
                         <!-- En tete -->
@@ -356,7 +356,7 @@
                                         <input data-form-field="Icon réseaux sociaux" class="form-check-input increase" type="checkbox" id="Icon réseaux sociaux" checked disabled>
                                     </div>
                                 </td>
-                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Inclus</td>
+                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Offert</td>
                             </tr>
 
                             <tr>

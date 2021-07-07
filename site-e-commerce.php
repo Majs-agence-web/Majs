@@ -71,7 +71,7 @@
                                                     </div>
                                                     <div class="price-tage">
                                                         <p class="mbr-fonts-style costs-title display-4">A partir de</p>
-                                                        <h3 class="mbr-fonts-style costs mbr-light display-2">79€/Mois (HT)</h3>
+                                                        <h3 class="mbr-fonts-style costs mbr-light display-2">79€/mois (HT)</h3>
                                                         <p class="mbr-fonts-style costs-title display-4">Hors Options</p>
                                                     </div>
                                                     <ul class="table-content mbr-fonts-style display-7 pb-0 mb-0">
@@ -306,7 +306,7 @@
                                                 </div>
                                                 <div class="price-tage">
                                                     <p class="mbr-fonts-style costs-title display-4">A partir de</p>
-                                                    <h3 class="mbr-fonts-style costs mbr-light display-2">79€/Mois (HT)</h3>
+                                                    <h3 class="mbr-fonts-style costs mbr-light display-2">79€/mois (HT)</h3>
                                                     <p class="mbr-fonts-style costs-title display-4">Hors Options</p>
                                                 </div>
                                                 <ul class="table-content mbr-fonts-style display-7 m-0 p-0">
@@ -565,7 +565,7 @@
                             <!-- Modele En tete-->
                                 <tr>
                                     <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color:#355665;color: #fff;">Prix Hors Taxe (Sans option)</th>
-                                    <td class="Typo TexteBlanc Center align-middle text-center"  style="background-color:#fff; color:#355665; font-size:20px; font-weight:bold">79€/Mois</td>
+                                    <td class="Typo TexteBlanc Center align-middle text-center"  style="background-color:#fff; color:#355665; font-size:20px; font-weight:bold">79€/mois</td>
                                     <td class="Typo TexteBlanc Center align-middle text-center"  style="background-color:#355665; color: #fff; font-size:20px; font-weight:bold"">2000€</td>
                                 </tr>
                             <!-- -->
@@ -596,7 +596,7 @@
                                 <tr>
                                     <th scope="col" class="Typo Titre1 pt-3 pb-3 align-middle" style="border-color : #efefef; background-color:#efefef"></th>
                                     <td class="Typo TexteGris Center align-middle text-right">Inclus dans l'offre</td>
-                                    <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">60€/Mois ou 720€/An(Conseillé)</td>
+                                    <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">60€/mois ou 720€/an (conseillé)</td>
                                 </tr>
                             <!-- -->
 
@@ -667,8 +667,8 @@
                                     <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Redirection réseaux sociaux
                                         <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                             title="
-                                                <b>
-                                                    <p>Implémentation d'icon des réseaux sociaux permettant d'y être redirigé</p>
+                                                <b><br>
+                                                    <p>Implémentation d'icon des réseaux sociaux permettant d'y être redirigé</p><br>
                                                 <b/>" 
                                             class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                     </th>
@@ -680,12 +680,12 @@
                                     <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Iframe réseaux sociaux
                                         <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                             title="
-                                                <b>
-                                                    <p>Permet d'afficher une partie du réseaux sociale sur votre site (Style FaceBook)</p>
+                                                <b><br>
+                                                    <p>Permet d'afficher une partie du réseaux sociale sur votre site (Style FaceBook)</p><br>
                                                 <b/>" 
                                             class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                     </th>
-                                    <td class="Typo TexteGris Center align-middle text-right">2,50€/Mois</td>
+                                    <td class="Typo TexteGris Center align-middle text-right">2,50€/mois</td>
                                     <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">70€</td>
                                 </tr>
 
@@ -700,7 +700,7 @@
                                                 </>" 
                                             class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                     </th>
-                                    <td class="Typo TexteGris Center align-middle text-right">2,50€/Mois</td>
+                                    <td class="Typo TexteGris Center align-middle text-right">2,50€/mois</td>
                                     <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">70€</td>
                                 </tr>
 
@@ -708,24 +708,24 @@
                                     <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Moteur de recherche
                                         <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                             title="
-                                                <b>
-                                                    <p>Barre de recherche interne au site</p>
+                                                <b><br>
+                                                    <p>Barre de recherche interne au site</p><br>
                                                 <b/>" 
                                             class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                     </th>
-                                    <td class="Typo TexteGris Center align-middle text-right">4,50€/Mois</td>
+                                    <td class="Typo TexteGris Center align-middle text-right">4,50€/mois</td>
                                     <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">180€</td>
                                 </tr>
 
                                 <tr>
                                     <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Espace Blog ou Actualité</th>
-                                    <td class="Typo TexteGris Center align-middle text-right">4,50€/Mois</td>
+                                    <td class="Typo TexteGris Center align-middle text-right">4,50€/mois</td>
                                     <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">180€</td>
                                 </tr>
 
                                 <tr>
                                     <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Click & Collect</th>
-                                    <td class="Typo TexteGris Center align-middle text-right">5€/Mois</td>
+                                    <td class="Typo TexteGris Center align-middle text-right">5€/mois</td>
                                     <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">200€</td>
                                 </tr>
 
@@ -733,12 +733,25 @@
                                     <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">ChatBot 
                                         <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                             title="
-                                                <b>
-                                                    <p>Messagerie instantané ou l'utilisateur peux poser des questions et recevoir une réponse pré-enregistrer</p>
+                                                <b><br>
+                                                    <p>Messagerie instantané ou l'utilisateur peux poser des questions et recevoir une réponse pré-enregistrer</p><br>
                                                 <b/>" 
                                             class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                     </th>
-                                    <td class="Typo TexteGris Center align-middle text-right">6€/Mois</td>
+                                    <td class="Typo TexteGris Center align-middle text-right">6€/mois</td>
+                                    <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">250€</td>
+                                </tr>
+
+                                <tr>
+                                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Messagerie instantané
+                                        <span data-toggle="tooltip" data-placement="right" data-html="true" 
+                                        title="
+                                            <b><br>
+                                                <p>Permet de communiquer par écrit avec un client/utlisateur</p><br>
+                                            <b/>" 
+                                        class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
+                                    </th>
+                                    <td class="Typo TexteGris Center align-middle text-right" style="background-color:#fff;color: #355665;">6€/mois</td>
                                     <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">250€</td>
                                 </tr>
 
@@ -746,8 +759,8 @@
                                     <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Système de paiement standard (Stripe)
                                         <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                             title="
-                                                <b>
-                                                    <p>Mise en place du module Stripe pour effectuer des paiements par CB</p>
+                                                <b><br>
+                                                    <p>Mise en place du module Stripe pour effectuer des paiements par CB</p><br>
                                                 <b/>" 
                                             class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                     </th>
@@ -757,7 +770,7 @@
 
                                 <tr>
                                     <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Système de paiement complémentaire Paypal</th>
-                                    <td class="Typo TexteGris Center align-middle text-right">4€/Mois</td>
+                                    <td class="Typo TexteGris Center align-middle text-right">4€/mois</td>
                                     <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">100€</td>
                                 </tr>
 
@@ -771,8 +784,8 @@
                                     <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Système de livraison personnalisé
                                         <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                             title="
-                                                <b>
-                                                    <p>Choix du prestataire de livraison lors du devis</p>
+                                                <b><br>
+                                                    <p>Choix du prestataire de livraison lors du devis</p><br>
                                                 <b/>" 
                                             class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                     </th>
@@ -784,8 +797,8 @@
                                     <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Système de livraison Express
                                         <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                             title="
-                                                <b>
-                                                    <p>Gestion de l'envoie de colis en 24 heures (UPS,DHL...)</p>
+                                                <b><br>
+                                                    <p>Gestion de l'envoie de colis en 24 heures (UPS,DHL...)</p><br>
                                                 <b/>" 
                                             class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                     </th>
@@ -810,7 +823,7 @@
 
                                 <tr>
                                     <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Naturel (SEO) <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                                    <td class="Typo TexteGris Center align-middle text-right">9€/Mois</td>
+                                    <td class="Typo TexteGris Center align-middle text-right">9€/mois</td>
                                     <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">100€</td>
                                 </tr>
 
@@ -906,7 +919,7 @@
                                         <!-- Modele En tete-->
                                             <tr>
                                                 <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color:#355665;color: #fff;">Prix Hors Taxe (Sans option)</th>
-                                                <td class="Typo TexteBlanc Center align-middle text-center"  style="background-color:#fff; color:#355665; font-size:20px; font-weight:bold">79€/Mois</td>
+                                                <td class="Typo TexteBlanc Center align-middle text-center"  style="background-color:#fff; color:#355665; font-size:20px; font-weight:bold">79€/mois</td>
                                             </tr>
                                         <!-- -->
 
@@ -996,8 +1009,8 @@
                                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Redirection réseaux sociaux
                                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                                         title="
-                                                            <b>
-                                                                <p>Implémentation d'icon des réseaux sociaux permettant d'y être redirigé</p>
+                                                            <b><br>
+                                                                <p>Implémentation d'icon des réseaux sociaux permettant d'y être redirigé</p><br>
                                                             <b/>" 
                                                         class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                                 </th>
@@ -1008,12 +1021,12 @@
                                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Iframe réseaux sociaux
                                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                                         title="
-                                                            <b>
-                                                                <p>Permet d'afficher une partie du réseaux sociale sur votre site (Style FaceBook)</p>
+                                                            <b><br>
+                                                                <p>Permet d'afficher une partie du réseaux sociale sur votre site (Style FaceBook)</p><br>
                                                             <b/>" 
                                                         class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                                 </th>
-                                                <td class="Typo TexteGris Center align-middle text-right">2,50€/Mois</td>
+                                                <td class="Typo TexteGris Center align-middle text-right">2,50€/mois</td>
                                             </tr>
 
                                             <tr>
@@ -1027,49 +1040,61 @@
                                                             </>" 
                                                         class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                                 </th>
-                                                <td class="Typo TexteGris Center align-middle text-right">2,50€/Mois</td>
+                                                <td class="Typo TexteGris Center align-middle text-right">2,50€/mois</td>
                                             </tr>
 
                                             <tr>
                                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Moteur de recherche
                                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                                         title="
-                                                            <b>
-                                                                <p>Barre de recherche interne au site</p>
+                                                            <b><br>
+                                                                <p>Barre de recherche interne au site</p><br>
                                                             <b/>" 
                                                         class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                                 </th>
-                                                <td class="Typo TexteGris Center align-middle text-right">4,50€/Mois</td>
+                                                <td class="Typo TexteGris Center align-middle text-right">4,50€/mois</td>
                                             </tr>
 
                                             <tr>
                                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Espace Blog ou Actualité</th>
-                                                <td class="Typo TexteGris Center align-middle text-right">4,50€/Mois</td>
+                                                <td class="Typo TexteGris Center align-middle text-right">4,50€/mois</td>
                                             </tr>
 
                                             <tr>
                                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Click & Collect</th>
-                                                <td class="Typo TexteGris Center align-middle text-right">5€/Mois</td>
+                                                <td class="Typo TexteGris Center align-middle text-right">5€/mois</td>
                                             </tr>
 
                                             <tr>
                                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">ChatBot 
                                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                                         title="
-                                                            <b>
-                                                                <p>Messagerie instantané ou l'utilisateur peux poser des questions et recevoir une réponse pré-enregistrer</p>
+                                                            <b><br>
+                                                                <p>Messagerie instantané ou l'utilisateur peux poser des questions et recevoir une réponse pré-enregistrer</p><br>
                                                             <b/>" 
                                                         class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                                 </th>
-                                                <td class="Typo TexteGris Center align-middle text-right">6€/Mois</td>
+                                                <td class="Typo TexteGris Center align-middle text-right">6€/mois</td>
+                                            </tr>
+                                            
+                                            <tr>
+                                                <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Messagerie instantané
+                                                    <span data-toggle="tooltip" data-placement="right" data-html="true" 
+                                                    title="
+                                                        <b><br>
+                                                            <p>Permet de communiquer par écrit avec un client/utlisateur</p><br>
+                                                        <b/>" 
+                                                    class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
+                                                </th>
+                                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#fff;color: #355665;">6€/mois</td>
                                             </tr>
 
                                             <tr>
                                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Système de paiement standard (Stripe)
                                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                                         title="
-                                                            <b>
-                                                                <p>Mise en place du module Stripe pour effectuer des paiements par CB</p>
+                                                            <b><br>
+                                                                <p>Mise en place du module Stripe pour effectuer des paiements par CB</p><br>
                                                             <b/>" 
                                                         class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                                 </th>
@@ -1078,7 +1103,7 @@
 
                                             <tr>
                                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Système de paiement complémentaire Paypal</th>
-                                                <td class="Typo TexteGris Center align-middle text-right">4€/Mois</td>
+                                                <td class="Typo TexteGris Center align-middle text-right">4€/mois</td>
                                             </tr>
 
                                             <tr>
@@ -1090,8 +1115,8 @@
                                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Système de livraison personnalisé
                                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                                         title="
-                                                            <b>
-                                                                <p>Choix du prestataire de livraison lors du devis</p>
+                                                            <b><br>
+                                                                <p>Choix du prestataire de livraison lors du devis</p><br>
                                                             <b/>" 
                                                         class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                                 </th>
@@ -1102,8 +1127,8 @@
                                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Système de livraison Express
                                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                                         title="
-                                                            <b>
-                                                                <p>Gestion de l'envoie de colis en 24 heures (UPS,DHL...)</p>
+                                                            <b><br>
+                                                                <p>Gestion de l'envoie de colis en 24 heures (UPS,DHL...)</p><br>
                                                             <b/>" 
                                                         class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                                 </th>
@@ -1111,7 +1136,7 @@
                                             </tr>
 
                                             <tr>
-                                                <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Autre</th>
+                                                <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Autres</th>
                                                 <td class="Typo TexteGris Center align-middle text-right">Sur devis</td>
                                             </tr>
                                         <!-- -->
@@ -1125,7 +1150,7 @@
 
                                             <tr>
                                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Naturel (SEO) <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
-                                                <td class="Typo TexteGris Center align-middle text-right">9€/Mois</td>
+                                                <td class="Typo TexteGris Center align-middle text-right">9€/mois</td>
                                             </tr>
 
                                             <tr>
@@ -1226,7 +1251,7 @@
 
                                             <tr>
                                                 <th scope="col" class="Typo Titre1 pt-3 pb-3 align-middle" style="border-color : #efefef; background-color:#efefef"></th>
-                                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">60€/Mois ou 720€/An (Conseillé)</td>
+                                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">60€/mois ou 720€/an (conseillé)</td>
                                             </tr>
                                         <!-- -->
 
@@ -1288,8 +1313,8 @@
                                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Redirection réseaux sociaux
                                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                                         title="
-                                                            <b>
-                                                                <p>Implémentation d'icon des réseaux sociaux permettant d'y être redirigé</p>
+                                                            <b><br>
+                                                                <p>Implémentation d'icon des réseaux sociaux permettant d'y être redirigé</p><br>
                                                             <b/>" 
                                                         class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                                 </th>
@@ -1300,8 +1325,8 @@
                                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Iframe réseaux sociaux
                                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                                         title="
-                                                            <b>
-                                                                <p>Permet d'afficher une partie du réseaux sociale sur votre site (Style FaceBook)</p>
+                                                            <b><br>
+                                                                <p>Permet d'afficher une partie du réseaux sociale sur votre site (Style FaceBook)</p><br>
                                                             <b/>" 
                                                         class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                                 </th>
@@ -1326,8 +1351,8 @@
                                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Moteur de recherche
                                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                                         title="
-                                                            <b>
-                                                                <p>Barre de recherche interne au site</p>
+                                                            <b><br>
+                                                                <p>Barre de recherche interne au site</p><br>
                                                             <b/>" 
                                                         class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                                 </th>
@@ -1348,10 +1373,22 @@
                                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">ChatBot 
                                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                                         title="
-                                                            <b>
-                                                                <p>Messagerie instantané ou l'utilisateur peux poser des questions et recevoir une réponse pré-enregistrer</p>
+                                                            <b><br>
+                                                                <p>Messagerie instantané ou l'utilisateur peux poser des questions et recevoir une réponse pré-enregistrer</p><br>
                                                             <b/>" 
                                                         class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
+                                                </th>
+                                                <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">250€</td>
+                                            </tr>
+
+                                            <tr>
+                                                <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Messagerie instantané
+                                                    <span data-toggle="tooltip" data-placement="right" data-html="true" 
+                                                    title="
+                                                        <b><br>
+                                                            <p>Permet de communiquer par écrit avec un client/utlisateur</p><br>
+                                                        <b/>" 
+                                                    class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                                 </th>
                                                 <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">250€</td>
                                             </tr>
@@ -1360,8 +1397,8 @@
                                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Système de paiement standard (Stripe)
                                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                                         title="
-                                                            <b>
-                                                                <p>Mise en place du module Stripe pour effectuer des paiements par CB</p>
+                                                            <b><br>
+                                                                <p>Mise en place du module Stripe pour effectuer des paiements par CB</p><br>
                                                             <b/>" 
                                                         class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                                 </th>
@@ -1382,8 +1419,8 @@
                                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Système de livraison personnalisé
                                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                                         title="
-                                                            <b>
-                                                                <p>Choix du prestataire de livraison lors du devis</p>
+                                                            <b><br>
+                                                                <p>Choix du prestataire de livraison lors du devis</p><br>
                                                             <b/>" 
                                                         class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                                 </th>
@@ -1394,8 +1431,8 @@
                                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Système de livraison Express
                                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
                                                         title="
-                                                            <b>
-                                                                <p>Gestion de l'envoie de colis en 24 heures (UPS,DHL...)</p>
+                                                            <b><br>
+                                                                <p>Gestion de l'envoie de colis en 24 heures (UPS,DHL...)</p><br>
                                                             <b/>" 
                                                         class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
                                                 </th>
@@ -1403,7 +1440,7 @@
                                             </tr>
 
                                             <tr>
-                                                <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Autre</th>
+                                                <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Autres</th>
                                                 <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Sur devis</td>
                                             </tr>
                                         <!-- -->
