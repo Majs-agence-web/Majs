@@ -7,8 +7,9 @@ require 'vendor/autoload.php';
 
 $jsonData = file_get_contents("php://input");
 $data = json_decode($jsonData, true);
+$password = getenv('MAIL_PASS');
 
-function test($data){
+function test($data, $password){
     $mail = new PHPMailer(true);
 
     try {
@@ -27,7 +28,7 @@ function test($data){
         $mail->Host     = 'smtp.ionos.fr';
         $mail->SMTPAuth = true;
         $mail->Username = 'contact@majs.fr';
-        $mail->Password = 'Lemonstre,59avenuerogersalengro!';
+        $mail->Password = $password;
         $mail->SMTPSecure = 'ssl';
         $mail->Port     = 465;
 
@@ -65,4 +66,4 @@ function test($data){
      }
 }
 
-test($data); 
+test($data, $password); 
