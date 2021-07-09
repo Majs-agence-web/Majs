@@ -44,8 +44,8 @@
     </section>
 <!-- En tete -->
 
-<!-- Offre -->
-    <!-- PC -->
+<!-- Offre avec location-->
+    <!-- PC --
         <section class="pt-5 pb-5 d-lg-block d-none">
 
             <div class="row justify-content-center">
@@ -280,9 +280,9 @@
                 </section>
             </div>
         </section>
-    <!-- PC -->
+    <!-- PC --
 
-    <!-- Tablette /Mobile -->
+    <!-- Tablette /Mobile --
         <section class="d-md-block d-lg-none pt-5">
             <div class="container justify-content-center">
                 <h6 class="main-title pb-5 mbr-regular mbr-fonts-style display-1 text-center" style="color:#355665;font-size:40px;">Majs vous propose deux solution : la <span style="color:#ff8a73;">Location</span> ou l'<span style="color:#ff8a73;">Achat</span></h6>
@@ -514,42 +514,149 @@
                 </div>
             </section>
         </section>
-    <!-- Tablette /Mobile -->
-<!-- Offre -->
+    <!-- Tablette /Mobile --
+<!-- Offre avec location -->
 
 
-<style type="text/css">
+<!-- Offre sans location -->
+    <!-- PC -->
+        <section class="pt-5 pb-5 ">
+            <div class="text-center">
+                <h6 class="main-title pb-5 mbr-regular mbr-fonts-style display-1" style="color:#355665;font-size:40px;">Majs vous propose une solution simple et complète pour votre <span style="color:#ff8a73;">Site e-commerce</span></h6>
+            </div>
 
-    .cid-stYFinPMLL .table td{
-        border: 1px solid #dee2e6 !important;
-    }
+            <div class="row">
 
-    .cid-stYFinPMLL .table th{
-        border: 1px solid #dee2e6 !important;
-    }
+                <section  class="col-xl-7 col-lg-7 text-center my-auto pt-5"> 
+                    <img src="assets/images/test7.svg" style="width:90%">
+                </section>
 
-
-    .cid-stYFinPMLL .table .Blanc th {
-        border: 1px solid #dee2e6 !important;
-
-    }
-
-    th, tr, td{
-        font-family: oswald !important;
-    }
-
-</style>
+                <section class="extTabs tabs cid-stYFinPMLL col-xl-4 col-lg-3 p-0 pr-2">
+                    <div class="container d-flex flex-column">
+                        <div class="tab-content">
+                            <div id="tab1" class="tab-pane in active" role="tabpanel">
+                                <section class="extPricingTables" group="Additional Blocks">
+                                    <div class="container p-0">
+                                        <div class="media-container-row"> 
+                                            <div class="justify-content-center">
+                                                <div class="price-item text-center pb-0 mb-0" style="width: 400px;">
+                                                    <div class="test">
+                                                        <h4 class="title mbr-fonts-style mbr-light display-5">
+                                                            <strong>
+                                                                <p style="color:#ff8a73;">Achat</p>
+                                                            </strong>
+                                                        </h4>
+                                                    </div>
+                                                    <div class="price-tage">
+                                                        <p class="mbr-fonts-style costs-title display-4">A partir de</p>
+                                                        <h3 class="mbr-fonts-style costs mbr-light display-2">2000€ (HT)</h3>
+                                                        <p class="mbr-fonts-style costs-title display-4">Hors Options</p>
+                                                    </div>
+                                                    <ul class="table-content mbr-fonts-style display-7 pb-0 mb-0">
+                                                        <li>Site e-commerce clé en main <span data-toggle="tooltip" data-placement="right" data-html="true" 
+                                                        title="
+                                                            <b>
+                                                                <br>
+                                                                <h6>CMS</h6> 
+                                                                <p>L'utilisation d'un CMS permet une rapidité d’exécution, la possibilité de faire évoluer le site rapidement grâce à la bibliothèque de plugins</p>
+                                                                <br>
+                                                                <h6>Vidéo tutorielle :</h6> 
+                                                                <p>Une série de vidéo qui explique les fonctionnements de base de son futur site e-commerce</p>
+                                                                <br>
+                                                            </b>" 
+                                                        class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span></li>
+                                                        <li>Outils de gestion d'un boutique  <span data-toggle="tooltip" data-placement="right" data-html="true" 
+                                                        title="
+                                                            <b>
+                                                                <br>
+                                                                <h6>Paiement en ligne</h6> 
+                                                                <p>Mise en place du module Stripe pour effectuer des paiements par CB</p>
+                                                                <br>
+                                                                <h6>Systéme de livraison</h6>
+                                                                <p>installation du module Colissimo ou chronopost</p>
+                                                                <br>
+                                                                <h6>Gestion de stock/Gestion de commance</h6> 
+                                                                <p>Permet de suivre en temps réel votre stock et vos commandes</p>
+                                                                <br>
+                                                                <h6>Espace client</h6>
+                                                                <p>Permet au client de gérer lui-même ses informations personnelles</p>
+                                                                <br>
+                                                            </b>" 
+                                                        class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span></li>
+                                                        <li>Outils Google <span data-toggle="tooltip" data-placement="right" data-html="true" 
+                                                        title="
+                                                            <b>
+                                                                <br>
+                                                                <h6>Fiche Google My Business :</h6> 
+                                                                <p>Connexion avec un compte Google ce qui permet la visibilité de votre activité sur Google Maps mais aussi dans les recherches</p>
+                                                                <br>
+                                                                <h6>Google Analytics :</h6> 
+                                                                <p>Permet d’avoir des analyses sur la fréquentation de votre site internet</p>
+                                                                <br>
+                                                                <h6>Référencement Naturel (Search Engine Optimization) :</h6>
+                                                                <p>Tous nos sites sont configurés pour être optimisé pour le référencement naturel (visibilité moteur de recherche) d'un point de vue technique</p>
+                                                                <br>
+                                                            </b>" 
+                                                        class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span></li>
+                                                        <li>Hébergement <span data-toggle="tooltip" data-placement="right" data-html="true" 
+                                                        title="
+                                                            <b>
+                                                                <br>
+                                                                <h6>Hébergeur :</h6>
+                                                                <p>Utilisation d’un hébergeur français (o2 Switch ou LWS)</p>
+                                                                <br>
+                                                                <h6>E-Mail :</h6>
+                                                                <p>Adress E-mail professionel lié au nom de domaine</p>
+                                                                <br>
+                                                                <h6>Nom de domaine :</h6>
+                                                                <p>Choix de l'URL de votre site dans la limite des disponibilités de celui-ci</p>
+                                                                <br>
+                                                                <br>
+                                                            </>" 
+                                                        class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span><br> (Offert pendant 1 an)
+                                                        </li>
+                                                        <li>Maintenance <span data-toggle="tooltip" data-placement="right" data-html="true" 
+                                                        title="
+                                                            <b>
+                                                                <br>
+                                                                <h6>Maintenance corrective : </h6>
+                                                                <p>Résolution de bugs mineure qui gênent au bon fonctionnement du site internet (ex: problème d'affichage)</p>
+                                                                <br>
+                                                                <h6> Maintenance préventive : </h6>
+                                                                <p>Ce service permet que votre site soit mis à jour pour éviter les failles de sécurité et les lenteurs qui peuvent apparaitrent</p>
+                                                                <br>
+                                                                <h6> Sauvegarde : </h6>
+                                                                <p>La fréquence de sauvegarde est d'une sauvegarde par semaine pour éviter la perte de donnée (ex: crash du serveur de l'hébergeur)</p>
+                                                                <br>
+                                                            </>" 
+                                                        class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span><br> (Offert pendant 1 mois)
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            
+            </div>
+        </section>
+    <!-- PC -->
+<!-- Offre sans location -->
 
 <!-- Transition texte -->
     <section class="pt-5">  
         <div class="container text-center">
-            <h6 class="main-title mbr-regular mbr-fonts-style display-1" style="color:#355665;font-size:30px;"> Retrouvez ci-dessous l'ensemble des fonctionnalités de votre<span style="color:#ff8a73;"> Site E-Commerce</span></span></h6>
+            <h6 class="main-title mbr-regular mbr-fonts-style display-1 pb-5" style="color:#355665;font-size:30px;"> Retrouvez ci-dessous l'ensemble des fonctionnalités de votre<span style="color:#ff8a73;"> Site E-Commerce</span></span></h6>
         </div>
     </section>
 <!-- Transition texte -->
 
-<!-- Fonctionnalité -->
-    <!-- Format PC -->
+<!-- Fonctionnalité avec location -->
+    <!-- Format PC 
         <section class="d-none d-lg-block pt-3">
             <div class="container">
                 <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
@@ -562,7 +669,7 @@
                         </thead>
 
                         <tbody>
-                            <!-- Modele En tete-->
+                            <!-- Modele En tete
                                 <tr>
                                     <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color:#355665;color: #fff;">Prix Hors Taxe (Sans option)</th>
                                     <td class="Typo TexteBlanc Center align-middle text-center"  style="background-color:#fff; color:#355665; font-size:20px; font-weight:bold">79€/mois</td>
@@ -570,7 +677,7 @@
                                 </tr>
                             <!-- -->
 
-                            <!-- Modele Maintenance -->
+                            <!-- Modele Maintenance 
                                 <tr>
                                     <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Maintenance
                                         <span data-toggle="tooltip" data-placement="right" data-html="true" 
@@ -621,7 +728,7 @@
                                 </tr>
                             -->
 
-                            <!-- Modele Nombre d'article'-->
+                            <!-- Modele Nombre d'article'
                                 <tr>
                                     <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Ajout des premiers produits
                                         <span data-toggle="tooltip" data-placement="right" data-html="true" 
@@ -650,7 +757,7 @@
                                 </tr>
                             <!-- -->
 
-                            <!-- Modele fonctionnalités-->
+                            <!-- Modele fonctionnalités
                                 <tr>
                                     <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Fonctionnalités</th>
                                     <td class="Typo TexteBlanc Center align-middle text-right"  style="background-color:#ecc979; border-right:1px solid #ecc979 !important;"></td>
@@ -875,7 +982,7 @@
                                 </tr>
                             -->
 
-                            <!-- Modele Devis-->
+                            <!-- Modele Devis
                                 <tr style="border-top:none !important; border-left:none !important;">
                                     <th scope="col" class="Typo Titre1 pt-3 pb-3 align-middle" style="border-color : #efefef; background-color:#efefef"></th>
                                     <td scope="col" class="Typo Titre1 Center align-middle text-center" style="background-color:#fff; color:#355665; font-size:20px; font-weight:bold;">
@@ -889,14 +996,14 @@
                                         </div> 
                                     </td>
                                 </tr>
-                            <!-- -->
+                            <!-- 
                         </tbody>
                 </table>
             </div>
         </section>
     <!-- Format PC -->
 
-    <!-- Format Tablette/Mobile -->
+    <!-- Format Tablette/Mobile 
         <section class="extTabs tabs cid-stYFinPMLL d-md-block d-lg-none pt-1" id="extTabs11-1j">
             <div class="container d-flex flex-column pb-5">
                 <ul class="nav nav-tabs mb-5 justify-content-center mx-auto d-flex" role="tablist">
@@ -911,19 +1018,19 @@
                 </ul>
 
                 <div class="tab-content">
-                     <!-- Location -->
+                     <!-- Location 
                         <div id="tab1" class="tab-pane in active" role="tabpanel">
                             <div class="container">
                                 <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
                                     <tbody>
-                                        <!-- Modele En tete-->
+                                        <!-- Modele En tete
                                             <tr>
                                                 <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color:#355665;color: #fff;">Prix Hors Taxe (Sans option)</th>
                                                 <td class="Typo TexteBlanc Center align-middle text-center"  style="background-color:#fff; color:#355665; font-size:20px; font-weight:bold">79€/mois</td>
                                             </tr>
-                                        <!-- -->
+                                        <!-- 
 
-                                        <!-- Modele Maintenance -->
+                                        <!-- Modele Maintenance 
                                             <tr>
                                                 <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Maintenance
                                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
@@ -968,7 +1075,7 @@
                                             </tr>
                                         -->
 
-                                        <!-- Modele Nombre d'article'-->
+                                        <!-- Modele Nombre d'article'
                                             <tr>
                                                 <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Ajout des premiers produits
                                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
@@ -994,7 +1101,7 @@
                                             </tr>
                                         <!-- -->
 
-                                        <!-- Modele fonctionnalités-->
+                                        <!-- Modele fonctionnalités
                                             <tr>
                                                 <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Fonctionnalités</th>
                                                 <td class="Typo TexteBlanc Center align-middle text-right"  style="background-color:#ecc979; border-right:1px solid #ecc979 !important;"></td>
@@ -1191,7 +1298,7 @@
                                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Heure de formation <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
                                                 <td class="Typo TexteGris Center align-middle text-right">2 heures inclus</td>
                                             </tr>
-                                        -->
+                                        
                                     </tbody>
                                 </table>
 
@@ -1213,21 +1320,21 @@
                                 </div>
                             </div>
                         </div>
-                    <!-- Location -->
+                    <!-- Location 
 
-                    <!-- achat -->
+                    <!-- achat 
                         <div id="tab2" class="tab-pane" role="tabpanel">    
                             <div class="container">
                                 <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
                                     <tbody>
-                                        <!-- Modele En tete-->
+                                        <!-- Modele En tete
                                             <tr>
                                                 <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color:#355665;color: #fff;">Prix Hors Taxe (Sans option)</th>                                           
                                                 <td class="Typo TexteBlanc Center align-middle text-center"  style="background-color:#355665; color: #fff; font-size:20px; font-weight:bold"">2000€</td>
                                             </tr>
-                                        <!-- -->
+                                        <!-- --
 
-                                        <!-- Modele Maintenance -->
+                                        <!-- Modele Maintenance --
                                             <tr>
                                                 <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Maintenance
                                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
@@ -1270,9 +1377,9 @@
                                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Thème graphique <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span></th>
                                                 <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Sur devis</td>
                                             </tr>
-                                        -->
+                                        --
 
-                                        <!-- Modele Nombre d'article'-->
+                                        <!-- Modele Nombre d'article'--
                                             <tr>
                                                 <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Ajout des premiers produits
                                                     <span data-toggle="tooltip" data-placement="right" data-html="true" 
@@ -1298,7 +1405,7 @@
                                             </tr>
                                         <!-- -->
 
-                                        <!-- Modele fonctionnalités-->
+                                        <!-- Modele fonctionnalités--
                                             <tr>
                                                 <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Fonctionnalités</th>
                                                 <td class="Typo TexteBlanc Center align-middle text-right"  style="background-color:#ecc979; border-right:1px solid #ecc979 !important;"></td>
@@ -1443,7 +1550,7 @@
                                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Autres</th>
                                                 <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Sur devis</td>
                                             </tr>
-                                        <!-- -->
+                                        <!-- --
 
                                         <!-- Modele Référencements
                                             <tr>
@@ -1460,7 +1567,7 @@
                                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Payant (SEA) <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
                                                 <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Sur devis</td>
                                             </tr>
-                                        -->
+                                        --
 
                                         <!-- Modele Hébergement
                                             <tr>
@@ -1477,7 +1584,7 @@
                                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Mutualisé <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
                                                 <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">1 an offert puis €/An</td>
                                             </tr>
-                                        -->
+                                        --
 
                                         <!-- Modele Formation
                                             <tr>
@@ -1494,7 +1601,7 @@
                                                 <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Heure de formation <span class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665;"></span></th>
                                                 <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">50€/heure</td>
                                             </tr>
-                                        -->
+                                        --
                                     </tbody>
                                 </table>
 
@@ -1517,12 +1624,266 @@
 
                             </div>
                         </div>
-                    <!-- achat -->
+                    <!-- achat --
                 </div>
             </div>
         </section>
     <!-- Format Tablette/Mobile -->
-<!-- Fonctionnalité -->
+<!-- Fonctionnalité avec location -->
+
+<!-- Fonctionnalité sans location -->
+    <!-- Format PC -->
+        <section class=" pt-3">
+            <div class="container">
+                <table class="table table-bordered mb-0 pb-0" style="background-color:#fff;">
+
+                    <style type="text/css">
+
+                        .cid-stYFinPMLL .table td{
+                            border: 1px solid #dee2e6 !important;
+                        }
+
+                        .cid-stYFinPMLL .table th{
+                            border: 1px solid #dee2e6 !important;
+                        }
+
+
+                        .cid-stYFinPMLL .table .Blanc th {
+                            border: 1px solid #dee2e6 !important;
+
+                        }
+
+                        th, tr, td{
+                            font-family: oswald !important;
+                        }
+
+                    </style>
+
+                        <tbody>
+                            <!-- Modele En tete-->
+                                <tr>
+                                    <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color:#355665;color: #fff;">Prix Hors Taxe (Sans option)</th>
+                                    <td class="Typo TexteBlanc Center align-middle text-center"  style="background-color:#355665; color: #fff; font-size:20px; font-weight:bold"">2000€</td>
+                                </tr>
+                            <!-- -->
+
+                            <!-- Modele Maintenance -->
+                                <tr>
+                                    <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Maintenance
+                                        <span data-toggle="tooltip" data-placement="right" data-html="true" 
+                                        title="
+                                            <b>
+                                                <br>
+                                                <h6>Maintenance corrective : </h6>
+                                                <p>Résolution de bugs mineure qui gênent au bon fonctionnement du site internet (ex: problème d'affichage)</p>
+                                                <br>
+                                                <h6> Maintenance préventive : </h6>
+                                                <p>Ce service permet que votre site soit mis à jour pour éviter les failles de sécurité et les lenteurs qui peuvent apparaitrent</p>
+                                                <br>
+                                                <h6> Sauvegarde : </h6>
+                                                <p>La fréquence de sauvegarde est d'une sauvegarde par semaine pour éviter la perte de donnée (ex: crash du serveur de l'hébergeur)</p>
+                                                <br>
+                                            </>" 
+                                        class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #fff !important;"></span>
+                                    </th>
+                                    <td class="Typo TexteBlanc Center align-middle"  style="background-color:#ecc979;"></td>
+                                </tr>
+
+                                <tr>
+                                    <th scope="col" class="Typo Titre1 pt-3 pb-3 align-middle" style="border-color : #efefef; background-color:#efefef"></th>
+                                    <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">60€/mois ou 720€/an (conseillé)</td>
+                                </tr>
+                            <!-- -->
+
+                            <!-- Modele Nombre d'article'-->
+                                <tr>
+                                    <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Ajout des premiers produits
+                                        <span data-toggle="tooltip" data-placement="right" data-html="true" 
+                                            title="
+                                                <b>
+                                                    <br>
+                                                    <p>MAJS vous propose d'ajouter vos premiers produits à votre boutique en ligne pour faciliter sa mise en place</p>
+                                                    <br>
+                                                </>" 
+                                            class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #fff !important;"></span>
+                                    </th>
+                                    <td class="Typo TexteBlanc Center align-middle text-right"  style="background-color:#ecc979; border-right:1px solid #ecc979 !important;"></td>
+                                </tr>
+
+                                <tr>
+                                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">De 21 à 50 produits <br>(Les 20 premiers produits Offert)</th>
+                                    <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">2€/Produit</td>
+                                </tr>
+
+                                <tr>
+                                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Plus de 50 produits</th>
+                                    <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">1€/Produit</td>
+                                </tr>
+                            <!-- -->
+
+                            <!-- Modele fonctionnalités-->
+                                <tr>
+                                    <th scope="row" class="Typo TitreBlanc pt-3 pb-3 align-middle" data-toggle="tooltip" data-placement="top" title="" style="background-color: #ecc979; color:#fff; border-right:1px solid #ecc979 !important; font-size:18px;">Fonctionnalités</th>
+                                    <td class="Typo TexteBlanc Center align-middle text-right"  style="background-color:#ecc979; border-right:1px solid #ecc979 !important;"></td>
+                                </tr>
+
+                                <tr>
+                                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Formulaire de contact</th>
+                                    <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Inclus</td>
+                                </tr>
+
+                                <tr>
+                                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Redirection réseaux sociaux
+                                        <span data-toggle="tooltip" data-placement="right" data-html="true" 
+                                            title="
+                                                <b><br>
+                                                    <p>Implémentation d'icon des réseaux sociaux permettant d'y être redirigé</p><br>
+                                                <b/>" 
+                                            class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
+                                    </th>
+                                    <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Offert</td>
+                                </tr>
+
+                                <tr>
+                                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Iframe réseaux sociaux
+                                        <span data-toggle="tooltip" data-placement="right" data-html="true" 
+                                            title="
+                                                <b><br>
+                                                    <p>Permet d'afficher une partie du réseaux sociale sur votre site (Style FaceBook)</p><br>
+                                                <b/>" 
+                                            class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
+                                    </th>
+                                    <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">70€</td>
+                                </tr>
+
+                                <tr>
+                                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Newsletter 
+                                        <span data-toggle="tooltip" data-placement="right" data-html="true" 
+                                            title="
+                                                <b>
+                                                    <br>
+                                                    <p>Permet de créer des campagnes emailing promotionnel et/ou de programmer un envoie de mail à une date donné</p>
+                                                    <br>
+                                                </>" 
+                                            class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
+                                    </th>
+                                    <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">70€</td>
+                                </tr>
+
+                                <tr>
+                                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Moteur de recherche
+                                        <span data-toggle="tooltip" data-placement="right" data-html="true" 
+                                            title="
+                                                <b><br>
+                                                    <p>Barre de recherche interne au site</p><br>
+                                                <b/>" 
+                                            class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
+                                    </th>
+                                    <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">180€</td>
+                                </tr>
+
+                                <tr>
+                                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Espace Blog ou Actualité</th>
+                                    <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">180€</td>
+                                </tr>
+
+                                <tr>
+                                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Click & Collect</th>
+                                    <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">200€</td>
+                                </tr>
+
+                                <tr>
+                                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">ChatBot 
+                                        <span data-toggle="tooltip" data-placement="right" data-html="true" 
+                                            title="
+                                                <b><br>
+                                                    <p>Messagerie instantané ou l'utilisateur peux poser des questions et recevoir une réponse pré-enregistrer</p><br>
+                                                <b/>" 
+                                            class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
+                                    </th>
+                                    <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">250€</td>
+                                </tr>
+
+                                <tr>
+                                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Messagerie instantané
+                                        <span data-toggle="tooltip" data-placement="right" data-html="true" 
+                                        title="
+                                            <b><br>
+                                                <p>Permet de communiquer par écrit avec un client/utlisateur</p><br>
+                                            <b/>" 
+                                        class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
+                                    </th>
+                                    <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">250€</td>
+                                </tr>
+
+                                <tr>
+                                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Système de paiement standard (Stripe)
+                                        <span data-toggle="tooltip" data-placement="right" data-html="true" 
+                                            title="
+                                                <b><br>
+                                                    <p>Mise en place du module Stripe pour effectuer des paiements par CB</p><br>
+                                                <b/>" 
+                                            class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
+                                    </th>
+                                    <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Inclus</td>
+                                </tr>
+
+                                <tr>
+                                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Système de paiement complémentaire Paypal</th>
+                                    <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">100€</td>
+                                </tr>
+
+                                <tr>
+                                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Système de livraison Standard (Colissimo)</th>
+                                    <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Inclus</td>
+                                </tr>
+
+                                <tr>
+                                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Système de livraison personnalisé
+                                        <span data-toggle="tooltip" data-placement="right" data-html="true" 
+                                            title="
+                                                <b><br>
+                                                    <p>Choix du prestataire de livraison lors du devis</p><br>
+                                                <b/>" 
+                                            class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
+                                    </th>
+                                    <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Sur devis</td>
+                                </tr>
+
+                                <tr>
+                                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Système de livraison Express
+                                        <span data-toggle="tooltip" data-placement="right" data-html="true" 
+                                            title="
+                                                <b><br>
+                                                    <p>Gestion de l'envoie de colis en 24 heures (UPS,DHL...)</p><br>
+                                                <b/>" 
+                                            class="icon54-v4-information mbr-iconfont pl-2" style="font-size: 19px; color: #355665 !important;"></span>
+                                    </th>
+                                    <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Sur devis</td>
+                                </tr>
+
+                                <tr>
+                                    <th scope="row" class="Typo TitreGris pt-3 pb-3 align-middle">Autres</th>
+                                    <td class="Typo TexteGris Center align-middle text-right" style="background-color:#355665;color: #fff;">Sur devis</td>
+                                </tr>
+                            <!-- -->
+
+                            <!-- Modele Devis-->
+                                <tr style="border-top:none !important; border-left:none !important;">
+                                    <th scope="col" class="Typo Titre1 pt-3 pb-3 align-middle" style="border-color : #efefef; background-color:#efefef"></th>
+                                    <td scope="col" class="Typo Titre1 Center align-middle text-center" style="background-color:#355665; color:#fff; font-size:20px; font-weight:bold;">
+                                        <div class="boutonDevis mx-auto navbar-buttons px-2">
+                                            <a class="btn btn-sm btn-danger display-4" href="devis-site-e-commerce-achat.php">Devis gratuit</a>
+                                        </div> 
+                                    </td>
+                                </tr>
+                            <!-- -->
+                        </tbody>
+                </table>
+            </div>
+        </section>
+    <!-- Format PC -->
+<!-- Fonctionnalité sans location -->
 
 <!-- Transition -->
     <section class="clients cid-smylQostR0" id="clients01-4b">
@@ -1580,6 +1941,7 @@
             </div>
         </section>
     <!-- Paragraphe 2 -->
+<!-- Description Site E-Commerce -->
 
 <!-- Transition -->
     <section class="clients cid-slrFmM1Glh" id="clients01-r">
